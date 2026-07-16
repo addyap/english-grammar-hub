@@ -1,8 +1,9 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import { BookOpen, AlertTriangle } from "lucide-react";
+import { BookOpen } from "lucide-react";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { ScrollArea } from "@/components/ui/scroll-area";
+import ExplanationParagraphs from "@/components/ExplanationParagraphs";
 import { LANGUAGES, type LanguageCode } from "@/data/types";
 import type { GrammarTopicContent } from "@/data/types";
 
@@ -55,21 +56,7 @@ const FloatingGrammarReference = ({ topic }: FloatingGrammarReferenceProps) => {
         <ScrollArea className="max-h-[55vh]">
           <div className="p-5" dir={meta.rtl ? "rtl" : "ltr"}>
             <h3 className="font-display text-base font-bold mb-3">{topic.title}</h3>
-            {paragraphs.map((p, i) =>
-              topic.paragraphKinds[i] === "mistake" ? (
-                <div
-                  key={i}
-                  className="flex items-start gap-2 rounded-md border border-destructive/30 bg-destructive/5 px-2.5 py-2 mb-3 last:mb-0"
-                >
-                  <AlertTriangle className="w-3.5 h-3.5 text-destructive shrink-0 mt-0.5" />
-                  <p className="text-sm text-foreground/90 leading-relaxed">{p}</p>
-                </div>
-              ) : (
-                <p key={i} className="text-sm text-foreground/90 leading-relaxed mb-3 last:mb-0">
-                  {p}
-                </p>
-              )
-            )}
+            <ExplanationParagraphs paragraphs={paragraphs} kinds={topic.paragraphKinds} size="sm" />
             <Link to={`/grammar/${topic.slug}`} className="inline-block mt-4 text-sm font-semibold text-primary hover:text-secondary transition-colors">
               View full lesson →
             </Link>

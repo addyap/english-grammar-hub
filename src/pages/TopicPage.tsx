@@ -1,9 +1,9 @@
 import { useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { AlertTriangle } from "lucide-react";
 import { getTopic } from "@/data/topics";
 import { sections } from "@/data/sections";
 import { Badge } from "@/components/ui/badge";
+import ExplanationParagraphs from "@/components/ExplanationParagraphs";
 import { LANGUAGES, type LanguageCode } from "@/data/types";
 
 const TopicPage = () => {
@@ -55,21 +55,7 @@ const TopicPage = () => {
       </div>
 
       <div className="p-5 rounded-lg border border-border bg-card mb-8" dir={meta.rtl ? "rtl" : "ltr"}>
-        {paragraphs.map((p, i) =>
-          topic.paragraphKinds[i] === "mistake" ? (
-            <div
-              key={i}
-              className="flex items-start gap-2 rounded-md border border-destructive/30 bg-destructive/5 px-3 py-2.5 mb-3 last:mb-0"
-            >
-              <AlertTriangle className="w-4 h-4 text-destructive shrink-0 mt-0.5" />
-              <p className="text-foreground/90 leading-relaxed">{p}</p>
-            </div>
-          ) : (
-            <p key={i} className="text-foreground/90 leading-relaxed mb-3 last:mb-0">
-              {p}
-            </p>
-          )
-        )}
+        <ExplanationParagraphs paragraphs={paragraphs} kinds={topic.paragraphKinds} />
       </div>
 
       <div className="flex gap-3">

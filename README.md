@@ -71,8 +71,19 @@ Keep individual paragraphs short and single-idea — if a paragraph needs
 "and" to bolt on a second unrelated point, split it. A wall of an 8+ line
 paragraph is a readability regression even if every fact in it is correct.
 
-See `topics/presentSimple.ts` (single-structure shape) and
-`topics/prepositionsOfTime.ts` (multi-rule shape) for worked examples.
+Each paragraph is either a plain string (prose) or `{ intro, items }`
+(rendered as a lead-in line plus a bulleted list). Use the list shape for
+a **form** paragraph that's genuinely a set of parallel enumerated rules
+(spelling patterns like -s/-ing/-ed, grouped fixed expressions) — bullets
+make those scannable in a way semicolon-chained prose never is. Don't use
+the list shape for **mistake** paragraphs: those are a causal argument
+("this happens because X, so Y is easy to forget"), and chopping that into
+bullets breaks the logic. A single **use** sentence never needs to be a
+list either.
+
+See `topics/presentSimple.ts` (single-structure shape, includes a bulleted
+spelling-rule paragraph) and `topics/prepositionsOfTime.ts` (multi-rule
+shape) for worked examples.
 
 ## Adding a language
 

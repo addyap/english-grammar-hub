@@ -8,7 +8,15 @@ export const presentSimple: GrammarTopicContent = {
   explanations: {
     en: [
       "Use the present simple for habits, routines, and facts that are generally true. Form: I/you/we/they + base verb; he/she/it + verb-s.",
-      "Spelling of the -s form: most verbs just add -s (play → plays); verbs ending in -ch, -sh, -ss, -x or -o add -es (watch → watches, go → goes, do → does); a consonant + y changes to -ies (study → studies), but a vowel + y stays the same (play → plays, not playies); the one true irregular is have → has, not haves.",
+      {
+        intro: "Spelling of the -s form:",
+        items: [
+          "most verbs just add -s (play → plays)",
+          "verbs ending in -ch, -sh, -ss, -x or -o add -es (watch → watches, go → goes, do → does)",
+          "a consonant + y changes to -ies (study → studies), but a vowel + y stays the same (play → plays, not playies)",
+          "the one true irregular is have → has, not haves",
+        ],
+      },
       "Negatives use don't/doesn't + base verb, and questions use Do/Does + subject + base verb.",
       "The most common mistake is forgetting -s with he/she/it — he live in Paris is wrong, it must be he lives in Paris. This slips even for speakers whose own language conjugates verbs fully for every person, because English does the opposite: it leaves I/you/we/they completely unmarked and only marks the 3rd person singular, so that one -s is easy to forget precisely because it's the exception, not the rule.",
       "Do and does are also easy to misuse: they carry no meaning of their own and only appear in negatives and questions, so the main verb stays in its base form after them — she doesn't play tennis, not she doesn't plays.",
@@ -16,7 +24,15 @@ export const presentSimple: GrammarTopicContent = {
     ],
     fr: [
       "Le présent simple sert à exprimer les habitudes, les routines et les faits généralement vrais. Formation : I/you/we/they + verbe de base ; he/she/it + verbe + s.",
-      "Orthographe de la forme en -s : la plupart des verbes ajoutent simplement -s (play → plays) ; les verbes terminés en -ch, -sh, -ss, -x ou -o ajoutent -es (watch → watches, go → goes, do → does) ; une consonne + y devient -ies (study → studies), mais une voyelle + y ne change pas (play → plays, et non playies) ; le seul verbe vraiment irrégulier est have → has, et non haves.",
+      {
+        intro: "Orthographe de la forme en -s :",
+        items: [
+          "la plupart des verbes ajoutent simplement -s (play → plays)",
+          "les verbes terminés en -ch, -sh, -ss, -x ou -o ajoutent -es (watch → watches, go → goes, do → does)",
+          "une consonne + y devient -ies (study → studies), mais une voyelle + y ne change pas (play → plays, et non playies)",
+          "le seul verbe vraiment irrégulier est have → has, et non haves",
+        ],
+      },
       "À la forme négative, on utilise don't/doesn't + verbe de base ; à la forme interrogative, Do/Does + sujet + verbe de base.",
       "L'erreur la plus fréquente consiste à oublier le -s avec he/she/it : he live in Paris est incorrect, il faut dire he lives in Paris. Cette erreur touche même les locuteurs dont la langue conjugue pleinement les verbes à chaque personne, car l'anglais fait l'inverse : il ne marque pas du tout I/you/we/they et ne marque que la 3e personne du singulier, si bien que ce seul -s est facile à oublier, précisément parce que c'est l'exception et non la règle.",
       "Do et does sont aussi source d'erreurs : ils n'ont pas de sens propre et n'apparaissent que dans les négations et les questions, donc le verbe principal reste à sa forme de base après eux — she doesn't play tennis, et non she doesn't plays.",
@@ -24,7 +40,15 @@ export const presentSimple: GrammarTopicContent = {
     ],
     es: [
       "El presente simple se usa para hábitos, rutinas y hechos generalmente ciertos. Forma: I/you/we/they + verbo base; he/she/it + verbo + s.",
-      "Ortografía de la forma en -s: la mayoría de los verbos simplemente añaden -s (play → plays); los verbos terminados en -ch, -sh, -ss, -x u -o añaden -es (watch → watches, go → goes, do → does); una consonante + y cambia a -ies (study → studies), pero una vocal + y no cambia (play → plays, no playies); el único verbo realmente irregular es have → has, no haves.",
+      {
+        intro: "Ortografía de la forma en -s:",
+        items: [
+          "la mayoría de los verbos simplemente añaden -s (play → plays)",
+          "los verbos terminados en -ch, -sh, -ss, -x u -o añaden -es (watch → watches, go → goes, do → does)",
+          "una consonante + y cambia a -ies (study → studies), pero una vocal + y no cambia (play → plays, no playies)",
+          "el único verbo realmente irregular es have → has, no haves",
+        ],
+      },
       "En negativo se usa don't/doesn't + verbo base; en preguntas, Do/Does + sujeto + verbo base.",
       "El error más común es olvidar la -s con he/she/it: he live in Paris es incorrecto, debe ser he lives in Paris. Este error afecta incluso a hablantes cuyo idioma conjuga plenamente los verbos en cada persona, porque el inglés hace lo contrario: no marca en absoluto I/you/we/they y solo marca la tercera persona del singular, así que esa única -s es fácil de olvidar precisamente porque es la excepción, no la regla.",
       "Do y does también son fuente de errores: no tienen significado propio y solo aparecen en negaciones y preguntas, así que el verbo principal se queda en su forma base después de ellos: she doesn't play tennis, no she doesn't plays.",
@@ -32,7 +56,15 @@ export const presentSimple: GrammarTopicContent = {
     ],
     pt: [
       "O presente simples é usado para hábitos, rotinas e fatos geralmente verdadeiros. Forma: I/you/we/they + verbo base; he/she/it + verbo + s.",
-      "Ortografia da forma em -s: a maioria dos verbos apenas acrescenta -s (play → plays); verbos terminados em -ch, -sh, -ss, -x ou -o acrescentam -es (watch → watches, go → goes, do → does); uma consoante + y muda para -ies (study → studies), mas uma vogal + y não muda (play → plays, e não playies); o único verbo realmente irregular é have → has, e não haves.",
+      {
+        intro: "Ortografia da forma em -s:",
+        items: [
+          "a maioria dos verbos apenas acrescenta -s (play → plays)",
+          "verbos terminados em -ch, -sh, -ss, -x ou -o acrescentam -es (watch → watches, go → goes, do → does)",
+          "uma consoante + y muda para -ies (study → studies), mas uma vogal + y não muda (play → plays, e não playies)",
+          "o único verbo realmente irregular é have → has, e não haves",
+        ],
+      },
       "Na negativa usa-se don't/doesn't + verbo base; nas perguntas, Do/Does + sujeito + verbo base.",
       "O erro mais comum é esquecer o -s com he/she/it: he live in Paris está errado, o correto é he lives in Paris. Este erro afeta até falantes cuja língua conjuga plenamente os verbos em cada pessoa, porque o inglês faz o oposto: não marca I/you/we/they de forma alguma e só marca a terceira pessoa do singular, por isso esse único -s é fácil de esquecer justamente por ser a exceção, não a regra.",
       "Do e does também são fonte de erros: não têm significado próprio e só aparecem em negações e perguntas, por isso o verbo principal permanece na forma base depois deles: she doesn't play tennis, e não she doesn't plays.",
@@ -40,7 +72,15 @@ export const presentSimple: GrammarTopicContent = {
     ],
     it: [
       "Il presente semplice si usa per abitudini, routine e fatti generalmente veri. Forma: I/you/we/they + verbo base; he/she/it + verbo + s.",
-      "Ortografia della forma in -s: la maggior parte dei verbi aggiunge semplicemente -s (play → plays); i verbi che terminano in -ch, -sh, -ss, -x o -o aggiungono -es (watch → watches, go → goes, do → does); una consonante + y diventa -ies (study → studies), ma una vocale + y resta invariata (play → plays, non playies); l'unico verbo davvero irregolare è have → has, non haves.",
+      {
+        intro: "Ortografia della forma in -s:",
+        items: [
+          "la maggior parte dei verbi aggiunge semplicemente -s (play → plays)",
+          "i verbi che terminano in -ch, -sh, -ss, -x o -o aggiungono -es (watch → watches, go → goes, do → does)",
+          "una consonante + y diventa -ies (study → studies), ma una vocale + y resta invariata (play → plays, non playies)",
+          "l'unico verbo davvero irregolare è have → has, non haves",
+        ],
+      },
       "Alla forma negativa si usa don't/doesn't + verbo base; nelle domande, Do/Does + soggetto + verbo base.",
       "L'errore più comune è dimenticare la -s con he/she/it: he live in Paris è sbagliato, deve essere he lives in Paris. Questo errore colpisce anche chi parla lingue che coniugano pienamente i verbi per ogni persona, perché l'inglese fa il contrario: non marca affatto I/you/we/they e marca solo la terza persona singolare, quindi quella singola -s è facile da dimenticare proprio perché è l'eccezione, non la regola.",
       "Anche do e does sono fonte di errori: non hanno un significato proprio e compaiono solo nelle negazioni e nelle domande, quindi il verbo principale resta alla forma base dopo di loro: she doesn't play tennis, non she doesn't plays.",
@@ -48,7 +88,15 @@ export const presentSimple: GrammarTopicContent = {
     ],
     de: [
       "Das Present Simple wird für Gewohnheiten, Routinen und allgemein gültige Fakten verwendet. Form: I/you/we/they + Grundform; he/she/it + Verb + s.",
-      "Schreibweise der -s-Form: die meisten Verben fügen einfach -s hinzu (play → plays); Verben, die auf -ch, -sh, -ss, -x oder -o enden, erhalten -es (watch → watches, go → goes, do → does); Konsonant + y wird zu -ies (study → studies), aber Vokal + y bleibt gleich (play → plays, nicht playies); das einzige wirklich unregelmäßige Verb ist have → has, nicht haves.",
+      {
+        intro: "Schreibweise der -s-Form:",
+        items: [
+          "die meisten Verben fügen einfach -s hinzu (play → plays)",
+          "Verben, die auf -ch, -sh, -ss, -x oder -o enden, erhalten -es (watch → watches, go → goes, do → does)",
+          "Konsonant + y wird zu -ies (study → studies), aber Vokal + y bleibt gleich (play → plays, nicht playies)",
+          "das einzige wirklich unregelmäßige Verb ist have → has, nicht haves",
+        ],
+      },
       "Verneinung mit don't/doesn't + Grundform; Fragen mit Do/Does + Subjekt + Grundform.",
       "Der häufigste Fehler ist, das -s bei he/she/it zu vergessen: he live in Paris ist falsch, richtig ist he lives in Paris. Dieser Fehler passiert sogar Sprechern, deren Sprache Verben für jede Person vollständig konjugiert, denn Englisch macht das Gegenteil: es markiert I/you/we/they überhaupt nicht und markiert nur die 3. Person Singular, sodass genau dieses eine -s leicht vergessen wird — gerade weil es die Ausnahme ist, nicht die Regel.",
       "Auch do und does werden oft falsch benutzt: sie haben keine eigene Bedeutung und stehen nur in Verneinungen und Fragen, daher bleibt das Hauptverb danach in der Grundform: she doesn't play tennis, nicht she doesn't plays.",
@@ -56,7 +104,15 @@ export const presentSimple: GrammarTopicContent = {
     ],
     ru: [
       "Present Simple используется для привычек, распорядка дня и фактов, которые обычно верны. Форма: I/you/we/they + глагол в базовой форме; he/she/it + глагол + s.",
-      "Написание формы на -s: большинство глаголов просто добавляют -s (play → plays); глаголы, оканчивающиеся на -ch, -sh, -ss, -x или -o, добавляют -es (watch → watches, go → goes, do → does); согласная + y меняется на -ies (study → studies), а гласная + y не меняется (play → plays, а не playies); единственный по-настоящему неправильный глагол — have → has, а не haves.",
+      {
+        intro: "Написание формы на -s:",
+        items: [
+          "большинство глаголов просто добавляют -s (play → plays)",
+          "глаголы, оканчивающиеся на -ch, -sh, -ss, -x или -o, добавляют -es (watch → watches, go → goes, do → does)",
+          "согласная + y меняется на -ies (study → studies), а гласная + y не меняется (play → plays, а не playies)",
+          "единственный по-настоящему неправильный глагол — have → has, а не haves",
+        ],
+      },
       "Отрицание образуется с помощью don't/doesn't + базовая форма глагола; вопрос — Do/Does + подлежащее + базовая форма.",
       "Самая частая ошибка — забыть -s с he/she/it: he live in Paris неправильно, нужно he lives in Paris. Эта ошибка встречается даже у тех, чей язык полностью спрягает глаголы по лицам, потому что английский делает наоборот: он вообще не маркирует I/you/we/they и маркирует только 3-е лицо единственного числа, поэтому именно это -s легко забыть — как раз потому, что это исключение, а не правило.",
       "Do и does тоже часто используют неправильно: у них нет собственного значения, и они появляются только в отрицаниях и вопросах, поэтому основной глагол после них остаётся в базовой форме: she doesn't play tennis, а не she doesn't plays.",
@@ -64,7 +120,15 @@ export const presentSimple: GrammarTopicContent = {
     ],
     ar: [
       "يُستخدم المضارع البسيط (Present Simple) للتعبير عن العادات والروتين والحقائق الصحيحة عمومًا. الصيغة: I/you/we/they + الفعل الأساسي؛ he/she/it + الفعل + s.",
-      "إملاء صيغة الـ -s: معظم الأفعال تضيف -s فقط (play → plays)؛ الأفعال المنتهية بـ -ch أو -sh أو -ss أو -x أو -o تضيف -es (watch → watches، go → goes، do → does)؛ الحرف الساكن + y يتحول إلى -ies (study → studies)، أما الحرف المتحرك + y فلا يتغيّر (play → plays، وليس playies)؛ والفعل الشاذ الوحيد فعليًا هو have → has، وليس haves.",
+      {
+        intro: "إملاء صيغة الـ -s:",
+        items: [
+          "معظم الأفعال تضيف -s فقط (play → plays)",
+          "الأفعال المنتهية بـ -ch أو -sh أو -ss أو -x أو -o تضيف -es (watch → watches، go → goes، do → does)",
+          "الحرف الساكن + y يتحول إلى -ies (study → studies)، أما الحرف المتحرك + y فلا يتغيّر (play → plays، وليس playies)",
+          "والفعل الشاذ الوحيد فعليًا هو have → has، وليس haves",
+        ],
+      },
       "في النفي نستخدم don't/doesn't + الفعل الأساسي، وفي السؤال نستخدم Do/Does + الفاعل + الفعل الأساسي.",
       "أكثر الأخطاء شيوعًا هو نسيان الـ -s مع he/she/it: he live in Paris خطأ، والصحيح he lives in Paris. يقع في هذا الخطأ حتى المتحدثون الذين تُصرَّف الأفعال في لغتهم بالكامل حسب كل شخص، لأن الإنجليزية تفعل العكس: فهي لا تُصرِّف I/you/we/they إطلاقًا وتُصرِّف فقط الشخص الثالث المفرد، لذا يسهل نسيان هذا الـ -s الوحيد لأنه بالتحديد الاستثناء لا القاعدة.",
       "كما أن do و does عرضة للخطأ أيضًا: فهي لا تحمل معنى خاصًا بها ولا تظهر إلا في النفي والسؤال، لذلك يبقى الفعل الأساسي في صيغته الأساسية بعدها: she doesn't play tennis، وليس she doesn't plays.",
@@ -72,7 +136,15 @@ export const presentSimple: GrammarTopicContent = {
     ],
     zh: [
       "一般现在时用于表达习惯、日常规律和普遍事实。构成:I/you/we/they + 动词原形;he/she/it + 动词 + s。",
-      "-s 形式的拼写规则:大多数动词直接加 -s(play → plays);以 -ch、-sh、-ss、-x 或 -o 结尾的动词加 -es(watch → watches、go → goes、do → does);辅音字母 + y 变为 -ies(study → studies),但元音字母 + y 不变(play → plays,而不是 playies);唯一真正不规则的是 have → has,而不是 haves。",
+      {
+        intro: "-s 形式的拼写规则:",
+        items: [
+          "大多数动词直接加 -s(play → plays)",
+          "以 -ch、-sh、-ss、-x 或 -o 结尾的动词加 -es(watch → watches、go → goes、do → does)",
+          "辅音字母 + y 变为 -ies(study → studies),但元音字母 + y 不变(play → plays,而不是 playies)",
+          "唯一真正不规则的是 have → has,而不是 haves",
+        ],
+      },
       "否定句用 don't/doesn't + 动词原形;疑问句用 Do/Does + 主语 + 动词原形。",
       "最常见的错误是忘记给 he/she/it 加 -s:he live in Paris 是错的,应该是 he lives in Paris。即使是母语中每个人称都要完整变位的学习者,也常犯这个错误,因为英语正好相反:I/you/we/they 完全不变化,只有第三人称单数才变化,所以这唯一的 -s 反而最容易被忘记——正因为它是例外,而不是规则。",
       "do 和 does 也容易用错:它们本身没有意义,只出现在否定句和疑问句中,因此它们后面的主要动词要保持原形:she doesn't play tennis,而不是 she doesn't plays。",

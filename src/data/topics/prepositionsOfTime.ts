@@ -12,7 +12,10 @@ export const prepositionsOfTime: GrammarTopicContent = {
       "Use on for days and dates: on Monday, on 3 July, on my birthday.",
       "Some time expressions take no preposition at all: next/last/this + time word (next week, last month, this morning), every + time word (every day), and standalone words like today, tomorrow, yesterday, tonight: I'll call you next week, not I'll call you in next week.",
       "The most common mistake is using one preposition for everything, copying a single word from your own language: don't say in Monday or at July — each time expression has its own fixed preposition to learn.",
-      "Other fixed expressions to know: at the same time (at); in time, in advance (in); on time, on holiday (on).",
+      {
+        intro: "Other fixed expressions to know:",
+        items: ["at: at the same time", "in: in time, in advance", "on: on time, on holiday"],
+      },
     ],
     fr: [
       "On utilise at pour les heures précises et pour quelques expressions fixes traitées comme une seule occasion plutôt qu'une période : at 6 o'clock, at night, at the weekend (UK), at Christmas — même si un week-end ou Noël dure plus d'un instant, l'anglais traite toute l'occasion comme un seul point dans le temps.",
@@ -20,7 +23,10 @@ export const prepositionsOfTime: GrammarTopicContent = {
       "On utilise on pour les jours et les dates : on Monday, on 3 July, on my birthday.",
       "Certaines expressions de temps ne prennent aucune préposition : next/last/this + mot de temps (next week, last month, this morning), every + mot de temps (every day), et des mots autonomes comme today, tomorrow, yesterday, tonight : I'll call you next week, et non I'll call you in next week.",
       "L'erreur la plus fréquente consiste à utiliser une seule préposition partout, en calquant un mot unique de sa langue maternelle : ne dites pas in Monday ni at July — chaque expression de temps a sa propre préposition fixe à apprendre.",
-      "Autres expressions fixes à connaître : at the same time (at) ; in time, in advance (in) ; on time, on holiday (on).",
+      {
+        intro: "Autres expressions fixes à connaître :",
+        items: ["at : at the same time", "in : in time, in advance", "on : on time, on holiday"],
+      },
     ],
     es: [
       "Se usa at para horas precisas y para algunas expresiones fijas tratadas como una sola ocasión en lugar de un período: at 6 o'clock, at night, at the weekend (UK), at Christmas — aunque un fin de semana o la Navidad duren más de un instante, el inglés trata toda la ocasión como un solo punto en el tiempo.",
@@ -28,7 +34,10 @@ export const prepositionsOfTime: GrammarTopicContent = {
       "Se usa on para días y fechas: on Monday, on 3 July, on my birthday.",
       "Algunas expresiones de tiempo no llevan ninguna preposición: next/last/this + palabra de tiempo (next week, last month, this morning), every + palabra de tiempo (every day), y palabras independientes como today, tomorrow, yesterday, tonight: I'll call you next week, no I'll call you in next week.",
       "El error más común es usar una sola preposición para todo, calcando una única palabra del propio idioma: no digas in Monday ni at July — cada expresión de tiempo tiene su propia preposición fija que hay que aprender.",
-      "Otras expresiones fijas que conviene saber: at the same time (at); in time, in advance (in); on time, on holiday (on).",
+      {
+        intro: "Otras expresiones fijas que conviene saber:",
+        items: ["at: at the same time", "in: in time, in advance", "on: on time, on holiday"],
+      },
     ],
     pt: [
       "Usa-se at para horas precisas e para algumas expressões fixas tratadas como uma única ocasião em vez de um período: at 6 o'clock, at night, at the weekend (UK), at Christmas — embora um fim de semana ou o Natal durem mais do que um instante, o inglês trata toda a ocasião como um único ponto no tempo.",
@@ -36,7 +45,10 @@ export const prepositionsOfTime: GrammarTopicContent = {
       "Usa-se on para dias e datas: on Monday, on 3 July, on my birthday.",
       "Algumas expressões de tempo não levam preposição nenhuma: next/last/this + palavra de tempo (next week, last month, this morning), every + palavra de tempo (every day), e palavras isoladas como today, tomorrow, yesterday, tonight: I'll call you next week, e não I'll call you in next week.",
       "O erro mais comum é usar uma só preposição para tudo, copiando uma única palavra da própria língua: não diga in Monday nem at July — cada expressão de tempo tem a sua própria preposição fixa a aprender.",
-      "Outras expressões fixas a conhecer: at the same time (at); in time, in advance (in); on time, on holiday (on).",
+      {
+        intro: "Outras expressões fixas a conhecer:",
+        items: ["at: at the same time", "in: in time, in advance", "on: on time, on holiday"],
+      },
     ],
     it: [
       "Si usa at per orari precisi e per alcune espressioni fisse trattate come un'unica occasione anziché un periodo: at 6 o'clock, at night, at the weekend (UK), at Christmas — anche se un weekend o il Natale durano più di un istante, l'inglese tratta l'intera occasione come un unico punto nel tempo.",
@@ -44,7 +56,10 @@ export const prepositionsOfTime: GrammarTopicContent = {
       "Si usa on per giorni e date: on Monday, on 3 July, on my birthday.",
       "Alcune espressioni di tempo non prendono nessuna preposizione: next/last/this + parola di tempo (next week, last month, this morning), every + parola di tempo (every day), e parole autonome come today, tomorrow, yesterday, tonight: I'll call you next week, non I'll call you in next week.",
       "L'errore più comune è usare un'unica preposizione per tutto, calcando una sola parola dalla propria lingua: non dire in Monday né at July — ogni espressione di tempo ha la propria preposizione fissa da imparare.",
-      "Altre espressioni fisse da conoscere: at the same time (at); in time, in advance (in); on time, on holiday (on).",
+      {
+        intro: "Altre espressioni fisse da conoscere:",
+        items: ["at: at the same time", "in: in time, in advance", "on: on time, on holiday"],
+      },
     ],
     de: [
       "Man benutzt at für genaue Uhrzeiten und für einige feste Ausdrücke, die als ein einziger Anlass statt als Zeitraum behandelt werden: at 6 o'clock, at night, at the weekend (UK), at Christmas — auch wenn ein Wochenende oder Weihnachten länger als einen Moment dauert, behandelt das Englische den ganzen Anlass als einen einzigen Zeitpunkt.",
@@ -52,7 +67,10 @@ export const prepositionsOfTime: GrammarTopicContent = {
       "Man benutzt on für Tage und Daten: on Monday, on 3 July, on my birthday.",
       "Manche Zeitausdrücke stehen ganz ohne Präposition: next/last/this + Zeitwort (next week, last month, this morning), every + Zeitwort (every day), und eigenständige Wörter wie today, tomorrow, yesterday, tonight: I'll call you next week, nicht I'll call you in next week.",
       "Der häufigste Fehler ist, überall dieselbe Präposition zu benutzen und dabei ein einziges Wort aus der eigenen Sprache zu übertragen: sag nicht in Monday oder at July — jeder Zeitausdruck hat seine eigene feste Präposition, die man lernen muss.",
-      "Weitere feste Ausdrücke, die man kennen sollte: at the same time (at); in time, in advance (in); on time, on holiday (on).",
+      {
+        intro: "Weitere feste Ausdrücke, die man kennen sollte:",
+        items: ["at: at the same time", "in: in time, in advance", "on: on time, on holiday"],
+      },
     ],
     ru: [
       "Предлог at используется для точного времени и для нескольких устойчивых выражений, которые рассматриваются как единый повод, а не период: at 6 o'clock, at night, at the weekend (UK), at Christmas — хотя выходные или Рождество длятся дольше одного момента, английский язык рассматривает весь повод как одну точку во времени.",
@@ -60,7 +78,10 @@ export const prepositionsOfTime: GrammarTopicContent = {
       "Предлог on используется для дней недели и дат: on Monday, on 3 July, on my birthday.",
       "Некоторые временные выражения вообще не требуют предлога: next/last/this + слово времени (next week, last month, this morning), every + слово времени (every day), и самостоятельные слова вроде today, tomorrow, yesterday, tonight: I'll call you next week, а не I'll call you in next week.",
       "Самая частая ошибка — использовать один и тот же предлог везде, копируя одно слово из родного языка: не говорите in Monday или at July — у каждого временного выражения есть свой фиксированный предлог, который нужно запомнить.",
-      "Другие устойчивые выражения, которые полезно знать: at the same time (at); in time, in advance (in); on time, on holiday (on).",
+      {
+        intro: "Другие устойчивые выражения, которые полезно знать:",
+        items: ["at: at the same time", "in: in time, in advance", "on: on time, on holiday"],
+      },
     ],
     ar: [
       "تُستخدم at مع الأوقات الدقيقة ومع بعض التعبيرات الثابتة التي تُعامَل كمناسبة واحدة وليست فترة: at 6 o'clock، at night، at the weekend (UK)، at Christmas — فرغم أن عطلة نهاية الأسبوع أو عيد الميلاد يستغرقان أكثر من لحظة، تُعامِل الإنجليزية المناسبة كلها كنقطة زمنية واحدة.",
@@ -68,7 +89,10 @@ export const prepositionsOfTime: GrammarTopicContent = {
       "تُستخدم on مع الأيام والتواريخ: on Monday، on 3 July، on my birthday.",
       "بعض التعبيرات الزمنية لا تحتاج إلى أي حرف جر إطلاقًا: next/last/this + كلمة زمنية (next week، last month، this morning)، وevery + كلمة زمنية (every day)، وكلمات مستقلة مثل today، tomorrow، yesterday، tonight: I'll call you next week، وليس I'll call you in next week.",
       "أكثر الأخطاء شيوعًا هو استخدام حرف جر واحد في كل الحالات، بنقل كلمة واحدة من لغتك الأم: لا تقل in Monday ولا at July — فكل تعبير زمني له حرف جر ثابت خاص به يجب تعلّمه.",
-      "تعبيرات ثابتة أخرى يجب معرفتها: at the same time (at)؛ in time، in advance (in)؛ on time، on holiday (on).",
+      {
+        intro: "تعبيرات ثابتة أخرى يجب معرفتها:",
+        items: ["at: at the same time", "in: in time، in advance", "on: on time، on holiday"],
+      },
     ],
     zh: [
       "at 用于精确的时间点,也用于一些被当作单一场合而非一段时期的固定搭配:at 6 o'clock、at night、at the weekend(英式)、at Christmas——尽管周末或圣诞节持续不止一个瞬间,英语仍把整个场合当作时间轴上的一个点。",
@@ -76,7 +100,10 @@ export const prepositionsOfTime: GrammarTopicContent = {
       "on 用于星期和日期:on Monday、on 3 July、on my birthday。",
       "有些时间表达完全不需要介词:next/last/this + 时间词(next week、last month、this morning),every + 时间词(every day),以及独立的词如 today、tomorrow、yesterday、tonight:应该说 I'll call you next week,而不是 I'll call you in next week。",
       "最常见的错误是把一个介词用在所有情况下,照搬母语中的单一词汇:不要说 in Monday 或 at July——每个时间表达都有自己固定的介词,需要单独记住。",
-      "其他需要记住的固定搭配:at the same time(at);in time、in advance(in);on time、on holiday(on)。",
+      {
+        intro: "其他需要记住的固定搭配:",
+        items: ["at:at the same time", "in:in time、in advance", "on:on time、on holiday"],
+      },
     ],
   },
   paragraphKinds: ["form", "form", "form", "form", "mistake", "markers"],

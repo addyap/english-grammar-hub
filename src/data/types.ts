@@ -49,13 +49,21 @@ export interface Exercise {
  */
 export type ExplanationParagraphKind = "use" | "form" | "mistake" | "markers";
 
+/**
+ * A single explanation paragraph: either plain prose, or a lead-in sentence
+ * plus a bulleted list — use the list shape for parallel enumerated rules
+ * (spelling patterns, grouped fixed expressions), not for causal "why this
+ * mistake happens" prose, which reads better connected.
+ */
+export type ExplanationParagraph = string | { intro: string; items: string[] };
+
 export interface GrammarTopicContent {
   slug: string;
   sectionSlug: string;
   title: string;
   level: CEFRLevel;
   /** Short paragraphs per language. English is the required fallback. */
-  explanations: Partial<Record<LanguageCode, string[]>> & { en: string[] };
+  explanations: Partial<Record<LanguageCode, ExplanationParagraph[]>> & { en: ExplanationParagraph[] };
   /** One kind per paragraph, same length and order as every explanations[lang] array. */
   paragraphKinds: ExplanationParagraphKind[];
   exercises: [Exercise, Exercise];
