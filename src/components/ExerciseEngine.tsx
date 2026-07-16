@@ -87,7 +87,7 @@ const ExerciseEngine = ({ topic, exercise, storageKey }: ExerciseEngineProps) =>
 
   return (
     <div className="max-w-2xl mx-auto">
-      <div className="flex items-center justify-between gap-3 sticky top-0 bg-background/95 backdrop-blur py-3 z-10 border-b border-border mb-6">
+      <div className="flex items-center justify-between gap-3 bg-background py-3 border-b border-border mb-6">
         <div>
           <h2 className="font-display text-lg font-bold">{exercise.title}</h2>
           <p className="text-sm text-muted-foreground">

@@ -31,10 +31,10 @@ const SectionPage = () => {
             <Link
               key={topic.slug}
               to={`/grammar/${topic.slug}`}
-              className="flex items-center justify-between p-4 rounded-lg border border-border bg-card hover:border-primary transition-colors"
+              className="flex items-center justify-between gap-2 p-4 rounded-lg border border-border bg-card hover:border-primary transition-colors"
             >
               <span className="font-medium">{topic.title}</span>
-              <Badge variant="outline">{topic.level}</Badge>
+              <Badge variant="outline" className="shrink-0 whitespace-nowrap">{topic.level}</Badge>
             </Link>
           ))}
         </div>

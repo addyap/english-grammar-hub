@@ -22,12 +22,12 @@ const HomePage = () => {
               to={`/section/${section.slug}`}
               className="p-5 rounded-lg border border-border bg-card hover:border-primary transition-colors"
             >
-              <div className="flex items-center justify-between mb-1">
+              <div className="flex items-center justify-between gap-2 mb-1">
                 <h2 className="font-display font-bold">{section.title}</h2>
                 {topics.length > 0 ? (
-                  <Badge>{topics.length} topic{topics.length > 1 ? "s" : ""}</Badge>
+                  <Badge className="shrink-0 whitespace-nowrap">{topics.length} topic{topics.length > 1 ? "s" : ""}</Badge>
                 ) : (
-                  <Badge variant="outline">Coming soon</Badge>
+                  <Badge variant="outline" className="shrink-0 whitespace-nowrap">Coming soon</Badge>
                 )}
               </div>
               <p className="text-sm text-muted-foreground">{section.description}</p>

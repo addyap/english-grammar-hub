@@ -31,7 +31,7 @@ const TopicPage = () => {
 
       <div className="flex items-center gap-3 mt-2 mb-6">
         <h1 className="font-display text-2xl font-bold">{topic.title}</h1>
-        <Badge variant="outline">{topic.level}</Badge>
+        <Badge variant="outline" className="shrink-0 whitespace-nowrap">{topic.level}</Badge>
       </div>
 
       <div className="flex flex-wrap gap-1 mb-4">
