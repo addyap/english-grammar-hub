@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Link, useParams } from "react-router-dom";
+import { AlertTriangle } from "lucide-react";
 import { getTopic } from "@/data/topics";
 import { sections } from "@/data/sections";
 import { Badge } from "@/components/ui/badge";
@@ -22,6 +23,10 @@ const TopicPage = () => {
   const section = sections.find((s) => s.slug === topic.sectionSlug);
   const meta = LANGUAGES.find((l) => l.code === lang)!;
   const paragraphs = topic.explanations[lang] ?? topic.explanations.en;
+
+  if (import.meta.env.DEV && paragraphs.length !== topic.paragraphKinds.length) {
+    console.warn(`[TopicPage] "${topic.slug}" (${lang}) has ${paragraphs.length} paragraphs but paragraphKinds has ${topic.paragraphKinds.length} — they must match 1:1.`);
+  }
 
   return (
     <div className="max-w-2xl mx-auto px-6 py-12">
@@ -50,11 +55,21 @@ const TopicPage = () => {
       </div>
 
       <div className="p-5 rounded-lg border border-border bg-card mb-8" dir={meta.rtl ? "rtl" : "ltr"}>
-        {paragraphs.map((p, i) => (
-          <p key={i} className="text-foreground/90 leading-relaxed mb-3 last:mb-0">
-            {p}
-          </p>
-        ))}
+        {paragraphs.map((p, i) =>
+          topic.paragraphKinds[i] === "mistake" ? (
+            <div
+              key={i}
+              className="flex items-start gap-2 rounded-md border border-destructive/30 bg-destructive/5 px-3 py-2.5 mb-3 last:mb-0"
+            >
+              <AlertTriangle className="w-4 h-4 text-destructive shrink-0 mt-0.5" />
+              <p className="text-foreground/90 leading-relaxed">{p}</p>
+            </div>
+          ) : (
+            <p key={i} className="text-foreground/90 leading-relaxed mb-3 last:mb-0">
+              {p}
+            </p>
+          )
+        )}
       </div>
 
       <div className="flex gap-3">

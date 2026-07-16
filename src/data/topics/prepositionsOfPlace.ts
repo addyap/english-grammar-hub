@@ -12,7 +12,8 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "Use on for surfaces: on the table, on the wall, on the second floor.",
       "A few place words are adverbs and never take a preposition: upstairs, downstairs, here, there, outside, inside, abroad: the bathroom is upstairs, not the bathroom is in upstairs; she lives abroad, not she lives in abroad.",
       "The most common mistake is overusing one preposition everywhere, especially in (since many languages use a single word for both in and on): say at the bus stop and on the table, not in the bus stop or in the table.",
-      "A useful pattern: you're in an enclosed personal vehicle (in a car, in a taxi) but on public or two-wheeled transport (on a bus, on a train, on a plane, on a bike, on a motorbike); other fixed expressions: at work, at school (at); in bed, in hospital (in); on the left, on the phone (on).",
+      "A useful pattern: you're in an enclosed personal vehicle (in a car, in a taxi) but on public or two-wheeled transport (on a bus, on a train, on a plane, on a bike, on a motorbike).",
+      "Other fixed expressions: at work, at school (at); in bed, in hospital (in); on the left, on the phone (on).",
     ],
     fr: [
       "On utilise at pour un point précis : at the bus stop, at home, at the door.",
@@ -20,7 +21,8 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "On utilise on pour les surfaces : on the table, on the wall, on the second floor.",
       "Quelques mots de lieu sont des adverbes et ne prennent jamais de préposition : upstairs, downstairs, here, there, outside, inside, abroad : the bathroom is upstairs, et non the bathroom is in upstairs ; she lives abroad, et non she lives in abroad.",
       "L'erreur la plus fréquente consiste à surutiliser une seule préposition partout, souvent in (car de nombreuses langues emploient un seul mot pour in et on) : dites at the bus stop et on the table, et non in the bus stop ni in the table.",
-      "Une règle utile : on est in dans un véhicule personnel fermé (in a car, in a taxi), mais on dans les transports publics ou à deux roues (on a bus, on a train, on a plane, on a bike, on a motorbike) ; autres expressions fixes : at work, at school (at) ; in bed, in hospital (in) ; on the left, on the phone (on).",
+      "Une règle utile : on est in dans un véhicule personnel fermé (in a car, in a taxi), mais on dans les transports publics ou à deux roues (on a bus, on a train, on a plane, on a bike, on a motorbike).",
+      "Autres expressions fixes : at work, at school (at) ; in bed, in hospital (in) ; on the left, on the phone (on).",
     ],
     es: [
       "Se usa at para un punto específico: at the bus stop, at home, at the door.",
@@ -28,7 +30,8 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "Se usa on para superficies: on the table, on the wall, on the second floor.",
       "Algunas palabras de lugar son adverbios y nunca llevan preposición: upstairs, downstairs, here, there, outside, inside, abroad: the bathroom is upstairs, no the bathroom is in upstairs; she lives abroad, no she lives in abroad.",
       "El error más común es abusar de una sola preposición en todas partes, sobre todo in (ya que muchos idiomas usan una única palabra para in y on): di at the bus stop y on the table, no in the bus stop ni in the table.",
-      "Un patrón útil: se usa in dentro de un vehículo personal cerrado (in a car, in a taxi), pero on en el transporte público o de dos ruedas (on a bus, on a train, on a plane, on a bike, on a motorbike); otras expresiones fijas: at work, at school (at); in bed, in hospital (in); on the left, on the phone (on).",
+      "Un patrón útil: se usa in dentro de un vehículo personal cerrado (in a car, in a taxi), pero on en el transporte público o de dos ruedas (on a bus, on a train, on a plane, on a bike, on a motorbike).",
+      "Otras expresiones fijas: at work, at school (at); in bed, in hospital (in); on the left, on the phone (on).",
     ],
     pt: [
       "Usa-se at para um ponto específico: at the bus stop, at home, at the door.",
@@ -36,7 +39,8 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "Usa-se on para superfícies: on the table, on the wall, on the second floor.",
       "Algumas palavras de lugar são advérbios e nunca levam preposição: upstairs, downstairs, here, there, outside, inside, abroad: the bathroom is upstairs, e não the bathroom is in upstairs; she lives abroad, e não she lives in abroad.",
       "O erro mais comum é usar em excesso uma só preposição em todos os lugares, sobretudo in (já que muitas línguas usam uma única palavra para in e on): diga at the bus stop e on the table, e não in the bus stop nem in the table.",
-      "Um padrão útil: usa-se in dentro de um veículo pessoal fechado (in a car, in a taxi), mas on no transporte público ou de duas rodas (on a bus, on a train, on a plane, on a bike, on a motorbike); outras expressões fixas: at work, at school (at); in bed, in hospital (in); on the left, on the phone (on).",
+      "Um padrão útil: usa-se in dentro de um veículo pessoal fechado (in a car, in a taxi), mas on no transporte público ou de duas rodas (on a bus, on a train, on a plane, on a bike, on a motorbike).",
+      "Outras expressões fixas: at work, at school (at); in bed, in hospital (in); on the left, on the phone (on).",
     ],
     it: [
       "Si usa at per un punto specifico: at the bus stop, at home, at the door.",
@@ -44,7 +48,8 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "Si usa on per le superfici: on the table, on the wall, on the second floor.",
       "Alcune parole di luogo sono avverbi e non prendono mai una preposizione: upstairs, downstairs, here, there, outside, inside, abroad: the bathroom is upstairs, non the bathroom is in upstairs; she lives abroad, non she lives in abroad.",
       "L'errore più comune è abusare di un'unica preposizione ovunque, spesso in (poiché molte lingue usano un'unica parola per in e on): di' at the bus stop e on the table, non in the bus stop o in the table.",
-      "Uno schema utile: si usa in dentro un veicolo personale chiuso (in a car, in a taxi), ma on sui mezzi pubblici o a due ruote (on a bus, on a train, on a plane, on a bike, on a motorbike); altre espressioni fisse: at work, at school (at); in bed, in hospital (in); on the left, on the phone (on).",
+      "Uno schema utile: si usa in dentro un veicolo personale chiuso (in a car, in a taxi), ma on sui mezzi pubblici o a due ruote (on a bus, on a train, on a plane, on a bike, on a motorbike).",
+      "Altre espressioni fisse: at work, at school (at); in bed, in hospital (in); on the left, on the phone (on).",
     ],
     de: [
       "Man benutzt at für einen bestimmten Punkt: at the bus stop, at home, at the door.",
@@ -52,7 +57,8 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "Man benutzt on für Oberflächen: on the table, on the wall, on the second floor.",
       "Ein paar Ortswörter sind Adverbien und stehen nie mit Präposition: upstairs, downstairs, here, there, outside, inside, abroad: the bathroom is upstairs, nicht the bathroom is in upstairs; she lives abroad, nicht she lives in abroad.",
       "Der häufigste Fehler ist, überall dieselbe Präposition zu verwenden, meist in (da viele Sprachen ein einziges Wort für in und on benutzen): sag at the bus stop und on the table, nicht in the bus stop oder in the table.",
-      "Ein nützliches Muster: In einem geschlossenen persönlichen Fahrzeug steht in (in a car, in a taxi), bei öffentlichen oder zweirädrigen Verkehrsmitteln steht on (on a bus, on a train, on a plane, on a bike, on a motorbike); weitere feste Ausdrücke: at work, at school (at); in bed, in hospital (in); on the left, on the phone (on).",
+      "Ein nützliches Muster: In einem geschlossenen persönlichen Fahrzeug steht in (in a car, in a taxi), bei öffentlichen oder zweirädrigen Verkehrsmitteln steht on (on a bus, on a train, on a plane, on a bike, on a motorbike).",
+      "Weitere feste Ausdrücke: at work, at school (at); in bed, in hospital (in); on the left, on the phone (on).",
     ],
     ru: [
       "Предлог at используется для конкретной точки: at the bus stop, at home, at the door.",
@@ -60,7 +66,8 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "Предлог on используется для поверхностей: on the table, on the wall, on the second floor.",
       "Некоторые слова места являются наречиями и никогда не требуют предлога: upstairs, downstairs, here, there, outside, inside, abroad: the bathroom is upstairs, а не the bathroom is in upstairs; she lives abroad, а не she lives in abroad.",
       "Самая частая ошибка — злоупотребление одним предлогом везде, чаще всего in (так как во многих языках для in и on используется одно и то же слово): говорите at the bus stop и on the table, а не in the bus stop или in the table.",
-      "Полезная закономерность: в закрытом личном транспорте используется in (in a car, in a taxi), а в общественном или двухколёсном транспорте — on (on a bus, on a train, on a plane, on a bike, on a motorbike); другие устойчивые выражения: at work, at school (at); in bed, in hospital (in); on the left, on the phone (on).",
+      "Полезная закономерность: в закрытом личном транспорте используется in (in a car, in a taxi), а в общественном или двухколёсном транспорте — on (on a bus, on a train, on a plane, on a bike, on a motorbike).",
+      "Другие устойчивые выражения: at work, at school (at); in bed, in hospital (in); on the left, on the phone (on).",
     ],
     ar: [
       "تُستخدم at للإشارة إلى نقطة محددة: at the bus stop، at home، at the door.",
@@ -68,7 +75,8 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "تُستخدم on مع الأسطح: on the table، on the wall، on the second floor.",
       "بعض كلمات المكان تُستخدم كظروف ولا تحتاج أبدًا إلى حرف جر: upstairs، downstairs، here، there، outside، inside، abroad: the bathroom is upstairs، وليس the bathroom is in upstairs؛ she lives abroad، وليس she lives in abroad.",
       "أكثر الأخطاء شيوعًا هو الإفراط في استخدام حرف جر واحد في كل مكان، وغالبًا in (لأن لغات كثيرة تستخدم كلمة واحدة لكل من in و on): قل at the bus stop و on the table، وليس in the bus stop أو in the table.",
-      "قاعدة مفيدة: تُستخدم in داخل مركبة شخصية مغلقة (in a car، in a taxi)، بينما تُستخدم on مع وسائل النقل العامة أو ذات العجلتين (on a bus، on a train، on a plane، on a bike، on a motorbike)؛ تعبيرات ثابتة أخرى: at work، at school (at)؛ in bed، in hospital (in)؛ on the left، on the phone (on).",
+      "قاعدة مفيدة: تُستخدم in داخل مركبة شخصية مغلقة (in a car، in a taxi)، بينما تُستخدم on مع وسائل النقل العامة أو ذات العجلتين (on a bus، on a train، on a plane، on a bike، on a motorbike).",
+      "تعبيرات ثابتة أخرى: at work، at school (at)؛ in bed، in hospital (in)؛ on the left، on the phone (on).",
     ],
     zh: [
       "at 用于表示一个具体的地点:at the bus stop、at home、at the door。",
@@ -76,9 +84,11 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "on 用于表面:on the table、on the wall、on the second floor。",
       "有些地点词是副词,从不需要介词:upstairs、downstairs、here、there、outside、inside、abroad:应该说 the bathroom is upstairs,而不是 the bathroom is in upstairs;she lives abroad,而不是 she lives in abroad。",
       "最常见的错误是到处滥用同一个介词,尤其是 in(因为许多语言用同一个词表示 in 和 on):应该说 at the bus stop 和 on the table,而不是 in the bus stop 或 in the table。",
-      "一个有用的规律:在封闭的私人交通工具里用 in(in a car、in a taxi),而公共交通或两轮交通工具用 on(on a bus、on a train、on a plane、on a bike、on a motorbike);其他固定搭配:at work、at school(at);in bed、in hospital(in);on the left、on the phone(on)。",
+      "一个有用的规律:在封闭的私人交通工具里用 in(in a car、in a taxi),而公共交通或两轮交通工具用 on(on a bus、on a train、on a plane、on a bike、on a motorbike)。",
+      "其他固定搭配:at work、at school(at);in bed、in hospital(in);on the left、on the phone(on)。",
     ],
   },
+  paragraphKinds: ["form", "form", "form", "form", "mistake", "markers", "markers"],
   exercises: [
     {
       title: "at / in / on",

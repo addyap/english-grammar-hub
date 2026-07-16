@@ -41,6 +41,14 @@ export interface Exercise {
   questions: ExerciseQuestion[];
 }
 
+/**
+ * What role a paragraph plays, in order, across every language's explanation
+ * array — "mistake" paragraphs get a distinct visual callout. This array is
+ * shared across languages (not per-language) because paragraph count and
+ * meaning-per-index must already match 1:1 across translations.
+ */
+export type ExplanationParagraphKind = "use" | "form" | "mistake" | "markers";
+
 export interface GrammarTopicContent {
   slug: string;
   sectionSlug: string;
@@ -48,5 +56,7 @@ export interface GrammarTopicContent {
   level: CEFRLevel;
   /** Short paragraphs per language. English is the required fallback. */
   explanations: Partial<Record<LanguageCode, string[]>> & { en: string[] };
+  /** One kind per paragraph, same length and order as every explanations[lang] array. */
+  paragraphKinds: ExplanationParagraphKind[];
   exercises: [Exercise, Exercise];
 }

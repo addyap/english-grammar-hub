@@ -12,7 +12,8 @@ export const pastSimple: GrammarTopicContent = {
       "Regular verbs add -ed; many common verbs are irregular (go → went, see → saw). Negatives use didn't + base verb; questions use Did + subject + base verb.",
       "Spelling of the -ed form: most regular verbs just add -ed (watch → watched); a single stressed vowel + consonant doubles the consonant (stop → stopped); a consonant + y changes to -ied (study → studied); verbs already ending in -e just add -d (live → lived).",
       "Pronunciation of the -ed ending: after an unvoiced sound it's /t/ (watched, stopped); after a voiced sound or vowel it's /d/ (lived, played); after a /t/ or /d/ sound it adds an extra syllable, /ɪd/ (wanted, needed).",
-      "Did is the auxiliary for negatives and questions, and only did changes — the main verb stays in its base form: she didn't go, not she didn't went. The other classic mistake is overregularizing irregular verbs by adding -ed anyway: goed, buyed, and seed are all wrong — irregular verbs like go → went, buy → bought, and see → saw simply have to be learned individually.",
+      "Did is the auxiliary for negatives and questions, and only did changes — the main verb stays in its base form: she didn't go, not she didn't went.",
+      "The other classic mistake is overregularizing irregular verbs by adding -ed anyway: goed, buyed, and seed are all wrong — irregular verbs like go → went, buy → bought, and see → saw simply have to be learned individually.",
       "Typical time words: yesterday, last week, in 2019, two days ago.",
     ],
     fr: [
@@ -21,7 +22,8 @@ export const pastSimple: GrammarTopicContent = {
       "Les verbes réguliers ajoutent -ed ; de nombreux verbes courants sont irréguliers (go → went, see → saw). À la forme négative on utilise didn't + verbe de base ; à la forme interrogative, Did + sujet + verbe de base.",
       "Orthographe de la forme en -ed : la plupart des verbes réguliers ajoutent simplement -ed (watch → watched) ; une voyelle accentuée unique + consonne double la consonne (stop → stopped) ; une consonne + y devient -ied (study → studied) ; les verbes déjà terminés en -e ajoutent seulement -d (live → lived).",
       "Prononciation de la terminaison -ed : après un son non voisé, elle se prononce /t/ (watched, stopped) ; après un son voisé ou une voyelle, /d/ (lived, played) ; après un son /t/ ou /d/, elle ajoute une syllabe supplémentaire, /ɪd/ (wanted, needed).",
-      "Did est l'auxiliaire des négations et des questions, et seul did change : le verbe principal reste à sa forme de base : she didn't go, et non she didn't went. L'autre erreur classique consiste à régulariser à tort les verbes irréguliers en ajoutant -ed quand même : goed, buyed et seed sont tous incorrects — des verbes irréguliers comme go → went, buy → bought et see → saw doivent simplement être appris individuellement.",
+      "Did est l'auxiliaire des négations et des questions, et seul did change : le verbe principal reste à sa forme de base : she didn't go, et non she didn't went.",
+      "L'autre erreur classique consiste à régulariser à tort les verbes irréguliers en ajoutant -ed quand même : goed, buyed et seed sont tous incorrects — des verbes irréguliers comme go → went, buy → bought et see → saw doivent simplement être appris individuellement.",
       "Marqueurs de temps typiques : yesterday, last week, in 2019, two days ago.",
     ],
     es: [
@@ -30,7 +32,8 @@ export const pastSimple: GrammarTopicContent = {
       "Los verbos regulares añaden -ed; muchos verbos comunes son irregulares (go → went, see → saw). En negativo se usa didn't + verbo base; en preguntas, Did + sujeto + verbo base.",
       "Ortografía de la forma en -ed: la mayoría de los verbos regulares simplemente añaden -ed (watch → watched); una única vocal acentuada + consonante duplica la consonante (stop → stopped); una consonante + y cambia a -ied (study → studied); los verbos que ya terminan en -e solo añaden -d (live → lived).",
       "Pronunciación de la terminación -ed: después de un sonido sordo se pronuncia /t/ (watched, stopped); después de un sonido sonoro o una vocal, /d/ (lived, played); después de un sonido /t/ o /d/, añade una sílaba extra, /ɪd/ (wanted, needed).",
-      "Did es el auxiliar de las negaciones y preguntas, y solo did cambia: el verbo principal se queda en su forma base: she didn't go, no she didn't went. El otro error clásico es regularizar los verbos irregulares añadiendo -ed de todos modos: goed, buyed y seed son incorrectos — verbos irregulares como go → went, buy → bought y see → saw simplemente hay que aprenderlos uno por uno.",
+      "Did es el auxiliar de las negaciones y preguntas, y solo did cambia: el verbo principal se queda en su forma base: she didn't go, no she didn't went.",
+      "El otro error clásico es regularizar los verbos irregulares añadiendo -ed de todos modos: goed, buyed y seed son incorrectos — verbos irregulares como go → went, buy → bought y see → saw simplemente hay que aprenderlos uno por uno.",
       "Marcadores de tiempo típicos: yesterday, last week, in 2019, two days ago.",
     ],
     pt: [
@@ -39,7 +42,8 @@ export const pastSimple: GrammarTopicContent = {
       "Os verbos regulares recebem -ed; muitos verbos comuns são irregulares (go → went, see → saw). Na negativa usa-se didn't + verbo base; nas perguntas, Did + sujeito + verbo base.",
       "Ortografia da forma em -ed: a maioria dos verbos regulares apenas acrescenta -ed (watch → watched); uma única vogal tônica + consoante duplica a consoante (stop → stopped); uma consoante + y muda para -ied (study → studied); verbos já terminados em -e acrescentam só -d (live → lived).",
       "Pronúncia da terminação -ed: depois de um som surdo pronuncia-se /t/ (watched, stopped); depois de um som sonoro ou vogal, /d/ (lived, played); depois de um som /t/ ou /d/, acrescenta uma sílaba extra, /ɪd/ (wanted, needed).",
-      "Did é o auxiliar das negações e perguntas, e só o did muda: o verbo principal permanece na forma base: she didn't go, e não she didn't went. O outro erro clássico é regularizar verbos irregulares acrescentando -ed mesmo assim: goed, buyed e seed estão todos errados — verbos irregulares como go → went, buy → bought e see → saw têm de ser aprendidos individualmente.",
+      "Did é o auxiliar das negações e perguntas, e só o did muda: o verbo principal permanece na forma base: she didn't go, e não she didn't went.",
+      "O outro erro clássico é regularizar verbos irregulares acrescentando -ed mesmo assim: goed, buyed e seed estão todos errados — verbos irregulares como go → went, buy → bought e see → saw têm de ser aprendidos individualmente.",
       "Marcadores de tempo típicos: yesterday, last week, in 2019, two days ago.",
     ],
     it: [
@@ -48,7 +52,8 @@ export const pastSimple: GrammarTopicContent = {
       "I verbi regolari aggiungono -ed; molti verbi comuni sono irregolari (go → went, see → saw). Al negativo si usa didn't + verbo base; nelle domande, Did + soggetto + verbo base.",
       "Ortografia della forma in -ed: la maggior parte dei verbi regolari aggiunge semplicemente -ed (watch → watched); una singola vocale accentata + consonante raddoppia la consonante (stop → stopped); una consonante + y diventa -ied (study → studied); i verbi che finiscono già in -e aggiungono solo -d (live → lived).",
       "Pronuncia della desinenza -ed: dopo un suono sordo si pronuncia /t/ (watched, stopped); dopo un suono sonoro o una vocale, /d/ (lived, played); dopo un suono /t/ o /d/, aggiunge una sillaba in più, /ɪd/ (wanted, needed).",
-      "Did è l'ausiliare delle negazioni e delle domande, e solo did cambia: il verbo principale resta alla forma base: she didn't go, non she didn't went. L'altro errore classico è regolarizzare i verbi irregolari aggiungendo comunque -ed: goed, buyed e seed sono tutti sbagliati — i verbi irregolari come go → went, buy → bought e see → saw vanno semplicemente imparati uno per uno.",
+      "Did è l'ausiliare delle negazioni e delle domande, e solo did cambia: il verbo principale resta alla forma base: she didn't go, non she didn't went.",
+      "L'altro errore classico è regolarizzare i verbi irregolari aggiungendo comunque -ed: goed, buyed e seed sono tutti sbagliati — i verbi irregolari come go → went, buy → bought e see → saw vanno semplicemente imparati uno per uno.",
       "Indicatori di tempo tipici: yesterday, last week, in 2019, two days ago.",
     ],
     de: [
@@ -57,7 +62,8 @@ export const pastSimple: GrammarTopicContent = {
       "Regelmäßige Verben erhalten -ed; viele häufige Verben sind unregelmäßig (go → went, see → saw). Verneinung mit didn't + Grundform; Fragen mit Did + Subjekt + Grundform.",
       "Schreibweise der -ed-Form: die meisten regelmäßigen Verben fügen einfach -ed hinzu (watch → watched); ein einzelner betonter Vokal + Konsonant verdoppelt den Konsonanten (stop → stopped); Konsonant + y wird zu -ied (study → studied); Verben, die bereits auf -e enden, fügen nur -d hinzu (live → lived).",
       "Aussprache der -ed-Endung: nach einem stimmlosen Laut wird sie /t/ ausgesprochen (watched, stopped); nach einem stimmhaften Laut oder Vokal /d/ (lived, played); nach einem /t/- oder /d/-Laut kommt eine zusätzliche Silbe hinzu, /ɪd/ (wanted, needed).",
-      "Did ist das Hilfsverb für Verneinungen und Fragen, und nur did ändert sich — das Hauptverb bleibt in der Grundform: she didn't go, nicht she didn't went. Der andere klassische Fehler ist, unregelmäßige Verben trotzdem zu regularisieren und -ed anzuhängen: goed, buyed und seed sind alle falsch — unregelmäßige Verben wie go → went, buy → bought und see → saw müssen einzeln gelernt werden.",
+      "Did ist das Hilfsverb für Verneinungen und Fragen, und nur did ändert sich — das Hauptverb bleibt in der Grundform: she didn't go, nicht she didn't went.",
+      "Der andere klassische Fehler ist, unregelmäßige Verben trotzdem zu regularisieren und -ed anzuhängen: goed, buyed und seed sind alle falsch — unregelmäßige Verben wie go → went, buy → bought und see → saw müssen einzeln gelernt werden.",
       "Typische Zeitangaben: yesterday, last week, in 2019, two days ago.",
     ],
     ru: [
@@ -66,7 +72,8 @@ export const pastSimple: GrammarTopicContent = {
       "Правильные глаголы добавляют -ed; многие частые глаголы неправильные (go → went, see → saw). Отрицание — didn't + базовая форма; вопрос — Did + подлежащее + базовая форма.",
       "Написание формы на -ed: большинство правильных глаголов просто добавляют -ed (watch → watched); один ударный гласный + согласная удваивает согласную (stop → stopped); согласная + y меняется на -ied (study → studied); глаголы, уже оканчивающиеся на -e, добавляют только -d (live → lived).",
       "Произношение окончания -ed: после глухого звука оно произносится как /t/ (watched, stopped); после звонкого звука или гласной — /d/ (lived, played); после звука /t/ или /d/ добавляется дополнительный слог /ɪd/ (wanted, needed).",
-      "Did — вспомогательный глагол для отрицаний и вопросов, и меняется только did: основной глагол остаётся в базовой форме: she didn't go, а не she didn't went. Другая классическая ошибка — регуляризация неправильных глаголов добавлением -ed: goed, buyed и seed — все неверны; неправильные глаголы вроде go → went, buy → bought и see → saw нужно просто запоминать по отдельности.",
+      "Did — вспомогательный глагол для отрицаний и вопросов, и меняется только did: основной глагол остаётся в базовой форме: she didn't go, а не she didn't went.",
+      "Другая классическая ошибка — регуляризация неправильных глаголов добавлением -ed: goed, buyed и seed — все неверны; неправильные глаголы вроде go → went, buy → bought и see → saw нужно просто запоминать по отдельности.",
       "Типичные слова-маркеры: yesterday, last week, in 2019, two days ago.",
     ],
     ar: [
@@ -75,7 +82,8 @@ export const pastSimple: GrammarTopicContent = {
       "الأفعال المنتظمة تضيف -ed، والعديد من الأفعال الشائعة غير منتظمة (go → went، see → saw). في النفي نستخدم didn't + الفعل الأساسي، وفي السؤال Did + الفاعل + الفعل الأساسي.",
       "إملاء صيغة الـ -ed: معظم الأفعال المنتظمة تضيف -ed فقط (watch → watched)؛ الحرف المتحرك المشدد الوحيد + الحرف الساكن يُضاعِف الحرف الساكن (stop → stopped)؛ الحرف الساكن + y يتحول إلى -ied (study → studied)؛ الأفعال المنتهية بالفعل بـ -e تضيف -d فقط (live → lived).",
       "نطق نهاية -ed: بعد صوت مهموس تُنطق /t/ (watched، stopped)؛ بعد صوت مجهور أو حرف متحرك تُنطق /d/ (lived، played)؛ بعد صوت /t/ أو /d/ تُضاف مقطع صوتي إضافي /ɪd/ (wanted، needed).",
-      "يُستخدم did كفعل مساعد في النفي والسؤال، وهو وحده الذي يتغيّر بينما يبقى الفعل الأساسي في صيغته الأساسية: she didn't go، وليس she didn't went. الخطأ الكلاسيكي الآخر هو تسوية الأفعال غير المنتظمة بإضافة -ed رغم ذلك: goed وbuyed وseed كلها خاطئة — الأفعال غير المنتظمة مثل go → went وbuy → bought وsee → saw يجب حفظها فرديًا.",
+      "يُستخدم did كفعل مساعد في النفي والسؤال، وهو وحده الذي يتغيّر بينما يبقى الفعل الأساسي في صيغته الأساسية: she didn't go، وليس she didn't went.",
+      "الخطأ الكلاسيكي الآخر هو تسوية الأفعال غير المنتظمة بإضافة -ed رغم ذلك: goed وbuyed وseed كلها خاطئة — الأفعال غير المنتظمة مثل go → went وbuy → bought وsee → saw يجب حفظها فرديًا.",
       "كلمات زمنية شائعة: yesterday، last week، in 2019، two days ago.",
     ],
     zh: [
@@ -84,10 +92,12 @@ export const pastSimple: GrammarTopicContent = {
       "规则动词加 -ed;许多常见动词是不规则的(go → went, see → saw)。否定句用 didn't + 动词原形;疑问句用 Did + 主语 + 动词原形。",
       "-ed 形式的拼写规则:大多数规则动词直接加 -ed(watch → watched);单个重读元音字母 + 辅音字母要双写辅音字母(stop → stopped);辅音字母 + y 变为 -ied(study → studied);已经以 -e 结尾的动词只加 -d(live → lived)。",
       "-ed 结尾的发音:清辅音后读 /t/(watched、stopped);浊辅音或元音后读 /d/(lived、played);/t/ 或 /d/ 音后会多出一个音节 /ɪd/(wanted、needed)。",
-      "did 是用于否定句和疑问句的助动词,只有 did 发生变化,主要动词保持原形:she didn't go,而不是 she didn't went。另一个经典错误是把不规则动词也规则化,强行加 -ed:goed、buyed 和 seed 都是错的——像 go → went、buy → bought、see → saw 这样的不规则动词只能逐个记住。",
+      "did 是用于否定句和疑问句的助动词,只有 did 发生变化,主要动词保持原形:she didn't go,而不是 she didn't went。",
+      "另一个经典错误是把不规则动词也规则化,强行加 -ed:goed、buyed 和 seed 都是错的——像 go → went、buy → bought、see → saw 这样的不规则动词只能逐个记住。",
       "常见时间状语:yesterday、last week、in 2019、two days ago。",
     ],
   },
+  paragraphKinds: ["use", "form", "form", "form", "form", "mistake", "mistake", "markers"],
   exercises: [
     {
       title: "Affirmative & Negative",

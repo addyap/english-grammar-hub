@@ -18,7 +18,11 @@ Everything lives under `src/data`:
   with no topics yet render as "coming soon" on the homepage.
 - `types.ts` — `GrammarTopicContent` shape: slug, section, CEFR level,
   per-language explanation paragraphs (`en` required, others optional with
-  English fallback), and exactly two 10-question exercises.
+  English fallback), a `paragraphKinds` array tagging each paragraph's role
+  (`use` | `form` | `mistake` | `markers`, same length/order as every
+  language's paragraph array — it's shared across languages because
+  paragraph count and meaning-per-index must already match 1:1), and
+  exactly two 10-question exercises.
 - `topics/*.ts` — one file per built topic. Add a new grammar point by
   creating a file in this shape and registering it in `topics/index.ts`.
 
@@ -49,10 +53,23 @@ exists, and it always comes right before the closing markers paragraph.
    covering at/in/on causes overuse of one form in English). Always give one
    wrong vs. right example inline, in English, so it reads the same
    regardless of which language tab is open. This paragraph is mandatory —
-   never skip it just because a topic doesn't have an auxiliary.
+   never skip it just because a topic doesn't have an auxiliary. Verify the
+   causal claim actually fits the topic's dominant learner L1s (e.g. "this
+   language doesn't mark verbs for person" doesn't explain French/Spanish/
+   Italian/Portuguese speakers dropping the 3rd-person -s, since those
+   languages conjugate fully — the real cause there is that English marks
+   almost nothing, so the one exception is what gets forgotten). Tag every
+   paragraph carrying this content as `"mistake"` in `paragraphKinds` — it
+   renders as a highlighted callout, so don't let it balloon past ~2-3
+   sentences; split a second mistake into its own `"mistake"` paragraph
+   rather than merging two errors into one dense block.
 4. **Markers** — the words/contexts that signal this structure. Time words
    for tenses; the equivalent trigger words/contexts for anything else
    (e.g. "if" for conditionals).
+
+Keep individual paragraphs short and single-idea — if a paragraph needs
+"and" to bolt on a second unrelated point, split it. A wall of an 8+ line
+paragraph is a readability regression even if every fact in it is correct.
 
 See `topics/presentSimple.ts` (single-structure shape) and
 `topics/prepositionsOfTime.ts` (multi-rule shape) for worked examples.

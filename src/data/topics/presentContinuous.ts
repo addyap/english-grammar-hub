@@ -79,6 +79,7 @@ export const presentContinuous: GrammarTopicContent = {
       "常见时间状语:now、right now、at the moment、these days、currently。",
     ],
   },
+  paragraphKinds: ["use", "form", "form", "form", "mistake", "markers"],
   exercises: [
     {
       title: "Affirmative & Negative",

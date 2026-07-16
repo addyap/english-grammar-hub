@@ -79,6 +79,7 @@ export const prepositionsOfTime: GrammarTopicContent = {
       "其他需要记住的固定搭配:at the same time(at);in time、in advance(in);on time、on holiday(on)。",
     ],
   },
+  paragraphKinds: ["form", "form", "form", "form", "mistake", "markers"],
   exercises: [
     {
       title: "at / in / on",
