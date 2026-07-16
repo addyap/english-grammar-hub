@@ -2,7 +2,6 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { BookOpen } from "lucide-react";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
-import { ScrollArea } from "@/components/ui/scroll-area";
 import ExplanationParagraphs from "@/components/ExplanationParagraphs";
 import { LANGUAGES, type LanguageCode } from "@/data/types";
 import type { GrammarTopicContent } from "@/data/types";
@@ -53,7 +52,7 @@ const FloatingGrammarReference = ({ topic }: FloatingGrammarReferenceProps) => {
             </button>
           ))}
         </div>
-        <ScrollArea className="max-h-[55vh]">
+        <div className="max-h-[55vh] overflow-y-auto overscroll-contain">
           <div className="p-5" dir={meta.rtl ? "rtl" : "ltr"}>
             <h3 className="font-display text-base font-bold mb-3">{topic.title}</h3>
             <ExplanationParagraphs paragraphs={paragraphs} kinds={topic.paragraphKinds} size="sm" />
@@ -61,7 +60,7 @@ const FloatingGrammarReference = ({ topic }: FloatingGrammarReferenceProps) => {
               View full lesson →
             </Link>
           </div>
-        </ScrollArea>
+        </div>
       </PopoverContent>
     </Popover>
   );
