@@ -101,8 +101,23 @@ npm install
 npm run dev
 ```
 
+## Content validation
+
+`scripts/validate.ts` (run via `npm run validate`, and automatically as the
+first step of `npm run build`) asserts the invariants that TypeScript can't,
+across every topic and language at once — so a broken topic fails the build
+instead of shipping. It checks: every present language has the same paragraph
+count as `paragraphKinds`; `paragraphKinds` is well-formed (valid kinds, a
+mandatory `mistake`, a closing `markers` block, mistake-before-markers);
+exactly two exercises of ten questions; every answer is among its options;
+every gap sentence has `___`; unique slugs; and each `sectionSlug` exists.
+This is the guardrail that keeps 9 hand-maintained languages in sync as the
+topic count grows — don't rely on the per-page dev-mode warnings for that,
+they only fire when a human opens that exact page.
+
 ## Scripts
 
 - `npm run dev` — local dev server
-- `npm run build` — typecheck + production build
+- `npm run validate` — content invariants across all topics/languages
+- `npm run build` — validate + typecheck + production build
 - `npm run lint` — oxlint
