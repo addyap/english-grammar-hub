@@ -30,8 +30,8 @@ export interface ExerciseQuestion {
   /** Sentence with the gap written as ___ (may include a (verb) hint). */
   sentence: string;
   answer: string;
-  accept?: string[];
-  options?: string[];
+  /** Clickable choices, including the answer. Every question must have these. */
+  options: string[];
   /** One-line English explanation of why, shown after answering. */
   explanation: string;
 }

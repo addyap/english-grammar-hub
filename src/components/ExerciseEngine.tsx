@@ -1,6 +1,5 @@
 import { useEffect, useRef, useState } from "react";
 import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
 import { CheckCircle, XCircle, RotateCcw } from "lucide-react";
 import FloatingGrammarReference from "@/components/FloatingGrammarReference";
 import type { Exercise, ExerciseQuestion, GrammarTopicContent } from "@/data/types";
@@ -13,12 +12,7 @@ interface ExerciseEngineProps {
 
 const normalize = (s: string) => s.toLowerCase().trim().replace(/['’]/g, "'").replace(/\s+/g, " ");
 
-const isCorrect = (q: ExerciseQuestion, given: string) => {
-  const g = normalize(given);
-  if (!g) return false;
-  if (g === normalize(q.answer)) return true;
-  return (q.accept ?? []).some((a) => g === normalize(a));
-};
+const isCorrect = (q: ExerciseQuestion, given: string) => normalize(given) === normalize(q.answer);
 
 /**
  * Self-correcting, explained 10-question exercise: instant per-question
@@ -28,14 +22,20 @@ const isCorrect = (q: ExerciseQuestion, given: string) => {
 const ExerciseEngine = ({ topic, exercise, storageKey }: ExerciseEngineProps) => {
   const { questions } = exercise;
 
-  if (import.meta.env.DEV && questions.length !== 10) {
-    console.warn(`[ExerciseEngine] "${exercise.title}" has ${questions.length} questions — the rule is exactly 10.`);
+  if (import.meta.env.DEV) {
+    if (questions.length !== 10) {
+      console.warn(`[ExerciseEngine] "${exercise.title}" has ${questions.length} questions — the rule is exactly 10.`);
+    }
+    questions.forEach((q, i) => {
+      if (!q.options.includes(q.answer)) {
+        console.warn(`[ExerciseEngine] "${exercise.title}" question ${i + 1} options don't include the answer.`);
+      }
+    });
   }
 
   const [results, setResults] = useState<({ given: string; good: boolean } | undefined)[]>(() =>
     Array(questions.length).fill(undefined)
   );
-  const [drafts, setDrafts] = useState<string[]>(() => Array(questions.length).fill(""));
   const [best, setBest] = useState<number | null>(null);
   const qRefs = useRef<(HTMLDivElement | null)[]>([]);
 
@@ -82,7 +82,6 @@ const ExerciseEngine = ({ topic, exercise, storageKey }: ExerciseEngineProps) =>
 
   const reset = () => {
     setResults(Array(questions.length).fill(undefined));
-    setDrafts(Array(questions.length).fill(""));
   };
 
   return (
@@ -114,7 +113,7 @@ const ExerciseEngine = ({ topic, exercise, storageKey }: ExerciseEngineProps) =>
               <p className="text-sm text-muted-foreground mb-2">Question {i + 1}</p>
               <p className="font-medium mb-3">{q.sentence}</p>
 
-              {!result && q.options ? (
+              {!result && (
                 <div className="flex flex-wrap gap-2">
                   {q.options.map((opt) => (
                     <Button key={opt} variant="outline" size="sm" onClick={() => answer(i, opt)}>
@@ -122,24 +121,7 @@ const ExerciseEngine = ({ topic, exercise, storageKey }: ExerciseEngineProps) =>
                     </Button>
                   ))}
                 </div>
-              ) : !result ? (
-                <div className="flex gap-2">
-                  <Input
-                    value={drafts[i]}
-                    onChange={(e) => {
-                      const v = e.target.value;
-                      setDrafts((d) => {
-                        const nd = [...d];
-                        nd[i] = v;
-                        return nd;
-                      });
-                    }}
-                    onKeyDown={(e) => e.key === "Enter" && answer(i, drafts[i])}
-                    placeholder="Type your answer"
-                  />
-                  <Button onClick={() => answer(i, drafts[i])}>Check</Button>
-                </div>
-              ) : null}
+              )}
 
               {result && (
                 <div className="mt-2 flex items-start gap-2">
