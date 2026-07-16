@@ -27,6 +27,36 @@ Prepositions of Time, Prepositions of Place (Prepositions). The rest of the
 curriculum in `sections.ts` is scoped but not yet written — same template,
 just more content.
 
+## Explanation template — every topic follows this shape
+
+Every topic's `explanations.en` (and its translations) must cover four
+things, in this order. The number of paragraphs isn't fixed — a topic that's
+really one structure (a tense) fits it in four; a topic that's really a
+small set of parallel rules (prepositions: at/in/on) reasonably needs one
+paragraph per rule before the last two. What must never be skipped or
+reordered is: use and form come first, a common-mistake paragraph always
+exists, and it always comes right before the closing markers paragraph.
+
+1. **Use** — when/why this structure applies (the meaning, not the form).
+2. **Form** — the structural pattern: what changes, what stays the same.
+   (For a multi-rule topic like prepositions, paragraphs 1–2 become one
+   paragraph per rule, since each rule's use and form are the same
+   sentence — see `prepositionsOfTime.ts`.)
+3. **Common mistake** — the single highest-value error, named explicitly and
+   tied to *why* it happens where possible (most often L1 interference —
+   e.g. Romance languages have no do-support, so learners drop or double the
+   auxiliary: "She doesn't plays", "I working"; or a single L1 preposition
+   covering at/in/on causes overuse of one form in English). Always give one
+   wrong vs. right example inline, in English, so it reads the same
+   regardless of which language tab is open. This paragraph is mandatory —
+   never skip it just because a topic doesn't have an auxiliary.
+4. **Markers** — the words/contexts that signal this structure. Time words
+   for tenses; the equivalent trigger words/contexts for anything else
+   (e.g. "if" for conditionals).
+
+See `topics/presentSimple.ts` (single-structure shape) and
+`topics/prepositionsOfTime.ts` (multi-rule shape) for worked examples.
+
 ## Adding a language
 
 Add the code to `LANGUAGES` in `src/data/types.ts` (mark `rtl: true` if
