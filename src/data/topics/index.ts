@@ -4,6 +4,7 @@ import { presentContinuous } from "./presentContinuous";
 import { pastSimple } from "./pastSimple";
 import { prepositionsOfTime } from "./prepositionsOfTime";
 import { prepositionsOfPlace } from "./prepositionsOfPlace";
+import { conditionals } from "./conditionals";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -15,6 +16,7 @@ export const topics: GrammarTopicContent[] = [
   pastSimple,
   prepositionsOfTime,
   prepositionsOfPlace,
+  conditionals,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
