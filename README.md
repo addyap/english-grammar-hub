@@ -8,7 +8,9 @@ self-correcting, explained 10-question exercises in English.
 
 Vite + React + TypeScript + Tailwind + shadcn/ui primitives + react-router-dom.
 No backend — progress (best score per exercise) is stored in `localStorage`.
-Deploys to Vercel with zero config (static build, auto-detected).
+Deploys to Vercel (static build, auto-detected). `vercel.json` rewrites every
+path to `index.html` so react-router deep links survive a refresh — without
+it, reloading any page other than `/` returns Vercel's 404.
 
 ## Content model
 
