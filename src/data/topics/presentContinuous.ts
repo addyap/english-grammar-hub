@@ -7,7 +7,7 @@ export const presentContinuous: GrammarTopicContent = {
   level: "A1",
   explanations: {
     en: [
-      "Use the present continuous for actions happening right now, or temporary situations around the present.",
+      "Use the present continuous for actions happening right now, temporary situations around the present, or fixed future arrangements: I'm meeting Sara tomorrow at 5.",
       "Form: am/is/are + verb-ing. Negatives add 'not'; questions swap the order of the subject and be.",
       "Spelling of the -ing form: most verbs just add -ing (play → playing); a single stressed vowel + consonant doubles the consonant (run → running, stop → stopping); verbs ending in silent -e drop it (make → making); verbs ending in -ie change to -y (lie → lying).",
       "Am, is and are are forms of the auxiliary verb be. They must always be there, even though some languages drop the equivalent: I am working, not I working.",
@@ -15,7 +15,7 @@ export const presentContinuous: GrammarTopicContent = {
       "Typical time words: now, right now, at the moment, these days, currently.",
     ],
     fr: [
-      "Le présent continu sert à décrire des actions en train de se dérouler maintenant, ou des situations temporaires autour du présent.",
+      "Le présent continu sert à décrire des actions en train de se dérouler maintenant, des situations temporaires autour du présent, ou des projets futurs déjà organisés : I'm meeting Sara tomorrow at 5.",
       "Formation : am/is/are + verbe-ing. À la forme négative on ajoute « not » ; à la forme interrogative, on inverse le sujet et be.",
       "Orthographe de la forme en -ing : la plupart des verbes ajoutent simplement -ing (play → playing) ; une voyelle accentuée unique + consonne double la consonne (run → running, stop → stopping) ; les verbes terminés par un -e muet le perdent (make → making) ; les verbes terminés en -ie deviennent -y (lie → lying).",
       "Am, is et are sont des formes de l'auxiliaire be. Ils doivent toujours être présents, même si certaines langues omettent l'équivalent : I am working, et non I working.",
@@ -23,7 +23,7 @@ export const presentContinuous: GrammarTopicContent = {
       "Marqueurs de temps typiques : now, right now, at the moment, these days, currently.",
     ],
     es: [
-      "El presente continuo se usa para acciones que ocurren ahora mismo, o situaciones temporales alrededor del presente.",
+      "El presente continuo se usa para acciones que ocurren ahora mismo, situaciones temporales alrededor del presente, o planes futuros ya organizados: I'm meeting Sara tomorrow at 5.",
       "Forma: am/is/are + verbo-ing. En negativo se añade 'not'; en preguntas se invierte el orden del sujeto y be.",
       "Ortografía de la forma en -ing: la mayoría de los verbos simplemente añaden -ing (play → playing); una única vocal acentuada + consonante duplica la consonante (run → running, stop → stopping); los verbos terminados en -e muda la pierden (make → making); los verbos terminados en -ie cambian a -y (lie → lying).",
       "Am, is y are son formas del verbo auxiliar be. Siempre deben estar presentes, aunque otros idiomas omitan el equivalente: I am working, no I working.",
@@ -31,7 +31,7 @@ export const presentContinuous: GrammarTopicContent = {
       "Marcadores de tiempo típicos: now, right now, at the moment, these days, currently.",
     ],
     pt: [
-      "O presente contínuo é usado para ações que acontecem agora mesmo, ou situações temporárias em torno do presente.",
+      "O presente contínuo é usado para ações que acontecem agora mesmo, situações temporárias em torno do presente, ou planos futuros já combinados: I'm meeting Sara tomorrow at 5.",
       "Forma: am/is/are + verbo-ing. Na negativa acrescenta-se 'not'; nas perguntas inverte-se a ordem do sujeito e do verbo be.",
       "Ortografia da forma em -ing: a maioria dos verbos apenas acrescenta -ing (play → playing); uma única vogal tônica + consoante duplica a consoante (run → running, stop → stopping); verbos terminados em -e mudo perdem-no (make → making); verbos terminados em -ie mudam para -y (lie → lying).",
       "Am, is e are são formas do verbo auxiliar be. Devem estar sempre presentes, mesmo que outras línguas omitam o equivalente: I am working, e não I working.",
@@ -39,7 +39,7 @@ export const presentContinuous: GrammarTopicContent = {
       "Marcadores de tempo típicos: now, right now, at the moment, these days, currently.",
     ],
     it: [
-      "Il present continuous si usa per azioni che stanno accadendo proprio ora, o situazioni temporanee intorno al presente.",
+      "Il present continuous si usa per azioni che stanno accadendo proprio ora, situazioni temporanee intorno al presente, o programmi futuri già organizzati: I'm meeting Sara tomorrow at 5.",
       "Forma: am/is/are + verbo-ing. Al negativo si aggiunge 'not'; nelle domande si invertono soggetto e be.",
       "Ortografia della forma in -ing: la maggior parte dei verbi aggiunge semplicemente -ing (play → playing); una singola vocale accentata + consonante raddoppia la consonante (run → running, stop → stopping); i verbi che terminano con una -e muta la perdono (make → making); i verbi che terminano in -ie diventano -y (lie → lying).",
       "Am, is e are sono forme del verbo ausiliare be. Devono essere sempre presenti, anche se altre lingue omettono l'equivalente: I am working, non I working.",
@@ -47,7 +47,7 @@ export const presentContinuous: GrammarTopicContent = {
       "Indicatori di tempo tipici: now, right now, at the moment, these days, currently.",
     ],
     de: [
-      "Das Present Continuous wird für Handlungen verwendet, die gerade jetzt passieren, oder für vorübergehende Situationen um die Gegenwart.",
+      "Das Present Continuous wird für Handlungen verwendet, die gerade jetzt passieren, für vorübergehende Situationen um die Gegenwart, oder für feste Zukunftspläne: I'm meeting Sara tomorrow at 5.",
       "Form: am/is/are + Verb-ing. Verneinung mit 'not'; bei Fragen werden Subjekt und be vertauscht.",
       "Schreibweise der -ing-Form: die meisten Verben fügen einfach -ing hinzu (play → playing); ein einzelner betonter Vokal + Konsonant verdoppelt den Konsonanten (run → running, stop → stopping); Verben mit stummem -e verlieren es (make → making); Verben, die auf -ie enden, werden zu -y (lie → lying).",
       "Am, is und are sind Formen des Hilfsverbs be. Sie müssen immer stehen, auch wenn andere Sprachen das Äquivalent weglassen: I am working, nicht I working.",
@@ -55,7 +55,7 @@ export const presentContinuous: GrammarTopicContent = {
       "Typische Zeitangaben: now, right now, at the moment, these days, currently.",
     ],
     ru: [
-      "Present Continuous используется для действий, происходящих прямо сейчас, или временных ситуаций вокруг настоящего момента.",
+      "Present Continuous используется для действий, происходящих прямо сейчас, временных ситуаций вокруг настоящего момента, или уже согласованных планов на будущее: I'm meeting Sara tomorrow at 5.",
       "Форма: am/is/are + глагол-ing. В отрицании добавляется 'not'; в вопросе местами меняются подлежащее и be.",
       "Написание формы на -ing: большинство глаголов просто добавляют -ing (play → playing); один ударный гласный + согласная удваивает согласную (run → running, stop → stopping); глаголы с немой -e теряют её (make → making); глаголы на -ie меняются на -y (lie → lying).",
       "Am, is и are — это формы вспомогательного глагола be. Они должны присутствовать всегда, даже если в некоторых языках эквивалент опускается: I am working, а не I working.",
@@ -63,7 +63,7 @@ export const presentContinuous: GrammarTopicContent = {
       "Типичные слова-маркеры: now, right now, at the moment, these days, currently.",
     ],
     ar: [
-      "يُستخدم المضارع المستمر (Present Continuous) للتعبير عن أفعال تحدث الآن، أو مواقف مؤقتة حول الوقت الحاضر.",
+      "يُستخدم المضارع المستمر (Present Continuous) للتعبير عن أفعال تحدث الآن، أو مواقف مؤقتة حول الوقت الحاضر، أو ترتيبات مستقبلية محددة مسبقًا: I'm meeting Sara tomorrow at 5.",
       "الصيغة: am/is/are + الفعل + ing. في النفي نضيف 'not'، وفي السؤال يتم تبديل مكان الفاعل و be.",
       "إملاء صيغة الـ -ing: معظم الأفعال تضيف -ing فقط (play → playing)؛ الحرف المتحرك المشدد الوحيد + الحرف الساكن يُضاعِف الحرف الساكن (run → running، stop → stopping)؛ الأفعال المنتهية بحرف -e الصامت تفقده (make → making)؛ الأفعال المنتهية بـ -ie تتحول إلى -y (lie → lying).",
       "تُعد am و is و are صيغًا للفعل المساعد be، ويجب أن تكون موجودة دائمًا، حتى لو كانت بعض اللغات تحذف ما يقابلها: I am working، وليس I working.",
@@ -71,7 +71,7 @@ export const presentContinuous: GrammarTopicContent = {
       "كلمات زمنية شائعة: now، right now، at the moment، these days، currently.",
     ],
     zh: [
-      "现在进行时用于表达此刻正在发生的动作,或围绕现在的临时状况。",
+      "现在进行时用于表达此刻正在发生的动作、围绕现在的临时状况,或已经安排好的未来计划:I'm meeting Sara tomorrow at 5。",
       "构成:am/is/are + 动词-ing。否定句加 'not';疑问句将主语和 be 动词互换位置。",
       "-ing 形式的拼写规则:大多数动词直接加 -ing(play → playing);单个重读元音字母 + 辅音字母要双写辅音字母(run → running、stop → stopping);以不发音的 -e 结尾的动词要去掉 e(make → making);以 -ie 结尾的动词变为 -y(lie → lying)。",
       "am、is 和 are 是助动词 be 的变化形式,必须始终保留,即使有些语言会省略对应的部分:I am working,而不是 I working。",
