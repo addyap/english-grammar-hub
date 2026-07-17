@@ -1,8 +1,9 @@
 # Grammatica
 
-A simple English grammar reference site: rules explained in French, Spanish,
-Portuguese, Italian, German, Russian, Arabic and Mandarin Chinese, with
-self-correcting, explained 10-question exercises in English.
+**English grammar, in your language.** A simple English grammar reference
+site: rules explained in French, Spanish, Portuguese, Italian, German,
+Russian, Arabic and Mandarin Chinese, with self-correcting, explained
+10-question exercises in English.
 
 ## Stack
 

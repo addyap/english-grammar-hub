@@ -17,11 +17,12 @@ const HomePage = () => {
     <div className="max-w-4xl mx-auto px-6 py-12">
       <header className="mb-12 text-center">
         <Wordmark size="lg" className="mb-6" />
-        <p className="font-serif italic text-xl sm:text-2xl text-foreground max-w-xl mx-auto mb-2">
-          The home of multilingual English grammar clarity.
-        </p>
+        <h1 className="font-serif italic text-xl sm:text-2xl text-foreground max-w-xl mx-auto mb-2">
+          English grammar, in your language
+        </h1>
         <p className="text-muted-foreground max-w-xl mx-auto mb-8">
-          Every rule explained in your language, then practiced in English.
+          Clear rules explained in French, Spanish, Portuguese, Italian, German, Russian, Arabic and
+          Mandarin Chinese, with self-correcting exercises.
         </p>
 
         <div className="flex justify-center gap-3 mb-8">
