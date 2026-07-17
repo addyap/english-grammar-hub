@@ -47,4 +47,5 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "relative-clauses", sectionSlug: "relative-clauses", title: "Relative Clauses", level: "B2", file: "relativeClauses" },
   { slug: "advanced-structures", sectionSlug: "advanced-structures", title: "Advanced Structures", level: "C1", file: "advancedStructures" },
   { slug: "modals-of-deduction", sectionSlug: "modals", title: "Modals of Deduction", level: "B2", file: "modalsOfDeduction" },
+  { slug: "wish-if-only", sectionSlug: "conditionals", title: "Wish & If Only", level: "B2", file: "wishIfOnly" },
 ];
