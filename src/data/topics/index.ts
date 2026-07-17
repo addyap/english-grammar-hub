@@ -2,6 +2,8 @@ import type { GrammarTopicContent } from "../types";
 import { presentSimple } from "./presentSimple";
 import { presentContinuous } from "./presentContinuous";
 import { pastSimple } from "./pastSimple";
+import { pastContinuous } from "./pastContinuous";
+import { presentPerfect } from "./presentPerfect";
 import { prepositionsOfTime } from "./prepositionsOfTime";
 import { prepositionsOfPlace } from "./prepositionsOfPlace";
 import { conditionals } from "./conditionals";
@@ -15,6 +17,8 @@ export const topics: GrammarTopicContent[] = [
   presentSimple,
   presentContinuous,
   pastSimple,
+  pastContinuous,
+  presentPerfect,
   prepositionsOfTime,
   prepositionsOfPlace,
   conditionals,
