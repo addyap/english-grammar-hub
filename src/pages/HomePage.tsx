@@ -1,18 +1,52 @@
 import { Link } from "react-router-dom";
 import { sections } from "@/data/sections";
 import { topicsRegistry } from "@/data/topics/registry";
+import { LANGUAGES } from "@/data/types";
 import { Badge } from "@/components/ui/badge";
+import Wordmark from "@/components/Wordmark";
+
+const EXERCISES_PER_TOPIC = 2;
 
 const HomePage = () => {
+  const languageCount = LANGUAGES.length;
+  const topicCount = topicsRegistry.length;
+  const exerciseCount = topicCount * EXERCISES_PER_TOPIC;
+  const firstSection = sections[0];
+
   return (
     <div className="max-w-4xl mx-auto px-6 py-12">
-      <header className="mb-10 text-center">
-        <h1 className="font-display text-2xl sm:text-3xl font-bold mb-3 text-foreground">
-          Clear grammar rules, explained in your language.
-        </h1>
-        <p className="text-muted-foreground max-w-xl mx-auto">
-          Self-correcting exercises help you practice what you just learned — in English.
+      <header className="mb-12 text-center">
+        <Wordmark size="lg" className="mb-6" />
+        <p className="font-serif italic text-xl sm:text-2xl text-foreground max-w-xl mx-auto mb-2">
+          The home of multilingual English grammar clarity.
         </p>
+        <p className="text-muted-foreground max-w-xl mx-auto mb-8">
+          Every rule explained in your language, then practiced in English.
+        </p>
+
+        <div className="flex justify-center gap-3 mb-8">
+          <div className="bg-card border border-border rounded-lg px-5 py-3 min-w-[92px]">
+            <p className="text-2xl font-bold text-secondary">{languageCount}</p>
+            <p className="text-xs text-muted-foreground">languages</p>
+          </div>
+          <div className="bg-card border border-border rounded-lg px-5 py-3 min-w-[92px]">
+            <p className="text-2xl font-bold text-secondary">{topicCount}</p>
+            <p className="text-xs text-muted-foreground">topics</p>
+          </div>
+          <div className="bg-card border border-border rounded-lg px-5 py-3 min-w-[92px]">
+            <p className="text-2xl font-bold text-secondary">{exerciseCount}</p>
+            <p className="text-xs text-muted-foreground">exercises</p>
+          </div>
+        </div>
+
+        {firstSection && (
+          <Link
+            to={`/section/${firstSection.slug}`}
+            className="inline-block bg-primary text-primary-foreground font-bold text-sm px-5 py-2.5 rounded-lg hover:opacity-90 transition-opacity"
+          >
+            Start with {firstSection.title} →
+          </Link>
+        )}
       </header>
 
       <div className="grid sm:grid-cols-2 gap-4">

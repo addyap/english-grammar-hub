@@ -16,6 +16,7 @@ export default {
         sans: ["Inter", "sans-serif"],
         display: ["Inter Tight", "Inter", "sans-serif"],
         brand: ["'Trebuchet MS'", "Verdana", "sans-serif"],
+        serif: ["Georgia", "'Times New Roman'", "serif"],
       },
       colors: {
         border: "hsl(var(--border))",
