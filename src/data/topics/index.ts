@@ -1,4 +1,5 @@
 import type { GrammarTopicContent } from "../types";
+import { verbBe } from "./verbBe";
 import { presentSimple } from "./presentSimple";
 import { presentContinuous } from "./presentContinuous";
 import { pastSimple } from "./pastSimple";
@@ -22,6 +23,7 @@ import { modals } from "./modals";
  * following the GrammarTopicContent shape, then add it to this array.
  */
 export const topics: GrammarTopicContent[] = [
+  verbBe,
   presentSimple,
   presentContinuous,
   pastSimple,
