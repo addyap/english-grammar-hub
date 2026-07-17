@@ -35,6 +35,7 @@ import { conjunctionsLinking } from "./conjunctionsLinking";
 import { verbPatterns } from "./verbPatterns";
 import { relativeClauses } from "./relativeClauses";
 import { advancedStructures } from "./advancedStructures";
+import { modalsOfDeduction } from "./modalsOfDeduction";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -77,6 +78,7 @@ export const topics: GrammarTopicContent[] = [
   verbPatterns,
   relativeClauses,
   advancedStructures,
+  modalsOfDeduction,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
