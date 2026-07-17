@@ -39,4 +39,5 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "countable-uncountable-nouns", sectionSlug: "nouns-quantity", title: "Countable & Uncountable Nouns", level: "A2", file: "countableUncountable" },
   { slug: "passive-voice", sectionSlug: "passive-voice", title: "Passive Voice", level: "B1", file: "passiveVoice" },
   { slug: "reported-speech", sectionSlug: "reported-speech", title: "Reported Speech", level: "B1", file: "reportedSpeech" },
+  { slug: "questions-auxiliaries", sectionSlug: "questions-auxiliaries", title: "Questions & Auxiliaries", level: "B1", file: "questionsAuxiliaries" },
 ];
