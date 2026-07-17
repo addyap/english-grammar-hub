@@ -41,4 +41,5 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "reported-speech", sectionSlug: "reported-speech", title: "Reported Speech", level: "B1", file: "reportedSpeech" },
   { slug: "questions-auxiliaries", sectionSlug: "questions-auxiliaries", title: "Questions & Auxiliaries", level: "B1", file: "questionsAuxiliaries" },
   { slug: "pronouns-possessives", sectionSlug: "pronouns-possessives", title: "Pronouns & Possessives", level: "A2", file: "pronounsPossessives" },
+  { slug: "adjectives-adverbs", sectionSlug: "adjectives-adverbs", title: "Adjectives & Adverbs", level: "A2", file: "adjectivesAdverbs" },
 ];

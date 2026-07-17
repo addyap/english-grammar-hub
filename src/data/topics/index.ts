@@ -30,6 +30,7 @@ import { passiveVoice } from "./passiveVoice";
 import { reportedSpeech } from "./reportedSpeech";
 import { questionsAuxiliaries } from "./questionsAuxiliaries";
 import { pronounsPossessives } from "./pronounsPossessives";
+import { adjectivesAdverbs } from "./adjectivesAdverbs";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -67,6 +68,7 @@ export const topics: GrammarTopicContent[] = [
   reportedSpeech,
   questionsAuxiliaries,
   pronounsPossessives,
+  adjectivesAdverbs,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
