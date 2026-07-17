@@ -45,4 +45,5 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "conjunctions-linking", sectionSlug: "conjunctions-linking", title: "Conjunctions & Linking Words", level: "B1", file: "conjunctionsLinking" },
   { slug: "verb-patterns", sectionSlug: "verb-patterns", title: "Verb Patterns", level: "B1", file: "verbPatterns" },
   { slug: "relative-clauses", sectionSlug: "relative-clauses", title: "Relative Clauses", level: "B2", file: "relativeClauses" },
+  { slug: "advanced-structures", sectionSlug: "advanced-structures", title: "Advanced Structures", level: "C1", file: "advancedStructures" },
 ];
