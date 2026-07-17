@@ -3,6 +3,8 @@ import { verbBe } from "./verbBe";
 import { wordOrder } from "./wordOrder";
 import { pluralNouns } from "./pluralNouns";
 import { demonstratives } from "./demonstratives";
+import { articlesAThe } from "./articlesAThe";
+import { zeroArticle } from "./zeroArticle";
 import { presentSimple } from "./presentSimple";
 import { presentContinuous } from "./presentContinuous";
 import { pastSimple } from "./pastSimple";
@@ -30,6 +32,8 @@ export const topics: GrammarTopicContent[] = [
   verbBe,
   demonstratives,
   pluralNouns,
+  articlesAThe,
+  zeroArticle,
   presentSimple,
   presentContinuous,
   pastSimple,
