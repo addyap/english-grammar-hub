@@ -35,4 +35,6 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "dependent-prepositions", sectionSlug: "prepositions", title: "Dependent Prepositions", level: "B1", file: "dependentPrepositions" },
   { slug: "conditionals", sectionSlug: "conditionals", title: "Conditionals", level: "B1", file: "conditionals" },
   { slug: "modals", sectionSlug: "modals", title: "Modals", level: "B1", file: "modals" },
+  { slug: "possessive-s", sectionSlug: "nouns-quantity", title: "Possessive 's", level: "A2", file: "possessiveS" },
+  { slug: "countable-uncountable-nouns", sectionSlug: "nouns-quantity", title: "Countable & Uncountable Nouns", level: "A2", file: "countableUncountable" },
 ];

@@ -24,6 +24,8 @@ import { prepositionsOfMovement } from "./prepositionsOfMovement";
 import { dependentPrepositions } from "./dependentPrepositions";
 import { conditionals } from "./conditionals";
 import { modals } from "./modals";
+import { possessiveS } from "./possessiveS";
+import { countableUncountable } from "./countableUncountable";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -55,6 +57,8 @@ export const topics: GrammarTopicContent[] = [
   dependentPrepositions,
   conditionals,
   modals,
+  possessiveS,
+  countableUncountable,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
