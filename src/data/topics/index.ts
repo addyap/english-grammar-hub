@@ -27,6 +27,7 @@ import { modals } from "./modals";
 import { possessiveS } from "./possessiveS";
 import { countableUncountable } from "./countableUncountable";
 import { passiveVoice } from "./passiveVoice";
+import { reportedSpeech } from "./reportedSpeech";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -61,6 +62,7 @@ export const topics: GrammarTopicContent[] = [
   possessiveS,
   countableUncountable,
   passiveVoice,
+  reportedSpeech,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);

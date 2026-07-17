@@ -38,4 +38,5 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "possessive-s", sectionSlug: "nouns-quantity", title: "Possessive 's", level: "A2", file: "possessiveS" },
   { slug: "countable-uncountable-nouns", sectionSlug: "nouns-quantity", title: "Countable & Uncountable Nouns", level: "A2", file: "countableUncountable" },
   { slug: "passive-voice", sectionSlug: "passive-voice", title: "Passive Voice", level: "B1", file: "passiveVoice" },
+  { slug: "reported-speech", sectionSlug: "reported-speech", title: "Reported Speech", level: "B1", file: "reportedSpeech" },
 ];
