@@ -7,9 +7,11 @@ const HomePage = () => {
   return (
     <div className="max-w-4xl mx-auto px-6 py-12">
       <header className="mb-10 text-center">
-        <h1 className="font-display text-3xl sm:text-4xl font-bold mb-3">English Grammar Hub</h1>
+        <h1 className="font-display text-2xl sm:text-3xl font-bold mb-3 text-foreground">
+          Clear grammar rules, explained in your language.
+        </h1>
         <p className="text-muted-foreground max-w-xl mx-auto">
-          Clear grammar rules, explained in your language, with self-correcting exercises in English.
+          Self-correcting exercises help you practice what you just learned — in English.
         </p>
       </header>
 

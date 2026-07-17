@@ -15,6 +15,7 @@ export default {
       fontFamily: {
         sans: ["Inter", "sans-serif"],
         display: ["Inter Tight", "Inter", "sans-serif"],
+        brand: ["'Trebuchet MS'", "Verdana", "sans-serif"],
       },
       colors: {
         border: "hsl(var(--border))",
