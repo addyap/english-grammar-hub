@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { CheckCircle, XCircle, RotateCcw } from "lucide-react";
 import FloatingGrammarReference from "@/components/FloatingGrammarReference";
@@ -13,6 +13,16 @@ interface ExerciseEngineProps {
 const normalize = (s: string) => s.toLowerCase().trim().replace(/['’]/g, "'").replace(/\s+/g, " ");
 
 const isCorrect = (q: ExerciseQuestion, given: string) => normalize(given) === normalize(q.answer);
+
+/** Fisher-Yates shuffle — content data writes the answer first by convention, so option order must never be trusted as-is. */
+const shuffled = <T,>(arr: T[]): T[] => {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+};
 
 /**
  * Self-correcting, explained 10-question exercise: instant per-question
@@ -37,7 +47,14 @@ const ExerciseEngine = ({ topic, exercise, storageKey }: ExerciseEngineProps) =>
     Array(questions.length).fill(undefined)
   );
   const [best, setBest] = useState<number | null>(null);
+  const [shuffleSeed, setShuffleSeed] = useState(0);
   const qRefs = useRef<(HTMLDivElement | null)[]>([]);
+
+  // Recomputes on mount and again on "Try again" — never on every render, so
+  // buttons don't jump around mid-attempt as the user answers questions.
+  // shuffleSeed isn't read in the callback — it's a deliberate cache-buster so "Try again" reshuffles.
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const shuffledOptions = useMemo(() => questions.map((q) => shuffled(q.options)), [questions, shuffleSeed]);
 
   const done = results.filter(Boolean).length;
   const score = results.filter((r) => r?.good).length;
@@ -82,6 +99,7 @@ const ExerciseEngine = ({ topic, exercise, storageKey }: ExerciseEngineProps) =>
 
   const reset = () => {
     setResults(Array(questions.length).fill(undefined));
+    setShuffleSeed((s) => s + 1);
   };
 
   return (
@@ -115,7 +133,7 @@ const ExerciseEngine = ({ topic, exercise, storageKey }: ExerciseEngineProps) =>
 
               {!result && (
                 <div className="flex flex-wrap gap-2">
-                  {q.options.map((opt) => (
+                  {shuffledOptions[i].map((opt) => (
                     <Button key={opt} variant="outline" size="sm" onClick={() => answer(i, opt)}>
                       {opt}
                     </Button>
