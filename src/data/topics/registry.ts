@@ -43,4 +43,5 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "pronouns-possessives", sectionSlug: "pronouns-possessives", title: "Pronouns & Possessives", level: "A2", file: "pronounsPossessives" },
   { slug: "adjectives-adverbs", sectionSlug: "adjectives-adverbs", title: "Adjectives & Adverbs", level: "A2", file: "adjectivesAdverbs" },
   { slug: "conjunctions-linking", sectionSlug: "conjunctions-linking", title: "Conjunctions & Linking Words", level: "B1", file: "conjunctionsLinking" },
+  { slug: "verb-patterns", sectionSlug: "verb-patterns", title: "Verb Patterns", level: "B1", file: "verbPatterns" },
 ];
