@@ -37,4 +37,5 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "modals", sectionSlug: "modals", title: "Modals", level: "B1", file: "modals" },
   { slug: "possessive-s", sectionSlug: "nouns-quantity", title: "Possessive 's", level: "A2", file: "possessiveS" },
   { slug: "countable-uncountable-nouns", sectionSlug: "nouns-quantity", title: "Countable & Uncountable Nouns", level: "A2", file: "countableUncountable" },
+  { slug: "passive-voice", sectionSlug: "passive-voice", title: "Passive Voice", level: "B1", file: "passiveVoice" },
 ];
