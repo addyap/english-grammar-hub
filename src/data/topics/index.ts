@@ -7,6 +7,7 @@ import { presentPerfect } from "./presentPerfect";
 import { presentPerfectContinuous } from "./presentPerfectContinuous";
 import { pastPerfect } from "./pastPerfect";
 import { futureWillGoingTo } from "./futureWillGoingTo";
+import { futureContinuous } from "./futureContinuous";
 import { prepositionsOfTime } from "./prepositionsOfTime";
 import { prepositionsOfPlace } from "./prepositionsOfPlace";
 import { conditionals } from "./conditionals";
@@ -25,6 +26,7 @@ export const topics: GrammarTopicContent[] = [
   presentPerfectContinuous,
   pastPerfect,
   futureWillGoingTo,
+  futureContinuous,
   prepositionsOfTime,
   prepositionsOfPlace,
   conditionals,
