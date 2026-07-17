@@ -9,6 +9,7 @@
  * the build instead, so a mismatched topic can't ship.
  */
 import { topics } from "../src/data/topics";
+import { topicsRegistry } from "../src/data/topics/registry";
 import { LANGUAGES, type ExplanationParagraph, type ExplanationParagraphKind } from "../src/data/types";
 import { sections } from "../src/data/sections";
 
@@ -81,6 +82,28 @@ for (const t of topics) {
       if (!q.explanation?.trim()) fail(`exercise "${exLabel}" Q${qi + 1} missing explanation`);
     });
   });
+}
+
+// --- registry.ts (the lightweight, browser-loaded mirror used for lazy
+// loading) must stay in exact sync with topics/index.ts (the eager,
+// Node-only source of truth) — drift here means either a topic never shows
+// up in lists (HomePage/SectionPage), or its dynamic import 404s.
+{
+  const byRegistrySlug = new Map(topicsRegistry.map((r) => [r.slug, r]));
+  for (const t of topics) {
+    const r = byRegistrySlug.get(t.slug);
+    if (!r) {
+      errors.push(`${t.slug}: missing from topics/registry.ts — HomePage/SectionPage counts and lazy-loading will be wrong`);
+      continue;
+    }
+    if (r.sectionSlug !== t.sectionSlug) errors.push(`${t.slug}: registry.ts sectionSlug "${r.sectionSlug}" doesn't match topic's "${t.sectionSlug}"`);
+    if (r.title !== t.title) errors.push(`${t.slug}: registry.ts title "${r.title}" doesn't match topic's "${t.title}"`);
+    if (r.level !== t.level) errors.push(`${t.slug}: registry.ts level "${r.level}" doesn't match topic's "${t.level}"`);
+  }
+  const byTopicSlug = new Set(topics.map((t) => t.slug));
+  for (const r of topicsRegistry) {
+    if (!byTopicSlug.has(r.slug)) errors.push(`registry.ts has a stale entry for slug "${r.slug}" — no matching topic in topics/index.ts`);
+  }
 }
 
 if (errors.length) {

@@ -1,15 +1,24 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { getTopic } from "@/data/topics";
+import { loadTopic } from "@/data/topics/lazy";
 import { sections } from "@/data/sections";
 import { Badge } from "@/components/ui/badge";
 import ExplanationParagraphs from "@/components/ExplanationParagraphs";
-import { LANGUAGES, type LanguageCode } from "@/data/types";
+import { LANGUAGES, type LanguageCode, type GrammarTopicContent } from "@/data/types";
 
 const TopicPage = () => {
   const { topicSlug } = useParams<{ topicSlug: string }>();
-  const topic = getTopic(topicSlug ?? "");
+  const [topic, setTopic] = useState<GrammarTopicContent | null | undefined>(undefined);
   const [lang, setLang] = useState<LanguageCode>("en");
+
+  useEffect(() => {
+    setTopic(undefined);
+    loadTopic(topicSlug ?? "").then((t) => setTopic(t ?? null));
+  }, [topicSlug]);
+
+  if (topic === undefined) {
+    return <div className="max-w-2xl mx-auto px-6 py-12" />;
+  }
 
   if (!topic) {
     return (

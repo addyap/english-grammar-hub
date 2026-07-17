@@ -26,12 +26,16 @@ Everything lives under `src/data`:
   paragraph count and meaning-per-index must already match 1:1), and
   exactly two 10-question exercises.
 - `topics/*.ts` — one file per built topic. Add a new grammar point by
-  creating a file in this shape and registering it in `topics/index.ts`.
+  creating a file in this shape, then registering it in **two** places:
+  `topics/index.ts` (the eager list, imported only by `scripts/validate.ts`)
+  and `topics/registry.ts` (the lightweight `{slug, sectionSlug, title,
+  level, file}` mirror that ships to the browser — see "Code splitting"
+  below). `npm run validate` fails the build if the two ever disagree.
 
-Currently built: Present Simple, Present Continuous, Past Simple (Tenses),
-Prepositions of Time, Prepositions of Place (Prepositions). The rest of the
-curriculum in `sections.ts` is scoped but not yet written — same template,
-just more content.
+The curriculum in `sections.ts` is being built out section by section —
+check the homepage for current coverage. Sections with no topics yet render
+as "coming soon"; a section stays open until every topic on its roadmap is
+built, same template each time, just more content.
 
 ## Explanation template — every topic follows this shape
 
@@ -87,6 +91,26 @@ See `topics/presentSimple.ts` (single-structure shape, includes a bulleted
 spelling-rule paragraph) and `topics/prepositionsOfTime.ts` (multi-rule
 shape) for worked examples.
 
+## Code splitting
+
+`topics/index.ts` eagerly imports every topic — that's fine for
+`scripts/validate.ts` (a Node script, never shipped) but would bundle every
+topic's 9-language content into one browser chunk if any page imported it
+directly. Pages don't: `HomePage`/`SectionPage` import `topics/registry.ts`
+(bytes, not kilobytes, per topic — just enough for lists and counts), and
+`TopicPage`/`ExercisePage` call `loadTopic(slug)` from `topics/lazy.ts`,
+which uses `import.meta.glob` so Vite emits one chunk per topic file,
+fetched only when that topic's page is actually visited. Both page
+components hold the topic in `useState<GrammarTopicContent | null |
+undefined>` (`undefined` = loading, `null` = not found) since the load is
+now async. `loadTopic()` resolves a slug to a file via `registry.ts` — a
+topic missing from `registry.ts` doesn't just fall out of `HomePage`/
+`SectionPage` listings, its own `TopicPage`/`ExercisePage` renders "not
+found" too, since there's no other way to find its file. `scripts/
+validate.ts` catches this by diffing `registry.ts` against `topics/
+index.ts` on every build, so a forgotten registration fails CI instead of
+shipping a dead link.
+
 ## Adding a language
 
 Add the code to `LANGUAGES` in `src/data/types.ts` (mark `rtl: true` if
@@ -110,10 +134,12 @@ instead of shipping. It checks: every present language has the same paragraph
 count as `paragraphKinds`; `paragraphKinds` is well-formed (valid kinds, a
 mandatory `mistake`, a closing `markers` block, mistake-before-markers);
 exactly two exercises of ten questions; every answer is among its options;
-every gap sentence has `___`; unique slugs; and each `sectionSlug` exists.
-This is the guardrail that keeps 9 hand-maintained languages in sync as the
-topic count grows — don't rely on the per-page dev-mode warnings for that,
-they only fire when a human opens that exact page.
+every gap sentence has `___`; unique slugs; each `sectionSlug` exists; and
+`topics/registry.ts` exactly matches `topics/index.ts` (see "Code
+splitting"). This is the guardrail that keeps 9 hand-maintained languages
+and two parallel topic registrations in sync as the topic count grows —
+don't rely on the per-page dev-mode warnings for that, they only fire when
+a human opens that exact page.
 
 ## Scripts
 

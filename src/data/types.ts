@@ -68,3 +68,19 @@ export interface GrammarTopicContent {
   paragraphKinds: ExplanationParagraphKind[];
   exercises: [Exercise, Exercise];
 }
+
+/**
+ * Lightweight, browser-safe topic metadata — no explanations/exercises, so
+ * every entry costs bytes, not kilobytes. HomePage and SectionPage import
+ * this (via topics/registry.ts) instead of the full topic content, which
+ * is lazy-loaded per-topic only when its page is actually visited. `file`
+ * is the topic module's basename under src/data/topics/, used to resolve
+ * the dynamic import.
+ */
+export interface TopicRegistryEntry {
+  slug: string;
+  sectionSlug: string;
+  title: string;
+  level: CEFRLevel;
+  file: string;
+}

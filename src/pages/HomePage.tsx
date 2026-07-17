@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { sections } from "@/data/sections";
-import { getTopicsForSection } from "@/data/topics";
+import { topicsRegistry } from "@/data/topics/registry";
 import { Badge } from "@/components/ui/badge";
 
 const HomePage = () => {
@@ -15,7 +15,7 @@ const HomePage = () => {
 
       <div className="grid sm:grid-cols-2 gap-4">
         {sections.map((section) => {
-          const topics = getTopicsForSection(section.slug);
+          const topics = topicsRegistry.filter((t) => t.sectionSlug === section.slug);
           return (
             <Link
               key={section.slug}

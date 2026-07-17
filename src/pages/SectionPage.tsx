@@ -1,12 +1,12 @@
 import { Link, useParams } from "react-router-dom";
 import { sections } from "@/data/sections";
-import { getTopicsForSection } from "@/data/topics";
+import { topicsRegistry } from "@/data/topics/registry";
 import { Badge } from "@/components/ui/badge";
 
 const SectionPage = () => {
   const { sectionSlug } = useParams<{ sectionSlug: string }>();
   const section = sections.find((s) => s.slug === sectionSlug);
-  const topics = getTopicsForSection(sectionSlug ?? "");
+  const topics = topicsRegistry.filter((t) => t.sectionSlug === sectionSlug);
 
   if (!section) {
     return (
