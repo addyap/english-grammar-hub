@@ -5,6 +5,8 @@ import { pluralNouns } from "./pluralNouns";
 import { demonstratives } from "./demonstratives";
 import { articlesAThe } from "./articlesAThe";
 import { zeroArticle } from "./zeroArticle";
+import { someAny } from "./someAny";
+import { quantifiers } from "./quantifiers";
 import { presentSimple } from "./presentSimple";
 import { presentContinuous } from "./presentContinuous";
 import { pastSimple } from "./pastSimple";
@@ -34,6 +36,8 @@ export const topics: GrammarTopicContent[] = [
   pluralNouns,
   articlesAThe,
   zeroArticle,
+  someAny,
+  quantifiers,
   presentSimple,
   presentContinuous,
   pastSimple,
