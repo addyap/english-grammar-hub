@@ -12,6 +12,7 @@ import { futureContinuous } from "./futureContinuous";
 import { futurePerfect } from "./futurePerfect";
 import { prepositionsOfTime } from "./prepositionsOfTime";
 import { prepositionsOfPlace } from "./prepositionsOfPlace";
+import { prepositionsOfMovement } from "./prepositionsOfMovement";
 import { conditionals } from "./conditionals";
 import { modals } from "./modals";
 
@@ -33,6 +34,7 @@ export const topics: GrammarTopicContent[] = [
   futurePerfect,
   prepositionsOfTime,
   prepositionsOfPlace,
+  prepositionsOfMovement,
   conditionals,
   modals,
 ];
