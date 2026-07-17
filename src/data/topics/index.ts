@@ -1,6 +1,7 @@
 import type { GrammarTopicContent } from "../types";
 import { verbBe } from "./verbBe";
 import { pluralNouns } from "./pluralNouns";
+import { demonstratives } from "./demonstratives";
 import { presentSimple } from "./presentSimple";
 import { presentContinuous } from "./presentContinuous";
 import { pastSimple } from "./pastSimple";
@@ -26,6 +27,7 @@ import { modals } from "./modals";
 export const topics: GrammarTopicContent[] = [
   verbBe,
   pluralNouns,
+  demonstratives,
   presentSimple,
   presentContinuous,
   pastSimple,
