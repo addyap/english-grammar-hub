@@ -5,6 +5,7 @@ import { pastSimple } from "./pastSimple";
 import { prepositionsOfTime } from "./prepositionsOfTime";
 import { prepositionsOfPlace } from "./prepositionsOfPlace";
 import { conditionals } from "./conditionals";
+import { modals } from "./modals";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -17,6 +18,7 @@ export const topics: GrammarTopicContent[] = [
   prepositionsOfTime,
   prepositionsOfPlace,
   conditionals,
+  modals,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
