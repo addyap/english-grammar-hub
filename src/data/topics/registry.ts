@@ -53,4 +53,8 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "make-let-help", sectionSlug: "verb-patterns", title: "Make, Let & Help", level: "B1", file: "makeLetHelp" },
   { slug: "passive-reporting", sectionSlug: "passive-voice", title: "It Is Said That…", level: "C1", file: "passiveReporting" },
   { slug: "both-either-neither", sectionSlug: "conjunctions-linking", title: "Both, Either, Neither", level: "B1", file: "bothEitherNeither" },
+  { slug: "negative-questions", sectionSlug: "questions-auxiliaries", title: "Negative Questions", level: "B2", file: "negativeQuestions" },
+  { slug: "reported-commands", sectionSlug: "reported-speech", title: "Reported Commands & Requests", level: "B1", file: "reportedCommands" },
+  { slug: "relative-prepositions", sectionSlug: "relative-clauses", title: "Whom & Prepositions in Relative Clauses", level: "C1", file: "relativePrepositions" },
+  { slug: "participle-clauses", sectionSlug: "advanced-structures", title: "Participle Clauses", level: "C1", file: "participleClauses" },
 ];

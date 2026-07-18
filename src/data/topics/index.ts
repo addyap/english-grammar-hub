@@ -42,6 +42,10 @@ import { indefinitePronouns } from "./indefinitePronouns";
 import { makeLetHelp } from "./makeLetHelp";
 import { passiveReporting } from "./passiveReporting";
 import { bothEitherNeither } from "./bothEitherNeither";
+import { negativeQuestions } from "./negativeQuestions";
+import { reportedCommands } from "./reportedCommands";
+import { relativePrepositions } from "./relativePrepositions";
+import { participleClauses } from "./participleClauses";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -91,6 +95,10 @@ export const topics: GrammarTopicContent[] = [
   makeLetHelp,
   passiveReporting,
   bothEitherNeither,
+  negativeQuestions,
+  reportedCommands,
+  relativePrepositions,
+  participleClauses,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
