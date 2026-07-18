@@ -63,6 +63,9 @@ import { asLongAsProvidedInCase } from "./asLongAsProvidedInCase";
 import { indirectPassiveTwoObjects } from "./indirectPassiveTwoObjects";
 import { prepositionsInWhQuestions } from "./prepositionsInWhQuestions";
 import { subjunctiveMood } from "./subjunctiveMood";
+import { soNotSubstitution } from "./soNotSubstitution";
+import { theMoreTheMore } from "./theMoreTheMore";
+import { purposeClauses } from "./purposeClauses";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -133,6 +136,9 @@ export const topics: GrammarTopicContent[] = [
   indirectPassiveTwoObjects,
   prepositionsInWhQuestions,
   subjunctiveMood,
+  soNotSubstitution,
+  theMoreTheMore,
+  purposeClauses,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);

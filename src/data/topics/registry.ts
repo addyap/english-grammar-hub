@@ -74,4 +74,7 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "indirect-passive-two-objects", sectionSlug: "passive-voice", title: "Indirect Passive: Verbs with Two Objects", level: "B2", file: "indirectPassiveTwoObjects" },
   { slug: "prepositions-in-wh-questions", sectionSlug: "questions-auxiliaries", title: "Prepositions in Wh-Questions", level: "B1", file: "prepositionsInWhQuestions" },
   { slug: "subjunctive-mood", sectionSlug: "advanced-structures", title: "The Subjunctive Mood", level: "C1", file: "subjunctiveMood" },
+  { slug: "so-not-substitution", sectionSlug: "conjunctions-linking", title: "So / Not as Substitutes for a Clause", level: "B1", file: "soNotSubstitution" },
+  { slug: "the-more-the-more", sectionSlug: "adjectives-adverbs", title: "The More... The More (Double Comparatives)", level: "B1", file: "theMoreTheMore" },
+  { slug: "purpose-clauses-to-in-order-to", sectionSlug: "verb-patterns", title: "Purpose Clauses: To, In Order To & So As To", level: "B1", file: "purposeClauses" },
 ];
