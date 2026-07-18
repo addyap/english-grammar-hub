@@ -50,4 +50,5 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "wish-if-only", sectionSlug: "conditionals", title: "Wish & If Only", level: "B2", file: "wishIfOnly" },
   { slug: "too-enough", sectionSlug: "adjectives-adverbs", title: "Too & Enough", level: "A2", file: "tooEnough" },
   { slug: "indefinite-pronouns", sectionSlug: "pronouns-possessives", title: "Somebody, Anything, Nowhere", level: "A2", file: "indefinitePronouns" },
+  { slug: "make-let-help", sectionSlug: "verb-patterns", title: "Make, Let & Help", level: "B1", file: "makeLetHelp" },
 ];
