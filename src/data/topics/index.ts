@@ -79,6 +79,9 @@ import { adverbsOfDegree } from "./adverbsOfDegree";
 import { partitiveStructures } from "./partitiveStructures";
 import { byVsUntil } from "./byVsUntil";
 import { prepositionsOfTransport } from "./prepositionsOfTransport";
+import { itAsEmptySubject } from "./itAsEmptySubject";
+import { shallOffersSuggestions } from "./shallOffersSuggestions";
+import { reflexivePronounsEmphasis } from "./reflexivePronounsEmphasis";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -165,6 +168,9 @@ export const topics: GrammarTopicContent[] = [
   partitiveStructures,
   byVsUntil,
   prepositionsOfTransport,
+  itAsEmptySubject,
+  shallOffersSuggestions,
+  reflexivePronounsEmphasis,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);

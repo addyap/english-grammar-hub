@@ -90,4 +90,7 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "partitive-structures", sectionSlug: "nouns-quantity", title: "Partitive Structures: A Piece of, A Bit of, A Loaf of...", level: "A2", file: "partitiveStructures" },
   { slug: "by-vs-until", sectionSlug: "prepositions", title: "By vs Until", level: "B1", file: "byVsUntil" },
   { slug: "prepositions-of-transport", sectionSlug: "prepositions", title: "Prepositions with Transport: In, On & At", level: "A2", file: "prepositionsOfTransport" },
+  { slug: "it-as-empty-subject", sectionSlug: "sentence-basics", title: "It as an Empty Subject", level: "A2", file: "itAsEmptySubject" },
+  { slug: "shall-offers-suggestions", sectionSlug: "modals", title: "Shall for Offers and Suggestions", level: "A2", file: "shallOffersSuggestions" },
+  { slug: "reflexive-pronouns-emphasis", sectionSlug: "pronouns-possessives", title: "Reflexive Pronouns for Emphasis", level: "B1", file: "reflexivePronounsEmphasis" },
 ];
