@@ -70,4 +70,8 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "during-while-for", sectionSlug: "prepositions", title: "During, While & For", level: "B1", file: "duringWhileFor" },
   { slug: "each-other-one-another", sectionSlug: "pronouns-possessives", title: "Each Other & One Another", level: "A2", file: "eachOtherOneAnother" },
   { slug: "nominal-relative-what", sectionSlug: "relative-clauses", title: "What as a Relative Pronoun", level: "C1", file: "nominalRelativeWhat" },
+  { slug: "as-long-as-provided-in-case", sectionSlug: "conditionals", title: "As Long As, Provided That & In Case", level: "B1", file: "asLongAsProvidedInCase" },
+  { slug: "indirect-passive-two-objects", sectionSlug: "passive-voice", title: "Indirect Passive: Verbs with Two Objects", level: "B2", file: "indirectPassiveTwoObjects" },
+  { slug: "prepositions-in-wh-questions", sectionSlug: "questions-auxiliaries", title: "Prepositions in Wh-Questions", level: "B1", file: "prepositionsInWhQuestions" },
+  { slug: "subjunctive-mood", sectionSlug: "advanced-structures", title: "The Subjunctive Mood", level: "C1", file: "subjunctiveMood" },
 ];

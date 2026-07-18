@@ -59,6 +59,10 @@ import { edIngAdjectives } from "./edIngAdjectives";
 import { duringWhileFor } from "./duringWhileFor";
 import { eachOtherOneAnother } from "./eachOtherOneAnother";
 import { nominalRelativeWhat } from "./nominalRelativeWhat";
+import { asLongAsProvidedInCase } from "./asLongAsProvidedInCase";
+import { indirectPassiveTwoObjects } from "./indirectPassiveTwoObjects";
+import { prepositionsInWhQuestions } from "./prepositionsInWhQuestions";
+import { subjunctiveMood } from "./subjunctiveMood";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -125,6 +129,10 @@ export const topics: GrammarTopicContent[] = [
   duringWhileFor,
   eachOtherOneAnother,
   nominalRelativeWhat,
+  asLongAsProvidedInCase,
+  indirectPassiveTwoObjects,
+  prepositionsInWhQuestions,
+  subjunctiveMood,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
