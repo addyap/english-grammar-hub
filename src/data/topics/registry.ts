@@ -77,4 +77,8 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "so-not-substitution", sectionSlug: "conjunctions-linking", title: "So / Not as Substitutes for a Clause", level: "B1", file: "soNotSubstitution" },
   { slug: "the-more-the-more", sectionSlug: "adjectives-adverbs", title: "The More... The More (Double Comparatives)", level: "B1", file: "theMoreTheMore" },
   { slug: "purpose-clauses-to-in-order-to", sectionSlug: "verb-patterns", title: "Purpose Clauses: To, In Order To & So As To", level: "B1", file: "purposeClauses" },
+  { slug: "neednt-have-didnt-need-to", sectionSlug: "modals", title: "Needn't Have vs Didn't Need To", level: "C1", file: "neednHaveDidntNeedTo" },
+  { slug: "compound-nouns", sectionSlug: "nouns-quantity", title: "Compound Nouns", level: "B1", file: "compoundNouns" },
+  { slug: "one-ones-substitute", sectionSlug: "pronouns-possessives", title: "One / Ones as Substitute Pronouns", level: "A2", file: "oneOnesSubstitute" },
+  { slug: "inverted-conditionals", sectionSlug: "conditionals", title: "Inverted Conditionals: Were, Had & Should", level: "C1", file: "invertedConditionals" },
 ];

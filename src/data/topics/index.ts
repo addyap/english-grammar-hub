@@ -66,6 +66,10 @@ import { subjunctiveMood } from "./subjunctiveMood";
 import { soNotSubstitution } from "./soNotSubstitution";
 import { theMoreTheMore } from "./theMoreTheMore";
 import { purposeClauses } from "./purposeClauses";
+import { neednHaveDidntNeedTo } from "./neednHaveDidntNeedTo";
+import { compoundNouns } from "./compoundNouns";
+import { oneOnesSubstitute } from "./oneOnesSubstitute";
+import { invertedConditionals } from "./invertedConditionals";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -139,6 +143,10 @@ export const topics: GrammarTopicContent[] = [
   soNotSubstitution,
   theMoreTheMore,
   purposeClauses,
+  neednHaveDidntNeedTo,
+  compoundNouns,
+  oneOnesSubstitute,
+  invertedConditionals,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
