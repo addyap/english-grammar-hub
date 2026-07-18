@@ -73,6 +73,8 @@ import { invertedConditionals } from "./invertedConditionals";
 import { needIngPassiveGerund } from "./needIngPassiveGerund";
 import { doMainVerbVsAuxiliary } from "./doMainVerbVsAuxiliary";
 import { sayTellTalkSpeak } from "./sayTellTalkSpeak";
+import { whoeverWhateverWhichever } from "./whoeverWhateverWhichever";
+import { absoluteConstructionsWith } from "./absoluteConstructionsWith";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -153,6 +155,8 @@ export const topics: GrammarTopicContent[] = [
   needIngPassiveGerund,
   doMainVerbVsAuxiliary,
   sayTellTalkSpeak,
+  whoeverWhateverWhichever,
+  absoluteConstructionsWith,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);

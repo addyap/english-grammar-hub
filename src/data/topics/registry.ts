@@ -84,4 +84,6 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "need-ing-passive-gerund", sectionSlug: "passive-voice", title: "Need + -ing (Passive Gerund)", level: "B2", file: "needIngPassiveGerund" },
   { slug: "do-main-verb-vs-auxiliary", sectionSlug: "questions-auxiliaries", title: "Do as a Main Verb vs Auxiliary Do", level: "B1", file: "doMainVerbVsAuxiliary" },
   { slug: "say-tell-talk-speak", sectionSlug: "reported-speech", title: "Say, Tell, Talk & Speak", level: "A2", file: "sayTellTalkSpeak" },
+  { slug: "whoever-whatever-whichever", sectionSlug: "relative-clauses", title: "Whoever, Whatever & Whichever", level: "B2", file: "whoeverWhateverWhichever" },
+  { slug: "absolute-constructions-with", sectionSlug: "advanced-structures", title: "Absolute Constructions: With + Noun + Participle", level: "C1", file: "absoluteConstructionsWith" },
 ];
