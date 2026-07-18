@@ -49,4 +49,5 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "modals-of-deduction", sectionSlug: "modals", title: "Modals of Deduction", level: "B2", file: "modalsOfDeduction" },
   { slug: "wish-if-only", sectionSlug: "conditionals", title: "Wish & If Only", level: "B2", file: "wishIfOnly" },
   { slug: "too-enough", sectionSlug: "adjectives-adverbs", title: "Too & Enough", level: "A2", file: "tooEnough" },
+  { slug: "indefinite-pronouns", sectionSlug: "pronouns-possessives", title: "Somebody, Anything, Nowhere", level: "A2", file: "indefinitePronouns" },
 ];
