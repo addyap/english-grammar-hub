@@ -95,4 +95,6 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "reflexive-pronouns-emphasis", sectionSlug: "pronouns-possessives", title: "Reflexive Pronouns for Emphasis", level: "B1", file: "reflexivePronounsEmphasis" },
   { slug: "possessive-gerund", sectionSlug: "verb-patterns", title: "Possessive + Gerund", level: "B2", file: "possessiveGerund" },
   { slug: "countable-uncountable-meaning-shift", sectionSlug: "nouns-quantity", title: "Nouns That Change Meaning: Countable vs Uncountable", level: "B1", file: "countableUncountableMeaningShift" },
+  { slug: "reason-clauses-as-since-because", sectionSlug: "conjunctions-linking", title: "Reason Clauses: As, Since & Because", level: "B1", file: "reasonClauses" },
+  { slug: "passive-questions", sectionSlug: "passive-voice", title: "Passive Questions", level: "B1", file: "passiveQuestions" },
 ];

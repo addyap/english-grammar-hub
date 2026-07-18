@@ -84,6 +84,8 @@ import { shallOffersSuggestions } from "./shallOffersSuggestions";
 import { reflexivePronounsEmphasis } from "./reflexivePronounsEmphasis";
 import { possessiveGerund } from "./possessiveGerund";
 import { countableUncountableMeaningShift } from "./countableUncountableMeaningShift";
+import { reasonClauses } from "./reasonClauses";
+import { passiveQuestions } from "./passiveQuestions";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -175,6 +177,8 @@ export const topics: GrammarTopicContent[] = [
   reflexivePronounsEmphasis,
   possessiveGerund,
   countableUncountableMeaningShift,
+  reasonClauses,
+  passiveQuestions,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
