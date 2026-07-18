@@ -86,4 +86,6 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "say-tell-talk-speak", sectionSlug: "reported-speech", title: "Say, Tell, Talk & Speak", level: "A2", file: "sayTellTalkSpeak" },
   { slug: "whoever-whatever-whichever", sectionSlug: "relative-clauses", title: "Whoever, Whatever & Whichever", level: "B2", file: "whoeverWhateverWhichever" },
   { slug: "absolute-constructions-with", sectionSlug: "advanced-structures", title: "Absolute Constructions: With + Noun + Participle", level: "C1", file: "absoluteConstructionsWith" },
+  { slug: "adverbs-of-degree-fairly-rather-quite", sectionSlug: "adjectives-adverbs", title: "Adverbs of Degree: Fairly, Rather, Quite & Pretty", level: "B1", file: "adverbsOfDegree" },
+  { slug: "partitive-structures", sectionSlug: "nouns-quantity", title: "Partitive Structures: A Piece of, A Bit of, A Loaf of...", level: "A2", file: "partitiveStructures" },
 ];

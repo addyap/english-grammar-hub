@@ -75,6 +75,8 @@ import { doMainVerbVsAuxiliary } from "./doMainVerbVsAuxiliary";
 import { sayTellTalkSpeak } from "./sayTellTalkSpeak";
 import { whoeverWhateverWhichever } from "./whoeverWhateverWhichever";
 import { absoluteConstructionsWith } from "./absoluteConstructionsWith";
+import { adverbsOfDegree } from "./adverbsOfDegree";
+import { partitiveStructures } from "./partitiveStructures";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -157,6 +159,8 @@ export const topics: GrammarTopicContent[] = [
   sayTellTalkSpeak,
   whoeverWhateverWhichever,
   absoluteConstructionsWith,
+  adverbsOfDegree,
+  partitiveStructures,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
