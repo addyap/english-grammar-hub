@@ -65,4 +65,6 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "like-vs-as", sectionSlug: "prepositions", title: "Like vs As", level: "B1", file: "likeVsAs" },
   { slug: "there-is-there-are", sectionSlug: "sentence-basics", title: "There Is / There Are", level: "A1", file: "thereIsAre" },
   { slug: "each-every-all-whole", sectionSlug: "articles-determiners", title: "Each vs Every, All vs Whole", level: "B1", file: "eachEveryAllWhole" },
+  { slug: "used-to-would", sectionSlug: "tenses", title: "Used to & Would for Past Habits", level: "B1", file: "usedToWould" },
+  { slug: "ed-ing-adjectives", sectionSlug: "adjectives-adverbs", title: "-ed vs -ing Adjectives", level: "B1", file: "edIngAdjectives" },
 ];

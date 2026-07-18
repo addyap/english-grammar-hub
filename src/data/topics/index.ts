@@ -54,6 +54,8 @@ import { collectiveNouns } from "./collectiveNouns";
 import { likeVsAs } from "./likeVsAs";
 import { thereIsAre } from "./thereIsAre";
 import { eachEveryAllWhole } from "./eachEveryAllWhole";
+import { usedToWould } from "./usedToWould";
+import { edIngAdjectives } from "./edIngAdjectives";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -115,6 +117,8 @@ export const topics: GrammarTopicContent[] = [
   likeVsAs,
   thereIsAre,
   eachEveryAllWhole,
+  usedToWould,
+  edIngAdjectives,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
