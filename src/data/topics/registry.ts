@@ -102,4 +102,6 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "mustnt-vs-dont-have-to", sectionSlug: "modals", title: "Mustn't vs Don't Have To", level: "B1", file: "mustntVsDontHaveTo" },
   { slug: "would-rather", sectionSlug: "modals", title: "Would Rather", level: "B1", file: "wouldRather" },
   { slug: "had-better", sectionSlug: "modals", title: "Had Better", level: "B1", file: "hadBetter" },
+  { slug: "ellipsis", sectionSlug: "advanced-structures", title: "Ellipsis: Omitting Repeated Words", level: "C1", file: "ellipsis" },
+  { slug: "get-passive", sectionSlug: "passive-voice", title: "The Get-Passive", level: "B2", file: "getPassive" },
 ];
