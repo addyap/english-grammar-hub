@@ -81,4 +81,7 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "compound-nouns", sectionSlug: "nouns-quantity", title: "Compound Nouns", level: "B1", file: "compoundNouns" },
   { slug: "one-ones-substitute", sectionSlug: "pronouns-possessives", title: "One / Ones as Substitute Pronouns", level: "A2", file: "oneOnesSubstitute" },
   { slug: "inverted-conditionals", sectionSlug: "conditionals", title: "Inverted Conditionals: Were, Had & Should", level: "C1", file: "invertedConditionals" },
+  { slug: "need-ing-passive-gerund", sectionSlug: "passive-voice", title: "Need + -ing (Passive Gerund)", level: "B2", file: "needIngPassiveGerund" },
+  { slug: "do-main-verb-vs-auxiliary", sectionSlug: "questions-auxiliaries", title: "Do as a Main Verb vs Auxiliary Do", level: "B1", file: "doMainVerbVsAuxiliary" },
+  { slug: "say-tell-talk-speak", sectionSlug: "reported-speech", title: "Say, Tell, Talk & Speak", level: "A2", file: "sayTellTalkSpeak" },
 ];

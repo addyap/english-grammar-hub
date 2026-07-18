@@ -70,6 +70,9 @@ import { neednHaveDidntNeedTo } from "./neednHaveDidntNeedTo";
 import { compoundNouns } from "./compoundNouns";
 import { oneOnesSubstitute } from "./oneOnesSubstitute";
 import { invertedConditionals } from "./invertedConditionals";
+import { needIngPassiveGerund } from "./needIngPassiveGerund";
+import { doMainVerbVsAuxiliary } from "./doMainVerbVsAuxiliary";
+import { sayTellTalkSpeak } from "./sayTellTalkSpeak";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -147,6 +150,9 @@ export const topics: GrammarTopicContent[] = [
   compoundNouns,
   oneOnesSubstitute,
   invertedConditionals,
+  needIngPassiveGerund,
+  doMainVerbVsAuxiliary,
+  sayTellTalkSpeak,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
