@@ -17,12 +17,12 @@ const TopicPage = () => {
   }, [topicSlug]);
 
   if (topic === undefined) {
-    return <div className="max-w-2xl mx-auto px-6 py-12" />;
+    return <div className="max-w-2xl mx-auto px-4 py-8 sm:px-6 sm:py-12" />;
   }
 
   if (!topic) {
     return (
-      <div className="max-w-2xl mx-auto px-6 py-12">
+      <div className="max-w-2xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
         <p>Topic not found.</p>
         <Link to="/" className="text-primary underline">Back home</Link>
       </div>
@@ -38,7 +38,7 @@ const TopicPage = () => {
   }
 
   return (
-    <div className="max-w-2xl mx-auto px-6 py-12">
+    <div className="max-w-2xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
       <Link to={`/section/${topic.sectionSlug}`} className="text-sm text-muted-foreground hover:text-primary">
         ← {section?.title ?? "Section"}
       </Link>
@@ -48,13 +48,13 @@ const TopicPage = () => {
         <Badge variant="outline" className="shrink-0 whitespace-nowrap">{topic.level}</Badge>
       </div>
 
-      <div className="flex flex-wrap gap-1 mb-4">
+      <div className="flex flex-wrap gap-1.5 mb-4">
         {LANGUAGES.filter((l) => l.code in topic.explanations || l.code === "en").map((l) => (
           <button
             key={l.code}
             type="button"
             onClick={() => setLang(l.code)}
-            className={`px-2 py-1 text-xs rounded-md transition ${
+            className={`px-3 py-2 sm:px-2.5 sm:py-1 text-sm sm:text-xs rounded-md transition ${
               l.code === lang ? "bg-primary text-primary-foreground" : "bg-muted text-muted-foreground hover:bg-muted/70"
             }`}
           >
@@ -67,7 +67,7 @@ const TopicPage = () => {
         <ExplanationParagraphs paragraphs={paragraphs} kinds={topic.paragraphKinds} />
       </div>
 
-      <div className="flex gap-3">
+      <div className="flex flex-col sm:flex-row gap-3">
         <Link
           to={`/grammar/${topic.slug}/exercise/1`}
           className="flex-1 text-center px-4 py-3 rounded-lg bg-primary text-primary-foreground font-semibold hover:bg-primary/90 transition"

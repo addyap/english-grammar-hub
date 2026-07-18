@@ -14,7 +14,7 @@ const HomePage = () => {
   const firstSection = sections[0];
 
   return (
-    <div className="max-w-4xl mx-auto px-6 py-12">
+    <div className="max-w-4xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
       <header className="mb-12 text-center">
         <Wordmark size="lg" className="mb-6" />
         <h1 className="font-serif italic text-xl sm:text-2xl text-foreground max-w-xl mx-auto mb-2">

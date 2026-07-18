@@ -104,7 +104,7 @@ const ExerciseEngine = ({ topic, exercise, storageKey }: ExerciseEngineProps) =>
 
   return (
     <div className="max-w-2xl mx-auto">
-      <div className="flex items-center justify-between gap-3 bg-background py-3 border-b border-border mb-6">
+      <div className="sticky top-0 z-10 flex items-center justify-between gap-3 bg-background py-3 border-b border-border mb-6">
         <div>
           <h2 className="font-display text-lg font-bold">{exercise.title}</h2>
           <p className="text-sm text-muted-foreground">
@@ -134,7 +134,13 @@ const ExerciseEngine = ({ topic, exercise, storageKey }: ExerciseEngineProps) =>
               {!result && (
                 <div className="flex flex-wrap gap-2">
                   {shuffledOptions[i].map((opt) => (
-                    <Button key={opt} variant="outline" size="sm" onClick={() => answer(i, opt)}>
+                    <Button
+                      key={opt}
+                      variant="outline"
+                      size="sm"
+                      onClick={() => answer(i, opt)}
+                      className="h-auto min-h-11 sm:min-h-9 py-2 whitespace-normal text-left"
+                    >
                       {opt}
                     </Button>
                   ))}

@@ -15,14 +15,14 @@ const ExercisePage = () => {
   }, [topicSlug]);
 
   if (topic === undefined) {
-    return <div className="px-6 py-8" />;
+    return <div className="px-4 py-6 sm:px-6 sm:py-8" />;
   }
 
   const exercise = topic?.exercises[idx];
 
   if (!topic || !exercise) {
     return (
-      <div className="max-w-2xl mx-auto px-6 py-12">
+      <div className="max-w-2xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
         <p>Exercise not found.</p>
         <Link to="/" className="text-primary underline">Back home</Link>
       </div>
@@ -30,7 +30,7 @@ const ExercisePage = () => {
   }
 
   return (
-    <div className="px-6 py-8">
+    <div className="px-4 py-6 sm:px-6 sm:py-8">
       <Link to={`/grammar/${topic.slug}`} className="block max-w-2xl mx-auto text-sm text-muted-foreground hover:text-primary mb-4">
         ← {topic.title}
       </Link>

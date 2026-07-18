@@ -10,7 +10,7 @@ const SectionPage = () => {
 
   if (!section) {
     return (
-      <div className="max-w-3xl mx-auto px-6 py-12">
+      <div className="max-w-3xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
         <p>Section not found.</p>
         <Link to="/" className="text-primary underline">Back home</Link>
       </div>
@@ -18,7 +18,7 @@ const SectionPage = () => {
   }
 
   return (
-    <div className="max-w-3xl mx-auto px-6 py-12">
+    <div className="max-w-3xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
       <Link to="/" className="text-sm text-muted-foreground hover:text-primary">← All sections</Link>
       <h1 className="font-display text-2xl font-bold mt-2 mb-1">{section.title}</h1>
       <p className="text-muted-foreground mb-8">{section.description}</p>
