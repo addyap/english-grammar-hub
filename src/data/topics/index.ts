@@ -93,6 +93,8 @@ import { wouldRather } from "./wouldRather";
 import { hadBetter } from "./hadBetter";
 import { ellipsis } from "./ellipsis";
 import { getPassive } from "./getPassive";
+import { adverbsOfFrequency } from "./adverbsOfFrequency";
+import { adjectiveFormingSuffixes } from "./adjectiveFormingSuffixes";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -193,6 +195,8 @@ export const topics: GrammarTopicContent[] = [
   hadBetter,
   ellipsis,
   getPassive,
+  adverbsOfFrequency,
+  adjectiveFormingSuffixes,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
