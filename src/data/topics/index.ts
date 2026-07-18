@@ -40,6 +40,7 @@ import { wishIfOnly } from "./wishIfOnly";
 import { tooEnough } from "./tooEnough";
 import { indefinitePronouns } from "./indefinitePronouns";
 import { makeLetHelp } from "./makeLetHelp";
+import { passiveReporting } from "./passiveReporting";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -87,6 +88,7 @@ export const topics: GrammarTopicContent[] = [
   tooEnough,
   indefinitePronouns,
   makeLetHelp,
+  passiveReporting,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);

@@ -51,4 +51,5 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "too-enough", sectionSlug: "adjectives-adverbs", title: "Too & Enough", level: "A2", file: "tooEnough" },
   { slug: "indefinite-pronouns", sectionSlug: "pronouns-possessives", title: "Somebody, Anything, Nowhere", level: "A2", file: "indefinitePronouns" },
   { slug: "make-let-help", sectionSlug: "verb-patterns", title: "Make, Let & Help", level: "B1", file: "makeLetHelp" },
+  { slug: "passive-reporting", sectionSlug: "passive-voice", title: "It Is Said That…", level: "C1", file: "passiveReporting" },
 ];
