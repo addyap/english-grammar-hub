@@ -67,4 +67,7 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "each-every-all-whole", sectionSlug: "articles-determiners", title: "Each vs Every, All vs Whole", level: "B1", file: "eachEveryAllWhole" },
   { slug: "used-to-would", sectionSlug: "tenses", title: "Used to & Would for Past Habits", level: "B1", file: "usedToWould" },
   { slug: "ed-ing-adjectives", sectionSlug: "adjectives-adverbs", title: "-ed vs -ing Adjectives", level: "B1", file: "edIngAdjectives" },
+  { slug: "during-while-for", sectionSlug: "prepositions", title: "During, While & For", level: "B1", file: "duringWhileFor" },
+  { slug: "each-other-one-another", sectionSlug: "pronouns-possessives", title: "Each Other & One Another", level: "A2", file: "eachOtherOneAnother" },
+  { slug: "nominal-relative-what", sectionSlug: "relative-clauses", title: "What as a Relative Pronoun", level: "C1", file: "nominalRelativeWhat" },
 ];
