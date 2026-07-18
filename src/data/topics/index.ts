@@ -49,6 +49,11 @@ import { participleClauses } from "./participleClauses";
 import { pastModals } from "./pastModals";
 import { phrasalVerbsDepth } from "./phrasalVerbsDepth";
 import { soSuchThat } from "./soSuchThat";
+import { reportingVerbPatterns } from "./reportingVerbPatterns";
+import { collectiveNouns } from "./collectiveNouns";
+import { likeVsAs } from "./likeVsAs";
+import { thereIsAre } from "./thereIsAre";
+import { eachEveryAllWhole } from "./eachEveryAllWhole";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -105,6 +110,11 @@ export const topics: GrammarTopicContent[] = [
   pastModals,
   phrasalVerbsDepth,
   soSuchThat,
+  reportingVerbPatterns,
+  collectiveNouns,
+  likeVsAs,
+  thereIsAre,
+  eachEveryAllWhole,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);

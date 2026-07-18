@@ -60,4 +60,9 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "should-could-would-have", sectionSlug: "modals", title: "Should Have, Could Have, Would Have", level: "B2", file: "pastModals" },
   { slug: "phrasal-verbs-in-depth", sectionSlug: "verb-patterns", title: "Phrasal Verbs in Depth", level: "B2", file: "phrasalVerbsDepth" },
   { slug: "so-such-that", sectionSlug: "conjunctions-linking", title: "So...That & Such...That", level: "B1", file: "soSuchThat" },
+  { slug: "reporting-verb-patterns", sectionSlug: "reported-speech", title: "Reporting Verbs: Suggest, Insist, Deny & More", level: "B2", file: "reportingVerbPatterns" },
+  { slug: "collective-nouns", sectionSlug: "nouns-quantity", title: "Collective Nouns & Group Agreement", level: "B2", file: "collectiveNouns" },
+  { slug: "like-vs-as", sectionSlug: "prepositions", title: "Like vs As", level: "B1", file: "likeVsAs" },
+  { slug: "there-is-there-are", sectionSlug: "sentence-basics", title: "There Is / There Are", level: "A1", file: "thereIsAre" },
+  { slug: "each-every-all-whole", sectionSlug: "articles-determiners", title: "Each vs Every, All vs Whole", level: "B1", file: "eachEveryAllWhole" },
 ];
