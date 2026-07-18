@@ -48,4 +48,5 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "advanced-structures", sectionSlug: "advanced-structures", title: "Advanced Structures", level: "C1", file: "advancedStructures" },
   { slug: "modals-of-deduction", sectionSlug: "modals", title: "Modals of Deduction", level: "B2", file: "modalsOfDeduction" },
   { slug: "wish-if-only", sectionSlug: "conditionals", title: "Wish & If Only", level: "B2", file: "wishIfOnly" },
+  { slug: "too-enough", sectionSlug: "adjectives-adverbs", title: "Too & Enough", level: "A2", file: "tooEnough" },
 ];

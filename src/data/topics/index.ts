@@ -37,6 +37,7 @@ import { relativeClauses } from "./relativeClauses";
 import { advancedStructures } from "./advancedStructures";
 import { modalsOfDeduction } from "./modalsOfDeduction";
 import { wishIfOnly } from "./wishIfOnly";
+import { tooEnough } from "./tooEnough";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -81,6 +82,7 @@ export const topics: GrammarTopicContent[] = [
   advancedStructures,
   modalsOfDeduction,
   wishIfOnly,
+  tooEnough,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
