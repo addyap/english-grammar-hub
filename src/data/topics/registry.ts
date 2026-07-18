@@ -106,4 +106,6 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "get-passive", sectionSlug: "passive-voice", title: "The Get-Passive", level: "B2", file: "getPassive" },
   { slug: "adverbs-of-frequency", sectionSlug: "adjectives-adverbs", title: "Adverbs of Frequency: Position Rules", level: "A2", file: "adverbsOfFrequency" },
   { slug: "adjective-forming-suffixes", sectionSlug: "adjectives-adverbs", title: "Adjective-Forming Suffixes", level: "B1", file: "adjectiveFormingSuffixes" },
+  { slug: "watch-vs-see-vs-look", sectionSlug: "verb-patterns", title: "Watch vs See vs Look", level: "A2", file: "watchVsSeeVsLook" },
+  { slug: "bring-vs-take", sectionSlug: "verb-patterns", title: "Bring vs Take", level: "A2", file: "bringVsTake" },
 ];

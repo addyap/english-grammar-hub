@@ -95,6 +95,8 @@ import { ellipsis } from "./ellipsis";
 import { getPassive } from "./getPassive";
 import { adverbsOfFrequency } from "./adverbsOfFrequency";
 import { adjectiveFormingSuffixes } from "./adjectiveFormingSuffixes";
+import { watchVsSeeVsLook } from "./watchVsSeeVsLook";
+import { bringVsTake } from "./bringVsTake";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -197,6 +199,8 @@ export const topics: GrammarTopicContent[] = [
   getPassive,
   adverbsOfFrequency,
   adjectiveFormingSuffixes,
+  watchVsSeeVsLook,
+  bringVsTake,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
