@@ -88,4 +88,6 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "absolute-constructions-with", sectionSlug: "advanced-structures", title: "Absolute Constructions: With + Noun + Participle", level: "C1", file: "absoluteConstructionsWith" },
   { slug: "adverbs-of-degree-fairly-rather-quite", sectionSlug: "adjectives-adverbs", title: "Adverbs of Degree: Fairly, Rather, Quite & Pretty", level: "B1", file: "adverbsOfDegree" },
   { slug: "partitive-structures", sectionSlug: "nouns-quantity", title: "Partitive Structures: A Piece of, A Bit of, A Loaf of...", level: "A2", file: "partitiveStructures" },
+  { slug: "by-vs-until", sectionSlug: "prepositions", title: "By vs Until", level: "B1", file: "byVsUntil" },
+  { slug: "prepositions-of-transport", sectionSlug: "prepositions", title: "Prepositions with Transport: In, On & At", level: "A2", file: "prepositionsOfTransport" },
 ];

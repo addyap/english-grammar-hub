@@ -77,6 +77,8 @@ import { whoeverWhateverWhichever } from "./whoeverWhateverWhichever";
 import { absoluteConstructionsWith } from "./absoluteConstructionsWith";
 import { adverbsOfDegree } from "./adverbsOfDegree";
 import { partitiveStructures } from "./partitiveStructures";
+import { byVsUntil } from "./byVsUntil";
+import { prepositionsOfTransport } from "./prepositionsOfTransport";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -161,6 +163,8 @@ export const topics: GrammarTopicContent[] = [
   absoluteConstructionsWith,
   adverbsOfDegree,
   partitiveStructures,
+  byVsUntil,
+  prepositionsOfTransport,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
