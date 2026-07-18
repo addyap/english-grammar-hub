@@ -97,4 +97,6 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "countable-uncountable-meaning-shift", sectionSlug: "nouns-quantity", title: "Nouns That Change Meaning: Countable vs Uncountable", level: "B1", file: "countableUncountableMeaningShift" },
   { slug: "reason-clauses-as-since-because", sectionSlug: "conjunctions-linking", title: "Reason Clauses: As, Since & Because", level: "B1", file: "reasonClauses" },
   { slug: "passive-questions", sectionSlug: "passive-voice", title: "Passive Questions", level: "B1", file: "passiveQuestions" },
+  { slug: "alternative-questions-with-or", sectionSlug: "questions-auxiliaries", title: "Alternative Questions with Or", level: "A2", file: "alternativeQuestionsWithOr" },
+  { slug: "get-used-to-vs-used-to", sectionSlug: "verb-patterns", title: "Get Used To vs Used To", level: "B1", file: "getUsedToVsUsedTo" },
 ];

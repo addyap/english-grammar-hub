@@ -86,6 +86,8 @@ import { possessiveGerund } from "./possessiveGerund";
 import { countableUncountableMeaningShift } from "./countableUncountableMeaningShift";
 import { reasonClauses } from "./reasonClauses";
 import { passiveQuestions } from "./passiveQuestions";
+import { alternativeQuestionsWithOr } from "./alternativeQuestionsWithOr";
+import { getUsedToVsUsedTo } from "./getUsedToVsUsedTo";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -179,6 +181,8 @@ export const topics: GrammarTopicContent[] = [
   countableUncountableMeaningShift,
   reasonClauses,
   passiveQuestions,
+  alternativeQuestionsWithOr,
+  getUsedToVsUsedTo,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
