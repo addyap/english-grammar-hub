@@ -93,4 +93,6 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "it-as-empty-subject", sectionSlug: "sentence-basics", title: "It as an Empty Subject", level: "A2", file: "itAsEmptySubject" },
   { slug: "shall-offers-suggestions", sectionSlug: "modals", title: "Shall for Offers and Suggestions", level: "A2", file: "shallOffersSuggestions" },
   { slug: "reflexive-pronouns-emphasis", sectionSlug: "pronouns-possessives", title: "Reflexive Pronouns for Emphasis", level: "B1", file: "reflexivePronounsEmphasis" },
+  { slug: "possessive-gerund", sectionSlug: "verb-patterns", title: "Possessive + Gerund", level: "B2", file: "possessiveGerund" },
+  { slug: "countable-uncountable-meaning-shift", sectionSlug: "nouns-quantity", title: "Nouns That Change Meaning: Countable vs Uncountable", level: "B1", file: "countableUncountableMeaningShift" },
 ];

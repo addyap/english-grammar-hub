@@ -82,6 +82,8 @@ import { prepositionsOfTransport } from "./prepositionsOfTransport";
 import { itAsEmptySubject } from "./itAsEmptySubject";
 import { shallOffersSuggestions } from "./shallOffersSuggestions";
 import { reflexivePronounsEmphasis } from "./reflexivePronounsEmphasis";
+import { possessiveGerund } from "./possessiveGerund";
+import { countableUncountableMeaningShift } from "./countableUncountableMeaningShift";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -171,6 +173,8 @@ export const topics: GrammarTopicContent[] = [
   itAsEmptySubject,
   shallOffersSuggestions,
   reflexivePronounsEmphasis,
+  possessiveGerund,
+  countableUncountableMeaningShift,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
