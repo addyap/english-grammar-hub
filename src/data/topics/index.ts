@@ -46,6 +46,9 @@ import { negativeQuestions } from "./negativeQuestions";
 import { reportedCommands } from "./reportedCommands";
 import { relativePrepositions } from "./relativePrepositions";
 import { participleClauses } from "./participleClauses";
+import { pastModals } from "./pastModals";
+import { phrasalVerbsDepth } from "./phrasalVerbsDepth";
+import { soSuchThat } from "./soSuchThat";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -99,6 +102,9 @@ export const topics: GrammarTopicContent[] = [
   reportedCommands,
   relativePrepositions,
   participleClauses,
+  pastModals,
+  phrasalVerbsDepth,
+  soSuchThat,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);

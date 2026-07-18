@@ -57,4 +57,7 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "reported-commands", sectionSlug: "reported-speech", title: "Reported Commands & Requests", level: "B1", file: "reportedCommands" },
   { slug: "relative-prepositions", sectionSlug: "relative-clauses", title: "Whom & Prepositions in Relative Clauses", level: "C1", file: "relativePrepositions" },
   { slug: "participle-clauses", sectionSlug: "advanced-structures", title: "Participle Clauses", level: "C1", file: "participleClauses" },
+  { slug: "should-could-would-have", sectionSlug: "modals", title: "Should Have, Could Have, Would Have", level: "B2", file: "pastModals" },
+  { slug: "phrasal-verbs-in-depth", sectionSlug: "verb-patterns", title: "Phrasal Verbs in Depth", level: "B2", file: "phrasalVerbsDepth" },
+  { slug: "so-such-that", sectionSlug: "conjunctions-linking", title: "So...That & Such...That", level: "B1", file: "soSuchThat" },
 ];
