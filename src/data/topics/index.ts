@@ -89,6 +89,8 @@ import { passiveQuestions } from "./passiveQuestions";
 import { alternativeQuestionsWithOr } from "./alternativeQuestionsWithOr";
 import { getUsedToVsUsedTo } from "./getUsedToVsUsedTo";
 import { mustntVsDontHaveTo } from "./mustntVsDontHaveTo";
+import { wouldRather } from "./wouldRather";
+import { hadBetter } from "./hadBetter";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -185,6 +187,8 @@ export const topics: GrammarTopicContent[] = [
   alternativeQuestionsWithOr,
   getUsedToVsUsedTo,
   mustntVsDontHaveTo,
+  wouldRather,
+  hadBetter,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);

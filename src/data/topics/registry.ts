@@ -100,4 +100,6 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "alternative-questions-with-or", sectionSlug: "questions-auxiliaries", title: "Alternative Questions with Or", level: "A2", file: "alternativeQuestionsWithOr" },
   { slug: "get-used-to-vs-used-to", sectionSlug: "verb-patterns", title: "Get Used To vs Used To", level: "B1", file: "getUsedToVsUsedTo" },
   { slug: "mustnt-vs-dont-have-to", sectionSlug: "modals", title: "Mustn't vs Don't Have To", level: "B1", file: "mustntVsDontHaveTo" },
+  { slug: "would-rather", sectionSlug: "modals", title: "Would Rather", level: "B1", file: "wouldRather" },
+  { slug: "had-better", sectionSlug: "modals", title: "Had Better", level: "B1", file: "hadBetter" },
 ];
