@@ -5,6 +5,8 @@ import { sections } from "@/data/sections";
 import { Badge } from "@/components/ui/badge";
 import ExplanationParagraphs from "@/components/ExplanationParagraphs";
 import { LANGUAGES, type LanguageCode, type GrammarTopicContent } from "@/data/types";
+import { useSeo } from "@/hooks/useSeo";
+import { buildBreadcrumbJsonLd, paragraphToPlainText, toMetaDescription } from "@/lib/seo";
 
 const TopicPage = () => {
   const { topicSlug } = useParams<{ topicSlug: string }>();
@@ -15,6 +17,23 @@ const TopicPage = () => {
     setTopic(undefined);
     loadTopic(topicSlug ?? "").then((t) => setTopic(t ?? null));
   }, [topicSlug]);
+
+  const section = topic ? sections.find((s) => s.slug === topic.sectionSlug) : undefined;
+
+  useSeo({
+    title: topic?.title ?? "Grammar topic",
+    description: topic
+      ? toMetaDescription(paragraphToPlainText(topic.explanations.en[0]))
+      : "English grammar explained in your language.",
+    path: `/grammar/${topicSlug ?? ""}`,
+    jsonLd: topic
+      ? buildBreadcrumbJsonLd([
+          { name: "Home", path: "/" },
+          { name: section?.title ?? "Section", path: `/section/${topic.sectionSlug}` },
+          { name: topic.title, path: `/grammar/${topic.slug}` },
+        ])
+      : undefined,
+  });
 
   if (topic === undefined) {
     return <div className="max-w-2xl mx-auto px-4 py-8 sm:px-6 sm:py-12" />;
@@ -29,7 +48,6 @@ const TopicPage = () => {
     );
   }
 
-  const section = sections.find((s) => s.slug === topic.sectionSlug);
   const meta = LANGUAGES.find((l) => l.code === lang)!;
   const paragraphs = topic.explanations[lang] ?? topic.explanations.en;
 

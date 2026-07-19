@@ -119,6 +119,28 @@ needed), then add that key to each topic's `explanations` object. No
 component changes required — the floating reference and topic page both
 render whatever languages a topic has.
 
+## SEO
+
+The app is a client-only SPA (no server render), so per-route `<title>`,
+meta description, canonical link, OG/Twitter tags, and a JSON-LD script are
+set at runtime by `src/hooks/useSeo.ts` — called from `HomePage`,
+`SectionPage`, and `TopicPage` — instead of being baked into `index.html`.
+`src/lib/seo.ts` holds `SITE_URL`, the description-truncation helper, and
+the `BreadcrumbList`/`WebSite` JSON-LD builders; it uses relative imports
+only (no `@/` alias) because it's also imported by
+`scripts/generate-sitemap.ts`, which runs under plain `tsx` and doesn't
+resolve tsconfig path aliases. That script regenerates `public/sitemap.xml`
+from the live topic/section registry on every build (`npm run sitemap` to
+run it standalone), so the sitemap can't drift from what's actually built.
+`public/robots.txt` points crawlers at it. If `SITE_URL` ever changes (e.g.
+a custom domain), update it in `src/lib/seo.ts`, `public/robots.txt`, and
+the canonical `<link>` in `index.html` — all three currently point at
+`english-grammar-hub.vercel.app`.
+
+The homepage also has a client-side title search (`HomePage.tsx`) over
+`topicsRegistry` — no backend, just a substring filter — for finding a
+topic across all 100+ without browsing sections.
+
 ## Development
 
 ```bash
@@ -146,5 +168,6 @@ a human opens that exact page.
 
 - `npm run dev` — local dev server
 - `npm run validate` — content invariants across all topics/languages
-- `npm run build` — validate + typecheck + production build
+- `npm run sitemap` — regenerate `public/sitemap.xml` from the current registry
+- `npm run build` — validate + sitemap + typecheck + production build
 - `npm run lint` — oxlint

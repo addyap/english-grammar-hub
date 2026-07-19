@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "validate": "tsx scripts/validate.ts",
-    "build": "tsx scripts/validate.ts && tsc -b && vite build",
+    "sitemap": "tsx scripts/generate-sitemap.ts",
+    "build": "tsx scripts/validate.ts && tsx scripts/generate-sitemap.ts && tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview"
   },

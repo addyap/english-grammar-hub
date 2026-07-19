@@ -2,11 +2,25 @@ import { Link, useParams } from "react-router-dom";
 import { sections } from "@/data/sections";
 import { topicsRegistry } from "@/data/topics/registry";
 import { Badge } from "@/components/ui/badge";
+import { useSeo } from "@/hooks/useSeo";
+import { buildBreadcrumbJsonLd } from "@/lib/seo";
 
 const SectionPage = () => {
   const { sectionSlug } = useParams<{ sectionSlug: string }>();
   const section = sections.find((s) => s.slug === sectionSlug);
   const topics = topicsRegistry.filter((t) => t.sectionSlug === sectionSlug);
+
+  useSeo({
+    title: section?.title ?? "Section",
+    description: section?.description ?? "English grammar explained in your language.",
+    path: `/section/${sectionSlug ?? ""}`,
+    jsonLd: section
+      ? buildBreadcrumbJsonLd([
+          { name: "Home", path: "/" },
+          { name: section.title, path: `/section/${section.slug}` },
+        ])
+      : undefined,
+  });
 
   if (!section) {
     return (

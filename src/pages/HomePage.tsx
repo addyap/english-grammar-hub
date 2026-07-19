@@ -1,17 +1,37 @@
+import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
+import { Search } from "lucide-react";
 import { sections } from "@/data/sections";
 import { topicsRegistry } from "@/data/topics/registry";
 import { LANGUAGES } from "@/data/types";
 import { Badge } from "@/components/ui/badge";
 import Wordmark from "@/components/Wordmark";
+import { useSeo } from "@/hooks/useSeo";
+import { buildWebsiteJsonLd } from "@/lib/seo";
 
 const EXERCISES_PER_TOPIC = 2;
+const HOME_DESCRIPTION =
+  "Clear rules explained in French, Spanish, Portuguese, Italian, German, Russian, Arabic and Mandarin Chinese, with self-correcting exercises.";
 
 const HomePage = () => {
   const languageCount = LANGUAGES.length;
   const topicCount = topicsRegistry.length;
   const exerciseCount = topicCount * EXERCISES_PER_TOPIC;
   const firstSection = sections[0];
+  const [query, setQuery] = useState("");
+
+  useSeo({
+    title: "English grammar, in your language",
+    description: HOME_DESCRIPTION,
+    path: "/",
+    jsonLd: buildWebsiteJsonLd(),
+  });
+
+  const normalizedQuery = query.trim().toLowerCase();
+  const searchResults = useMemo(() => {
+    if (!normalizedQuery) return [];
+    return topicsRegistry.filter((t) => t.title.toLowerCase().includes(normalizedQuery));
+  }, [normalizedQuery]);
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
@@ -50,28 +70,68 @@ const HomePage = () => {
         )}
       </header>
 
-      <div className="grid sm:grid-cols-2 gap-4">
-        {sections.map((section) => {
-          const topics = topicsRegistry.filter((t) => t.sectionSlug === section.slug);
-          return (
-            <Link
-              key={section.slug}
-              to={`/section/${section.slug}`}
-              className="p-5 rounded-lg border border-border bg-card hover:border-primary transition-colors"
-            >
-              <div className="flex items-center justify-between gap-2 mb-1">
-                <h2 className="font-display font-bold">{section.title}</h2>
-                {topics.length > 0 ? (
-                  <Badge className="shrink-0 whitespace-nowrap">{topics.length} topic{topics.length > 1 ? "s" : ""}</Badge>
-                ) : (
-                  <Badge variant="outline" className="shrink-0 whitespace-nowrap">Coming soon</Badge>
-                )}
-              </div>
-              <p className="text-sm text-muted-foreground">{section.description}</p>
-            </Link>
-          );
-        })}
+      <div className="relative max-w-md mx-auto mb-10">
+        <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 size-4 text-muted-foreground pointer-events-none" />
+        <label htmlFor="topic-search" className="sr-only">Search topics</label>
+        <input
+          id="topic-search"
+          type="search"
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          placeholder='Search topics — e.g. "passive", "conditionals"…'
+          className="w-full pl-10 pr-4 py-2.5 rounded-lg border border-border bg-card text-sm placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary"
+        />
       </div>
+
+      {normalizedQuery ? (
+        <div className="space-y-3">
+          {searchResults.length === 0 ? (
+            <p className="text-muted-foreground text-center">No topics match "{query}".</p>
+          ) : (
+            searchResults.map((topic) => {
+              const topicSection = sections.find((s) => s.slug === topic.sectionSlug);
+              return (
+                <Link
+                  key={topic.slug}
+                  to={`/grammar/${topic.slug}`}
+                  className="flex items-center justify-between gap-2 p-4 rounded-lg border border-border bg-card hover:border-primary transition-colors"
+                >
+                  <span>
+                    <span className="font-medium">{topic.title}</span>
+                    {topicSection && (
+                      <span className="text-sm text-muted-foreground ml-2">{topicSection.title}</span>
+                    )}
+                  </span>
+                  <Badge variant="outline" className="shrink-0 whitespace-nowrap">{topic.level}</Badge>
+                </Link>
+              );
+            })
+          )}
+        </div>
+      ) : (
+        <div className="grid sm:grid-cols-2 gap-4">
+          {sections.map((section) => {
+            const topics = topicsRegistry.filter((t) => t.sectionSlug === section.slug);
+            return (
+              <Link
+                key={section.slug}
+                to={`/section/${section.slug}`}
+                className="p-5 rounded-lg border border-border bg-card hover:border-primary transition-colors"
+              >
+                <div className="flex items-center justify-between gap-2 mb-1">
+                  <h2 className="font-display font-bold">{section.title}</h2>
+                  {topics.length > 0 ? (
+                    <Badge className="shrink-0 whitespace-nowrap">{topics.length} topic{topics.length > 1 ? "s" : ""}</Badge>
+                  ) : (
+                    <Badge variant="outline" className="shrink-0 whitespace-nowrap">Coming soon</Badge>
+                  )}
+                </div>
+                <p className="text-sm text-muted-foreground">{section.description}</p>
+              </Link>
+            );
+          })}
+        </div>
+      )}
     </div>
   );
 };
