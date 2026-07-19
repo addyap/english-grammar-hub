@@ -6,7 +6,7 @@ import type { ExplanationParagraph } from "../data/types";
  * running under plain tsx, which doesn't resolve tsconfig path aliases.
  */
 
-export const SITE_URL = "https://english-grammar-hub.vercel.app";
+export const SITE_URL = "https://grammatica.antonyaddy.com";
 export const SITE_NAME = "Grammatica";
 
 /** Collapses whitespace and truncates at a word boundary — keeps meta descriptions from cutting off mid-word or carrying newlines from source prose. */

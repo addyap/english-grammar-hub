@@ -132,10 +132,12 @@ only (no `@/` alias) because it's also imported by
 resolve tsconfig path aliases. That script regenerates `public/sitemap.xml`
 from the live topic/section registry on every build (`npm run sitemap` to
 run it standalone), so the sitemap can't drift from what's actually built.
-`public/robots.txt` points crawlers at it. If `SITE_URL` ever changes (e.g.
-a custom domain), update it in `src/lib/seo.ts`, `public/robots.txt`, and
-the canonical `<link>` in `index.html` — all three currently point at
-`english-grammar-hub.vercel.app`.
+`public/robots.txt` points crawlers at it. If `SITE_URL` ever changes again,
+update it in `src/lib/seo.ts`, `public/robots.txt`, and the canonical
+`<link>` in `index.html` — all three currently point at
+`grammatica.antonyaddy.com` (a Vercel-managed CNAME on the
+`english-grammar-hub` project; the underlying `.vercel.app` URL still
+works but is no longer canonical).
 
 The homepage also has a client-side title search (`HomePage.tsx`) over
 `topicsRegistry` — no backend, just a substring filter — for finding a
