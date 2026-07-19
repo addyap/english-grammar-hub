@@ -78,10 +78,10 @@ const HomePage = () => {
 
         <p className="mt-4">
           <Link
-            to="/countries"
+            to="/resources"
             className="text-sm text-muted-foreground hover:text-primary underline underline-offset-2"
           >
-            Where is English spoken? →
+            More resources →
           </Link>
         </p>
       </header>

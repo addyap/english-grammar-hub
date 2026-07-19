@@ -27,13 +27,14 @@ const CountriesPage = () => {
     path: "/countries",
     jsonLd: buildBreadcrumbJsonLd([
       { name: "Home", path: "/" },
+      { name: "Resources", path: "/resources" },
       { name: "Where Is English Spoken?", path: "/countries" },
     ]),
   });
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
-      <Link to="/" className="text-sm text-muted-foreground hover:text-primary">← Home</Link>
+      <Link to="/resources" className="text-sm text-muted-foreground hover:text-primary">← Resources</Link>
       <h1 className="font-display text-2xl font-bold mt-2 mb-1">Where Is English Spoken?</h1>
       <p className="text-muted-foreground mb-8">
         English isn't owned by any one country — it's the majority language in some places and an

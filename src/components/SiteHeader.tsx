@@ -14,8 +14,8 @@ const SiteHeader = () => {
         <Link to="/" aria-label="Grammatica home">
           <Wordmark size="sm" />
         </Link>
-        <Link to="/countries" className="text-sm text-muted-foreground hover:text-primary whitespace-nowrap">
-          Where is English spoken?
+        <Link to="/resources" className="text-sm text-muted-foreground hover:text-primary whitespace-nowrap">
+          Resources
         </Link>
       </div>
     </header>
