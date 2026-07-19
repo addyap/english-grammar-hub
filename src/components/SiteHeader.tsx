@@ -16,6 +16,9 @@ const SiteHeader = () => {
           <Wordmark size="sm" />
         </Link>
         <div className="flex items-center gap-4">
+          <Link to="/progress" className="text-sm text-muted-foreground hover:text-primary whitespace-nowrap">
+            Progress
+          </Link>
           <Link to="/resources" className="text-sm text-muted-foreground hover:text-primary whitespace-nowrap">
             Resources
           </Link>

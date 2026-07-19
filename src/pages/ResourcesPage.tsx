@@ -3,7 +3,7 @@ import { useSeo } from "@/hooks/useSeo";
 import { buildBreadcrumbJsonLd } from "@/lib/seo";
 
 const PAGE_DESCRIPTION =
-  "Reference pages that don't fit the topic-by-topic curriculum: where English is spoken, the full irregular verbs list, British vs American English, commonly confused words, and false friends.";
+  "Reference pages that don't fit the topic-by-topic curriculum: where English is spoken, irregular verbs, British vs American English, confused words, false friends, and punctuation.";
 
 const RESOURCES = [
   {
@@ -30,6 +30,11 @@ const RESOURCES = [
     slug: "false-friends",
     title: "False Friends",
     description: "Words in French, Spanish, Portuguese, Italian, and German that trick English learners.",
+  },
+  {
+    slug: "punctuation",
+    title: "Punctuation Guide",
+    description: "Commas, semicolons, colons, apostrophes, quotation marks, dashes, and end marks.",
   },
 ];
 

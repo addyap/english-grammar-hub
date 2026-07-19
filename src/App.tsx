@@ -11,6 +11,8 @@ import IrregularVerbsPage from "@/pages/IrregularVerbsPage";
 import BritishVsAmericanPage from "@/pages/BritishVsAmericanPage";
 import ConfusedWordsPage from "@/pages/ConfusedWordsPage";
 import FalseFriendsPage from "@/pages/FalseFriendsPage";
+import PunctuationPage from "@/pages/PunctuationPage";
+import ProgressPage from "@/pages/ProgressPage";
 
 function App() {
   return (
@@ -28,6 +30,8 @@ function App() {
           <Route path="/british-vs-american" element={<BritishVsAmericanPage />} />
           <Route path="/confused-words" element={<ConfusedWordsPage />} />
           <Route path="/false-friends" element={<FalseFriendsPage />} />
+          <Route path="/punctuation" element={<PunctuationPage />} />
+          <Route path="/progress" element={<ProgressPage />} />
         </Routes>
       </BrowserRouter>
     </ThemeProvider>

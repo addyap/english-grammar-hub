@@ -24,6 +24,9 @@ const urls: UrlEntry[] = [
   { loc: "/british-vs-american", priority: 0.6 },
   { loc: "/confused-words", priority: 0.7 },
   { loc: "/false-friends", priority: 0.6 },
+  { loc: "/punctuation", priority: 0.6 },
+  // /progress deliberately excluded — it's a per-browser localStorage view with no
+  // indexable content for a crawler (a fresh visitor always sees the empty state).
   ...sections
     .filter((s) => topics.some((t) => t.sectionSlug === s.slug))
     .map((s): UrlEntry => ({ loc: `/section/${s.slug}`, priority: 0.7 })),
