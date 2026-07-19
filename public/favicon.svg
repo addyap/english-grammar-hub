@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
-  <circle cx="24" cy="24" r="24" fill="#B23A5C"/>
-  <text x="24" y="33" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="26" font-weight="700" fill="#FBF3E7" text-anchor="middle">G</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="100" fill="#182239"/>
+  <path d="M159.89 116.05 A62 62 0 1 1 159.89 83.95" fill="none" stroke="#37beac" stroke-width="34" stroke-linecap="butt"/>
+  <rect x="103" y="83" width="82" height="34" fill="#37beac"/>
 </svg>

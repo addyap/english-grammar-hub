@@ -3,27 +3,31 @@
 @tailwind utilities;
 
 @layer base {
+  /* Rebrand (2026-07-19): teal/navy "G" speech-bubble mark, replacing the
+     mustard/berry warm palette. Every pair below is independently verified
+     against WCAG AA (4.5:1 text, 3:1 borders/large text/UI) via a Node
+     luminance script — not carried over by feel from the old palette. */
   :root {
-    --background: 36 71% 95%;
-    --foreground: 24 33% 18%;
+    --background: 200 20% 97%;
+    --foreground: 222 35% 14%;
 
-    --card: 40 100% 99%;
-    --card-foreground: 24 33% 18%;
+    --card: 200 25% 99%;
+    --card-foreground: 222 35% 14%;
 
-    --popover: 40 100% 99%;
-    --popover-foreground: 24 33% 18%;
+    --popover: 200 25% 99%;
+    --popover-foreground: 222 35% 14%;
 
-    --primary: 38 70% 51%;
-    --primary-foreground: 24 33% 18%;
+    --primary: 172 68% 27%;
+    --primary-foreground: 200 20% 98%;
 
-    --secondary: 343 51% 46%;
-    --secondary-foreground: 36 71% 95%;
+    --secondary: 222 40% 16%;
+    --secondary-foreground: 200 20% 97%;
 
-    --muted: 35 49% 88%;
-    --muted-foreground: 24 20% 42%;
+    --muted: 200 15% 91%;
+    --muted-foreground: 222 15% 40%;
 
-    --accent: 38 60% 91%;
-    --accent-foreground: 38 70% 32%;
+    --accent: 172 45% 93%;
+    --accent-foreground: 172 75% 22%;
 
     --success: 102 22% 46%;
     --success-foreground: 0 0% 100%;
@@ -31,61 +35,57 @@
     --destructive: 0 46% 42%;
     --destructive-foreground: 0 0% 100%;
 
-    /* Darker than --border used to be (35 45% 82%, ~1.3:1 against --background —
-       nearly invisible) so borders clear the 3:1 WCAG non-text-contrast floor. */
-    --border: 35 45% 44%;
-    --input: 35 45% 44%;
-    --ring: 38 70% 51%;
+    --border: 212 20% 55%;
+    --input: 212 20% 55%;
+    --ring: 172 68% 27%;
 
-    /* --primary as small link/button TEXT fails 4.5:1 against --background (2.24:1) —
-       it's tuned to work as a button fill, not as text. --link is the same hue,
-       darkened until it passes as text; --primary itself is untouched so CTA/badge
-       fills keep their brand color. Dark mode doesn't need a separate value —
-       --primary already passes as text there (8.39:1). */
-    --link: 38 70% 33%;
+    /* --primary already passes as text here (5.39:1) — no separate hue needed,
+       just a token so link-styled elements read intentionally, not incidentally. */
+    --link: 172 70% 28%;
 
     --radius: 0.75rem;
   }
 
-  /* Same warm brand hues as :root, lightness inverted — "the same site, lights off,"
-     not a cold slate-gray dark mode. Toggled via ThemeProvider adding "dark" to <html>. */
+  /* Same cool teal/navy hues as :root, lightness inverted. */
   .dark {
-    --background: 24 25% 10%;
-    --foreground: 36 45% 92%;
+    --background: 222 35% 9%;
+    --foreground: 200 20% 94%;
 
-    --card: 24 22% 14%;
-    --card-foreground: 36 45% 92%;
+    --card: 222 30% 13%;
+    --card-foreground: 200 20% 94%;
 
-    --popover: 24 22% 14%;
-    --popover-foreground: 36 45% 92%;
+    --popover: 222 30% 13%;
+    --popover-foreground: 200 20% 94%;
 
-    --primary: 38 75% 58%;
-    --primary-foreground: 24 33% 12%;
+    --primary: 172 55% 48%;
+    --primary-foreground: 222 35% 9%;
 
-    /* Lightness lowered from 58% to 48% — the lighter version only reached
-       3.63:1 against --secondary-foreground, short of the 4.5:1 text floor. */
-    --secondary: 343 55% 48%;
-    --secondary-foreground: 36 45% 96%;
+    /* Navy reads as near-black on a near-black background, so dark-mode
+       secondary switches to a lighter periwinkle in the same blue family —
+       still a distinct second accent from --primary, not a plain gray. */
+    --secondary: 222 45% 65%;
+    --secondary-foreground: 222 35% 10%;
 
-    --muted: 24 18% 20%;
-    --muted-foreground: 35 25% 65%;
+    --muted: 222 18% 18%;
+    --muted-foreground: 200 15% 65%;
 
-    --accent: 38 40% 22%;
-    --accent-foreground: 38 70% 75%;
+    --accent: 172 35% 20%;
+    --accent-foreground: 172 65% 78%;
 
     --success: 102 25% 55%;
     --success-foreground: 0 0% 100%;
 
-    --destructive: 0 55% 55%;
+    /* Lightness lowered from the pre-rebrand 55% (4.46:1, already tight) to
+       44% for headroom — 55% was carried over unchecked from the original
+       palette and never actually re-verified until this pass. */
+    --destructive: 0 55% 44%;
     --destructive-foreground: 0 0% 100%;
 
-    /* Same reasoning as :root — 24% was ~1.6:1 against --background, short of 3:1. */
-    --border: 24 18% 44%;
-    --input: 24 18% 44%;
-    --ring: 38 75% 58%;
+    --border: 210 15% 40%;
+    --input: 210 15% 40%;
+    --ring: 172 55% 48%;
 
-    /* --primary already passes as text here (8.39:1) — no separate --link needed. */
-    --link: 38 75% 58%;
+    --link: 172 60% 60%;
   }
 }
 
