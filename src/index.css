@@ -29,7 +29,11 @@
     --accent: 172 45% 93%;
     --accent-foreground: 172 75% 22%;
 
-    --success: 102 22% 46%;
+    /* Darkened from 46% -> 34%: text-success on the bg-success/15 score-chip
+       tint in ProgressPage.tsx only reached 3.07:1 against that tinted
+       background, short of the 4.5:1 floor for small bold text — a
+       pre-existing gap neither rebrand had touched. 34% clears it at 4.82:1. */
+    --success: 102 22% 34%;
     --success-foreground: 0 0% 100%;
 
     --destructive: 0 46% 42%;
