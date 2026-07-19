@@ -18,6 +18,7 @@ type UrlEntry = { loc: string; priority: number };
 
 const urls: UrlEntry[] = [
   { loc: "/", priority: 1.0 },
+  { loc: "/countries", priority: 0.6 },
   ...sections
     .filter((s) => topics.some((t) => t.sectionSlug === s.slug))
     .map((s): UrlEntry => ({ loc: `/section/${s.slug}`, priority: 0.7 })),

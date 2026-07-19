@@ -4,6 +4,7 @@ import HomePage from "@/pages/HomePage";
 import SectionPage from "@/pages/SectionPage";
 import TopicPage from "@/pages/TopicPage";
 import ExercisePage from "@/pages/ExercisePage";
+import CountriesPage from "@/pages/CountriesPage";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/section/:sectionSlug" element={<SectionPage />} />
         <Route path="/grammar/:topicSlug" element={<TopicPage />} />
         <Route path="/grammar/:topicSlug/exercise/:exerciseIndex" element={<ExercisePage />} />
+        <Route path="/countries" element={<CountriesPage />} />
       </Routes>
     </BrowserRouter>
   );

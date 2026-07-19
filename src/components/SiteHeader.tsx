@@ -10,9 +10,12 @@ const SiteHeader = () => {
 
   return (
     <header className="border-b border-border bg-background">
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 py-3 sm:py-4">
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 py-3 sm:py-4 flex items-center justify-between gap-4">
         <Link to="/" aria-label="Grammatica home">
           <Wordmark size="sm" />
+        </Link>
+        <Link to="/countries" className="text-sm text-muted-foreground hover:text-primary whitespace-nowrap">
+          Where is English spoken?
         </Link>
       </div>
     </header>

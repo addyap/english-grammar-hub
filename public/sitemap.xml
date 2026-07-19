@@ -5,6 +5,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://grammatica.antonyaddy.com/countries</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://grammatica.antonyaddy.com/section/sentence-basics</loc>
     <priority>0.7</priority>
   </url>
