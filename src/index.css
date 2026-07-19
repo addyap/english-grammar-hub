@@ -37,6 +37,41 @@
 
     --radius: 0.75rem;
   }
+
+  /* Same warm brand hues as :root, lightness inverted — "the same site, lights off,"
+     not a cold slate-gray dark mode. Toggled via ThemeProvider adding "dark" to <html>. */
+  .dark {
+    --background: 24 25% 10%;
+    --foreground: 36 45% 92%;
+
+    --card: 24 22% 14%;
+    --card-foreground: 36 45% 92%;
+
+    --popover: 24 22% 14%;
+    --popover-foreground: 36 45% 92%;
+
+    --primary: 38 75% 58%;
+    --primary-foreground: 24 33% 12%;
+
+    --secondary: 343 55% 58%;
+    --secondary-foreground: 36 45% 96%;
+
+    --muted: 24 18% 20%;
+    --muted-foreground: 35 25% 65%;
+
+    --accent: 38 40% 22%;
+    --accent-foreground: 38 70% 75%;
+
+    --success: 102 25% 55%;
+    --success-foreground: 0 0% 100%;
+
+    --destructive: 0 55% 55%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 24 18% 24%;
+    --input: 24 18% 24%;
+    --ring: 38 75% 58%;
+  }
 }
 
 @layer base {

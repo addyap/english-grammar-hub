@@ -3,7 +3,7 @@ import { useSeo } from "@/hooks/useSeo";
 import { buildBreadcrumbJsonLd } from "@/lib/seo";
 
 const PAGE_DESCRIPTION =
-  "Reference pages that don't fit the topic-by-topic curriculum: where English is spoken, the full irregular verbs list, and British vs American English.";
+  "Reference pages that don't fit the topic-by-topic curriculum: where English is spoken, the full irregular verbs list, British vs American English, commonly confused words, and false friends.";
 
 const RESOURCES = [
   {
@@ -20,6 +20,16 @@ const RESOURCES = [
     slug: "british-vs-american",
     title: "British vs American English",
     description: "Real grammar differences, plus the spelling and vocabulary everyone notices.",
+  },
+  {
+    slug: "confused-words",
+    title: "Commonly Confused Words",
+    description: "its/it's, affect/effect, then/than, and more — with a one-line rule for each.",
+  },
+  {
+    slug: "false-friends",
+    title: "False Friends",
+    description: "Words in French, Spanish, Portuguese, Italian, and German that trick English learners.",
   },
 ];
 

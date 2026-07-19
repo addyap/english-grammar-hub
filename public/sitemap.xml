@@ -21,6 +21,14 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://grammatica.antonyaddy.com/confused-words</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/false-friends</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://grammatica.antonyaddy.com/section/sentence-basics</loc>
     <priority>0.7</priority>
   </url>

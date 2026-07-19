@@ -8,6 +8,7 @@ import { Badge } from "@/components/ui/badge";
 import Wordmark from "@/components/Wordmark";
 import UnionJackBackdrop from "@/components/UnionJackBackdrop";
 import StarsAndStripesBackdrop from "@/components/StarsAndStripesBackdrop";
+import ThemeToggle from "@/components/ThemeToggle";
 import { useSeo } from "@/hooks/useSeo";
 import { buildWebsiteJsonLd } from "@/lib/seo";
 
@@ -42,6 +43,7 @@ const HomePage = () => {
     <div className="max-w-4xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
       <header className="relative mb-12 text-center overflow-hidden rounded-2xl px-4 py-10 sm:py-14">
         <FlagBackdrop className="absolute inset-0 -z-10 w-[160%] h-[160%] -top-[30%] -left-[30%] rotate-[-8deg] opacity-[0.09]" />
+        <ThemeToggle className="absolute top-3 right-3 sm:top-4 sm:right-4" />
 
         <Wordmark size="lg" className="mb-6" />
         <h1 className="font-serif italic text-xl sm:text-2xl text-foreground max-w-xl mx-auto mb-2">

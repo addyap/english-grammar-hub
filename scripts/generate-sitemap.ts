@@ -22,6 +22,8 @@ const urls: UrlEntry[] = [
   { loc: "/countries", priority: 0.6 },
   { loc: "/irregular-verbs", priority: 0.7 },
   { loc: "/british-vs-american", priority: 0.6 },
+  { loc: "/confused-words", priority: 0.7 },
+  { loc: "/false-friends", priority: 0.6 },
   ...sections
     .filter((s) => topics.some((t) => t.sectionSlug === s.slug))
     .map((s): UrlEntry => ({ loc: `/section/${s.slug}`, priority: 0.7 })),

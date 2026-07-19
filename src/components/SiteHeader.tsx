@@ -1,5 +1,6 @@
 import { Link, useLocation } from "react-router-dom";
 import Wordmark from "@/components/Wordmark";
+import ThemeToggle from "@/components/ThemeToggle";
 
 const SiteHeader = () => {
   const { pathname } = useLocation();
@@ -14,9 +15,12 @@ const SiteHeader = () => {
         <Link to="/" aria-label="Grammatica home">
           <Wordmark size="sm" />
         </Link>
-        <Link to="/resources" className="text-sm text-muted-foreground hover:text-primary whitespace-nowrap">
-          Resources
-        </Link>
+        <div className="flex items-center gap-4">
+          <Link to="/resources" className="text-sm text-muted-foreground hover:text-primary whitespace-nowrap">
+            Resources
+          </Link>
+          <ThemeToggle />
+        </div>
       </div>
     </header>
   );
