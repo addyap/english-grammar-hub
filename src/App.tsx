@@ -13,6 +13,8 @@ import ConfusedWordsPage from "@/pages/ConfusedWordsPage";
 import FalseFriendsPage from "@/pages/FalseFriendsPage";
 import PunctuationPage from "@/pages/PunctuationPage";
 import ProgressPage from "@/pages/ProgressPage";
+import ContrastPracticePage from "@/pages/ContrastPracticePage";
+import ContrastExercisePage from "@/pages/ContrastExercisePage";
 
 function App() {
   return (
@@ -32,6 +34,8 @@ function App() {
           <Route path="/false-friends" element={<FalseFriendsPage />} />
           <Route path="/punctuation" element={<PunctuationPage />} />
           <Route path="/progress" element={<ProgressPage />} />
+          <Route path="/contrast-practice" element={<ContrastPracticePage />} />
+          <Route path="/contrast-practice/:pairSlug" element={<ContrastExercisePage />} />
         </Routes>
       </BrowserRouter>
     </ThemeProvider>

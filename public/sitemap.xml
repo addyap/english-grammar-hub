@@ -33,6 +33,34 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://grammatica.antonyaddy.com/contrast-practice</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/contrast-practice/present-simple-vs-continuous</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/contrast-practice/past-simple-vs-present-perfect</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/contrast-practice/past-simple-vs-past-continuous</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/contrast-practice/present-perfect-vs-continuous</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/contrast-practice/first-vs-second-conditional</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/contrast-practice/past-perfect-vs-past-simple</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://grammatica.antonyaddy.com/section/sentence-basics</loc>
     <priority>0.7</priority>
   </url>

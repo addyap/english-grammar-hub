@@ -3,9 +3,14 @@ import { useSeo } from "@/hooks/useSeo";
 import { buildBreadcrumbJsonLd } from "@/lib/seo";
 
 const PAGE_DESCRIPTION =
-  "Reference pages that don't fit the topic-by-topic curriculum: where English is spoken, irregular verbs, British vs American English, confused words, false friends, and punctuation.";
+  "Reference pages and mixed practice that don't fit the topic-by-topic curriculum: contrast exercises, where English is spoken, irregular verbs, British vs American English, confused words, false friends, and punctuation.";
 
 const RESOURCES = [
+  {
+    slug: "contrast-practice",
+    title: "Contrast Practice",
+    description: "Mixed exercises for classic confusable pairs — Present Simple vs Continuous, Past Simple vs Present Perfect, and more.",
+  },
   {
     slug: "countries",
     title: "Where Is English Spoken?",
