@@ -7,7 +7,7 @@ import { useSeo } from "@/hooks/useSeo";
 import { buildBreadcrumbJsonLd } from "@/lib/seo";
 
 const PAGE_DESCRIPTION =
-  "Over 120 common English irregular verbs — base, past simple, and past participle — grouped by pattern, with translations and a self-test mode.";
+  "Nearly 150 common English irregular verbs — base, past simple, and past participle — grouped by pattern, with translations and a self-test mode.";
 
 const VerbCell = ({
   value,
@@ -139,7 +139,7 @@ const IrregularVerbsPage = () => {
       <Link to="/resources" className="text-sm text-muted-foreground hover:text-primary">← Resources</Link>
       <h1 className="font-display text-2xl font-bold mt-2 mb-1">Irregular Verbs List</h1>
       <p className="text-muted-foreground mb-4">
-        Over 120 verbs that don't follow the regular -ed pattern, grouped by which forms coincide —
+        Nearly 150 verbs that don't follow the regular -ed pattern, grouped by which forms coincide —
         the way most teachers actually explain them.
       </p>
 

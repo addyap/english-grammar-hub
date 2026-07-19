@@ -14,7 +14,7 @@ const RESOURCES = [
   {
     slug: "irregular-verbs",
     title: "Irregular Verbs List",
-    description: "Over 120 verbs grouped by pattern, with a self-test mode.",
+    description: "Nearly 150 verbs grouped by pattern, with translations and a self-test mode.",
   },
   {
     slug: "british-vs-american",
