@@ -78,12 +78,18 @@ const HomePage = () => {
           </Link>
         )}
 
-        <p className="mt-4 flex justify-center gap-4">
+        <p className="mt-4 flex flex-wrap justify-center gap-x-4 gap-y-1">
           <Link
             to="/progress"
             className="text-sm text-muted-foreground hover:text-primary underline underline-offset-2"
           >
             Your progress →
+          </Link>
+          <Link
+            to="/contrast-practice"
+            className="text-sm text-muted-foreground hover:text-primary underline underline-offset-2"
+          >
+            Contrast practice →
           </Link>
           <Link
             to="/resources"
