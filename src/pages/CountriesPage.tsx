@@ -13,7 +13,7 @@ const CountryGrid = ({ countries }: { countries: EnglishSpeakingCountry[] }) => 
         key={country.name}
         className="flex items-center gap-3 p-3 rounded-lg border border-border bg-card"
       >
-        <span className="text-2xl leading-none">{country.flag}</span>
+        <span className="text-2xl leading-none" aria-hidden="true">{country.flag}</span>
         <span className="text-sm font-medium">{country.name}</span>
       </div>
     ))}

@@ -11,12 +11,16 @@ const PAGE_DESCRIPTION =
 
 const VerbCell = ({
   value,
+  fieldLabel,
+  verbBase,
   testMode,
   revealKey,
   revealed,
   onReveal,
 }: {
   value: string;
+  fieldLabel: string;
+  verbBase: string;
   testMode: boolean;
   revealKey: string;
   revealed: Set<string>;
@@ -30,8 +34,8 @@ const VerbCell = ({
       <button
         type="button"
         onClick={() => onReveal(revealKey)}
-        className="text-primary text-sm font-semibold hover:underline"
-        aria-label={`Reveal answer`}
+        className="text-link text-sm font-semibold hover:underline"
+        aria-label={`? Reveal ${fieldLabel} of ${verbBase}`}
       >
         ?
       </button>
@@ -70,12 +74,14 @@ const VerbTable = ({
           <tr key={verb.base} className="border-b border-border last:border-0">
             <td className="py-2 px-3 font-medium">{verb.base}</td>
             {showMeaning && (
-              <td className="py-2 px-3 text-muted-foreground" dir={meta?.rtl ? "rtl" : "ltr"}>
+              <td className="py-2 px-3 text-muted-foreground" lang={lang} dir={meta?.rtl ? "rtl" : "ltr"}>
                 {verb.meanings[lang] ?? "—"}
               </td>
             )}
             <VerbCell
               value={verb.past}
+              fieldLabel="past simple"
+              verbBase={verb.base}
               testMode={testMode}
               revealKey={`${verb.base}:past`}
               revealed={revealed}
@@ -83,6 +89,8 @@ const VerbTable = ({
             />
             <VerbCell
               value={verb.participle}
+              fieldLabel="past participle"
+              verbBase={verb.base}
               testMode={testMode}
               revealKey={`${verb.base}:participle`}
               revealed={revealed}

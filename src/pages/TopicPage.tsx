@@ -43,7 +43,7 @@ const TopicPage = () => {
     return (
       <div className="max-w-2xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
         <p>Topic not found.</p>
-        <Link to="/" className="text-primary underline">Back home</Link>
+        <Link to="/" className="text-link underline">Back home</Link>
       </div>
     );
   }
@@ -81,7 +81,7 @@ const TopicPage = () => {
         ))}
       </div>
 
-      <div className="p-5 rounded-lg border border-border bg-card mb-8" dir={meta.rtl ? "rtl" : "ltr"}>
+      <div className="p-5 rounded-lg border border-border bg-card mb-8" lang={lang} dir={meta.rtl ? "rtl" : "ltr"}>
         <ExplanationParagraphs paragraphs={paragraphs} kinds={topic.paragraphKinds} />
       </div>
 

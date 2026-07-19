@@ -53,10 +53,10 @@ const FloatingGrammarReference = ({ topic }: FloatingGrammarReferenceProps) => {
           ))}
         </div>
         <div className="max-h-[55vh] overflow-y-auto overscroll-contain">
-          <div className="p-5" dir={meta.rtl ? "rtl" : "ltr"}>
+          <div className="p-5" lang={lang} dir={meta.rtl ? "rtl" : "ltr"}>
             <h3 className="font-display text-base font-bold mb-3">{topic.title}</h3>
             <ExplanationParagraphs paragraphs={paragraphs} kinds={topic.paragraphKinds} size="sm" />
-            <Link to={`/grammar/${topic.slug}`} className="inline-block mt-4 text-sm font-semibold text-primary hover:text-secondary transition-colors">
+            <Link to={`/grammar/${topic.slug}`} className="inline-block mt-4 text-sm font-semibold text-link hover:text-secondary transition-colors">
               View full lesson →
             </Link>
           </div>

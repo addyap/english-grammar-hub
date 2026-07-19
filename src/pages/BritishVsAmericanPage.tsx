@@ -37,11 +37,13 @@ const BritishVsAmericanPage = () => {
             <div key={diff.topic} className="p-4 rounded-lg border border-border bg-card">
               <h3 className="font-semibold mb-2">{diff.topic}</h3>
               <p className="text-sm mb-1">
-                <span className="mr-1.5">🇬🇧</span>
+                <span className="sr-only">British: </span>
+                <span className="mr-1.5" aria-hidden="true">🇬🇧</span>
                 <span className="text-muted-foreground">{diff.british}</span>
               </p>
               <p className="text-sm">
-                <span className="mr-1.5">🇺🇸</span>
+                <span className="sr-only">American: </span>
+                <span className="mr-1.5" aria-hidden="true">🇺🇸</span>
                 <span className="text-muted-foreground">{diff.american}</span>
               </p>
             </div>
@@ -79,8 +81,8 @@ const BritishVsAmericanPage = () => {
           <table className="w-full text-sm border-collapse">
             <thead>
               <tr className="text-left text-muted-foreground border-b border-border">
-                <th className="py-2 px-3 font-medium">🇬🇧 British</th>
-                <th className="py-2 px-3 font-medium">🇺🇸 American</th>
+                <th className="py-2 px-3 font-medium"><span aria-hidden="true">🇬🇧</span> British</th>
+                <th className="py-2 px-3 font-medium"><span aria-hidden="true">🇺🇸</span> American</th>
               </tr>
             </thead>
             <tbody>

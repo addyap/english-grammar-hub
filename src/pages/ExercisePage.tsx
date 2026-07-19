@@ -24,7 +24,7 @@ const ExercisePage = () => {
     return (
       <div className="max-w-2xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
         <p>Exercise not found.</p>
-        <Link to="/" className="text-primary underline">Back home</Link>
+        <Link to="/" className="text-link underline">Back home</Link>
       </div>
     );
   }

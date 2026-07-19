@@ -99,7 +99,7 @@ const ContrastExerciseEngine = ({ title, questions, topicA, topicB, storageKey }
     <div className="max-w-2xl mx-auto">
       <div className="sticky top-0 z-10 flex items-center justify-between gap-3 bg-background py-3 border-b border-border mb-6">
         <div>
-          <h2 className="font-display text-lg font-bold">{title}</h2>
+          <h1 className="font-display text-lg font-bold">{title}</h1>
           <p className="text-sm text-muted-foreground">
             {done}/{questions.length} answered · Score {score}/{questions.length}
             {best !== null && <> · Best {best}/{questions.length}</>}

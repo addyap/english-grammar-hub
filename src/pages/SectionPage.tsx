@@ -26,7 +26,7 @@ const SectionPage = () => {
     return (
       <div className="max-w-3xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
         <p>Section not found.</p>
-        <Link to="/" className="text-primary underline">Back home</Link>
+        <Link to="/" className="text-link underline">Back home</Link>
       </div>
     );
   }

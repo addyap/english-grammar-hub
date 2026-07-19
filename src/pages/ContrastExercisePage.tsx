@@ -44,7 +44,7 @@ const ContrastExercisePage = () => {
     return (
       <div className="max-w-2xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
         <p>Contrast exercise not found.</p>
-        <Link to="/contrast-practice" className="text-primary underline">Back to Contrast Practice</Link>
+        <Link to="/contrast-practice" className="text-link underline">Back to Contrast Practice</Link>
       </div>
     );
   }
@@ -57,7 +57,7 @@ const ContrastExercisePage = () => {
     return (
       <div className="max-w-2xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
         <p>Reference topic not found.</p>
-        <Link to="/contrast-practice" className="text-primary underline">Back to Contrast Practice</Link>
+        <Link to="/contrast-practice" className="text-link underline">Back to Contrast Practice</Link>
       </div>
     );
   }
