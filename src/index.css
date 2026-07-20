@@ -48,6 +48,18 @@
     --link: 172 70% 28%;
 
     --radius: 0.75rem;
+
+    /* True flag colours for the hero backdrops (UnionJackBackdrop /
+       StarsAndStripesBackdrop). Deliberately outside the teal/navy brand
+       palette: the flags used to be redrawn in site tokens at 9% opacity,
+       which read as faint texture rather than as flags. These are the real
+       thing, nudged just off pure red/blue so they sit beside the brand
+       teal instead of vibrating against it. They never sit behind text at
+       full strength — the hero paints a --background scrim over the centre,
+       so text contrast is measured against --background, not against these. */
+    --flag-red: 356 74% 47%;
+    --flag-blue: 220 72% 32%;
+    --flag-white: 0 0% 100%;
   }
 
   /* Same cool teal/navy hues as :root, lightness inverted. */
@@ -90,6 +102,12 @@
     --ring: 172 55% 48%;
 
     --link: 172 60% 60%;
+
+    /* Same flags, dialled down for a near-black background: pure white
+       stripes glare at night, and the navy blue disappears into it. */
+    --flag-red: 356 62% 50%;
+    --flag-blue: 220 58% 45%;
+    --flag-white: 210 25% 90%;
   }
 }
 
@@ -99,6 +117,38 @@
   }
   body {
     @apply bg-background text-foreground font-sans;
+  }
+}
+
+/* Reading ground for the hero flag backdrop (HomePage.tsx). The flag runs at
+   near-full strength now, so the copy needs flat --background underneath it;
+   this wash is opaque under the text and fades out before the edges, leaving
+   the colour visible around the rim. Mobile-first because the phone hero is
+   tall and narrow — a desktop-shaped ellipse leaves the wordmark and the
+   footer links sitting directly on stripes. Not an inline style, precisely so
+   the two shapes can be a media query. */
+.hero-flag-scrim {
+  /* Phone: the text block spans nearly the full width, so there is no room to
+     fade sideways — the colour has to live in bands above the wordmark and
+     below the links, hence a vertical fade rather than an ellipse. */
+  background: linear-gradient(
+    to bottom,
+    hsl(var(--background) / 0) 0%,
+    hsl(var(--background)) 10%,
+    hsl(var(--background)) 94%,
+    hsl(var(--background) / 0) 100%
+  );
+}
+
+@media (min-width: 640px) {
+  .hero-flag-scrim {
+    background: radial-gradient(
+      72% 62% at 50% 50%,
+      hsl(var(--background)) 0%,
+      hsl(var(--background)) 46%,
+      hsl(var(--background) / 0.9) 66%,
+      hsl(var(--background) / 0) 100%
+    );
   }
 }
 

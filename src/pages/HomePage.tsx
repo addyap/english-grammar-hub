@@ -42,7 +42,12 @@ const HomePage = () => {
   return (
     <div className="max-w-4xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
       <header className="relative mb-12 text-center overflow-hidden rounded-2xl px-4 py-10 sm:py-14">
-        <FlagBackdrop className="absolute inset-0 -z-10 w-[160%] h-[160%] -top-[30%] -left-[30%] rotate-[-8deg] opacity-[0.09]" />
+        <FlagBackdrop className="absolute inset-0 -z-20 w-[125%] h-[125%] -top-[12%] -left-[12%] rotate-[-8deg] opacity-95 dark:opacity-85" />
+        {/* The flag now runs at near-full strength, so the copy needs its own
+            ground — see .hero-flag-scrim in index.css. Colour survives around
+            the rim; every contrast pair here stays measured against flat
+            --background, exactly as the palette was verified. */}
+        <div aria-hidden="true" className="hero-flag-scrim absolute inset-0 -z-10" />
         <ThemeToggle className="absolute top-3 right-3 sm:top-4 sm:right-4" />
 
         <Wordmark size="lg" className="mb-6" />
