@@ -41,68 +41,76 @@ const HomePage = () => {
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
-      <header className="relative mb-12 text-center overflow-hidden rounded-2xl px-4 py-10 sm:py-14">
-        <FlagBackdrop className="absolute inset-0 -z-20 w-[125%] h-[125%] -top-[12%] -left-[12%] rotate-[-8deg] opacity-95 dark:opacity-85" />
-        {/* The flag now runs at near-full strength, so the copy needs its own
-            ground — see .hero-flag-scrim in index.css. Colour survives around
-            the rim; every contrast pair here stays measured against flat
-            --background, exactly as the palette was verified. */}
-        <div aria-hidden="true" className="hero-flag-scrim absolute inset-0 -z-10" />
-        <ThemeToggle className="absolute top-3 right-3 sm:top-4 sm:right-4" />
+      {/* The flag is a full-strength, full-bleed frame; the copy sits on an
+          inset panel of --background above it. Earlier versions faded the flag
+          out behind the text with a gradient, which drained the colour exactly
+          where the eye lands. Keeping the two layers separate means the flag
+          can stay fully saturated and every contrast pair here is still
+          measured against flat --background, as the palette was verified. */}
+      <header className="relative mb-12 overflow-hidden rounded-2xl p-3 sm:p-6">
+        <FlagBackdrop className="absolute inset-0 w-[125%] h-[125%] -top-[12%] -left-[12%] rotate-[-8deg] dark:opacity-90" />
+        {/* Opaque, not a translucent tint: at 95% the flag ghosts through the
+            panel, which looks good but costs contrast the palette has no room
+            for — the underlined links are verified at 4.92:1, and 5% of red
+            underneath drops them to 4.55:1, spending nearly all the AA
+            headroom on a decorative effect. The colour lives in the frame. */}
+        <div className="relative rounded-xl bg-background px-4 py-10 text-center sm:py-14">
+          <ThemeToggle className="absolute top-3 right-3 sm:top-4 sm:right-4" />
 
-        <Wordmark size="lg" className="mb-6" />
-        <h1 className="font-serif italic text-xl sm:text-2xl text-foreground max-w-xl mx-auto mb-2">
-          English grammar, in your language
-        </h1>
-        <p className="text-muted-foreground max-w-xl mx-auto mb-8">
-          Clear rules explained in French, Spanish, Portuguese, Italian, German, Russian, Arabic and
-          Mandarin Chinese, with self-correcting exercises.
-        </p>
+          <Wordmark size="lg" className="mb-6" />
+          <h1 className="font-serif italic text-xl sm:text-2xl text-foreground max-w-xl mx-auto mb-2">
+            English grammar, in your language
+          </h1>
+          <p className="text-muted-foreground max-w-xl mx-auto mb-8">
+            Clear rules explained in French, Spanish, Portuguese, Italian, German, Russian, Arabic and
+            Mandarin Chinese, with self-correcting exercises.
+          </p>
 
-        <div className="flex justify-center gap-3 mb-8">
-          <div className="bg-card border border-border rounded-lg px-5 py-3 min-w-[92px]">
-            <p className="text-2xl font-bold text-secondary">{languageCount}</p>
-            <p className="text-xs text-muted-foreground">languages</p>
+          <div className="flex justify-center gap-3 mb-8">
+            <div className="bg-card border border-border rounded-lg px-5 py-3 min-w-[92px]">
+              <p className="text-2xl font-bold text-secondary">{languageCount}</p>
+              <p className="text-xs text-muted-foreground">languages</p>
+            </div>
+            <div className="bg-card border border-border rounded-lg px-5 py-3 min-w-[92px]">
+              <p className="text-2xl font-bold text-secondary">{topicCount}</p>
+              <p className="text-xs text-muted-foreground">topics</p>
+            </div>
+            <div className="bg-card border border-border rounded-lg px-5 py-3 min-w-[92px]">
+              <p className="text-2xl font-bold text-secondary">{exerciseCount}</p>
+              <p className="text-xs text-muted-foreground">exercises</p>
+            </div>
           </div>
-          <div className="bg-card border border-border rounded-lg px-5 py-3 min-w-[92px]">
-            <p className="text-2xl font-bold text-secondary">{topicCount}</p>
-            <p className="text-xs text-muted-foreground">topics</p>
-          </div>
-          <div className="bg-card border border-border rounded-lg px-5 py-3 min-w-[92px]">
-            <p className="text-2xl font-bold text-secondary">{exerciseCount}</p>
-            <p className="text-xs text-muted-foreground">exercises</p>
-          </div>
+
+          {firstSection && (
+            <Link
+              to={`/section/${firstSection.slug}`}
+              className="inline-block bg-primary text-primary-foreground font-bold text-sm px-5 py-2.5 rounded-lg hover:opacity-90 transition-opacity"
+            >
+              Start with {firstSection.title} →
+            </Link>
+          )}
+
+          <p className="mt-4 flex flex-wrap justify-center gap-x-4 gap-y-1">
+            <Link
+              to="/progress"
+              className="text-sm text-muted-foreground hover:text-primary underline underline-offset-2"
+            >
+              Your progress →
+            </Link>
+            <Link
+              to="/contrast-practice"
+              className="text-sm text-muted-foreground hover:text-primary underline underline-offset-2"
+            >
+              Contrast practice →
+            </Link>
+            <Link
+              to="/resources"
+              className="text-sm text-muted-foreground hover:text-primary underline underline-offset-2"
+            >
+              More resources →
+            </Link>
+          </p>
         </div>
-
-        {firstSection && (
-          <Link
-            to={`/section/${firstSection.slug}`}
-            className="inline-block bg-primary text-primary-foreground font-bold text-sm px-5 py-2.5 rounded-lg hover:opacity-90 transition-opacity"
-          >
-            Start with {firstSection.title} →
-          </Link>
-        )}
-
-        <p className="mt-4 flex flex-wrap justify-center gap-x-4 gap-y-1">
-          <Link
-            to="/progress"
-            className="text-sm text-muted-foreground hover:text-primary underline underline-offset-2"
-          >
-            Your progress →
-          </Link>
-          <Link
-            to="/contrast-practice"
-            className="text-sm text-muted-foreground hover:text-primary underline underline-offset-2"
-          >
-            Contrast practice →
-          </Link>
-          <Link
-            to="/resources"
-            className="text-sm text-muted-foreground hover:text-primary underline underline-offset-2"
-          >
-            More resources →
-          </Link>
-        </p>
       </header>
 
       <div className="relative max-w-md mx-auto mb-10">
