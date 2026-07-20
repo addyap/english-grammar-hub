@@ -12,10 +12,15 @@ const CANTON_HEIGHT = STRIPE_HEIGHT * 7;
 /**
  * Sibling to UnionJackBackdrop.tsx — same idea (real flag colours via the
  * --flag-* tokens, hand-drawn accent), different flag. Stripes stay
- * ruler-straight like the Union Jack's cross bars; the "sketched" character
- * lives in the canton's stars, drawn as small 4-point sparkles (not precise
- * 5-point/50-star geometry — this is a hero backdrop, not a reference flag)
- * tiled via a <pattern> so there's one path to maintain, not fifty.
+ * ruler-straight like the Union Jack's cross bars.
+ *
+ * The stars are proper 5-point stars, tiled via a <pattern> so there's one
+ * path to maintain rather than fifty. They used to be 4-point sparkles,
+ * which was fine while the whole flag sat at 9% opacity and read as
+ * texture; once the canton became a full-saturation blue field, sparkles
+ * stopped looking like a stylistic choice and started looking like a
+ * mistake. The count still isn't 50 and the rows aren't offset — this is a
+ * hero backdrop, not a reference flag — but the shape is now right.
  */
 const StarsAndStripesBackdrop = ({ className = "" }: StarsAndStripesBackdropProps) => {
   const patternId = useId();
@@ -28,10 +33,14 @@ const StarsAndStripesBackdrop = ({ className = "" }: StarsAndStripesBackdropProp
       className={className}
     >
       <defs>
-        <pattern id={patternId} width="15.5" height="17.9" patternUnits="userSpaceOnUse">
+        {/* Tiled tighter than the old 5x3. The hero frame exposes only a band of
+            the flag, and at the old spacing that band often fell between stars,
+            leaving the canton reading as a plain blue block. Denser also sits
+            closer to the real flag's star density. */}
+        <pattern id={patternId} width="11" height="12.4" patternUnits="userSpaceOnUse">
           <path
-            d="M 0 -2.6 L 0.7 -0.7 L 2.6 0 L 0.7 0.7 L 0 2.6 L -0.7 0.7 L -2.6 0 L -0.7 -0.7 Z"
-            transform="translate(7.75,9)"
+            d="M 0 -3 L 0.73 -1.01 L 2.85 -0.93 L 1.19 0.39 L 1.76 2.43 L 0 1.25 L -1.76 2.43 L -1.19 0.39 L -2.85 -0.93 L -0.73 -1.01 Z"
+            transform="translate(5.5,6.2)"
             className="fill-flag-white"
           />
         </pattern>
