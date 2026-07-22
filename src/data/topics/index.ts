@@ -101,6 +101,7 @@ import { borrowVsLend } from "./borrowVsLend";
 import { riseVsRaiseLieVsLay } from "./riseVsRaiseLieVsLay";
 import { alreadyJustYetStill } from "./alreadyJustYetStill";
 import { phrasalVerbsIntroduction } from "./phrasalVerbsIntroduction";
+import { contrastingWords } from "./contrastingWords";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -209,6 +210,7 @@ export const topics: GrammarTopicContent[] = [
   riseVsRaiseLieVsLay,
   alreadyJustYetStill,
   phrasalVerbsIntroduction,
+  contrastingWords,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
