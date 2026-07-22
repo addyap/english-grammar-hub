@@ -138,7 +138,7 @@ export const eachOtherOneAnother: GrammarTopicContent = {
     {
       title: "Each Other or Themselves?",
       questions: [
-        { sentence: "Tom and Ana love ___ very much.", answer: "each other", options: ["each other", "themselves", "each other's"], explanation: "a mutual action — Tom loves Ana and Ana loves Tom." },
+        { sentence: "Tom and Ana have been together for ten years and still love ___ very much.", answer: "each other", options: ["each other", "themselves", "each other's"], explanation: "a mutual action — Tom loves Ana and Ana loves Tom, not a self-love reading." },
         { sentence: "The children looked at ___ in the mirror before school.", answer: "themselves", options: ["themselves", "each other", "each other's"], explanation: "each child looked at their own reflection — not a mutual action." },
         { sentence: "We help ___ with our homework.", answer: "each other", options: ["each other", "themselves", "each other's"], explanation: "a mutual action between two or more people." },
         { sentence: "The two students borrowed ___ notes before the exam.", answer: "each other's", options: ["each other's", "each other", "themselves"], explanation: "possessive form — each borrowed the other's notes." },
@@ -146,7 +146,7 @@ export const eachOtherOneAnother: GrammarTopicContent = {
         { sentence: "They introduced ___ before the meeting started.", answer: "themselves", options: ["themselves", "each other", "each other's"], explanation: "each person introduced their own self to the group." },
         { sentence: "My parents have known ___ for over thirty years.", answer: "each other", options: ["each other", "themselves", "each other's"], explanation: "a mutual relationship between two people." },
         { sentence: "The cat cleaned ___ after eating.", answer: "itself", options: ["itself", "each other", "each other's"], explanation: "one animal acting on itself — not a mutual action." },
-        { sentence: "The teammates congratulated ___ after winning the match.", answer: "each other", options: ["each other", "themselves", "each other's"], explanation: "a mutual action — each player congratulated the others." },
+        { sentence: "The teammates hugged and congratulated ___ after winning the match.", answer: "each other", options: ["each other", "themselves", "each other's"], explanation: "a mutual action — each player congratulated the others; pairing with the clearly reciprocal 'hugged' forces the mutual reading." },
         { sentence: "The neighbours often borrow ___ tools.", answer: "each other's", options: ["each other's", "each other", "themselves"], explanation: "possessive form — one neighbour borrows the other's tools." },
       ],
     },
@@ -162,7 +162,7 @@ export const eachOtherOneAnother: GrammarTopicContent = {
         { sentence: "They understood ___ perfectly, even without speaking the same language.", answer: "each other", options: ["each other", "themselves", "each other's"], explanation: "a mutual action — each understood the other." },
         { sentence: "The students corrected ___ homework in pairs.", answer: "each other's", options: ["each other's", "each other", "themselves"], explanation: "possessive form before a noun (homework)." },
         { sentence: "He looked at ___ in the shop window as he walked past.", answer: "himself", options: ["himself", "each other", "each other's"], explanation: "one person acting on himself — not a mutual action." },
-        { sentence: "The two sisters always support ___ , no matter what.", answer: "each other", options: ["each other", "themselves", "each other's"], explanation: "a mutual action between two people." },
+        { sentence: "No matter what happens, the two sisters always support ___, calling each other every single day.", answer: "each other", options: ["each other", "themselves", "each other's"], explanation: "a mutual action between two people, reinforced by the reciprocal 'calling each other'." },
       ],
     },
   ],

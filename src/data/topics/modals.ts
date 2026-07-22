@@ -179,7 +179,7 @@ export const modals: GrammarTopicContent = {
         { sentence: "When I was young, I ___ (can/swim) for hours.", answer: "could swim", options: ["could swim", "was able to swim", "can swim"], explanation: "could = general past ability (a repeated/ongoing skill)." },
         { sentence: "Despite the noise, she ___ (manage to/finish) her homework yesterday.", answer: "managed to finish", options: ["managed to finish", "could finish", "can finish"], explanation: "A specific one-time success in the past needs managed to/was able to, not could." },
         { sentence: "Last year he ___ (have to/work) every weekend.", answer: "had to work", options: ["had to work", "musted work", "must work"], explanation: "must has no past form — use had to." },
-        { sentence: "You ___ (not/must/park) here — it's forbidden.", answer: "mustn't park", options: ["mustn't park", "don't have to park", "can't park"], explanation: "mustn't = forbidden (a rule against it)." },
+        { sentence: "You ___ (not/must/park) here — it's forbidden.", answer: "mustn't park", options: ["mustn't park", "don't have to park", "needn't park"], explanation: "mustn't means forbidden (a rule against it); don't have to and needn't both mean there's no obligation — the opposite idea, not prohibition." },
         { sentence: "You ___ (not/have to/come) if you're busy — it's optional.", answer: "don't have to come", options: ["don't have to come", "mustn't come", "can't come"], explanation: "don't have to = not necessary/optional, unlike mustn't = forbidden." },
       ],
     },

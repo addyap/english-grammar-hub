@@ -153,7 +153,7 @@ export const participleClauses: GrammarTopicContent = {
     {
       title: "Dangling Participles & Mixed Practice",
       questions: [
-        { sentence: "Walking home, ___ started.", answer: "the rain", options: ["the rain", "I got caught when it", "it suddenly"], explanation: "This creates a dangling participle: the rain wasn't walking — the subjects must match." },
+        { sentence: "Walking home, ___ started.", answer: "I got caught when it", options: ["the rain", "I got caught when it", "it suddenly"], explanation: "I got caught when it started keeps the subject after the comma (I) matching who was actually walking; the rain started would be a dangling participle, since the rain wasn't walking." },
         { sentence: "Walking home, ___ caught in the rain.", answer: "I got", options: ["I got", "the rain got", "it started"], explanation: "The subject after the comma (I) matches who was actually walking." },
         { sentence: "Having finished the report, ___.", answer: "she went home", options: ["she went home", "the printer broke down", "it was late"], explanation: "The subject after the comma must be the one who finished the report." },
         { sentence: "___ (arrive) late, the guests missed the opening speech.", answer: "Arriving", options: ["Arriving", "Arrived", "Having arrived"], explanation: "-ing for an action happening at the same general time as the main clause." },

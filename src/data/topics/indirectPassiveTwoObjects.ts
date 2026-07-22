@@ -138,22 +138,22 @@ export const indirectPassiveTwoObjects: GrammarTopicContent = {
     {
       title: "Indirect Passive: Person or Thing as Subject?",
       questions: [
-        { sentence: "I ___ a strange email yesterday.", answer: "was sent", options: ["was sent", "was sent to", "sent"], explanation: "the person (I) is the subject — the thing (email) follows directly, no to." },
+        { sentence: "I ___ a strange email from an unknown address yesterday — I have no idea who sent it.", answer: "was sent", options: ["was sent", "was sent to", "sent"], explanation: "the person (I) is the subject — the thing (email) follows directly, no to; 'who sent it' confirms I'm the recipient, not the sender." },
         { sentence: "A prize ___ the winner at the ceremony.", answer: "was given to", options: ["was given to", "was given", "gave"], explanation: "the thing (prize) is the subject — the person (winner) needs to before it." },
         { sentence: "The new employees ___ a full induction on their first day.", answer: "were given", options: ["were given", "were given to", "gave"], explanation: "the people (employees) are the subject — the thing (induction) follows directly, no to." },
         { sentence: "French ___ her by a private tutor.", answer: "was taught to", options: ["was taught to", "was taught", "taught"], explanation: "the thing (French) is the subject — the person (her) needs to before it." },
-        { sentence: "We ___ a table by the window.", answer: "were shown", options: ["were shown", "were shown to", "showed"], explanation: "the people (we) are the subject — the thing (table) follows directly, no to." },
+        { sentence: "We ___ a table by the window when we arrived at the restaurant.", answer: "were shown", options: ["were shown", "were shown to", "showed"], explanation: "the people (we) are the subject — the thing (table) follows directly, no to; the restaurant context confirms we're the ones being seated, not doing the seating." },
         { sentence: "A generous bonus ___ every employee last year.", answer: "was paid to", options: ["was paid to", "was paid", "paid"], explanation: "the thing (bonus) is the subject — the person (employee) needs to before it." },
-        { sentence: "She ___ the truth eventually.", answer: "was told", options: ["was told", "was told to", "told"], explanation: "the person (she) is the subject — the thing (the truth) follows directly, no to." },
+        { sentence: "She ___ the truth eventually, by a coworker who couldn't keep the secret.", answer: "was told", options: ["was told", "was told to", "told"], explanation: "the person (she) is the subject — the thing (the truth) follows directly, no to; the 'by' agent confirms she's the recipient, not the one revealing it." },
         { sentence: "The results ___ the participants by email.", answer: "were sent to", options: ["were sent to", "were sent", "sent"], explanation: "the thing (results) is the subject — the person (participants) needs to before it." },
-        { sentence: "I ___ a second chance.", answer: "was offered", options: ["was offered", "was offered to", "offered"], explanation: "the person (I) is the subject — the thing (chance) follows directly, no to." },
+        { sentence: "I ___ a second chance by my manager after the mistake.", answer: "was offered", options: ["was offered", "was offered to", "offered"], explanation: "the person (I) is the subject — the thing (chance) follows directly, no to; the 'by' agent confirms I'm the recipient, not the one extending the offer." },
         { sentence: "A gold medal ___ the champion.", answer: "was awarded to", options: ["was awarded to", "was awarded", "awarded"], explanation: "the thing (medal) is the subject — the person (champion) needs to before it." },
       ],
     },
     {
       title: "Mixed Practice",
       questions: [
-        { sentence: "The children ___ a bedtime story every night.", answer: "are told", options: ["are told", "are told to", "tell"], explanation: "the people (children) are the subject — the thing (story) follows directly, no to." },
+        { sentence: "The children ___ a bedtime story every night by their grandmother.", answer: "are told", options: ["are told", "are told to", "tell"], explanation: "the people (children) are the subject — the thing (story) follows directly, no to; the 'by' agent confirms the children are the listeners, not the storytellers." },
         { sentence: "A large sum of money ___ the company by the bank.", answer: "was lent to", options: ["was lent to", "was lent", "lent"], explanation: "the thing (money) is the subject — the recipient (company) needs to before it." },
         { sentence: "He ___ a new laptop by his employer.", answer: "was given", options: ["was given", "was given to", "gave"], explanation: "the person (he) is the subject — the thing (laptop) follows directly, no to." },
         { sentence: "The keys ___ the new tenant yesterday.", answer: "were handed to", options: ["were handed to", "were handed", "handed"], explanation: "the thing (keys) is the subject — the person (tenant) needs to before it." },

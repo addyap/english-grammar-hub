@@ -154,7 +154,7 @@ export const duringWhileFor: GrammarTopicContent = {
       title: "Mixed Practice",
       questions: [
         { sentence: "___ my brother cooks, I usually set the table.", answer: "While", options: ["While", "During", "For"], explanation: "While + subject + verb (a clause)." },
-        { sentence: "The baby cried ___ the whole flight.", answer: "during", options: ["during", "while", "for"], explanation: "during + noun (the flight)." },
+        { sentence: "The baby cried loudly ___ the flight, right after takeoff.", answer: "during", options: ["during", "while", "for"], explanation: "during + noun (the flight); 'right after takeoff' pins it to a moment within the flight, not its full duration." },
         { sentence: "I lived in Paris ___ two years.", answer: "for", options: ["for", "during", "while"], explanation: "for + a length of time." },
         { sentence: "___ I like tea, my brother prefers coffee.", answer: "While", options: ["While", "During", "For"], explanation: "while meaning 'whereas', contrasting two facts." },
         { sentence: "Nobody spoke ___ the ceremony.", answer: "during", options: ["during", "while", "for"], explanation: "during + noun (the ceremony)." },

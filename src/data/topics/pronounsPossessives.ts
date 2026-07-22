@@ -168,7 +168,7 @@ export const pronounsPossessives: GrammarTopicContent = {
         { sentence: "He looked at ___ (he) in the mirror.", answer: "himself", options: ["himself", "him", "his"], explanation: "Reflexive: subject and object are the same person (he)." },
         { sentence: "We should be proud of ___ (we).", answer: "ourselves", options: ["ourselves", "us", "our"], explanation: "Reflexive after a preposition when subject and object match." },
         { sentence: "The cat cleaned ___ (it) fur.", answer: "its", options: ["its", "it's", "it"], explanation: "Possessive its before the noun fur — it's means it is/it has." },
-        { sentence: "Serve ___ (you) to some more rice.", answer: "yourself", options: ["yourself", "you", "your"], explanation: "Reflexive: an imperative addressed to you, subject and object are the same person." },
+        { sentence: "Help ___ (you) to some more rice.", answer: "yourself", options: ["yourself", "you", "your"], explanation: "Reflexive: an imperative addressed to you, subject and object are the same person." },
         { sentence: "He taught ___ (he) to play the guitar.", answer: "himself", options: ["himself", "him", "his"], explanation: "Reflexive: he is both the teacher and the student here — subject and object are the same person." },
         { sentence: "Is that jacket ___ (they)?", answer: "theirs", options: ["theirs", "their", "them"], explanation: "Possessive pronoun standing alone — no noun follows." },
         { sentence: "It's obviously ___ (I) who called.", answer: "me", options: ["me", "I", "myself"], explanation: "Object pronoun after the verb be in everyday spoken English, not the stiffly formal 'it is I'." },

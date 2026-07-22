@@ -144,7 +144,7 @@ export const byVsUntil: GrammarTopicContent = {
         { sentence: "We waited ___ the bus finally arrived.", answer: "until", options: ["until", "by", "for"], explanation: "a continuous state (waiting) lasting up to a point — until." },
         { sentence: "The store is open ___ 9pm every night.", answer: "until", options: ["until", "by", "for"], explanation: "a continuous state (being open) lasting up to a point — until." },
         { sentence: "Can you call me ___ noon tomorrow?", answer: "by", options: ["by", "until", "for"], explanation: "a one-time completed action with a deadline — by." },
-        { sentence: "She won't be back ___ next week.", answer: "until", options: ["until", "by", "for"], explanation: "a continuous state (being away) lasting up to a point — until." },
+        { sentence: "She won't be back ___ next week, so don't expect her before then.", answer: "until", options: ["until", "by", "for"], explanation: "a continuous state (being away) lasting up to a point — until; 'don't expect her before then' rules out the by reading (a deadline that could be met early)." },
         { sentence: "The package should arrive ___ Thursday.", answer: "by", options: ["by", "until", "for"], explanation: "a one-time completed event with a deadline — by." },
         { sentence: "Keep stirring the sauce ___ it thickens.", answer: "until", options: ["until", "by", "for"], explanation: "a continuous action lasting up to a point — until." },
         { sentence: "I need your answer ___ the end of the day.", answer: "by", options: ["by", "until", "for"], explanation: "a one-time completed action with a deadline — by." },

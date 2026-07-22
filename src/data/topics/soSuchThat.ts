@@ -164,7 +164,7 @@ export const soSuchThat: GrammarTopicContent = {
       questions: [
         { sentence: "It was so hot ___ we went swimming.", answer: "that", options: ["that", "so", "such"], explanation: "that introduces the result clause after so + adjective." },
         { sentence: "It was such a boring film ___ I fell asleep.", answer: "that", options: ["that", "so", "such"], explanation: "that introduces the result clause after such + noun phrase." },
-        { sentence: "It was so cold ___ the lake froze.", answer: "the lake froze", options: ["the lake froze", "did the lake freeze", "froze the lake"], explanation: "The result clause after that keeps normal statement word order." },
+        { sentence: "It was so cold that ___.", answer: "the lake froze", options: ["the lake froze", "did the lake freeze", "froze the lake"], explanation: "The result clause after that keeps normal statement word order." },
         { sentence: "She is ___ kind that everyone likes her.", answer: "so", options: ["so", "such", "such a"], explanation: "so + adjective alone, with no noun following directly." },
         { sentence: "He is ___ kind person that everyone likes him.", answer: "such a", options: ["such a", "so", "so a"], explanation: "such + a + adjective + noun (person)." },
         { sentence: "It was ___ expensive that we couldn't afford it.", answer: "so", options: ["so", "such", "such an"], explanation: "so + adjective alone, with no noun following directly." },

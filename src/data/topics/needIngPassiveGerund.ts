@@ -140,7 +140,7 @@ export const needIngPassiveGerund: GrammarTopicContent = {
       questions: [
         { sentence: "This shirt is dirty. It ___ (wash).", answer: "needs washing", options: ["needs washing", "needs wash", "needs to washing"], explanation: "need + -ing has a passive meaning: the shirt needs to be washed." },
         { sentence: "The grass is very long. It ___ (cut).", answer: "needs cutting", options: ["needs cutting", "needs cut", "needs to cutting"], explanation: "need + -ing has a passive meaning: the grass needs to be cut." },
-        { sentence: "My bike has a flat tyre. It ___ (repair).", answer: "needs to be repaired", options: ["needs to be repaired", "needs repair", "needs to repairing"], explanation: "need + to be + past participle has a passive meaning." },
+        { sentence: "My bike has a flat tyre. It ___ (fix).", answer: "needs to be fixed", options: ["needs to be fixed", "needs fix", "needs to fixing"], explanation: "need + to be + past participle has a passive meaning." },
         { sentence: "The windows are filthy. They ___ (clean).", answer: "need cleaning", options: ["need cleaning", "need clean", "need to cleaning"], explanation: "need + -ing has a passive meaning: the windows need to be cleaned." },
         { sentence: "This essay ___ (proofread) before you submit it.", answer: "needs to be proofread", options: ["needs to be proofread", "needs proofread", "needs to proofreading"], explanation: "need + to be + past participle has a passive meaning." },
         { sentence: "The kitchen floor ___ (mop).", answer: "needs mopping", options: ["needs mopping", "needs mop", "needs to mopping"], explanation: "need + -ing has a passive meaning: the floor needs to be mopped." },
@@ -154,7 +154,7 @@ export const needIngPassiveGerund: GrammarTopicContent = {
       title: "Mixed Practice",
       questions: [
         { sentence: "This room ___ (paint) — the walls look terrible.", answer: "needs painting", options: ["needs painting", "needs paint", "needs to painting"], explanation: "need + -ing has a passive meaning: the room needs to be painted." },
-        { sentence: "The contract ___ (review) by a lawyer before we sign it.", answer: "needs to be reviewed", options: ["needs to be reviewed", "needs review", "needs to reviewing"], explanation: "need + to be + past participle has a passive meaning." },
+        { sentence: "The contract ___ (approve) by a lawyer before we sign it.", answer: "needs to be approved", options: ["needs to be approved", "needs approve", "needs to approving"], explanation: "need + to be + past participle has a passive meaning." },
         { sentence: "My car ___ (service) — it's making a strange noise.", answer: "needs servicing", options: ["needs servicing", "needs service", "needs to servicing"], explanation: "need + -ing has a passive meaning: the car needs to be serviced." },
         { sentence: "The garden ___ (water) every day in summer.", answer: "needs watering", options: ["needs watering", "needs water", "needs to watering"], explanation: "need + -ing has a passive meaning: the garden needs to be watered." },
         { sentence: "The application form ___ (complete) in black ink.", answer: "needs to be completed", options: ["needs to be completed", "needs complete", "needs to completing"], explanation: "need + to be + past participle has a passive meaning." },

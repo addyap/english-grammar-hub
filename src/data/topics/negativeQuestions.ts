@@ -158,7 +158,7 @@ export const negativeQuestions: GrammarTopicContent = {
         { sentence: "\"Isn't she coming tonight?\" \"No, ___.\"", answer: "she isn't", options: ["she isn't", "she is", "she isn't not"], explanation: "No confirms the negative fact: No, she isn't (coming)." },
         { sentence: "\"Haven't you finished yet?\" \"Yes, ___.\"", answer: "I have", options: ["I have", "I haven't", "I not have"], explanation: "Yes confirms the positive fact: Yes, I have (finished)." },
         { sentence: "___ you get my message? I sent it yesterday.", answer: "Didn't", options: ["Didn't", "Don't", "Weren't"], explanation: "Past negative auxiliary didn't inverts before the subject." },
-        { sentence: "___ it make sense to leave earlier?", answer: "Wouldn't", options: ["Wouldn't", "Don't", "Doesn't"], explanation: "Wouldn't it...? is a common way of proposing an idea." },
+        { sentence: "___ it make more sense if we left earlier?", answer: "Wouldn't", options: ["Wouldn't", "Don't", "Doesn't"], explanation: "Wouldn't it...? is a common way of proposing an idea; the conditional clause 'if we left earlier' grammatically requires wouldn't, not doesn't." },
         { sentence: "\"Isn't this the wrong way?\" \"___, I think you're right.\"", answer: "Yes", options: ["Yes", "No", "Not"], explanation: "Yes agrees that it IS the wrong way — the underlying fact is positive." },
         { sentence: "Do you ___ want any help?", answer: "not", options: ["not", "don't", "no"], explanation: "The formal full form: Do you not want...? (auxiliary + subject + not)." },
         { sentence: "___ (be/not) you excited about the trip?", answer: "Aren't", options: ["Aren't", "Don't", "Doesn't"], explanation: "Negative auxiliary aren't inverts before the subject." },

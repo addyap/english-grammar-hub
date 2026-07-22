@@ -147,7 +147,7 @@ export const adverbsOfDegree: GrammarTopicContent = {
     {
       title: "Fairly, Rather, Quite or Pretty?",
       questions: [
-        { sentence: "The film was ___ amazing — I've never seen anything like it.", answer: "quite", options: ["quite", "fairly", "rather"], explanation: "quite + an ungradable/extreme adjective (amazing) means 'completely', not 'moderately'." },
+        { sentence: "The film was ___ amazing — I couldn't find a single flaw in it.", answer: "quite", options: ["quite", "fairly", "rather"], explanation: "quite + an ungradable/extreme adjective (amazing) means 'completely', not 'moderately'; 'not a single flaw' confirms the total reading." },
         { sentence: "The soup was ___ good, though not amazing.", answer: "fairly", options: ["fairly", "absolutely", "totally"], explanation: "fairly always means 'moderately', matching a gradable adjective like good." },
         { sentence: "The room was ___ empty — not a single chair was left.", answer: "quite", options: ["quite", "fairly", "rather"], explanation: "quite + an ungradable adjective (empty) means 'completely'." },
         { sentence: "It's ___ cold today — colder than usual.", answer: "rather", options: ["rather", "absolutely", "totally"], explanation: "rather adds a note of surprise with a gradable adjective (cold)." },
@@ -162,7 +162,7 @@ export const adverbsOfDegree: GrammarTopicContent = {
     {
       title: "Mixed Practice",
       questions: [
-        { sentence: "The performance was ___ extraordinary — nothing like it had ever been seen.", answer: "quite", options: ["quite", "fairly", "rather"], explanation: "quite + an ungradable adjective (extraordinary) means 'completely'." },
+        { sentence: "The performance was ___ extraordinary — it was flawless from start to finish.", answer: "quite", options: ["quite", "fairly", "rather"], explanation: "quite + an ungradable adjective (extraordinary) means 'completely'; 'flawless from start to finish' confirms the total reading." },
         { sentence: "The weather has been ___ nice this week.", answer: "pretty", options: ["pretty", "absolutely", "totally"], explanation: "pretty is informal and means 'moderately', matching a gradable adjective like nice." },
         { sentence: "His explanation was ___ confusing — I couldn't follow it at all.", answer: "rather", options: ["rather", "absolutely", "totally"], explanation: "rather adds a note of surprise/complaint with a gradable adjective (confusing)." },
         { sentence: "The task was ___ impossible to finish in one day.", answer: "quite", options: ["quite", "fairly", "rather"], explanation: "quite + an ungradable adjective (impossible) means 'completely'." },

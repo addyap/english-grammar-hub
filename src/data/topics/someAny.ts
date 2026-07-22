@@ -155,7 +155,7 @@ export const someAny: GrammarTopicContent = {
       questions: [
         { sentence: "You can choose ___ seat you like — they're all free.", answer: "any", options: ["some", "any"], explanation: "'it doesn't matter which' → any, even in an affirmative sentence." },
         { sentence: "Call me at ___ time — I'm always free.", answer: "any", options: ["some", "any"], explanation: "'it doesn't matter which' → any, even in an affirmative sentence." },
-        { sentence: "Is there ___ who can help me with this?", answer: "anyone", options: ["someone", "anyone"], explanation: "an ordinary, open question → any-." },
+        { sentence: "Is there ___ at all who can help me with this? I've already asked everyone I know.", answer: "anyone", options: ["someone", "anyone"], explanation: "an open, general question (not a hopeful offer or request) → any-; 'at all' and 'already asked everyone' confirm it's a genuine open question, not one expecting a specific yes." },
         { sentence: "I didn't see ___ at the party.", answer: "anyone", options: ["someone", "anyone"], explanation: "negative sentence → any-." },
         { sentence: "There's ___ strange noise coming from the attic.", answer: "some", options: ["some", "any"], explanation: "affirmative sentence → some." },
         { sentence: "Would you like ___ more cake?", answer: "some", options: ["some", "any"], explanation: "an offer, expecting yes → some." },

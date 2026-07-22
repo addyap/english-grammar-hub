@@ -142,7 +142,7 @@ export const theMoreTheMore: GrammarTopicContent = {
         { sentence: "The ___ the house, the higher the price.", answer: "bigger", options: ["bigger", "more big", "biggest"], explanation: "short adjectives (big) take -er, not more." },
         { sentence: "The ___ I get, the wiser I become.", answer: "older", options: ["older", "more old", "oldest"], explanation: "short adjectives (old) take -er, not more." },
         { sentence: "The ___ the hotel, the better the service.", answer: "more expensive", options: ["more expensive", "expensiver", "most expensive"], explanation: "longer adjectives (expensive) use more, not -er." },
-        { sentence: "The ___ you worry, the happier you'll be.", answer: "less", options: ["less", "fewer", "least"], explanation: "little becomes less in the comparative pattern, for uncountable worry." },
+        { sentence: "The ___ you worry, the happier you'll be.", answer: "less", options: ["less", "fewer", "least"], explanation: "less is used adverbially here to modify the verb worry (worry less = worry to a smaller degree); fewer only modifies plural countable nouns, which doesn't apply to a verb." },
         { sentence: "The ___ money you have, the more problems you get.", answer: "more", options: ["more", "most", "much"], explanation: "much becomes more in the comparative pattern." },
         { sentence: "The ___ we leave, the sooner we'll arrive.", answer: "sooner", options: ["sooner", "more soon", "soonest"], explanation: "short adverbs (soon) take -er, not more." },
         { sentence: "The ___ you work, the more you achieve.", answer: "harder", options: ["harder", "more hard", "hardest"], explanation: "short adjectives/adverbs (hard) take -er, not more." },

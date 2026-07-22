@@ -141,7 +141,7 @@ export const alternativeQuestionsWithOr: GrammarTopicContent = {
         { sentence: "Do you want tea ___ coffee?", answer: "or", options: ["or", "and", "nor"], explanation: "or connects the two specific choices in an alternative question." },
         { sentence: "Would you like to stay ___ leave now?", answer: "or", options: ["or", "and", "but"], explanation: "or connects the two specific choices in an alternative question." },
         { sentence: "Are you free on Monday or Tuesday? — I'm free on ___.", answer: "Monday", options: ["Monday", "Yes", "No"], explanation: "an alternative question needs a specific choice as the answer, not yes/no." },
-        { sentence: "Is this bag yours or hers? — It's ___.", answer: "mine", options: ["mine", "Yes", "No"], explanation: "an alternative question needs a specific choice as the answer, not yes/no." },
+        { sentence: "Is this bag yours or hers? — It's ___.", answer: "yours", options: ["yours", "Yes", "No"], explanation: "an alternative question needs one of the two options given (yours or hers) as the answer, not yes/no." },
         { sentence: "Should we take the train ___ drive?", answer: "or", options: ["or", "and", "so"], explanation: "or connects the two specific choices in an alternative question." },
         { sentence: "Do you prefer red wine or white? — ___ is fine, I don't mind.", answer: "Either", options: ["Either", "Yes", "No"], explanation: "either is a valid answer when both options are acceptable." },
         { sentence: "Can I pay by card ___ in cash?", answer: "or", options: ["or", "and", "but"], explanation: "or connects the two specific choices in an alternative question." },

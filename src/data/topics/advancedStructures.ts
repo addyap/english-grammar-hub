@@ -225,7 +225,7 @@ export const advancedStructures: GrammarTopicContent = {
     {
       title: "Cleft Sentences & Emphasis",
       questions: [
-        { sentence: "___ John who broke the window, not his brother.", answer: "It was", options: ["It was", "It is", "That was"], explanation: "It-cleft: It + be + the emphasized part (John) + who." },
+        { sentence: "Yesterday, ___ John who broke the window, not his brother.", answer: "It was", options: ["It was", "It is", "That was"], explanation: "It-cleft: It + be + the emphasized part (John) + who; 'yesterday' anchors it to the past tense." },
         { sentence: "It was the manager ___ made the final decision.", answer: "who", options: ["who", "which", "what"], explanation: "who refers to a person in an it-cleft — which is wrong for people." },
         { sentence: "___ I need is a good night's sleep.", answer: "What", options: ["What", "It", "That"], explanation: "What-cleft (pseudo-cleft): What + clause + be + the emphasized part." },
         { sentence: "What she wants ___ a bit more free time.", answer: "is", options: ["is", "are", "was"], explanation: "The verb in a what-cleft agrees with the emphasized part (a bit more free time = singular idea)." },

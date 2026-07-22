@@ -99,7 +99,7 @@ export const pastPerfectContinuous: GrammarTopicContent = {
         { sentence: "I ___ (want) to visit Rome for years before I finally went.", answer: "had wanted", options: ["had wanted", "had been wanting", "wanted"], explanation: "want is a stative verb — never continuous, even for duration." },
         { sentence: "We were tired because we ___ (travel) all night.", answer: "had been travelling", options: ["had been travelling", "had travelled", "were travelling"], explanation: "the ongoing activity, not a finished count, explains the result." },
         { sentence: "By 10pm, we ___ (travel) 500 miles.", answer: "had travelled", options: ["had travelled", "had been travelling", "travelled"], explanation: "a specific completed quantity → past perfect simple." },
-        { sentence: "He ___ (not/see) her since the wedding, so he was excited to meet again.", answer: "hadn't seen", options: ["hadn't seen", "hadn't been seeing", "didn't see"], explanation: "a simple completed-experience meaning ('hadn't met') → past perfect simple." },
+        { sentence: "He ___ (not/see) her since the wedding, so he was excited to meet again.", answer: "hadn't seen", options: ["hadn't seen", "hadn't been seeing", "didn't see"], explanation: "a simple completed-experience meaning ('hadn't met') → past perfect simple; 'hadn't been seeing' would suggest a romantic relationship that had ended, which the sentence doesn't support." },
       ],
     },
   ],

@@ -146,7 +146,7 @@ export const mustntVsDontHaveTo: GrammarTopicContent = {
         { sentence: "We ___ (book) in advance; walk-ins are welcome too.", answer: "don't have to book", options: ["don't have to book", "mustn't book", "doesn't have to book"], explanation: "not necessary, but allowed — don't have to." },
         { sentence: "Employees ___ (share) their passwords with anyone.", answer: "mustn't share", options: ["mustn't share", "don't have to share", "doesn't have to share"], explanation: "forbidden — mustn't." },
         { sentence: "He ___ (wear) a tie; the dress code here is casual.", answer: "doesn't have to wear", options: ["doesn't have to wear", "mustn't wear", "don't have to wear"], explanation: "not necessary, but allowed — doesn't have to." },
-        { sentence: "You ___ (take) photos inside the museum.", answer: "mustn't take", options: ["mustn't take", "don't have to take", "doesn't have to take"], explanation: "forbidden — mustn't." },
+        { sentence: "You ___ (take) photos inside the museum — it's strictly forbidden to protect the artwork.", answer: "mustn't take", options: ["mustn't take", "don't have to take", "doesn't have to take"], explanation: "forbidden — mustn't." },
         { sentence: "I ___ (finish) the whole report today; the deadline is next week.", answer: "don't have to finish", options: ["don't have to finish", "mustn't finish", "doesn't have to finish"], explanation: "not necessary, but allowed — don't have to." },
       ],
     },

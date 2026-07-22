@@ -158,7 +158,7 @@ export const likeVsAs: GrammarTopicContent = {
         { sentence: "She acted ___ the manager while the boss was away.", answer: "as", options: ["as", "like", "such as"], explanation: "as + noun for a genuine (if temporary) role." },
         { sentence: "It smells ___ fresh bread in here.", answer: "like", options: ["like", "as", "as a"], explanation: "like + noun for resemblance." },
         { sentence: "___ a teacher, she has to plan lessons every week.", answer: "As", options: ["As", "Like", "Such as"], explanation: "as + noun for a genuine role — introducing the sentence with her actual job." },
-        { sentence: "He treats his dog ___ a member of the family.", answer: "like", options: ["like", "as", "as a"], explanation: "like + noun for a comparison (the dog isn't literally a family member)." },
+        { sentence: "He treats his dog ___ a tiny human, dressing it up in little outfits.", answer: "like", options: ["like", "as", "as a"], explanation: "like + noun for a comparison — the dog isn't literally a human." },
         { sentence: "Please do exactly ___ the instructions say.", answer: "as", options: ["as", "like", "such a"], explanation: "as + subject + verb introduces a full clause." },
         { sentence: "She works ___ a translator, not just as a hobby.", answer: "as", options: ["as", "like", "such as"], explanation: "as + noun for a genuine job/role." },
         { sentence: "This restaurant serves dishes ___ pasta and pizza.", answer: "like", options: ["like", "as", "as a"], explanation: "like meaning 'for example', introducing examples." },
