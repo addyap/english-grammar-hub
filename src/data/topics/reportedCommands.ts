@@ -4,7 +4,7 @@ export const reportedCommands: GrammarTopicContent = {
   slug: "reported-commands",
   sectionSlug: "reported-speech",
   title: "Reported Commands & Requests",
-  level: "B1",
+  level: "B2",
   explanations: {
     en: [
       "Reporting an order, request, or piece of advice uses a completely different pattern from reporting a statement or question: no backshifted verb, no that — instead, a reporting verb + object + to-infinitive. 'Close the door,' she said becomes She told me to close the door, not She told me that I closed the door.",

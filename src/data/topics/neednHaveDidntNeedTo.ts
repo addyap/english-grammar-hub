@@ -4,7 +4,7 @@ export const neednHaveDidntNeedTo: GrammarTopicContent = {
   slug: "neednt-have-didnt-need-to",
   sectionSlug: "modals",
   title: "Needn't Have vs Didn't Need To",
-  level: "C1",
+  level: "B2",
   explanations: {
     en: [
       "needn't have + past participle and didn't need to + base verb both talk about unnecessary actions in the past, but they describe different outcomes. needn't have done says the action happened, but turned out to be unnecessary: I needn't have brought an umbrella (I brought one, but it didn't rain — a wasted effort). didn't need to do usually says the action was unnecessary and, in most cases, wasn't done: I didn't need to bring an umbrella (it wasn't necessary, and probably I didn't bring one).",

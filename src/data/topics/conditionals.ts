@@ -4,7 +4,7 @@ export const conditionals: GrammarTopicContent = {
   slug: "conditionals",
   sectionSlug: "conditionals",
   title: "Conditionals",
-  level: "B1",
+  level: "B2",
   explanations: {
     en: [
       "Use conditionals to talk about the result of a condition — if X (condition), then Y (result). Which type you choose depends on how real or likely the situation is: from always-true facts, to likely future plans, to imagined or impossible situations.",

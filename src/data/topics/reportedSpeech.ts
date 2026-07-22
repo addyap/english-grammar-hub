@@ -4,7 +4,7 @@ export const reportedSpeech: GrammarTopicContent = {
   slug: "reported-speech",
   sectionSlug: "reported-speech",
   title: "Reported Speech",
-  level: "B1",
+  level: "B2",
   explanations: {
     en: [
       "Use reported speech to tell someone what another person said, without quoting their exact words in quotation marks. Direct speech: She said, 'I am tired.' Reported speech: She said (that) she was tired — the tense usually shifts back one step because you're reporting from a later point in time, even if what was said is still true now.",

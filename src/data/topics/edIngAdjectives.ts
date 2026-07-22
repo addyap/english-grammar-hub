@@ -4,7 +4,7 @@ export const edIngAdjectives: GrammarTopicContent = {
   slug: "ed-ing-adjectives",
   sectionSlug: "adjectives-adverbs",
   title: "-ed vs -ing Adjectives",
-  level: "B1",
+  level: "A2",
   explanations: {
     en: [
       "Many verbs form two related adjectives — one ending in -ed, one in -ing — and they describe completely different things. The -ed adjective describes how someone feels (they experience the emotion); the -ing adjective describes the thing or person that causes that feeling. I am bored (my feeling) because the film is boring (the film causes that feeling) — never the reverse.",

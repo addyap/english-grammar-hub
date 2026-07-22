@@ -4,7 +4,7 @@ export const passiveVoice: GrammarTopicContent = {
   slug: "passive-voice",
   sectionSlug: "passive-voice",
   title: "Passive Voice",
-  level: "B1",
+  level: "B2",
   explanations: {
     en: [
       "Use the passive when the action matters more than who does it — because the doer is unknown, unimportant, obvious from context, or you simply want to focus on the receiver of the action rather than the doer. Compare: Someone stole my bike (active, doer named) and My bike was stolen (passive, doer unknown or irrelevant). Passive voice is also common in formal, scientific, and news writing, where the process or result matters more than who performed it: The bridge was built in 1889.",

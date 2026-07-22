@@ -4,7 +4,7 @@ export const adverbsOfDegree: GrammarTopicContent = {
   slug: "adverbs-of-degree-fairly-rather-quite",
   sectionSlug: "adjectives-adverbs",
   title: "Adverbs of Degree: Fairly, Rather, Quite & Pretty",
-  level: "B1",
+  level: "B2",
   explanations: {
     en: [
       "fairly, rather, quite, and pretty all modify an adjective or adverb to show degree — 'to what extent' — sitting between 'somewhat' and 'very'. They aren't interchangeable: each carries its own shade of meaning and its own level of formality. It's fairly cold (mildly, unremarkably) is weaker than It's rather cold (noticeably, sometimes with a hint of surprise or complaint), and both are less strong than It's quite cold, which can mean either 'noticeably' (with gradable adjectives) or 'completely' (with extreme adjectives).",

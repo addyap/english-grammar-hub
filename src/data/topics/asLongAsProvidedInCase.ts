@@ -4,7 +4,7 @@ export const asLongAsProvidedInCase: GrammarTopicContent = {
   slug: "as-long-as-provided-in-case",
   sectionSlug: "conditionals",
   title: "As Long As, Provided That & In Case",
-  level: "B1",
+  level: "B2",
   explanations: {
     en: [
       "as long as, provided (that), and providing (that) all introduce a strong condition, similar to if but stricter — they mean 'only if this condition is true' and often carry a sense of a requirement or exception rather than a simple hypothesis. in case is different: it doesn't introduce a condition for the main clause to happen, but a precaution taken because something might happen. You can borrow my car as long as you return it by six (a strict requirement) is different from Take an umbrella in case it rains (a precaution, not a requirement — you take the umbrella regardless of whether it actually rains).",
