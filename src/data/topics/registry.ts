@@ -113,4 +113,7 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "already-just-yet-still", sectionSlug: "tenses", title: "Already, Just, Yet, Still & Always", level: "B1", file: "alreadyJustYetStill" },
   { slug: "phrasal-verbs-introduction", sectionSlug: "verb-patterns", title: "Introduction to Phrasal Verbs", level: "A2", file: "phrasalVerbsIntroduction" },
   { slug: "contrasting-words", sectionSlug: "conjunctions-linking", title: "Contrasting Words: Although, However, Whereas & More", level: "B2", file: "contrastingWords" },
+  { slug: "future-time-clauses", sectionSlug: "tenses", title: "Time Clauses: When, Until, As Soon As & Before", level: "B1", file: "futureTimeClauses" },
+  { slug: "make-vs-do", sectionSlug: "verb-patterns", title: "Make vs Do", level: "A2", file: "makeVsDo" },
+  { slug: "another-vs-other-vs-the-other", sectionSlug: "pronouns-possessives", title: "Another vs Other vs The Other", level: "B1", file: "anotherVsOtherVsTheOther" },
 ];

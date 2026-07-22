@@ -102,6 +102,9 @@ import { riseVsRaiseLieVsLay } from "./riseVsRaiseLieVsLay";
 import { alreadyJustYetStill } from "./alreadyJustYetStill";
 import { phrasalVerbsIntroduction } from "./phrasalVerbsIntroduction";
 import { contrastingWords } from "./contrastingWords";
+import { futureTimeClauses } from "./futureTimeClauses";
+import { makeVsDo } from "./makeVsDo";
+import { anotherVsOtherVsTheOther } from "./anotherVsOtherVsTheOther";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -211,6 +214,9 @@ export const topics: GrammarTopicContent[] = [
   alreadyJustYetStill,
   phrasalVerbsIntroduction,
   contrastingWords,
+  futureTimeClauses,
+  makeVsDo,
+  anotherVsOtherVsTheOther,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);
