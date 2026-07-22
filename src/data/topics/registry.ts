@@ -110,4 +110,5 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "bring-vs-take", sectionSlug: "verb-patterns", title: "Bring vs Take", level: "A2", file: "bringVsTake" },
   { slug: "borrow-vs-lend", sectionSlug: "verb-patterns", title: "Borrow vs Lend", level: "A2", file: "borrowVsLend" },
   { slug: "rise-vs-raise-lie-vs-lay", sectionSlug: "verb-patterns", title: "Rise vs Raise & Lie vs Lay", level: "B2", file: "riseVsRaiseLieVsLay" },
+  { slug: "already-just-yet-still", sectionSlug: "tenses", title: "Already, Just, Yet, Still & Always", level: "B1", file: "alreadyJustYetStill" },
 ];
