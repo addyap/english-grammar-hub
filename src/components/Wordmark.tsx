@@ -9,30 +9,29 @@ const SIZES: Record<NonNullable<WordmarkProps["size"]>, string> = {
 };
 
 const ICON_SIZES: Record<NonNullable<WordmarkProps["size"]>, string> = {
-  sm: "h-6 w-5",
-  lg: "h-11 w-9 sm:h-14 sm:w-11",
+  sm: "h-6 w-6",
+  lg: "h-11 w-11 sm:h-14 sm:w-14",
 };
 
 /**
- * The "G" ring + crossbar + speech-bubble tail, filled from --primary/
- * --secondary so it stays theme-aware without a separate dark variant.
+ * A speech bubble with a checkmark — "explained" (the bubble) plus "correct"
+ * (the check), filled from --primary/--secondary so it stays theme-aware
+ * without a separate dark variant. --success shares --primary's hue on
+ * purpose (see index.css), so the checkmark here echoes the same green used
+ * for every correct-answer state in the exercise engine.
  */
 const MarkIcon = ({ className = "" }: { className?: string }) => (
-  <svg viewBox="0 0 200 240" aria-hidden="true" className={className}>
+  <svg viewBox="0 0 100 100" aria-hidden="true" className={className}>
+    <rect x="10" y="10" width="80" height="58" rx="18" fill="hsl(var(--primary))" />
+    <polygon points="30,68 30,88 46,68" fill="hsl(var(--primary))" />
     <path
-      d="M159.89 116.05 A62 62 0 1 1 159.89 83.95"
+      d="M27 42 L44 58 L74 26"
       fill="none"
-      stroke="hsl(var(--primary))"
-      strokeWidth="34"
-      strokeLinecap="butt"
+      stroke="hsl(var(--secondary))"
+      strokeWidth="10"
+      strokeLinecap="round"
+      strokeLinejoin="round"
     />
-    <rect x="103" y="83" width="82" height="34" fill="hsl(var(--primary))" />
-    <polygon
-      points="56.53,111.65 23.69,120.45 74,223 22.2,86.28 55.68,92.19"
-      fill="hsl(var(--primary))"
-    />
-    <polygon points="113.72,22.2 107.81,55.68 145.31,35.29" fill="hsl(var(--secondary))" />
-    <polygon points="56.53,111.65 23.69,120.45 43.81,161.47" fill="hsl(var(--secondary))" />
   </svg>
 );
 

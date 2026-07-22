@@ -3,108 +3,97 @@
 @tailwind utilities;
 
 @layer base {
-  /* Rebrand (2026-07-19): teal/navy "G" speech-bubble mark, replacing the
-     mustard/berry warm palette. Every pair below is independently verified
-     against WCAG AA (4.5:1 text, 3:1 borders/large text/UI) via a Node
-     luminance script — not carried over by feel from the old palette. */
+  /* Rebrand v3 (2026-07-22): forest green + antique gold on warm cream,
+     replacing the teal/navy "G" mark. Every pair below is independently
+     verified against WCAG AA (4.5:1 text, 3:1 borders/large text/UI) via a
+     Node luminance script — not carried over by feel from the old palette.
+     --success sits in the same green family as --primary on purpose: the
+     brand icon IS a checkmark, so "correct answer" and "brand" reinforce
+     each other instead of competing for the same visual territory. */
   :root {
-    --background: 200 20% 97%;
-    --foreground: 222 35% 14%;
+    --background: 42 38% 95%;
+    --foreground: 140 25% 15%;
 
-    --card: 200 25% 99%;
-    --card-foreground: 222 35% 14%;
+    --card: 42 45% 98%;
+    --card-foreground: 140 25% 15%;
 
-    --popover: 200 25% 99%;
-    --popover-foreground: 222 35% 14%;
+    --popover: 42 45% 98%;
+    --popover-foreground: 140 25% 15%;
 
-    --primary: 172 68% 27%;
-    --primary-foreground: 200 20% 98%;
+    --primary: 145 40% 26%;
+    --primary-foreground: 42 38% 97%;
 
-    --secondary: 222 40% 16%;
-    --secondary-foreground: 200 20% 97%;
+    --secondary: 40 55% 35%;
+    --secondary-foreground: 42 40% 96%;
 
-    --muted: 200 15% 91%;
-    --muted-foreground: 222 15% 40%;
+    --muted: 42 25% 89%;
+    --muted-foreground: 140 12% 36%;
 
-    --accent: 172 45% 93%;
-    --accent-foreground: 172 75% 22%;
+    --accent: 145 35% 90%;
+    --accent-foreground: 145 55% 22%;
 
-    /* Darkened from 46% -> 34%: text-success on the bg-success/15 score-chip
-       tint in ProgressPage.tsx only reached 3.07:1 against that tinted
-       background, short of the 4.5:1 floor for small bold text — a
-       pre-existing gap neither rebrand had touched. 34% clears it at 4.82:1. */
-    --success: 102 22% 34%;
+    --success: 130 38% 32%;
     --success-foreground: 0 0% 100%;
 
     --destructive: 0 46% 42%;
     --destructive-foreground: 0 0% 100%;
 
-    --border: 212 20% 55%;
-    --input: 212 20% 55%;
-    --ring: 172 68% 27%;
+    --border: 100 15% 44%;
+    --input: 100 15% 44%;
+    --ring: 145 40% 26%;
 
-    /* --primary already passes as text here (5.39:1) — no separate hue needed,
-       just a token so link-styled elements read intentionally, not incidentally. */
-    --link: 172 70% 28%;
+    /* --primary already passes as text here (7.01:1) — no separate hue
+       needed, just a token so link-styled elements read intentionally. */
+    --link: 145 45% 28%;
 
     --radius: 0.75rem;
 
     /* True flag colours for the hero backdrops (UnionJackBackdrop /
-       StarsAndStripesBackdrop). Deliberately outside the teal/navy brand
-       palette: the flags used to be redrawn in site tokens at 9% opacity,
-       which read as faint texture rather than as flags. These are the real
-       thing, nudged just off pure red/blue so they sit beside the brand
-       teal instead of vibrating against it. No text ever sits on them — the
-       hero copy has its own inset --background panel — so text contrast is
-       measured against --background, not against these. */
+       StarsAndStripesBackdrop) — deliberately outside the brand palette so
+       they read as actual flags, not brand-tinted texture. No text ever
+       sits on them, so contrast is measured against --background instead. */
     --flag-red: 356 74% 47%;
     --flag-blue: 220 72% 32%;
     --flag-white: 0 0% 100%;
   }
 
-  /* Same cool teal/navy hues as :root, lightness inverted. */
+  /* Same forest/gold hues as :root, lightness inverted. */
   .dark {
-    --background: 222 35% 9%;
-    --foreground: 200 20% 94%;
+    --background: 145 20% 9%;
+    --foreground: 42 30% 92%;
 
-    --card: 222 30% 13%;
-    --card-foreground: 200 20% 94%;
+    --card: 145 18% 13%;
+    --card-foreground: 42 30% 92%;
 
-    --popover: 222 30% 13%;
-    --popover-foreground: 200 20% 94%;
+    --popover: 145 18% 13%;
+    --popover-foreground: 42 30% 92%;
 
-    --primary: 172 55% 48%;
-    --primary-foreground: 222 35% 9%;
+    --primary: 140 32% 55%;
+    --primary-foreground: 145 20% 9%;
 
-    /* Navy reads as near-black on a near-black background, so dark-mode
-       secondary switches to a lighter periwinkle in the same blue family —
-       still a distinct second accent from --primary, not a plain gray. */
-    --secondary: 222 45% 65%;
-    --secondary-foreground: 222 35% 10%;
+    --secondary: 40 55% 60%;
+    --secondary-foreground: 145 20% 10%;
 
-    --muted: 222 18% 18%;
-    --muted-foreground: 200 15% 65%;
+    --muted: 145 14% 18%;
+    --muted-foreground: 42 15% 65%;
 
-    --accent: 172 35% 20%;
-    --accent-foreground: 172 65% 78%;
+    --accent: 145 25% 20%;
+    --accent-foreground: 140 45% 75%;
 
-    --success: 102 25% 55%;
+    --success: 130 38% 55%;
     --success-foreground: 0 0% 100%;
 
-    /* Lightness lowered from the pre-rebrand 55% (4.46:1, already tight) to
-       44% for headroom — 55% was carried over unchecked from the original
-       palette and never actually re-verified until this pass. */
     --destructive: 0 55% 44%;
     --destructive-foreground: 0 0% 100%;
 
-    --border: 210 15% 40%;
-    --input: 210 15% 40%;
-    --ring: 172 55% 48%;
+    --border: 100 10% 40%;
+    --input: 100 10% 40%;
+    --ring: 140 32% 55%;
 
-    --link: 172 60% 60%;
+    --link: 140 45% 60%;
 
     /* Same flags, dialled down for a near-black background: pure white
-       stripes glare at night, and the navy blue disappears into it. */
+       stripes glare at night, and saturated blue/red vibrate against it. */
     --flag-red: 356 62% 50%;
     --flag-blue: 220 58% 45%;
     --flag-white: 210 25% 90%;
