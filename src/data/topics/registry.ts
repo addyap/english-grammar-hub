@@ -111,4 +111,5 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "borrow-vs-lend", sectionSlug: "verb-patterns", title: "Borrow vs Lend", level: "A2", file: "borrowVsLend" },
   { slug: "rise-vs-raise-lie-vs-lay", sectionSlug: "verb-patterns", title: "Rise vs Raise & Lie vs Lay", level: "B2", file: "riseVsRaiseLieVsLay" },
   { slug: "already-just-yet-still", sectionSlug: "tenses", title: "Already, Just, Yet, Still & Always", level: "B1", file: "alreadyJustYetStill" },
+  { slug: "phrasal-verbs-introduction", sectionSlug: "verb-patterns", title: "Introduction to Phrasal Verbs", level: "A2", file: "phrasalVerbsIntroduction" },
 ];
