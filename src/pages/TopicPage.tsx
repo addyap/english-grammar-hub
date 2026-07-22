@@ -7,6 +7,8 @@ import ExplanationParagraphs from "@/components/ExplanationParagraphs";
 import { LANGUAGES, type LanguageCode, type GrammarTopicContent } from "@/data/types";
 import { useSeo } from "@/hooks/useSeo";
 import { buildBreadcrumbJsonLd, paragraphToPlainText, toMetaDescription } from "@/lib/seo";
+import { hasTopicAccess } from "@/lib/entitlements";
+import PremiumGate from "@/components/PremiumGate";
 
 const TopicPage = () => {
   const { topicSlug } = useParams<{ topicSlug: string }>();
@@ -45,6 +47,17 @@ const TopicPage = () => {
         <p>Topic not found.</p>
         <Link to="/" className="text-link underline">Back home</Link>
       </div>
+    );
+  }
+
+  if (!hasTopicAccess(topic)) {
+    return (
+      <PremiumGate
+        topicTitle={topic.title}
+        level={topic.level}
+        backTo={`/section/${topic.sectionSlug}`}
+        backLabel={`← ${section?.title ?? "Back to section"}`}
+      />
     );
   }
 

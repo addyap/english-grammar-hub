@@ -3,6 +3,8 @@ import { Link, useParams } from "react-router-dom";
 import { loadTopic } from "@/data/topics/lazy";
 import type { GrammarTopicContent } from "@/data/types";
 import ExerciseEngine from "@/components/ExerciseEngine";
+import { hasTopicAccess } from "@/lib/entitlements";
+import PremiumGate from "@/components/PremiumGate";
 
 const ExercisePage = () => {
   const { topicSlug, exerciseIndex } = useParams<{ topicSlug: string; exerciseIndex: string }>();
@@ -26,6 +28,17 @@ const ExercisePage = () => {
         <p>Exercise not found.</p>
         <Link to="/" className="text-link underline">Back home</Link>
       </div>
+    );
+  }
+
+  if (!hasTopicAccess(topic)) {
+    return (
+      <PremiumGate
+        topicTitle={topic.title}
+        level={topic.level}
+        backTo={`/grammar/${topic.slug}`}
+        backLabel={`← ${topic.title}`}
+      />
     );
   }
 
