@@ -226,7 +226,7 @@ export const alreadyJustYetStill: GrammarTopicContent = {
         { sentence: "We have ___ seen that film — twice, actually!", answer: "already", options: ["already", "yet", "just"], explanation: "already fits between have and the past participle in an affirmative sentence." },
         { sentence: "He has ___ left the office — you might still catch him.", answer: "just", options: ["just", "already", "yet"], explanation: "just signals it happened moments ago, which is why there's still a chance to catch him." },
         { sentence: "Have they arrived ___?", answer: "yet", options: ["yet", "already", "just"], explanation: "yet goes at the end of a question." },
-        { sentence: "I have ___ eaten, thanks — no need to cook for me.", answer: "already", options: ["already", "yet", "just"], explanation: "already explains why nothing more is needed — it happened before now." },
+        { sentence: "I have ___ eaten, thanks — I had lunch an hour ago, so there's no need to cook for me.", answer: "already", options: ["already", "yet", "just"], explanation: "already fits any time before now, however long ago; an hour ago is too long for just, which specifically means moments ago." },
         { sentence: "The train hasn't left the platform ___ — look, it's still there.", answer: "yet", options: ["yet", "already", "just"], explanation: "yet at the end of a negative sentence, confirmed by 'it's still there'." },
         { sentence: "I haven't decided ___.", answer: "yet", options: ["yet", "already", "just"], explanation: "yet at the end of a negative sentence, meaning 'up to now'." },
       ],
