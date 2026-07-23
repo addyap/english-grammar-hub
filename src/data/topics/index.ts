@@ -105,6 +105,8 @@ import { contrastingWords } from "./contrastingWords";
 import { futureTimeClauses } from "./futureTimeClauses";
 import { makeVsDo } from "./makeVsDo";
 import { anotherVsOtherVsTheOther } from "./anotherVsOtherVsTheOther";
+import { asIfAsThough } from "./asIfAsThough";
+import { rememberForgetStopTry } from "./rememberForgetStopTry";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -217,6 +219,8 @@ export const topics: GrammarTopicContent[] = [
   futureTimeClauses,
   makeVsDo,
   anotherVsOtherVsTheOther,
+  asIfAsThough,
+  rememberForgetStopTry,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);

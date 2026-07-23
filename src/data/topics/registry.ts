@@ -116,4 +116,6 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "future-time-clauses", sectionSlug: "tenses", title: "Time Clauses: When, Until, As Soon As & Before", level: "B1", file: "futureTimeClauses" },
   { slug: "make-vs-do", sectionSlug: "verb-patterns", title: "Make vs Do", level: "A2", file: "makeVsDo" },
   { slug: "another-vs-other-vs-the-other", sectionSlug: "pronouns-possessives", title: "Another vs Other vs The Other", level: "B1", file: "anotherVsOtherVsTheOther" },
+  { slug: "as-if-as-though", sectionSlug: "conditionals", title: "As If / As Though", level: "B2", file: "asIfAsThough" },
+  { slug: "remember-forget-stop-try-ing-vs-to", sectionSlug: "verb-patterns", title: "Remember, Forget, Stop & Try: -ing vs To + Infinitive", level: "B2", file: "rememberForgetStopTry" },
 ];
