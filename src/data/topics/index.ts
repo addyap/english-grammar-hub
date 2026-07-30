@@ -107,6 +107,7 @@ import { makeVsDo } from "./makeVsDo";
 import { anotherVsOtherVsTheOther } from "./anotherVsOtherVsTheOther";
 import { asIfAsThough } from "./asIfAsThough";
 import { rememberForgetStopTry } from "./rememberForgetStopTry";
+import { comparativesSuperlatives } from "./comparativesSuperlatives";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -221,6 +222,7 @@ export const topics: GrammarTopicContent[] = [
   anotherVsOtherVsTheOther,
   asIfAsThough,
   rememberForgetStopTry,
+  comparativesSuperlatives,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);

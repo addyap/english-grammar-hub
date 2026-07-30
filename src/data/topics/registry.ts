@@ -118,4 +118,5 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "another-vs-other-vs-the-other", sectionSlug: "pronouns-possessives", title: "Another vs Other vs The Other", level: "B1", file: "anotherVsOtherVsTheOther" },
   { slug: "as-if-as-though", sectionSlug: "conditionals", title: "As If / As Though", level: "B2", file: "asIfAsThough" },
   { slug: "remember-forget-stop-try-ing-vs-to", sectionSlug: "verb-patterns", title: "Remember, Forget, Stop & Try: -ing vs To + Infinitive", level: "B2", file: "rememberForgetStopTry" },
+  { slug: "comparatives-superlatives", sectionSlug: "adjectives-adverbs", title: "Comparatives & Superlatives", level: "A2", file: "comparativesSuperlatives" },
 ];
