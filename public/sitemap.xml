@@ -600,4 +600,28 @@
     <loc>https://grammatica.antonyaddy.com/grammar/perception-verbs-object-infinitive</loc>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/imperatives</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/exclamative-sentences</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/two-object-verbs</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/noun-verb-forming-suffixes</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/telling-time-dates-numbers</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/subject-verb-agreement</loc>
+    <priority>0.9</priority>
+  </url>
 </urlset>

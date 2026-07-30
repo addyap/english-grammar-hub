@@ -118,6 +118,12 @@ import { orderOfAdjectives } from "./orderOfAdjectives";
 import { questionTags } from "./questionTags";
 import { stativeVerbs } from "./stativeVerbs";
 import { perceptionVerbsObjectInfinitive } from "./perceptionVerbsObjectInfinitive";
+import { imperatives } from "./imperatives";
+import { exclamativeSentences } from "./exclamativeSentences";
+import { twoObjectVerbs } from "./twoObjectVerbs";
+import { nounVerbFormingSuffixes } from "./nounVerbFormingSuffixes";
+import { tellingTimeDatesNumbers } from "./tellingTimeDatesNumbers";
+import { subjectVerbAgreement } from "./subjectVerbAgreement";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -243,6 +249,12 @@ export const topics: GrammarTopicContent[] = [
   questionTags,
   stativeVerbs,
   perceptionVerbsObjectInfinitive,
+  imperatives,
+  exclamativeSentences,
+  twoObjectVerbs,
+  nounVerbFormingSuffixes,
+  tellingTimeDatesNumbers,
+  subjectVerbAgreement,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);

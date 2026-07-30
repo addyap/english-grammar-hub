@@ -129,4 +129,10 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "question-tags", sectionSlug: "questions-auxiliaries", title: "Question Tags", level: "B1", file: "questionTags" },
   { slug: "stative-verbs", sectionSlug: "tenses", title: "Stative (Non-Continuous) Verbs", level: "A2", file: "stativeVerbs" },
   { slug: "perception-verbs-object-infinitive", sectionSlug: "verb-patterns", title: "Perception Verbs + Object: Infinitive or -ing", level: "B2", file: "perceptionVerbsObjectInfinitive" },
+  { slug: "imperatives", sectionSlug: "sentence-basics", title: "Imperatives: Commands & Instructions", level: "A1", file: "imperatives" },
+  { slug: "exclamative-sentences", sectionSlug: "sentence-basics", title: "Exclamative Sentences: What...! & How...!", level: "A2", file: "exclamativeSentences" },
+  { slug: "two-object-verbs", sectionSlug: "verb-patterns", title: "Two-Object Verbs: Give Someone Something vs Give Something to Someone", level: "B1", file: "twoObjectVerbs" },
+  { slug: "noun-verb-forming-suffixes", sectionSlug: "adjectives-adverbs", title: "Noun- and Verb-Forming Suffixes", level: "B1", file: "nounVerbFormingSuffixes" },
+  { slug: "telling-time-dates-numbers", sectionSlug: "sentence-basics", title: "Telling Time, Dates & Numbers", level: "A2", file: "tellingTimeDatesNumbers" },
+  { slug: "subject-verb-agreement", sectionSlug: "nouns-quantity", title: "Subject-Verb Agreement", level: "B1", file: "subjectVerbAgreement" },
 ];
