@@ -124,6 +124,8 @@ import { twoObjectVerbs } from "./twoObjectVerbs";
 import { nounVerbFormingSuffixes } from "./nounVerbFormingSuffixes";
 import { tellingTimeDatesNumbers } from "./tellingTimeDatesNumbers";
 import { subjectVerbAgreement } from "./subjectVerbAgreement";
+import { nominalization } from "./nominalization";
+import { academicHedging } from "./academicHedging";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -255,6 +257,8 @@ export const topics: GrammarTopicContent[] = [
   nounVerbFormingSuffixes,
   tellingTimeDatesNumbers,
   subjectVerbAgreement,
+  nominalization,
+  academicHedging,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);

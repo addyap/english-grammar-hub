@@ -135,4 +135,6 @@ export const topicsRegistry: TopicRegistryEntry[] = [
   { slug: "noun-verb-forming-suffixes", sectionSlug: "adjectives-adverbs", title: "Noun- and Verb-Forming Suffixes", level: "B1", file: "nounVerbFormingSuffixes" },
   { slug: "telling-time-dates-numbers", sectionSlug: "sentence-basics", title: "Telling Time, Dates & Numbers", level: "A2", file: "tellingTimeDatesNumbers" },
   { slug: "subject-verb-agreement", sectionSlug: "nouns-quantity", title: "Subject-Verb Agreement", level: "B1", file: "subjectVerbAgreement" },
+  { slug: "nominalization", sectionSlug: "advanced-structures", title: "Nominalization: Turning Verbs and Clauses into Nouns", level: "C2", file: "nominalization" },
+  { slug: "academic-hedging", sectionSlug: "advanced-structures", title: "Academic Hedging: Cautious & Tentative Language", level: "C2", file: "academicHedging" },
 ];
