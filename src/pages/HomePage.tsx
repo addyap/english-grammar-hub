@@ -145,7 +145,7 @@ const HomePage = () => {
                       <span className="text-sm text-muted-foreground ml-2">{topicSection.title}</span>
                     )}
                   </span>
-                  <Badge variant="outline" className="shrink-0 whitespace-nowrap">{topic.level}</Badge>
+                  <Badge variant="stamp" className="shrink-0 whitespace-nowrap">{topic.level}</Badge>
                 </Link>
               );
             })
@@ -159,10 +159,10 @@ const HomePage = () => {
               <Link
                 key={section.slug}
                 to={`/section/${section.slug}`}
-                className="p-5 rounded-lg border border-border bg-card hover:border-primary transition-colors"
+                className="ruled-paper margin-rule p-5 pl-9 rounded-lg border border-border bg-card hover:border-primary transition-colors"
               >
                 <div className="flex items-center justify-between gap-2 mb-1">
-                  <h2 className="font-display font-bold">{section.title}</h2>
+                  <h2 className="font-display font-bold underline-mark">{section.title}</h2>
                   {topics.length > 0 ? (
                     <Badge className="shrink-0 whitespace-nowrap">{topics.length} topic{topics.length > 1 ? "s" : ""}</Badge>
                   ) : (

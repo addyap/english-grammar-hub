@@ -23,7 +23,7 @@ const PremiumGate = ({ topicTitle, level, backTo, backLabel }: PremiumGateProps)
       </div>
       <div className="flex items-center justify-center gap-2 mb-2">
         <h1 className="font-display text-xl font-bold">{topicTitle}</h1>
-        <Badge variant="outline" className="shrink-0 whitespace-nowrap">{level}</Badge>
+        <Badge variant="stamp" className="shrink-0 whitespace-nowrap">{level}</Badge>
       </div>
       <p className="text-muted-foreground mb-6">
         This advanced topic is part of Grammatica Premium — full explanations in

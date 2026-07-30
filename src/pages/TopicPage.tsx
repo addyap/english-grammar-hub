@@ -75,8 +75,8 @@ const TopicPage = () => {
       </Link>
 
       <div className="flex items-center gap-3 mt-2 mb-6">
-        <h1 className="font-display text-2xl font-bold">{topic.title}</h1>
-        <Badge variant="outline" className="shrink-0 whitespace-nowrap">{topic.level}</Badge>
+        <h1 className="font-display text-2xl font-bold underline-mark">{topic.title}</h1>
+        <Badge variant="stamp" className="shrink-0 whitespace-nowrap">{topic.level}</Badge>
       </div>
 
       <div className="flex flex-wrap gap-1.5 mb-4">

@@ -34,21 +34,23 @@ const SectionPage = () => {
   return (
     <div className="max-w-3xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
       <Link to="/" className="text-sm text-muted-foreground hover:text-primary">← All sections</Link>
-      <h1 className="font-display text-2xl font-bold mt-2 mb-1">{section.title}</h1>
+      <h1 className="font-display text-2xl font-bold mt-2 mb-1 underline-mark">{section.title}</h1>
       <p className="text-muted-foreground mb-8">{section.description}</p>
 
       {topics.length === 0 ? (
         <p className="text-muted-foreground">Topics for this section are coming soon.</p>
       ) : (
-        <div className="space-y-3">
-          {topics.map((topic) => (
+        <div className="ruled-paper margin-rule rounded-lg border border-border bg-card overflow-hidden">
+          {topics.map((topic, i) => (
             <Link
               key={topic.slug}
               to={`/grammar/${topic.slug}`}
-              className="flex items-center justify-between gap-2 p-4 rounded-lg border border-border bg-card hover:border-primary transition-colors"
+              className={`flex items-center justify-between gap-2 px-4 pl-9 py-3.5 hover:bg-muted/50 transition-colors ${
+                i < topics.length - 1 ? "border-b border-dashed border-border" : ""
+              }`}
             >
               <span className="font-medium">{topic.title}</span>
-              <Badge variant="outline" className="shrink-0 whitespace-nowrap">{topic.level}</Badge>
+              <Badge variant="stamp" className="shrink-0 whitespace-nowrap">{topic.level}</Badge>
             </Link>
           ))}
         </div>

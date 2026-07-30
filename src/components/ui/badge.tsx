@@ -15,6 +15,12 @@ const badgeVariants = cva(
         destructive:
           "border-transparent bg-destructive text-destructive-foreground hover:bg-destructive/80",
         outline: "text-foreground",
+        /* Ink-stamp treatment for CEFR level badges: rounded rectangle
+           (not the pill everything else uses), pen-coloured border, serif
+           italic, a slight rotation so it reads as stamped rather than
+           printed. Exercise-book polish pass, 2026-07-22. */
+        stamp:
+          "rounded-md border-[1.5px] border-pen text-pen font-serif italic font-normal -rotate-2 bg-transparent",
       },
     },
     defaultVariants: {

@@ -39,6 +39,8 @@ export default {
           blue: "hsl(var(--flag-blue))",
           white: "hsl(var(--flag-white))",
         },
+        /* Purely decorative "red pen" accent — see --pen in index.css. */
+        pen: "hsl(var(--pen))",
       },
       borderRadius: {
         lg: "var(--radius)",

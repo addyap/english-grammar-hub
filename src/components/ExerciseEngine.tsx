@@ -128,7 +128,7 @@ const ExerciseEngine = ({ topic, exercise, storageKey }: ExerciseEngineProps) =>
                 result ? (result.good ? "border-success bg-success/5 animate-correct-pulse" : "border-destructive bg-destructive/5 animate-shake") : "border-border bg-card"
               }`}
             >
-              <p className="text-sm text-muted-foreground mb-2">Question {i + 1}</p>
+              <p className="font-serif italic text-sm text-primary mb-2">Question {i + 1}</p>
               <p className="font-medium mb-3">{q.sentence}</p>
 
               {!result && (
