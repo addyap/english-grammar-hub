@@ -1,0 +1,187 @@
+import type { GrammarTopicContent } from "../types";
+
+export const perceptionVerbsObjectInfinitive: GrammarTopicContent = {
+  slug: "perception-verbs-object-infinitive",
+  sectionSlug: "verb-patterns",
+  title: "Perception Verbs + Object: Infinitive or -ing",
+  level: "B2",
+  explanations: {
+    en: [
+      "see, watch, hear, notice, feel, and listen to can all take an object followed by a second verb, and the form of that second verb changes the meaning of the sentence. Object + bare infinitive describes the whole action, witnessed as one complete event from start to finish: I saw him cross the street and reach the other side safely — I watched the entire crossing. Object + -ing describes the action in progress, something the observer caught mid-way without necessarily seeing it start or finish: I saw him crossing the street, but I looked away before he got to the other side — I only saw part of it.",
+      {
+        intro: "The pattern is perception verb + object + bare infinitive for a complete action, or perception verb + object + -ing for an action in progress:",
+        items: [
+          "see/watch/notice + object + bare infinitive = the whole action, beginning to end: I watched her paint the entire picture, from the first brushstroke to the last.",
+          "see/watch/notice + object + -ing = part of an ongoing action, not necessarily the start or the end: I watched her painting as I walked past the studio.",
+          "hear + object + bare infinitive or -ing works the same way: I heard him play the whole song from start to finish / I heard him playing the piano as I climbed the stairs.",
+          "feel + object + bare infinitive or -ing: I felt the ground shake and then everything went still / I felt the ground shaking beneath me as the tremor continued.",
+          "listen to + object follows the same pattern even though it isn't a one-word perception verb: I listened to her sing the whole song from beginning to end / I listened to her singing as I walked past.",
+          "Like make, let, and help + object + bare infinitive, this pattern drops to after the object — but here the choice between the bare infinitive and -ing carries its own meaning (complete versus in progress), which causative verbs don't have.",
+        ],
+      },
+      "Two mistakes are common. The first is adding to before the infinitive: I saw him to cross the street is wrong — perception verbs take a bare infinitive after an object, not a to-infinitive: I saw him cross the street. The second is treating the infinitive and -ing as interchangeable when the meaning actually depends on the choice: if you only witnessed part of an action, -ing is required, even where the bare infinitive might otherwise sound fine — I saw him breaking into the car, but I didn't see how it started should not become I saw him break into the car, because that wrongly claims you saw the complete event, not just part of it.",
+      "Look for a perception verb (see, watch, hear, notice, feel, listen to) followed directly by an object and then either a bare verb or an -ing form. A completion marker in the rest of the sentence — reaching an endpoint, 'the whole way', 'from start to finish', 'until' something happened — signals the bare infinitive. A partial or interruption marker — 'but didn't see how it ended', 'as I walked past', 'when ... and had to look away' — signals -ing.",
+    ],
+    fr: [
+      "see, watch, hear, notice, feel et listen to peuvent tous être suivis d'un complément d'objet puis d'un second verbe, et la forme de ce second verbe change le sens de la phrase. Complément + infinitif sans to décrit l'action entière, perçue comme un événement complet du début à la fin : I saw him cross the street and reach the other side safely — j'ai vu toute la traversée. Complément + -ing décrit l'action en cours, quelque chose que l'observateur a surpris en plein milieu sans nécessairement en voir le début ou la fin : I saw him crossing the street, but I looked away before he got to the other side — je n'en ai vu qu'une partie.",
+      {
+        intro: "Le schéma est verbe de perception + complément + infinitif sans to pour une action complète, ou verbe de perception + complément + -ing pour une action en cours :",
+        items: [
+          "see/watch/notice + complément + infinitif sans to = l'action entière, du début à la fin : I watched her paint the entire picture, from the first brushstroke to the last.",
+          "see/watch/notice + complément + -ing = une partie d'une action en cours, pas nécessairement le début ou la fin : I watched her painting as I walked past the studio.",
+          "hear + complément + infinitif sans to ou -ing fonctionne de la même façon : I heard him play the whole song from start to finish / I heard him playing the piano as I climbed the stairs.",
+          "feel + complément + infinitif sans to ou -ing : I felt the ground shake and then everything went still / I felt the ground shaking beneath me as the tremor continued.",
+          "listen to + complément suit le même schéma, même s'il ne s'agit pas d'un verbe de perception en un seul mot : I listened to her sing the whole song from beginning to end / I listened to her singing as I walked past.",
+          "Comme make, let et help + complément + infinitif sans to, ce schéma supprime to après le complément — mais ici, le choix entre l'infinitif sans to et le -ing porte lui-même un sens (action complète ou en cours), ce que les verbes causatifs n'ont pas.",
+        ],
+      },
+      "Deux erreurs sont fréquentes. La première consiste à ajouter to avant l'infinitif : I saw him to cross the street est incorrect — les verbes de perception prennent l'infinitif sans to après un complément, pas un infinitif avec to : I saw him cross the street. La seconde consiste à considérer l'infinitif et le -ing comme interchangeables alors que le sens dépend réellement du choix : si vous n'avez été témoin que d'une partie d'une action, le -ing est obligatoire, même si l'infinitif sans to pourrait sembler correct — I saw him breaking into the car, but I didn't see how it started ne doit pas devenir I saw him break into the car, car cela affirmerait à tort que vous avez vu l'événement entier, et non seulement une partie.",
+      "Repérez un verbe de perception (see, watch, hear, notice, feel, listen to) suivi directement d'un complément puis soit d'un verbe sans to, soit d'une forme en -ing. Un marqueur d'achèvement dans le reste de la phrase — atteindre un point final, 'the whole way', 'from start to finish', 'until' suivi d'un événement — signale l'infinitif sans to. Un marqueur de partialité ou d'interruption — 'but didn't see how it ended', 'as I walked past', 'when ... and had to look away' — signale le -ing.",
+    ],
+    es: [
+      "see, watch, hear, notice, feel y listen to pueden ir seguidos de un objeto y luego un segundo verbo, y la forma de ese segundo verbo cambia el significado de la frase. Objeto + infinitivo sin to describe la acción completa, percibida como un único evento de principio a fin: I saw him cross the street and reach the other side safely —vi todo el cruce. Objeto + -ing describe la acción en curso, algo que el observador sorprendió a medias sin ver necesariamente su inicio o su fin: I saw him crossing the street, but I looked away before he got to the other side —solo vi una parte.",
+      {
+        intro: "El patrón es verbo de percepción + objeto + infinitivo sin to para una acción completa, o verbo de percepción + objeto + -ing para una acción en curso:",
+        items: [
+          "see/watch/notice + objeto + infinitivo sin to = la acción completa, de principio a fin: I watched her paint the entire picture, from the first brushstroke to the last.",
+          "see/watch/notice + objeto + -ing = parte de una acción en curso, no necesariamente el principio ni el fin: I watched her painting as I walked past the studio.",
+          "hear + objeto + infinitivo sin to o -ing funciona igual: I heard him play the whole song from start to finish / I heard him playing the piano as I climbed the stairs.",
+          "feel + objeto + infinitivo sin to o -ing: I felt the ground shake and then everything went still / I felt the ground shaking beneath me as the tremor continued.",
+          "listen to + objeto sigue el mismo patrón, aunque no sea un verbo de percepción de una sola palabra: I listened to her sing the whole song from beginning to end / I listened to her singing as I walked past.",
+          "Al igual que make, let y help + objeto + infinitivo sin to, este patrón elimina el to tras el objeto —pero aquí la elección entre el infinitivo sin to y el -ing aporta un significado propio (acción completa frente a en curso), algo que los verbos causativos no tienen.",
+        ],
+      },
+      "Hay dos errores comunes. El primero es añadir to antes del infinitivo: I saw him to cross the street es incorrecto —los verbos de percepción llevan infinitivo sin to tras un objeto, no un infinitivo con to: I saw him cross the street. El segundo es tratar el infinitivo y el -ing como intercambiables cuando el significado depende realmente de la elección: si solo presenciaste parte de una acción, se requiere el -ing, aunque el infinitivo sin to pudiera parecer correcto —I saw him breaking into the car, but I didn't see how it started no debe convertirse en I saw him break into the car, porque eso afirmaría erróneamente que viste el episodio completo, no solo una parte.",
+      "Busca un verbo de percepción (see, watch, hear, notice, feel, listen to) seguido directamente de un objeto y luego de un verbo sin to o de una forma en -ing. Un marcador de finalización en el resto de la frase —alcanzar un punto final, 'the whole way', 'from start to finish', 'until' seguido de un suceso— indica el infinitivo sin to. Un marcador de parcialidad o interrupción —'but didn't see how it ended', 'as I walked past', 'when ... and had to look away'— indica el -ing.",
+    ],
+    pt: [
+      "see, watch, hear, notice, feel e listen to podem todos ser seguidos de um objeto e depois de um segundo verbo, e a forma desse segundo verbo altera o significado da frase. Objeto + infinitivo sem to descreve a ação inteira, percebida como um único evento completo do início ao fim: I saw him cross the street and reach the other side safely —vi toda a travessia. Objeto + -ing descreve a ação em curso, algo que o observador apanhou a meio sem necessariamente ver o início ou o fim: I saw him crossing the street, but I looked away before he got to the other side —só vi parte dela.",
+      {
+        intro: "O padrão é verbo de perceção + objeto + infinitivo sem to para uma ação completa, ou verbo de perceção + objeto + -ing para uma ação em curso:",
+        items: [
+          "see/watch/notice + objeto + infinitivo sem to = a ação inteira, do início ao fim: I watched her paint the entire picture, from the first brushstroke to the last.",
+          "see/watch/notice + objeto + -ing = parte de uma ação em curso, não necessariamente o início nem o fim: I watched her painting as I walked past the studio.",
+          "hear + objeto + infinitivo sem to ou -ing funciona da mesma forma: I heard him play the whole song from start to finish / I heard him playing the piano as I climbed the stairs.",
+          "feel + objeto + infinitivo sem to ou -ing: I felt the ground shake and then everything went still / I felt the ground shaking beneath me as the tremor continued.",
+          "listen to + objeto segue o mesmo padrão, mesmo não sendo um verbo de perceção de uma só palavra: I listened to her sing the whole song from beginning to end / I listened to her singing as I walked past.",
+          "Tal como make, let e help + objeto + infinitivo sem to, este padrão elimina o to depois do objeto —mas aqui a escolha entre o infinitivo sem to e o -ing tem um significado próprio (ação completa versus em curso), algo que os verbos causativos não têm.",
+        ],
+      },
+      "Há dois erros comuns. O primeiro é acrescentar to antes do infinitivo: I saw him to cross the street está errado —os verbos de perceção levam infinitivo sem to depois de um objeto, não um infinitivo com to: I saw him cross the street. O segundo é tratar o infinitivo e o -ing como intercambiáveis quando o significado depende mesmo da escolha: se só presenciou parte de uma ação, o -ing é obrigatório, mesmo que o infinitivo sem to pudesse parecer correto —I saw him breaking into the car, but I didn't see how it started não deve tornar-se I saw him break into the car, porque isso afirmaria erradamente que viu o episódio completo, e não apenas parte dele.",
+      "Procure um verbo de perceção (see, watch, hear, notice, feel, listen to) seguido diretamente de um objeto e depois de um verbo sem to ou de uma forma em -ing. Um marcador de conclusão no resto da frase —atingir um ponto final, 'the whole way', 'from start to finish', 'until' seguido de um acontecimento— indica o infinitivo sem to. Um marcador de parcialidade ou interrupção —'but didn't see how it ended', 'as I walked past', 'when ... and had to look away'— indica o -ing.",
+    ],
+    it: [
+      "see, watch, hear, notice, feel e listen to possono essere seguiti tutti da un complemento oggetto e poi da un secondo verbo, e la forma di quel secondo verbo cambia il significato della frase. Complemento oggetto + infinito senza to descrive l'azione intera, percepita come un unico evento completo dall'inizio alla fine: I saw him cross the street and reach the other side safely —ho visto l'intero attraversamento. Complemento oggetto + -ing descrive l'azione in corso, qualcosa che l'osservatore ha colto a metà senza vederne necessariamente l'inizio o la fine: I saw him crossing the street, but I looked away before he got to the other side —ne ho visto solo una parte.",
+      {
+        intro: "Lo schema è verbo di percezione + complemento oggetto + infinito senza to per un'azione completa, oppure verbo di percezione + complemento oggetto + -ing per un'azione in corso:",
+        items: [
+          "see/watch/notice + complemento oggetto + infinito senza to = l'azione intera, dall'inizio alla fine: I watched her paint the entire picture, from the first brushstroke to the last.",
+          "see/watch/notice + complemento oggetto + -ing = parte di un'azione in corso, non necessariamente l'inizio o la fine: I watched her painting as I walked past the studio.",
+          "hear + complemento oggetto + infinito senza to o -ing funziona allo stesso modo: I heard him play the whole song from start to finish / I heard him playing the piano as I climbed the stairs.",
+          "feel + complemento oggetto + infinito senza to o -ing: I felt the ground shake and then everything went still / I felt the ground shaking beneath me as the tremor continued.",
+          "listen to + complemento oggetto segue lo stesso schema, anche se non è un verbo di percezione di una sola parola: I listened to her sing the whole song from beginning to end / I listened to her singing as I walked past.",
+          "Come make, let e help + complemento oggetto + infinito senza to, questo schema elimina il to dopo il complemento oggetto —ma qui la scelta tra l'infinito senza to e il -ing porta un significato proprio (azione completa contro azione in corso), che i verbi causativi non hanno.",
+        ],
+      },
+      "Sono comuni due errori. Il primo è aggiungere to prima dell'infinito: I saw him to cross the street è sbagliato —i verbi di percezione vogliono l'infinito senza to dopo un complemento oggetto, non un infinito con to: I saw him cross the street. Il secondo è trattare l'infinito e il -ing come intercambiabili quando il significato dipende davvero dalla scelta: se hai assistito solo a una parte di un'azione, il -ing è obbligatorio, anche se l'infinito senza to potrebbe sembrare corretto —I saw him breaking into the car, but I didn't see how it started non deve diventare I saw him break into the car, perché ciò affermerebbe erroneamente di aver visto l'intero episodio, e non solo una parte.",
+      "Cerca un verbo di percezione (see, watch, hear, notice, feel, listen to) seguito direttamente da un complemento oggetto e poi da un verbo senza to o da una forma in -ing. Un indicatore di completamento nel resto della frase —il raggiungimento di un punto finale, 'the whole way', 'from start to finish', 'until' seguito da un evento— segnala l'infinito senza to. Un indicatore di parzialità o interruzione —'but didn't see how it ended', 'as I walked past', 'when ... and had to look away'— segnala il -ing.",
+    ],
+    de: [
+      "see, watch, hear, notice, feel und listen to können alle von einem Objekt und danach einem zweiten Verb gefolgt werden, und die Form dieses zweiten Verbs verändert die Bedeutung des Satzes. Objekt + Infinitiv ohne to beschreibt die gesamte Handlung, wahrgenommen als ein einziges vollständiges Ereignis von Anfang bis Ende: I saw him cross the street and reach the other side safely — ich habe die gesamte Überquerung gesehen. Objekt + -ing beschreibt die Handlung im Verlauf, etwas, das der Beobachter mittendrin erfasst hat, ohne notwendigerweise Anfang oder Ende zu sehen: I saw him crossing the street, but I looked away before he got to the other side — ich habe nur einen Teil davon gesehen.",
+      {
+        intro: "Das Muster ist Wahrnehmungsverb + Objekt + Infinitiv ohne to für eine vollständige Handlung, oder Wahrnehmungsverb + Objekt + -ing für eine Handlung im Verlauf:",
+        items: [
+          "see/watch/notice + Objekt + Infinitiv ohne to = die gesamte Handlung, von Anfang bis Ende: I watched her paint the entire picture, from the first brushstroke to the last.",
+          "see/watch/notice + Objekt + -ing = ein Teil einer laufenden Handlung, nicht unbedingt der Anfang oder das Ende: I watched her painting as I walked past the studio.",
+          "hear + Objekt + Infinitiv ohne to oder -ing funktioniert genauso: I heard him play the whole song from start to finish / I heard him playing the piano as I climbed the stairs.",
+          "feel + Objekt + Infinitiv ohne to oder -ing: I felt the ground shake and then everything went still / I felt the ground shaking beneath me as the tremor continued.",
+          "listen to + Objekt folgt demselben Muster, obwohl es kein einwortiges Wahrnehmungsverb ist: I listened to her sing the whole song from beginning to end / I listened to her singing as I walked past.",
+          "Wie make, let und help + Objekt + Infinitiv ohne to lässt auch dieses Muster das to nach dem Objekt weg — hier trägt die Wahl zwischen Infinitiv ohne to und -ing jedoch eine eigene Bedeutung (vollständig gegenüber im Verlauf), die kausative Verben nicht haben.",
+        ],
+      },
+      "Zwei Fehler sind häufig. Der erste ist, vor dem Infinitiv ein to einzufügen: I saw him to cross the street ist falsch — Wahrnehmungsverben verlangen nach einem Objekt den Infinitiv ohne to, keinen Infinitiv mit to: I saw him cross the street. Der zweite ist, Infinitiv und -ing als austauschbar zu behandeln, obwohl die Bedeutung tatsächlich von der Wahl abhängt: Wenn man nur einen Teil einer Handlung miterlebt hat, ist die -ing-Form erforderlich, selbst wenn der Infinitiv ohne to sonst passend klingen könnte — I saw him breaking into the car, but I didn't see how it started darf nicht zu I saw him break into the car werden, denn das würde fälschlich behaupten, man habe das gesamte Ereignis gesehen und nicht nur einen Teil davon.",
+      "Achte auf ein Wahrnehmungsverb (see, watch, hear, notice, feel, listen to), das direkt von einem Objekt und danach entweder einem Verb ohne to oder einer -ing-Form gefolgt wird. Ein Abschlussmarker im restlichen Satz — das Erreichen eines Endpunkts, „the whole way“, „from start to finish“, „until“ gefolgt von einem Ereignis — signalisiert den Infinitiv ohne to. Ein Marker für Teilhandlung oder Unterbrechung — „but didn't see how it ended“, „as I walked past“, „when … and had to look away“ — signalisiert -ing.",
+    ],
+    ru: [
+      "see, watch, hear, notice, feel и listen to могут сопровождаться дополнением, а затем вторым глаголом, и форма этого второго глагола меняет смысл предложения. Дополнение + инфинитив без to описывает действие целиком, воспринятое как одно законченное событие от начала до конца: I saw him cross the street and reach the other side safely — я видел весь переход целиком. Дополнение + -ing описывает действие в процессе, то, что наблюдатель застал в разгаре, не обязательно видя его начало или конец: I saw him crossing the street, but I looked away before he got to the other side — я видел лишь часть.",
+      {
+        intro: "Модель такая: глагол восприятия + дополнение + инфинитив без to для завершённого действия, или глагол восприятия + дополнение + -ing для действия в процессе:",
+        items: [
+          "see/watch/notice + дополнение + инфинитив без to = всё действие целиком, от начала до конца: I watched her paint the entire picture, from the first brushstroke to the last.",
+          "see/watch/notice + дополнение + -ing = часть продолжающегося действия, не обязательно начало или конец: I watched her painting as I walked past the studio.",
+          "hear + дополнение + инфинитив без to или -ing работает так же: I heard him play the whole song from start to finish / I heard him playing the piano as I climbed the stairs.",
+          "feel + дополнение + инфинитив без to или -ing: I felt the ground shake and then everything went still / I felt the ground shaking beneath me as the tremor continued.",
+          "listen to + дополнение подчиняется той же модели, хотя это не однословный глагол восприятия: I listened to her sing the whole song from beginning to end / I listened to her singing as I walked past.",
+          "Как и make, let, help + дополнение + инфинитив без to, эта модель убирает to после дополнения — но здесь выбор между инфинитивом без to и -ing несёт собственный смысл (законченное действие против действия в процессе), которого у каузативных глаголов нет.",
+        ],
+      },
+      "Часты две ошибки. Первая — добавление to перед инфинитивом: I saw him to cross the street неверно — глаголы восприятия требуют после дополнения инфинитив без to, а не инфинитив с to: I saw him cross the street. Вторая — восприятие инфинитива и -ing как взаимозаменяемых, хотя смысл на самом деле зависит от выбора: если вы застали лишь часть действия, необходима форма -ing, даже если инфинитив без to кажется уместным — I saw him breaking into the car, but I didn't see how it started не должно превращаться в I saw him break into the car, потому что это ошибочно утверждало бы, что вы видели всё событие целиком, а не только часть.",
+      "Ищите глагол восприятия (see, watch, hear, notice, feel, listen to), за которым сразу следует дополнение, а затем либо глагол без to, либо форма -ing. Маркер завершённости в остальной части предложения — достижение конечной точки, «the whole way», «from start to finish», «until» с последующим событием — указывает на инфинитив без to. Маркер частичности или прерывания — «but didn't see how it ended», «as I walked past», «when … and had to look away» — указывает на -ing.",
+    ],
+    ar: [
+      "يمكن أن يلي كلاً من see وwatch وhear وnotice وfeel وlisten to مفعول به ثم فعل ثانٍ، وصيغة هذا الفعل الثاني تغيّر معنى الجملة. مفعول به + مصدر مجرد يصف الفعل بأكمله، كحدث واحد مكتمل من البداية إلى النهاية: I saw him cross the street and reach the other side safely — رأيت العبور كله. مفعول به + -ing يصف الفعل وهو قيد الحدوث، شيئًا فاجأ فيه المراقب في منتصفه دون أن يرى بالضرورة بدايته أو نهايته: I saw him crossing the street, but I looked away before he got to the other side — لم أرَ سوى جزء منه.",
+      {
+        intro: "النمط هو فعل إدراك + مفعول به + مصدر مجرد للفعل المكتمل، أو فعل إدراك + مفعول به + -ing للفعل الجاري:",
+        items: [
+          "see/watch/notice + مفعول به + مصدر مجرد = الفعل بأكمله، من البداية إلى النهاية: I watched her paint the entire picture, from the first brushstroke to the last.",
+          "see/watch/notice + مفعول به + -ing = جزء من فعل جارٍ، ليس بالضرورة البداية أو النهاية: I watched her painting as I walked past the studio.",
+          "hear + مفعول به + مصدر مجرد أو -ing يعمل بالطريقة نفسها: I heard him play the whole song from start to finish / I heard him playing the piano as I climbed the stairs.",
+          "feel + مفعول به + مصدر مجرد أو -ing: I felt the ground shake and then everything went still / I felt the ground shaking beneath me as the tremor continued.",
+          "listen to + مفعول به يتبع النمط نفسه رغم أنه ليس فعل إدراك من كلمة واحدة: I listened to her sing the whole song from beginning to end / I listened to her singing as I walked past.",
+          "مثل make وlet وhelp + مفعول به + مصدر مجرد، يحذف هذا النمط أيضًا to بعد المفعول به — لكن هنا الاختيار بين المصدر المجرد وبين -ing يحمل معنى خاصًا به (فعل مكتمل مقابل فعل جارٍ)، وهو ما لا تملكه الأفعال السببية.",
+        ],
+      },
+      "هناك خطآن شائعان. الأول هو إضافة to قبل المصدر: I saw him to cross the street خطأ — أفعال الإدراك تأخذ مصدرًا مجردًا بعد المفعول به، لا مصدرًا بـ to: I saw him cross the street. الثاني هو معاملة المصدر و-ing كأنهما قابلان للتبادل بينما المعنى يعتمد فعليًا على الاختيار: إذا شهدت جزءًا فقط من فعل ما، فإن -ing مطلوب، حتى لو بدا المصدر المجرد مقبولًا — I saw him breaking into the car, but I didn't see how it started لا ينبغي أن تصبح I saw him break into the car، لأن ذلك سيوحي خطأً بأنك رأيت الحدث كاملاً، لا جزءًا منه فقط.",
+      "ابحث عن فعل إدراك (see، watch، hear، notice، feel، listen to) يليه مباشرة مفعول به ثم إما فعل مجرد أو صيغة -ing. تشير علامة اكتمال في بقية الجملة — بلوغ نقطة نهاية، the whole way، from start to finish، أو until متبوعة بحدث — إلى المصدر المجرد. أما علامة جزئية أو انقطاع — but didn't see how it ended، as I walked past، when ... and had to look away — فتشير إلى -ing.",
+    ],
+    zh: [
+      "see、watch、hear、notice、feel 和 listen to 后面都可以接宾语,再接第二个动词,而第二个动词的形式会改变句子的意思。宾语 + 动词原形描述整个动作,被感知为从头到尾的一个完整事件:I saw him cross the street and reach the other side safely——我看到了整个过程。宾语 + -ing 描述正在进行中的动作,是观察者只赶上其中一部分、不一定看到开头或结尾的情况:I saw him crossing the street, but I looked away before he got to the other side——我只看到了其中一部分。",
+      {
+        intro: "句型是感官动词 + 宾语 + 动词原形,表示完整的动作;或感官动词 + 宾语 + -ing,表示正在进行的动作:",
+        items: [
+          "see/watch/notice + 宾语 + 动词原形 = 整个动作,从头到尾:I watched her paint the entire picture, from the first brushstroke to the last。",
+          "see/watch/notice + 宾语 + -ing = 正在进行的动作的一部分,不一定是开头或结尾:I watched her painting as I walked past the studio。",
+          "hear + 宾语 + 动词原形或 -ing 用法相同:I heard him play the whole song from start to finish / I heard him playing the piano as I climbed the stairs。",
+          "feel + 宾语 + 动词原形或 -ing:I felt the ground shake and then everything went still / I felt the ground shaking beneath me as the tremor continued。",
+          "listen to + 宾语遵循同样的句型,尽管它不是单个单词的感官动词:I listened to her sing the whole song from beginning to end / I listened to her singing as I walked past。",
+          "和 make、let、help + 宾语 + 动词原形一样,这个句型也在宾语后省略了 to——但这里动词原形和 -ing 之间的选择本身就带有含义(完整动作对比进行中的动作),这是使役动词所没有的。",
+        ],
+      },
+      "常见的错误有两个。第一个是在动词原形前加 to:I saw him to cross the street 是错的——感官动词在宾语后接动词原形,而不是带 to 的不定式:I saw him cross the street。第二个是把动词原形和 -ing 当作可以互换,而实际上意思取决于选择哪一个:如果你只目睹了动作的一部分,就必须用 -ing,即使动词原形听起来也说得通——I saw him breaking into the car, but I didn't see how it started 不应变成 I saw him break into the car,因为那样会错误地暗示你看到了整个事件,而不只是其中一部分。",
+      "留意感官动词(see、watch、hear、notice、feel、listen to)后面直接跟一个宾语,再跟一个动词原形或 -ing 形式。句子其余部分若有表示完成的标记——到达终点、“the whole way”、“from start to finish”,或 “until” 后接一个事件——就提示用动词原形。若有表示部分或中断的标记——“but didn't see how it ended”、“as I walked past”、“when ... and had to look away”——就提示用 -ing。",
+    ],
+  },
+  paragraphKinds: ["use", "form", "mistake", "markers"],
+  exercises: [
+    {
+      title: "Complete Action or In Progress?",
+      questions: [
+        { sentence: "I saw him ___ (cross) the street and reach the other side safely.", answer: "cross", options: ["cross", "crossing", "to cross"], explanation: "The completion marker 'and reach the other side safely' shows the whole action was witnessed from start to finish — bare infinitive." },
+        { sentence: "I saw him ___ (cross) the street, but I looked away before he got to the other side.", answer: "crossing", options: ["crossing", "cross", "to cross"], explanation: "'Looked away before he got to the other side' shows only part of the action was seen — -ing." },
+        { sentence: "We watched the plane ___ (take) off and climb steadily into the sky.", answer: "take", options: ["take", "taking", "to take"], explanation: "'Climb steadily into the sky' shows the whole takeoff was watched from start to finish — bare infinitive." },
+        { sentence: "We watched the plane ___ (take) off, but a truck blocked our view before it left the ground.", answer: "taking", options: ["taking", "take", "to take"], explanation: "The view was blocked partway through, so only part of the action was seen — -ing." },
+        { sentence: "I heard her ___ (sing) the whole song from start to finish.", answer: "sing", options: ["sing", "singing", "to sing"], explanation: "'The whole song from start to finish' is an explicit completion marker — bare infinitive." },
+        { sentence: "I heard her ___ (sing) as I walked past the open window.", answer: "singing", options: ["singing", "sing", "to sing"], explanation: "'As I walked past' shows a brief, partial encounter with an ongoing action — -ing." },
+        { sentence: "I felt the ground ___ (shake) and then everything went completely still.", answer: "shake", options: ["shake", "shaking", "to shake"], explanation: "'And then everything went completely still' marks a clear endpoint — bare infinitive." },
+        { sentence: "I felt the ground ___ (shake) beneath me as the tremor continued.", answer: "shaking", options: ["shaking", "shake", "to shake"], explanation: "'As the tremor continued' shows the action was still ongoing, not finished — -ing." },
+        { sentence: "She noticed the thief ___ (break) into the car, but she didn't see how it started.", answer: "breaking", options: ["breaking", "break", "to break"], explanation: "'Didn't see how it started' shows she only caught part of the action — -ing." },
+        { sentence: "She noticed the thief ___ (break) into the car from the very first attempt until he drove off.", answer: "break", options: ["break", "breaking", "to break"], explanation: "'From the very first attempt until he drove off' marks the whole action, start to finish — bare infinitive." },
+      ],
+    },
+    {
+      title: "More Practice with Perception Verbs",
+      questions: [
+        { sentence: "I listened to him ___ (play) the entire piece, from the opening note to the last chord.", answer: "play", options: ["play", "playing", "to play"], explanation: "'From the opening note to the last chord' is a completion marker — bare infinitive after listen to." },
+        { sentence: "I listened to him ___ (play) the piano when the phone rang and I had to look away.", answer: "playing", options: ["playing", "play", "to play"], explanation: "'When the phone rang and I had to look away' shows an interruption mid-action — -ing." },
+        { sentence: "They watched the sun ___ (set) completely, until it disappeared below the horizon.", answer: "set", options: ["set", "setting", "to set"], explanation: "'Until it disappeared below the horizon' marks the complete action — bare infinitive." },
+        { sentence: "They watched the sun ___ (set) just as they arrived at the beach.", answer: "setting", options: ["setting", "set", "to set"], explanation: "'Just as they arrived' shows they caught the sunset already in progress — -ing." },
+        { sentence: "I saw him ___ (cross) the street safely, from the moment he stepped off the curb to the moment he reached the pavement.", answer: "cross", options: ["cross", "to cross", "crossing"], explanation: "Perception verbs take a bare infinitive after an object, not a to-infinitive, and the full path 'from the moment he stepped off the curb to the moment he reached the pavement' confirms the whole action was seen." },
+        { sentence: "He heard the door ___ (open) slowly and creak all the way until it hit the wall.", answer: "open", options: ["open", "opening", "to open"], explanation: "'Creak all the way until it hit the wall' is a completion marker showing the whole action — bare infinitive." },
+        { sentence: "He heard the door ___ (open) just as he was falling asleep, and drifted off again before anything else happened.", answer: "opening", options: ["opening", "open", "to open"], explanation: "'Just as he was falling asleep' and drifting off again shows only a brief, partial perception — -ing." },
+        { sentence: "I noticed her ___ (walk) into the room and sit down at her desk.", answer: "walk", options: ["walk", "walking", "to walk"], explanation: "'And sit down at her desk' shows the complete entrance was witnessed from start to finish — bare infinitive." },
+        { sentence: "I noticed her ___ (walk) toward the door, but I turned back to my screen before she reached it.", answer: "walking", options: ["walking", "walk", "to walk"], explanation: "'Before she reached it' shows the action was left unfinished from the observer's point of view — -ing." },
+        { sentence: "We heard the alarm ___ (ring) continuously in the background as we worked, never once stopping to check what it meant.", answer: "ringing", options: ["ringing", "ring", "to ring"], explanation: "'Continuously ... as we worked' describes ongoing background action with no stated endpoint — -ing." },
+      ],
+    },
+  ],
+};

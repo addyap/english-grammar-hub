@@ -1,0 +1,169 @@
+import type { GrammarTopicContent } from "../types";
+
+export const mustVsHaveTo: GrammarTopicContent = {
+  slug: "must-vs-have-to",
+  sectionSlug: "modals",
+  title: "Must vs Have To",
+  level: "A2",
+  explanations: {
+    en: [
+      "must and have to both express obligation — 'it is necessary to do this' — but the obligation comes from a different place. must expresses the speaker's own authority, personal judgment, or an internal sense of necessity: I must call my mother (I feel I should — it matters to me). have to expresses an external rule, law, or circumstance outside the speaker's control: I have to wear a uniform at work (the company requires it, not me). In everyday spoken English, have to is far more common overall; must tends to sound more formal, urgent, or personally emphatic.",
+      {
+        intro: "How to use each form:",
+        items: [
+          "must + base verb = the speaker's own obligation or urgency: You must be careful with that knife (I'm telling you, it matters to me). We must finish this today (I feel it's essential).",
+          "have to / has to + base verb = an external rule or circumstance: Students have to wear a badge on campus (school rule). She has to renew her passport before she travels (a legal requirement, not her personal wish).",
+          "must has no past tense at all — for past obligation, whatever the source, English always uses had to: I had to finish the report yesterday (not I musted or I must finish yesterday).",
+          "must doesn't naturally form everyday questions or the future the way have to does: Do I have to come? is the normal, natural question; Must I come? is grammatically correct but sounds formal or old-fashioned. For the future, use will have to: You'll have to submit the form by Friday (not a future form of must).",
+        ],
+      },
+      "The most common mistake is using must for past obligation: I must go to the doctor yesterday is wrong, because must has no past form. Past obligation is always had to, no matter where the obligation came from: I had to go to the doctor yesterday. A second frequent error is defaulting to Must you...? for an ordinary, everyday question — it sounds unnaturally formal or dated: instead of Must you work this weekend?, say Do you have to work this weekend? in normal conversation.",
+      "Look for who or what is imposing the obligation. If it's the speaker's own feeling, authority, or sense of urgency, expect must: I really must call her back. If it's an external rule, law, policy, or circumstance, expect have to: The law requires you to wear a seatbelt, so you have to wear one. For past time, expect had to regardless of the source. For questions, expect do/does + have to rather than Must...? in everyday English.",
+    ],
+    fr: [
+      "must et have to expriment tous deux une obligation — « il est nécessaire de faire cela » — mais l'obligation ne vient pas de la même source. must exprime l'autorité propre du locuteur, son jugement personnel, ou un sentiment intérieur de nécessité : I must call my mother (je sens que je dois le faire — cela compte pour moi). have to exprime une règle, une loi ou une circonstance extérieure, indépendante de la volonté du locuteur : I have to wear a uniform at work (l'entreprise l'exige, pas moi). Dans l'anglais courant, have to est nettement plus fréquent ; must sonne plus formel, urgent ou personnellement insistant.",
+      {
+        intro: "Comment utiliser chaque forme :",
+        items: [
+          "must + verbe à la base = l'obligation ou l'urgence propre du locuteur : You must be careful with that knife (je te le dis, c'est important pour moi). We must finish this today (je sens que c'est essentiel).",
+          "have to / has to + verbe à la base = une règle ou une circonstance extérieure : Students have to wear a badge on campus (règle de l'établissement). She has to renew her passport before she travels (une obligation légale, pas son souhait personnel).",
+          "must n'a aucune forme au passé — pour l'obligation passée, quelle qu'en soit la source, l'anglais utilise toujours had to : I had to finish the report yesterday (et non I musted ni I must finish yesterday).",
+          "must ne forme pas naturellement les questions courantes ni le futur comme le fait have to : Do I have to come? est la question normale et naturelle ; Must I come? est grammaticalement correct mais sonne formel ou désuet. Pour le futur, employez will have to : You'll have to submit the form by Friday (et non une forme future de must).",
+        ],
+      },
+      "L'erreur la plus fréquente est d'utiliser must pour une obligation passée : I must go to the doctor yesterday est incorrect, car must n'a pas de forme passée. L'obligation passée est toujours had to, quelle que soit son origine : I had to go to the doctor yesterday. Une deuxième erreur fréquente consiste à utiliser systématiquement Must you...? pour une question ordinaire du quotidien — cela sonne artificiellement formel ou désuet : au lieu de Must you work this weekend?, dites Do you have to work this weekend? dans une conversation normale.",
+      "Cherchez qui ou quoi impose l'obligation. Si c'est le sentiment, l'autorité ou l'urgence propres au locuteur, attendez-vous à must : I really must call her back. Si c'est une règle, une loi, une politique ou une circonstance extérieure, attendez-vous à have to : The law requires you to wear a seatbelt, so you have to wear one. Au passé, attendez-vous à had to quelle que soit la source. Pour les questions, attendez-vous à do/does + have to plutôt qu'à Must...? dans l'anglais courant.",
+    ],
+    es: [
+      "must y have to expresan ambos obligación —«es necesario hacer esto»— pero la obligación procede de un lugar distinto. must expresa la propia autoridad del hablante, su juicio personal o una sensación interna de necesidad: I must call my mother (siento que debo hacerlo, me importa a mí). have to expresa una norma, ley o circunstancia externa fuera del control del hablante: I have to wear a uniform at work (la empresa lo exige, no yo). En el inglés cotidiano, have to es mucho más frecuente en general; must suele sonar más formal, urgente o personalmente enfático.",
+      {
+        intro: "Cómo usar cada forma:",
+        items: [
+          "must + verbo base = la obligación o urgencia propia del hablante: You must be careful with that knife (te lo digo, me importa). We must finish this today (siento que es esencial).",
+          "have to / has to + verbo base = una norma o circunstancia externa: Students have to wear a badge on campus (norma del centro). She has to renew her passport before she travels (un requisito legal, no un deseo suyo).",
+          "must no tiene ninguna forma de pasado —para la obligación pasada, sea cual sea su origen, el inglés siempre usa had to: I had to finish the report yesterday (nunca I musted ni I must finish yesterday).",
+          "must no forma de manera natural preguntas cotidianas ni el futuro como sí lo hace have to: Do I have to come? es la pregunta normal y natural; Must I come? es gramaticalmente correcto pero suena formal o anticuado. Para el futuro, usa will have to: You'll have to submit the form by Friday (no una forma futura de must).",
+        ],
+      },
+      "El error más común es usar must para la obligación pasada: I must go to the doctor yesterday es incorrecto, porque must no tiene forma de pasado. La obligación pasada siempre es had to, sin importar su origen: I had to go to the doctor yesterday. Un segundo error frecuente es recurrir por defecto a Must you...? para una pregunta cotidiana normal —suena artificialmente formal o anticuado: en lugar de Must you work this weekend?, di Do you have to work this weekend? en una conversación normal.",
+      "Fíjate en quién o qué impone la obligación. Si es el sentimiento, la autoridad o la urgencia propia del hablante, espera must: I really must call her back. Si es una norma, ley, política o circunstancia externa, espera have to: The law requires you to wear a seatbelt, so you have to wear one. En el pasado, espera had to sin importar el origen. En las preguntas, espera do/does + have to en lugar de Must...? en el inglés cotidiano.",
+    ],
+    pt: [
+      "must e have to expressam ambos obrigação —«é necessário fazer isto»— mas a obrigação vem de um sítio diferente. must expressa a autoridade do próprio falante, o seu julgamento pessoal, ou um sentimento interno de necessidade: I must call my mother (sinto que devo — importa-me a mim). have to expressa uma regra, lei ou circunstância externa fora do controlo do falante: I have to wear a uniform at work (a empresa exige, não eu). No inglês do dia a dia, have to é bastante mais comum; must costuma soar mais formal, urgente ou pessoalmente enfático.",
+      {
+        intro: "Como usar cada forma:",
+        items: [
+          "must + verbo base = a obrigação ou urgência do próprio falante: You must be careful with that knife (estou a dizer-te, importa-me). We must finish this today (sinto que é essencial).",
+          "have to / has to + verbo base = uma regra ou circunstância externa: Students have to wear a badge on campus (regra da escola). She has to renew her passport before she travels (um requisito legal, não vontade pessoal dela).",
+          "must não tem nenhuma forma no passado —para a obrigação passada, seja qual for a origem, o inglês usa sempre had to: I had to finish the report yesterday (nunca I musted nem I must finish yesterday).",
+          "must não forma naturalmente perguntas do quotidiano nem o futuro como have to: Do I have to come? é a pergunta normal e natural; Must I come? é gramaticalmente correto mas soa formal ou antiquado. Para o futuro, usa will have to: You'll have to submit the form by Friday (não uma forma futura de must).",
+        ],
+      },
+      "O erro mais comum é usar must para a obrigação passada: I must go to the doctor yesterday está errado, porque must não tem forma de passado. A obrigação passada é sempre had to, seja qual for a origem: I had to go to the doctor yesterday. Um segundo erro frequente é recorrer a Must you...? para uma pergunta comum do dia a dia —soa artificialmente formal ou antiquado: em vez de Must you work this weekend?, diz-se Do you have to work this weekend? numa conversa normal.",
+      "Repara em quem ou o que impõe a obrigação. Se for o sentimento, a autoridade ou a urgência do próprio falante, espera must: I really must call her back. Se for uma regra, lei, política ou circunstância externa, espera have to: The law requires you to wear a seatbelt, so you have to wear one. No passado, espera had to seja qual for a origem. Nas perguntas, espera do/does + have to em vez de Must...? no inglês do dia a dia.",
+    ],
+    it: [
+      "must e have to esprimono entrambi un obbligo —«è necessario fare questo»— ma l'obbligo proviene da fonti diverse. must esprime l'autorità del parlante, il suo giudizio personale, o un senso interno di necessità: I must call my mother (sento che devo farlo — mi importa). have to esprime una regola, una legge o una circostanza esterna, fuori dal controllo del parlante: I have to wear a uniform at work (l'azienda lo richiede, non io). Nell'inglese quotidiano, have to è molto più comune in generale; must tende a suonare più formale, urgente o personalmente enfatico.",
+      {
+        intro: "Come usare ciascuna forma:",
+        items: [
+          "must + verbo base = l'obbligo o l'urgenza del parlante stesso: You must be careful with that knife (te lo dico, mi importa). We must finish this today (sento che è essenziale).",
+          "have to / has to + verbo base = una regola o circostanza esterna: Students have to wear a badge on campus (regola della scuola). She has to renew her passport before she travels (un requisito legale, non un suo desiderio).",
+          "must non ha alcuna forma al passato —per l'obbligo passato, qualunque sia la fonte, l'inglese usa sempre had to: I had to finish the report yesterday (mai I musted né I must finish yesterday).",
+          "must non forma naturalmente le domande quotidiane né il futuro come fa have to: Do I have to come? è la domanda normale e naturale; Must I come? è grammaticalmente corretto ma suona formale o antiquato. Per il futuro, usa will have to: You'll have to submit the form by Friday (non una forma futura di must).",
+        ],
+      },
+      "L'errore più comune è usare must per l'obbligo passato: I must go to the doctor yesterday è sbagliato, perché must non ha una forma al passato. L'obbligo passato è sempre had to, qualunque sia la sua origine: I had to go to the doctor yesterday. Un secondo errore frequente è ricorrere di default a Must you...? per una normale domanda quotidiana —suona artificialmente formale o antiquato: invece di Must you work this weekend?, di' Do you have to work this weekend? in una conversazione normale.",
+      "Cerca chi o cosa impone l'obbligo. Se è il sentimento, l'autorità o l'urgenza del parlante stesso, aspettati must: I really must call her back. Se è una regola, legge, politica o circostanza esterna, aspettati have to: The law requires you to wear a seatbelt, so you have to wear one. Al passato, aspettati had to indipendentemente dalla fonte. Nelle domande, aspettati do/does + have to invece di Must...? nell'inglese quotidiano.",
+    ],
+    de: [
+      "must und have to drücken beide eine Verpflichtung aus — „es ist notwendig, dies zu tun“ — aber die Verpflichtung stammt aus unterschiedlichen Quellen. must drückt die eigene Autorität des Sprechers, sein persönliches Urteil oder ein inneres Gefühl der Notwendigkeit aus: I must call my mother (ich spüre, dass ich es tun sollte — es ist mir wichtig). have to drückt eine externe Regel, ein Gesetz oder einen Umstand außerhalb der Kontrolle des Sprechers aus: I have to wear a uniform at work (die Firma verlangt es, nicht ich). Im alltäglichen gesprochenen Englisch ist have to insgesamt deutlich häufiger; must klingt eher formell, dringlich oder persönlich nachdrücklich.",
+      {
+        intro: "So verwendet man jede Form:",
+        items: [
+          "must + Grundform des Verbs = die eigene Verpflichtung oder Dringlichkeit des Sprechers: You must be careful with that knife (ich sage dir das, es ist mir wichtig). We must finish this today (ich finde, es ist unbedingt nötig).",
+          "have to / has to + Grundform des Verbs = eine externe Regel oder ein Umstand: Students have to wear a badge on campus (Schulregel). She has to renew her passport before she travels (eine gesetzliche Vorgabe, nicht ihr persönlicher Wunsch).",
+          "must hat überhaupt keine Vergangenheitsform —für vergangene Verpflichtung wird, egal woher sie stammt, im Englischen immer had to verwendet: I had to finish the report yesterday (niemals I musted oder I must finish yesterday).",
+          "must bildet weder alltägliche Fragen noch die Zukunft so natürlich wie have to: Do I have to come? ist die normale, natürliche Frage; Must I come? ist grammatisch korrekt, klingt aber formell oder altmodisch. Für die Zukunft verwendet man will have to: You'll have to submit the form by Friday (keine Zukunftsform von must).",
+        ],
+      },
+      "Der häufigste Fehler ist, must für vergangene Verpflichtung zu verwenden: I must go to the doctor yesterday ist falsch, weil must keine Vergangenheitsform hat. Vergangene Verpflichtung heißt immer had to, unabhängig von ihrer Quelle: I had to go to the doctor yesterday. Ein zweiter häufiger Fehler ist, standardmäßig Must you...? für eine ganz gewöhnliche Alltagsfrage zu verwenden —das klingt unnatürlich formell oder veraltet: statt Must you work this weekend? sagt man in einem normalen Gespräch Do you have to work this weekend?",
+      "Achte darauf, wer oder was die Verpflichtung auferlegt. Wenn es das eigene Gefühl, die Autorität oder die Dringlichkeit des Sprechers ist, erwarte must: I really must call her back. Wenn es eine externe Regel, ein Gesetz, eine Richtlinie oder ein Umstand ist, erwarte have to: The law requires you to wear a seatbelt, so you have to wear one. In der Vergangenheit erwarte had to, unabhängig von der Quelle. Bei Fragen erwarte im alltäglichen Englisch do/does + have to statt Must...?",
+    ],
+    ru: [
+      "must и have to оба выражают обязанность — «это необходимо сделать» — но источник обязанности разный. must выражает собственный авторитет говорящего, его личное суждение или внутреннее чувство необходимости: I must call my mother (я чувствую, что должен — это важно для меня). have to выражает внешнее правило, закон или обстоятельство, не зависящее от говорящего: I have to wear a uniform at work (это требует компания, а не я сам). В повседневной разговорной речи have to встречается гораздо чаще; must звучит более формально, срочно или лично настойчиво.",
+      {
+        intro: "Как использовать каждую форму:",
+        items: [
+          "must + базовая форма глагола = собственная обязанность или неотложность говорящего: You must be careful with that knife (я тебе говорю, это важно для меня). We must finish this today (я чувствую, что это необходимо).",
+          "have to / has to + базовая форма глагола = внешнее правило или обстоятельство: Students have to wear a badge on campus (правило учебного заведения). She has to renew her passport before she travels (юридическое требование, а не её личное желание).",
+          "у must вообще нет формы прошедшего времени —для прошлой обязанности, независимо от её источника, в английском всегда используется had to: I had to finish the report yesterday (никогда не I musted и не I must finish yesterday).",
+          "must не образует естественным образом повседневные вопросы и будущее время так, как это делает have to: Do I have to come? — обычный, естественный вопрос; Must I come? грамматически верно, но звучит формально или устарело. Для будущего времени используется will have to: You'll have to submit the form by Friday (а не форма будущего времени от must).",
+        ],
+      },
+      "Самая частая ошибка — использовать must для прошлой обязанности: I must go to the doctor yesterday неверно, потому что у must нет формы прошедшего времени. Прошлая обязанность всегда выражается через had to, независимо от её источника: I had to go to the doctor yesterday. Вторая частая ошибка — использовать по умолчанию Must you...? для обычного повседневного вопроса — это звучит неестественно формально или устарело: вместо Must you work this weekend? в обычном разговоре говорят Do you have to work this weekend?",
+      "Обращайте внимание на то, кто или что налагает обязанность. Если это собственное чувство, авторитет или неотложность говорящего, ожидайте must: I really must call her back. Если это внешнее правило, закон, политика или обстоятельство, ожидайте have to: The law requires you to wear a seatbelt, so you have to wear one. В прошедшем времени ожидайте had to независимо от источника. В вопросах в повседневном английском ожидайте do/does + have to, а не Must...?",
+    ],
+    ar: [
+      "تعبّر كل من must وhave to عن الإلزام —«من الضروري فعل هذا»— لكن مصدر الإلزام مختلف. تعبّر must عن سلطة المتحدث نفسه، أو حكمه الشخصي، أو إحساسه الداخلي بالضرورة: I must call my mother (أشعر أنني يجب أن أفعل ذلك — يهمّني أنا). بينما تعبّر have to عن قاعدة أو قانون أو ظرف خارجي خارج عن سيطرة المتحدث: I have to wear a uniform at work (الشركة تفرض ذلك، لا أنا). في الإنجليزية اليومية المحكية، تُستخدم have to بشكل أكثر شيوعًا بوجه عام؛ بينما تميل must إلى أن تبدو أكثر رسمية أو إلحاحًا أو تأكيدًا شخصيًا.",
+      {
+        intro: "كيفية استخدام كل صيغة:",
+        items: [
+          "must + صيغة الفعل الأساسية = إلزام أو إلحاح خاص بالمتحدث نفسه: You must be careful with that knife (أقول لك هذا، الأمر يهمّني). We must finish this today (أشعر أن الأمر ضروري).",
+          "have to / has to + صيغة الفعل الأساسية = قاعدة أو ظرف خارجي: Students have to wear a badge on campus (قاعدة المدرسة). She has to renew her passport before she travels (متطلب قانوني، لا رغبة شخصية منها).",
+          "لا تملك must أي صيغة ماضٍ على الإطلاق —للإلزام في الماضي، مهما كان مصدره، تستخدم الإنجليزية دائمًا had to: I had to finish the report yesterday (وليس أبدًا I musted ولا I must finish yesterday).",
+          "لا تُكوِّن must بشكل طبيعي الأسئلة اليومية أو صيغة المستقبل كما تفعل have to: Do I have to come? هو السؤال الطبيعي المعتاد؛ Must I come? صحيح نحويًا لكنه يبدو رسميًا أو قديم الطراز. للمستقبل، استخدم will have to: You'll have to submit the form by Friday (وليس صيغة مستقبل من must).",
+        ],
+      },
+      "أكثر الأخطاء شيوعًا هو استخدام must للإلزام في الماضي: الجملة I must go to the doctor yesterday خاطئة، لأن must لا تملك صيغة ماضٍ. الإلزام في الماضي يُعبَّر عنه دائمًا بـ had to، أيًا كان مصدره: I had to go to the doctor yesterday. خطأ ثانٍ شائع هو اللجوء افتراضيًا إلى Must you...؟ لسؤال يومي عادي —فهذا يبدو رسميًا أو قديمًا بشكل غير طبيعي: بدلًا من Must you work this weekend؟، يُقال Do you have to work this weekend؟ في محادثة عادية.",
+      "ابحث عن الجهة التي تفرض الإلزام. إذا كان الأمر شعورًا أو سلطة أو إلحاحًا خاصًا بالمتحدث نفسه، فتوقّع must: I really must call her back. وإذا كان قاعدة أو قانونًا أو سياسة أو ظرفًا خارجيًا، فتوقّع have to: The law requires you to wear a seatbelt, so you have to wear one. في الماضي، توقّع had to أيًا كان المصدر. في الأسئلة، توقّع do/does + have to بدلًا من Must...؟ في الإنجليزية اليومية.",
+    ],
+    zh: [
+      "must 和 have to 都表示义务——「有必要做这件事」——但义务的来源不同。must 表示说话者自身的权威、个人判断,或内心的必要感:I must call my mother(我觉得我应该这样做——这对我很重要)。have to 表示外部的规则、法律或不受说话者控制的情况:I have to wear a uniform at work(是公司要求的,不是我自己想的)。在日常口语英语中,have to 总体上更常见;must 往往听起来更正式、更紧迫,或带有个人的强调语气。",
+      {
+        intro: "如何使用每种形式:",
+        items: [
+          "must + 动词原形 = 说话者自身的义务或紧迫感:You must be careful with that knife(我告诉你,这对我很重要)。We must finish this today(我觉得这是必须的)。",
+          "have to / has to + 动词原形 = 外部规则或情况:Students have to wear a badge on campus(学校的规定)。She has to renew her passport before she travels(法律要求,而不是她个人的意愿)。",
+          "must 完全没有过去式——无论义务来自何处,表达过去的义务在英语中一律使用 had to:I had to finish the report yesterday(绝不能说 I musted 或 I must finish yesterday)。",
+          "must 不像 have to 那样能自然地构成日常问句和将来时:Do I have to come? 是正常自然的问句;Must I come? 语法上正确,但听起来正式或过时。表达将来时用 will have to:You'll have to submit the form by Friday(而不是 must 的将来形式)。",
+        ],
+      },
+      "最常见的错误是用 must 表达过去的义务:I must go to the doctor yesterday 是错误的,因为 must 没有过去式。过去的义务一律用 had to 表达,无论它来自哪里:I had to go to the doctor yesterday。第二个常见错误是在普通的日常问句中默认使用 Must you...?——这听起来会显得不自然地正式或过时:在正常对话中应该说 Do you have to work this weekend?,而不是 Must you work this weekend?",
+      "留意是谁或什么在施加这个义务。如果是说话者自身的感受、权威或紧迫感,那就该用 must:I really must call her back。如果是外部的规则、法律、政策或情况,那就该用 have to:The law requires you to wear a seatbelt, so you have to wear one。在过去时态中,无论来源是什么,都该用 had to。在日常英语的问句中,该用 do/does + have to,而不是 Must...?",
+    ],
+  },
+  paragraphKinds: ["use", "form", "mistake", "markers"],
+  exercises: [
+    {
+      title: "Must or Have To?",
+      questions: [
+        { sentence: "I ___ (go) to the dentist yesterday — my tooth was killing me.", answer: "had to go", options: ["had to go", "must go", "musted go"], explanation: "past obligation — must has no past form, so had to is required." },
+        { sentence: "Company policy says all visitors ___ (sign) in at reception.", answer: "have to sign", options: ["have to sign", "must sign", "musted sign"], explanation: "explicit external rule (company policy) — have to." },
+        { sentence: "I really ___ (call) her back — it's been bothering me all day.", answer: "must call", options: ["must call", "have to call", "had to call"], explanation: "explicit personal feeling/urgency ('it's been bothering me') — must." },
+        { sentence: "When I was a child, we ___ (wear) a uniform to school.", answer: "had to wear", options: ["had to wear", "must wear", "musted wear"], explanation: "explicit past-time marker (when I was a child) — must has no past form, so had to." },
+        { sentence: "In a casual conversation with a friend: Do you ___ (work) this weekend?", answer: "have to work", options: ["have to work", "must work", "had to work"], explanation: "natural everyday question form is do/does + have to, not Must...?" },
+        { sentence: "My visa requires that I ___ (leave) the country before it expires.", answer: "have to leave", options: ["have to leave", "must leave", "musted leave"], explanation: "explicit external rule (the visa requires) — have to." },
+        { sentence: "Last week we ___ (finish) the project early because the client moved the deadline.", answer: "had to finish", options: ["had to finish", "must finish", "musted finish"], explanation: "explicit past-time marker (last week) — must has no past form, so had to." },
+        { sentence: "I insist that I ___ (apologize) to her myself — it matters to me.", answer: "must apologize", options: ["must apologize", "have to apologize", "had to apologize"], explanation: "explicit personal insistence ('I insist... it matters to me') — must." },
+        { sentence: "The law requires that all drivers ___ (carry) valid insurance.", answer: "have to carry", options: ["have to carry", "must carry", "musted carry"], explanation: "explicit external rule (the law requires) — have to." },
+        { sentence: "In a casual chat with a colleague, you'd naturally ask: 'Do you ___ (submit) the report by Friday?'", answer: "have to submit", options: ["have to submit", "must submit", "had to submit"], explanation: "natural everyday question form is do/does + have to, not Must...?" },
+      ],
+    },
+    {
+      title: "Mixed Practice",
+      questions: [
+        { sentence: "We ___ (wait) two hours at the airport yesterday because of the delay.", answer: "had to wait", options: ["had to wait", "must wait", "musted wait"], explanation: "explicit past-time marker (yesterday) — must has no past form, so had to." },
+        { sentence: "You'll ___ (submit) the form by Friday, or your application won't be considered.", answer: "have to submit", options: ["have to submit", "must submit", "musted submit"], explanation: "future obligation uses will have to, not a future form of must." },
+        { sentence: "Company policy says employees ___ (complete) the training before they start work.", answer: "have to complete", options: ["have to complete", "must complete", "musted complete"], explanation: "explicit external rule (company policy) — have to." },
+        { sentence: "I feel like I really ___ (tell) him the truth — I can't keep this secret any longer.", answer: "must tell", options: ["must tell", "have to tell", "had to tell"], explanation: "explicit personal feeling/urgency — must." },
+        { sentence: "When she was a student, she ___ (work) every weekend to pay her rent.", answer: "had to work", options: ["had to work", "must work", "musted work"], explanation: "explicit past-time marker (when she was a student) — must has no past form, so had to." },
+        { sentence: "In an easygoing chat between friends, it's more natural to ask 'Do you ___ (leave) already?' than 'Must you leave already?'", answer: "have to leave", options: ["have to leave", "must leave", "had to leave"], explanation: "natural everyday question form is do/does + have to, not Must...?" },
+        { sentence: "The airline's rules mean all passengers ___ (check) in two hours before departure.", answer: "have to check", options: ["have to check", "must check", "musted check"], explanation: "explicit external rule (the airline's rules) — have to." },
+        { sentence: "Two years ago, we ___ (pay) a huge fine because we missed the tax deadline.", answer: "had to pay", options: ["had to pay", "must pay", "musted pay"], explanation: "explicit past-time marker (two years ago) — must has no past form, so had to." },
+        { sentence: "I insist that we ___ (thank) her properly — it really matters to me.", answer: "must thank", options: ["must thank", "have to thank", "had to thank"], explanation: "explicit personal insistence — must." },
+        { sentence: "Hospital regulations state that all staff ___ (wear) an ID badge at all times.", answer: "have to wear", options: ["have to wear", "must wear", "musted wear"], explanation: "explicit external rule (hospital regulations) — have to." },
+      ],
+    },
+  ],
+};

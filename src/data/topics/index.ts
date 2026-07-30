@@ -89,6 +89,8 @@ import { passiveQuestions } from "./passiveQuestions";
 import { alternativeQuestionsWithOr } from "./alternativeQuestionsWithOr";
 import { getUsedToVsUsedTo } from "./getUsedToVsUsedTo";
 import { mustntVsDontHaveTo } from "./mustntVsDontHaveTo";
+import { mustVsHaveTo } from "./mustVsHaveTo";
+import { abilityPermissionModals } from "./abilityPermissionModals";
 import { wouldRather } from "./wouldRather";
 import { hadBetter } from "./hadBetter";
 import { ellipsis } from "./ellipsis";
@@ -102,12 +104,20 @@ import { riseVsRaiseLieVsLay } from "./riseVsRaiseLieVsLay";
 import { alreadyJustYetStill } from "./alreadyJustYetStill";
 import { phrasalVerbsIntroduction } from "./phrasalVerbsIntroduction";
 import { contrastingWords } from "./contrastingWords";
+import { resultConnectors } from "./resultConnectors";
 import { futureTimeClauses } from "./futureTimeClauses";
 import { makeVsDo } from "./makeVsDo";
 import { anotherVsOtherVsTheOther } from "./anotherVsOtherVsTheOther";
 import { asIfAsThough } from "./asIfAsThough";
 import { rememberForgetStopTry } from "./rememberForgetStopTry";
 import { comparativesSuperlatives } from "./comparativesSuperlatives";
+import { narrativeTenses } from "./narrativeTenses";
+import { passivePerfectContinuousFuture } from "./passivePerfectContinuousFuture";
+import { personalPossessivePronouns } from "./personalPossessivePronouns";
+import { orderOfAdjectives } from "./orderOfAdjectives";
+import { questionTags } from "./questionTags";
+import { stativeVerbs } from "./stativeVerbs";
+import { perceptionVerbsObjectInfinitive } from "./perceptionVerbsObjectInfinitive";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -204,6 +214,8 @@ export const topics: GrammarTopicContent[] = [
   alternativeQuestionsWithOr,
   getUsedToVsUsedTo,
   mustntVsDontHaveTo,
+  mustVsHaveTo,
+  abilityPermissionModals,
   wouldRather,
   hadBetter,
   ellipsis,
@@ -217,12 +229,20 @@ export const topics: GrammarTopicContent[] = [
   alreadyJustYetStill,
   phrasalVerbsIntroduction,
   contrastingWords,
+  resultConnectors,
   futureTimeClauses,
   makeVsDo,
   anotherVsOtherVsTheOther,
   asIfAsThough,
   rememberForgetStopTry,
   comparativesSuperlatives,
+  narrativeTenses,
+  passivePerfectContinuousFuture,
+  personalPossessivePronouns,
+  orderOfAdjectives,
+  questionTags,
+  stativeVerbs,
+  perceptionVerbsObjectInfinitive,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);

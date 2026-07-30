@@ -485,6 +485,14 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/must-vs-have-to</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/ability-permission-modals</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://grammatica.antonyaddy.com/grammar/would-rather</loc>
     <priority>0.9</priority>
   </url>
@@ -537,6 +545,10 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/result-connectors</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://grammatica.antonyaddy.com/grammar/future-time-clauses</loc>
     <priority>0.9</priority>
   </url>
@@ -558,6 +570,34 @@
   </url>
   <url>
     <loc>https://grammatica.antonyaddy.com/grammar/comparatives-superlatives</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/narrative-tenses</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/passive-perfect-continuous-future</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/personal-possessive-pronouns</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/order-of-adjectives</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/question-tags</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/stative-verbs</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/perception-verbs-object-infinitive</loc>
     <priority>0.9</priority>
   </url>
 </urlset>
