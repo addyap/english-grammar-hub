@@ -148,7 +148,7 @@ export const IRREGULAR_VERB_GROUPS: IrregularVerbGroup[] = [
     verbs: [
       { base: "arise", past: "arose", participle: "arisen", meanings: { fr: "survenir", es: "surgir", pt: "surgir", it: "sorgere", de: "entstehen", ru: "возникать", ar: "نشأ", zh: "出现" } },
       { base: "be", past: "was / were", participle: "been", meanings: { fr: "être", es: "ser", pt: "ser", it: "essere", de: "sein", ru: "быть", ar: "كان", zh: "是" } },
-      { base: "bear", past: "bore", participle: "born", meanings: { fr: "supporter", es: "soportar", pt: "suportar", it: "sopportare", de: "ertragen", ru: "терпеть", ar: "تحمّل", zh: "忍受" } },
+      { base: "bear", past: "bore", participle: "borne", meanings: { fr: "supporter", es: "soportar", pt: "suportar", it: "sopportare", de: "ertragen", ru: "терпеть", ar: "تحمّل", zh: "忍受" } },
       { base: "begin", past: "began", participle: "begun", meanings: { fr: "commencer", es: "empezar", pt: "começar", it: "cominciare", de: "beginnen", ru: "начинать", ar: "بدأ", zh: "开始" } },
       { base: "bite", past: "bit", participle: "bitten", meanings: { fr: "mordre", es: "morder", pt: "morder", it: "mordere", de: "beißen", ru: "кусать", ar: "عضّ", zh: "咬" } },
       { base: "blow", past: "blew", participle: "blown", meanings: { fr: "souffler", es: "soplar", pt: "soprar", it: "soffiare", de: "blasen", ru: "дуть", ar: "نفخ", zh: "吹" } },
