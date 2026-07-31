@@ -26,6 +26,7 @@ const urls: UrlEntry[] = [
   { loc: "/confused-words", priority: 0.7 },
   { loc: "/false-friends", priority: 0.6 },
   { loc: "/punctuation", priority: 0.6 },
+  { loc: "/linking-words", priority: 0.6 },
   { loc: "/contrast-practice", priority: 0.6 },
   ...CONTRAST_PAIRS.map((p): UrlEntry => ({ loc: `/contrast-practice/${p.slug}`, priority: 0.7 })),
   // /progress deliberately excluded — it's a per-browser localStorage view with no

@@ -41,6 +41,11 @@ const RESOURCES = [
     title: "Punctuation Guide",
     description: "Commas, semicolons, colons, apostrophes, quotation marks, dashes, and end marks.",
   },
+  {
+    slug: "linking-words",
+    title: "Linking Words Reference",
+    description: "Contrast, cause, result, addition, and discourse markers — a quick lookup by function.",
+  },
 ];
 
 const ResourcesPage = () => {

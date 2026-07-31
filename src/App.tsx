@@ -12,6 +12,7 @@ import BritishVsAmericanPage from "@/pages/BritishVsAmericanPage";
 import ConfusedWordsPage from "@/pages/ConfusedWordsPage";
 import FalseFriendsPage from "@/pages/FalseFriendsPage";
 import PunctuationPage from "@/pages/PunctuationPage";
+import LinkingWordsPage from "@/pages/LinkingWordsPage";
 import ProgressPage from "@/pages/ProgressPage";
 import ContrastPracticePage from "@/pages/ContrastPracticePage";
 import ContrastExercisePage from "@/pages/ContrastExercisePage";
@@ -33,6 +34,7 @@ function App() {
           <Route path="/confused-words" element={<ConfusedWordsPage />} />
           <Route path="/false-friends" element={<FalseFriendsPage />} />
           <Route path="/punctuation" element={<PunctuationPage />} />
+          <Route path="/linking-words" element={<LinkingWordsPage />} />
           <Route path="/progress" element={<ProgressPage />} />
           <Route path="/contrast-practice" element={<ContrastPracticePage />} />
           <Route path="/contrast-practice/:pairSlug" element={<ContrastExercisePage />} />
