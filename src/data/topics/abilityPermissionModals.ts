@@ -4,7 +4,7 @@ export const abilityPermissionModals: GrammarTopicContent = {
   slug: "ability-permission-modals",
   sectionSlug: "modals",
   title: "Can, Could, May & Might: Ability and Permission",
-  level: "A2",
+  level: "B1",
   explanations: {
     en: [
       {
@@ -224,7 +224,7 @@ export const abilityPermissionModals: GrammarTopicContent = {
         { sentence: "___ I use your phone for a second? (to a close friend)", answer: "Can", options: ["Can", "May", "Must"], explanation: "Everyday informal permission request between friends — can, not the stiffer may." },
         { sentence: "___ we open the window? It's quite warm in here. (polite, to colleagues)", answer: "Could", options: ["Could", "Must", "Should"], explanation: "A polite request for permission, more formal than can but less formal than may." },
         { sentence: "You ___ sit anywhere you like — there's no assigned seating.", answer: "can", options: ["can", "must", "should"], explanation: "Informal permission being granted — can." },
-        { sentence: "The sign at the museum reads: Visitors ___ not touch the exhibits.", answer: "may", options: ["may", "can", "should"], explanation: "Formal written permission rule (prohibition) — may not, the formal register expected on an official sign." },
+        { sentence: "The engraved brass plaque at the entrance reads: 'Visitors ___ not touch or photograph the exhibits without prior written permission.'", answer: "may", options: ["may", "can", "should"], explanation: "Formal written permission rule (prohibition) — the legalistic phrase 'without prior written permission' anchors the formal register of 'may not'; 'can not' would clash with that register." },
         { sentence: "___ I ask you a personal question? (polite, slightly formal, to someone you don't know well)", answer: "May", options: ["May", "Must", "Should"], explanation: "A polite, formal way to ask permission before a sensitive question — may." },
       ],
     },

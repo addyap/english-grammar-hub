@@ -4,7 +4,7 @@ export const mustVsHaveTo: GrammarTopicContent = {
   slug: "must-vs-have-to",
   sectionSlug: "modals",
   title: "Must vs Have To",
-  level: "A2",
+  level: "B1",
   explanations: {
     en: [
       "must and have to both express obligation — 'it is necessary to do this' — but the obligation comes from a different place. must expresses the speaker's own authority, personal judgment, or an internal sense of necessity: I must call my mother (I feel I should — it matters to me). have to expresses an external rule, law, or circumstance outside the speaker's control: I have to wear a uniform at work (the company requires it, not me). In everyday spoken English, have to is far more common overall; must tends to sound more formal, urgent, or personally emphatic.",

@@ -99,7 +99,7 @@ export const pastContinuous: GrammarTopicContent = {
         { sentence: "While they ___ (study), their parents were watching TV.", answer: "were studying", options: ["were studying", "studied", "was studying"], explanation: "they → were + verb-ing." },
         { sentence: "She broke her leg while she ___ (ski).", answer: "was skiing", options: ["was skiing", "skied", "were skiing"], explanation: "while + past continuous for the ongoing background action." },
         { sentence: "What were you doing when the news ___ (break)?", answer: "broke", options: ["broke", "was breaking", "were breaking"], explanation: "the shorter interrupting event uses the past simple, not the past continuous." },
-        { sentence: "We ___ (chat) for hours when the power suddenly went out.", answer: "were chatting", options: ["were chatting", "chatted", "was chatting"], explanation: "we → were + verb-ing; the long background action." },
+        { sentence: "We ___ (chat) on the porch when the power suddenly went out.", answer: "were chatting", options: ["were chatting", "chatted", "was chatting"], explanation: "we → were + verb-ing; the ongoing background action interrupted by the sudden event." },
       ],
     },
   ],

@@ -99,7 +99,7 @@ export const presentPerfectContinuous: GrammarTopicContent = {
         { sentence: "I ___ (want) to visit Japan for years.", answer: "have wanted", options: ["have wanted", "have been wanting", "wanted"], explanation: "want is a stative verb — never continuous, even for duration." },
         { sentence: "They ___ (paint) the fence — it's half done.", answer: "have been painting", options: ["have been painting", "have painted", "paint"], explanation: "unfinished, ongoing activity → present perfect continuous." },
         { sentence: "They ___ (paint) the whole fence already.", answer: "have painted", options: ["have painted", "have been painting", "paint"], explanation: "a completed result → present perfect simple." },
-        { sentence: "We ___ (not/see) each other since the wedding.", answer: "haven't seen", options: ["haven't seen", "haven't been seeing", "didn't see"], explanation: "a simple completed-experience meaning ('haven't met') → present perfect simple; haven't been seeing would suggest a romantic relationship that ended." },
+        { sentence: "We ___ (not/see) each other since the wedding, so we were excited to catch up.", answer: "haven't seen", options: ["haven't seen", "haven't been seeing", "didn't see"], explanation: "a simple completed-experience meaning ('haven't met') → present perfect simple; the added 'excited to catch up' rules out haven't been seeing, which would imply a romantic relationship that ended." },
       ],
     },
   ],

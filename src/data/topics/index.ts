@@ -126,6 +126,11 @@ import { tellingTimeDatesNumbers } from "./tellingTimeDatesNumbers";
 import { subjectVerbAgreement } from "./subjectVerbAgreement";
 import { nominalization } from "./nominalization";
 import { academicHedging } from "./academicHedging";
+import { futurePerfectContinuous } from "./futurePerfectContinuous";
+import { sentenceStructureClauses } from "./sentenceStructureClauses";
+import { partsOfSpeechOverview } from "./partsOfSpeechOverview";
+import { formalInformalRegister } from "./formalInformalRegister";
+import { activePassiveStyleChoice } from "./activePassiveStyleChoice";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -259,6 +264,11 @@ export const topics: GrammarTopicContent[] = [
   subjectVerbAgreement,
   nominalization,
   academicHedging,
+  futurePerfectContinuous,
+  sentenceStructureClauses,
+  partsOfSpeechOverview,
+  formalInformalRegister,
+  activePassiveStyleChoice,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);

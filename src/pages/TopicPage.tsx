@@ -4,6 +4,8 @@ import { loadTopic } from "@/data/topics/lazy";
 import { sections } from "@/data/sections";
 import { Badge } from "@/components/ui/badge";
 import ExplanationParagraphs from "@/components/ExplanationParagraphs";
+import RelatedTopics from "@/components/RelatedTopics";
+import { topicsRegistry } from "@/data/topics/registry";
 import { LANGUAGES, type LanguageCode, type GrammarTopicContent } from "@/data/types";
 import { useSeo } from "@/hooks/useSeo";
 import { buildBreadcrumbJsonLd, paragraphToPlainText, toMetaDescription } from "@/lib/seo";
@@ -112,6 +114,8 @@ const TopicPage = () => {
           {topic.exercises[1].title}
         </Link>
       </div>
+
+      <RelatedTopics relatedSlugs={topicsRegistry.find((t) => t.slug === topic.slug)?.relatedSlugs} />
     </div>
   );
 };

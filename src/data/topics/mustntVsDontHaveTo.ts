@@ -153,7 +153,7 @@ export const mustntVsDontHaveTo: GrammarTopicContent = {
     {
       title: "Mixed Practice",
       questions: [
-        { sentence: "You ___ (be) late for the interview; it looks unprofessional.", answer: "mustn't be", options: ["mustn't be", "don't have to be", "doesn't have to be"], explanation: "prohibition/strong advice against — mustn't." },
+        { sentence: "You ___ (be) on the phone while operating this machine — it's a strict safety rule.", answer: "mustn't be", options: ["mustn't be", "don't have to be", "doesn't have to be"], explanation: "prohibited/forbidden — mustn't." },
         { sentence: "We ___ (pay) for parking on Sundays; it's free.", answer: "don't have to pay", options: ["don't have to pay", "mustn't pay", "doesn't have to pay"], explanation: "not necessary — don't have to." },
         { sentence: "You ___ (feed) the animals at the zoo — it's forbidden.", answer: "mustn't feed", options: ["mustn't feed", "don't have to feed", "doesn't have to feed"], explanation: "forbidden — mustn't." },
         { sentence: "He ___ (attend) the meeting; his manager already went in his place.", answer: "doesn't have to attend", options: ["doesn't have to attend", "mustn't attend", "don't have to attend"], explanation: "not necessary — doesn't have to." },
@@ -161,7 +161,7 @@ export const mustntVsDontHaveTo: GrammarTopicContent = {
         { sentence: "You ___ (answer) every question — some are optional.", answer: "don't have to answer", options: ["don't have to answer", "mustn't answer", "doesn't have to answer"], explanation: "not necessary — don't have to." },
         { sentence: "Drivers ___ (use) their phones while driving.", answer: "mustn't use", options: ["mustn't use", "don't have to use", "doesn't have to use"], explanation: "forbidden — mustn't." },
         { sentence: "She ___ (cook) tonight; we're ordering takeout.", answer: "doesn't have to cook", options: ["doesn't have to cook", "mustn't cook", "don't have to cook"], explanation: "not necessary — doesn't have to." },
-        { sentence: "You ___ (leave) the door unlocked when you go out.", answer: "mustn't leave", options: ["mustn't leave", "don't have to leave", "doesn't have to leave"], explanation: "forbidden/strongly advised against — mustn't." },
+        { sentence: "You ___ (leave) your car in the loading bay; it's against the building's rules.", answer: "mustn't leave", options: ["mustn't leave", "don't have to leave", "doesn't have to leave"], explanation: "prohibited/forbidden — mustn't." },
         { sentence: "We ___ (rush); the train doesn't leave for another hour.", answer: "don't have to rush", options: ["don't have to rush", "mustn't rush", "doesn't have to rush"], explanation: "not necessary — don't have to." },
       ],
     },

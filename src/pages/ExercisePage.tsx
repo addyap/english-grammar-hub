@@ -5,6 +5,8 @@ import type { GrammarTopicContent } from "@/data/types";
 import ExerciseEngine from "@/components/ExerciseEngine";
 import { hasTopicAccess } from "@/lib/entitlements";
 import PremiumGate from "@/components/PremiumGate";
+import { useSeo } from "@/hooks/useSeo";
+import { toMetaDescription } from "@/lib/seo";
 
 const ExercisePage = () => {
   const { topicSlug, exerciseIndex } = useParams<{ topicSlug: string; exerciseIndex: string }>();
@@ -16,11 +18,20 @@ const ExercisePage = () => {
     loadTopic(topicSlug ?? "").then((t) => setTopic(t ?? null));
   }, [topicSlug]);
 
+  const exercise = topic?.exercises[idx];
+
+  useSeo({
+    title: topic && exercise ? `${exercise.title} — ${topic.title} Exercise` : "Grammar exercise",
+    description:
+      topic && exercise
+        ? toMetaDescription(`Practice ${topic.title}: ${exercise.title}. Interactive English grammar exercise with instant feedback and explanations.`)
+        : "Practice English grammar with interactive exercises and instant feedback.",
+    path: `/grammar/${topicSlug ?? ""}/exercise/${exerciseIndex ?? ""}`,
+  });
+
   if (topic === undefined) {
     return <div className="px-4 py-6 sm:px-6 sm:py-8" />;
   }
-
-  const exercise = topic?.exercises[idx];
 
   if (!topic || !exercise) {
     return (

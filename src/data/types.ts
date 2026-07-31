@@ -83,4 +83,6 @@ export interface TopicRegistryEntry {
   title: string;
   level: CEFRLevel;
   file: string;
+  /** Slugs of 2-4 genuinely related topics, hand-curated — not auto-derived from sectionSlug. */
+  relatedSlugs?: string[];
 }

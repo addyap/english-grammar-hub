@@ -11,7 +11,7 @@ export const reportingVerbPatterns: GrammarTopicContent = {
       {
         intro: "Match each verb to its own pattern:",
         items: [
-          "suggest/recommend/propose + -ing: He suggested going to the beach; She recommended trying the new café. (never suggested to go — suggest never takes to + infinitive)",
+          "suggest/recommend/propose + -ing: He suggested going to the beach; She recommended trying the new café. (never suggested to go — suggest never takes to + infinitive; propose can also take to + infinitive, but only in its other sense of 'intend': I propose to postpone the meeting)",
           "suggest/recommend/propose + that + subject + (should) + base verb: He suggested that we go to the beach (or, more formally, that we should go) — the base verb stays the same for every subject, with or without should.",
           "insist + that + subject + base verb (or should + base verb), for a firm demand: She insisted that he apologize (or that he should apologize) — not insisted him to apologize.",
           "deny/admit + -ing, reporting what someone did or didn't do: He denied stealing the money; She admitted making a mistake — never denied to steal or admitted to make.",
@@ -26,7 +26,7 @@ export const reportingVerbPatterns: GrammarTopicContent = {
       {
         intro: "Faites correspondre chaque verbe à son propre schéma :",
         items: [
-          "suggest/recommend/propose + -ing : He suggested going to the beach ; She recommended trying the new café. (jamais suggested to go — suggest ne prend jamais to + infinitif)",
+          "suggest/recommend/propose + -ing : He suggested going to the beach ; She recommended trying the new café. (jamais suggested to go — suggest ne prend jamais to + infinitif ; propose peut aussi prendre to + infinitif, mais seulement dans son autre sens d'« avoir l'intention de » : I propose to postpone the meeting)",
           "suggest/recommend/propose + that + sujet + (should) + verbe de base : He suggested that we go to the beach (ou, plus formellement, that we should go) — le verbe de base reste identique pour tous les sujets, avec ou sans should.",
           "insist + that + sujet + verbe de base (ou should + verbe de base), pour une exigence ferme : She insisted that he apologize (ou that he should apologize) — et non insisted him to apologize.",
           "deny/admit + -ing, pour rapporter ce que quelqu'un a fait ou n'a pas fait : He denied stealing the money ; She admitted making a mistake — jamais denied to steal ni admitted to make.",
@@ -41,7 +41,7 @@ export const reportingVerbPatterns: GrammarTopicContent = {
       {
         intro: "Haz coincidir cada verbo con su propio patrón:",
         items: [
-          "suggest/recommend/propose + -ing: He suggested going to the beach; She recommended trying the new café. (nunca suggested to go —suggest nunca lleva to + infinitivo)",
+          "suggest/recommend/propose + -ing: He suggested going to the beach; She recommended trying the new café. (nunca suggested to go —suggest nunca lleva to + infinitivo; propose también puede llevar to + infinitivo, pero solo en su otro sentido de «tener la intención de»: I propose to postpone the meeting)",
           "suggest/recommend/propose + that + sujeto + (should) + verbo base: He suggested that we go to the beach (o, más formalmente, that we should go) —el verbo base es el mismo para todos los sujetos, con o sin should.",
           "insist + that + sujeto + verbo base (o should + verbo base), para una exigencia firme: She insisted that he apologize (o that he should apologize) —no insisted him to apologize.",
           "deny/admit + -ing, para relatar lo que alguien hizo o no hizo: He denied stealing the money; She admitted making a mistake —nunca denied to steal ni admitted to make.",
@@ -56,7 +56,7 @@ export const reportingVerbPatterns: GrammarTopicContent = {
       {
         intro: "Faz corresponder cada verbo ao seu próprio padrão:",
         items: [
-          "suggest/recommend/propose + -ing: He suggested going to the beach; She recommended trying the new café. (nunca suggested to go —suggest nunca leva to + infinitivo)",
+          "suggest/recommend/propose + -ing: He suggested going to the beach; She recommended trying the new café. (nunca suggested to go —suggest nunca leva to + infinitivo; propose também pode levar to + infinitivo, mas apenas no seu outro sentido de «ter a intenção de»: I propose to postpone the meeting)",
           "suggest/recommend/propose + that + sujeito + (should) + verbo base: He suggested that we go to the beach (ou, mais formalmente, that we should go) —o verbo base mantém-se igual para todos os sujeitos, com ou sem should.",
           "insist + that + sujeito + verbo base (ou should + verbo base), para uma exigência firme: She insisted that he apologize (ou that he should apologize) —e não insisted him to apologize.",
           "deny/admit + -ing, para relatar o que alguém fez ou não fez: He denied stealing the money; She admitted making a mistake —nunca denied to steal nem admitted to make.",
@@ -71,7 +71,7 @@ export const reportingVerbPatterns: GrammarTopicContent = {
       {
         intro: "Fai corrispondere ciascun verbo al proprio schema:",
         items: [
-          "suggest/recommend/propose + -ing: He suggested going to the beach; She recommended trying the new café. (mai suggested to go — suggest non prende mai to + infinito)",
+          "suggest/recommend/propose + -ing: He suggested going to the beach; She recommended trying the new café. (mai suggested to go — suggest non prende mai to + infinito; propose può anche prendere to + infinito, ma solo nel suo altro senso di «avere intenzione di»: I propose to postpone the meeting)",
           "suggest/recommend/propose + that + soggetto + (should) + verbo base: He suggested that we go to the beach (o, più formalmente, that we should go) — il verbo base resta lo stesso per ogni soggetto, con o senza should.",
           "insist + that + soggetto + verbo base (o should + verbo base), per una richiesta ferma: She insisted that he apologize (o that he should apologize) — non insisted him to apologize.",
           "deny/admit + -ing, per riferire ciò che qualcuno ha fatto o non ha fatto: He denied stealing the money; She admitted making a mistake — mai denied to steal né admitted to make.",
@@ -86,7 +86,7 @@ export const reportingVerbPatterns: GrammarTopicContent = {
       {
         intro: "Ordne jedes Verb seinem eigenen Muster zu:",
         items: [
-          "suggest/recommend/propose + -ing: He suggested going to the beach; She recommended trying the new café. (nie suggested to go — suggest steht nie mit to + Infinitiv)",
+          "suggest/recommend/propose + -ing: He suggested going to the beach; She recommended trying the new café. (nie suggested to go — suggest steht nie mit to + Infinitiv; propose kann auch mit to + Infinitiv stehen, aber nur in seiner anderen Bedeutung „beabsichtigen“: I propose to postpone the meeting)",
           "suggest/recommend/propose + that + Subjekt + (should) + Grundform: He suggested that we go to the beach (oder, förmlicher, that we should go) — die Grundform bleibt für jedes Subjekt gleich, mit oder ohne should.",
           "insist + that + Subjekt + Grundform (oder should + Grundform), für eine feste Forderung: She insisted that he apologize (oder that he should apologize) — nicht insisted him to apologize.",
           "deny/admit + -ing, um zu berichten, was jemand getan oder nicht getan hat: He denied stealing the money; She admitted making a mistake — nie denied to steal oder admitted to make.",
@@ -101,7 +101,7 @@ export const reportingVerbPatterns: GrammarTopicContent = {
       {
         intro: "Соотнесите каждый глагол с его собственной моделью:",
         items: [
-          "suggest/recommend/propose + -ing: He suggested going to the beach; She recommended trying the new café. (никогда не suggested to go — suggest никогда не сочетается с to + инфинитив)",
+          "suggest/recommend/propose + -ing: He suggested going to the beach; She recommended trying the new café. (никогда не suggested to go — suggest никогда не сочетается с to + инфинитив; propose также может сочетаться с to + инфинитив, но только в другом значении «намереваться»: I propose to postpone the meeting)",
           "suggest/recommend/propose + that + подлежащее + (should) + базовая форма: He suggested that we go to the beach (или, более официально, that we should go) — базовая форма остаётся одинаковой для любого подлежащего, с should или без него.",
           "insist + that + подлежащее + базовая форма (или should + базовая форма), для твёрдого требования: She insisted that he apologize (или that he should apologize) — не insisted him to apologize.",
           "deny/admit + -ing, чтобы сообщить о том, что кто-то сделал или не сделал: He denied stealing the money; She admitted making a mistake — никогда не denied to steal и не admitted to make.",
@@ -116,7 +116,7 @@ export const reportingVerbPatterns: GrammarTopicContent = {
       {
         intro: "طابِق كل فعل مع نمطه الخاص:",
         items: [
-          "suggest/recommend/propose + -ing: He suggested going to the beach؛ She recommended trying the new café. (أبدًا suggested to go — لا تأخذ suggest أبدًا to + مصدر)",
+          "suggest/recommend/propose + -ing: He suggested going to the beach؛ She recommended trying the new café. (أبدًا suggested to go — لا تأخذ suggest أبدًا to + مصدر؛ يمكن لـ propose أيضًا أن تأخذ to + مصدر، لكن فقط بمعناها الآخر «ينوي»: I propose to postpone the meeting)",
           "suggest/recommend/propose + that + فاعل + (should) + فعل أساسي: He suggested that we go to the beach (أو بشكل أكثر رسمية that we should go) — يبقى الفعل الأساسي نفسه مع أي فاعل، بوجود should أو دونها.",
           "insist + that + فاعل + فعل أساسي (أو should + فعل أساسي)، لمطلب حازم: She insisted that he apologize (أو that he should apologize) — لا insisted him to apologize.",
           "deny/admit + -ing، لنقل ما فعله شخص ما أو لم يفعله: He denied stealing the money؛ She admitted making a mistake — أبدًا denied to steal ولا admitted to make.",
@@ -131,7 +131,7 @@ export const reportingVerbPatterns: GrammarTopicContent = {
       {
         intro: "把每个动词和它自己的句型对应起来:",
         items: [
-          "suggest/recommend/propose + -ing:He suggested going to the beach;She recommended trying the new café。(绝不说 suggested to go——suggest 从不接 to + 不定式)",
+          "suggest/recommend/propose + -ing:He suggested going to the beach;She recommended trying the new café。(绝不说 suggested to go——suggest 从不接 to + 不定式;propose 也可以接 to + 不定式,但仅限于它「打算」这一不同含义:I propose to postpone the meeting)",
           "suggest/recommend/propose + that + 主语 + (should) + 动词原形:He suggested that we go to the beach(或更正式地说 that we should go)——不管主语是什么,动词都用原形,should 可加可不加。",
           "insist + that + 主语 + 动词原形(或 should + 动词原形),表示坚决要求:She insisted that he apologize(或 that he should apologize)——不是 insisted him to apologize。",
           "deny/admit + -ing,转述某人做了或没做的事:He denied stealing the money;She admitted making a mistake——绝不说 denied to steal 或 admitted to make。",
@@ -152,7 +152,7 @@ export const reportingVerbPatterns: GrammarTopicContent = {
         { sentence: "He suggested that we ___ (go) to the beach.", answer: "go", options: ["go", "goes", "went"], explanation: "suggest + that + subject + base verb (the same form for every subject)." },
         { sentence: "The doctor recommended that she ___ (rest) for a week.", answer: "rest", options: ["rest", "rests", "rested"], explanation: "recommend + that + subject + base verb, regardless of subject." },
         { sentence: "She insisted that he ___ (apologize).", answer: "apologize", options: ["apologize", "apologizes", "apologized"], explanation: "insist + that + subject + base verb, for a firm demand." },
-        { sentence: "They proposed ___ (postpone) the meeting.", answer: "postponing", options: ["postponing", "to postpone", "postpone"], explanation: "propose + -ing — never to + infinitive." },
+        { sentence: "The committee ___ (suggest/postpone) the meeting.", answer: "suggested postponing", options: ["suggested postponing", "suggested to postpone", "suggested postpone"], explanation: "suggest + -ing — never to + infinitive." },
         { sentence: "I suggest ___ (leave) early to avoid traffic.", answer: "leaving", options: ["leaving", "to leave", "leave"], explanation: "suggest + -ing — never to + infinitive." },
         { sentence: "The teacher insisted that the students ___ (be) on time.", answer: "be", options: ["be", "are", "were"], explanation: "insist + that + subject + base verb (be, not are/were)." },
         { sentence: "He suggested ___ (not/wait) any longer.", answer: "not waiting", options: ["not waiting", "to not wait", "not to wait"], explanation: "suggest + not + -ing for a negative suggestion." },

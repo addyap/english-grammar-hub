@@ -4,7 +4,7 @@ export const sayTellTalkSpeak: GrammarTopicContent = {
   slug: "say-tell-talk-speak",
   sectionSlug: "reported-speech",
   title: "Say, Tell, Talk & Speak",
-  level: "A2",
+  level: "B1",
   explanations: {
     en: [
       "say, tell, talk, and speak all relate to using language, but they take different grammar and suit different situations. say and tell report the exact content of what was communicated (say focuses on the words, tell focuses on informing a listener); talk and speak focus on the act of communicating itself, often without reporting the content — She said hello (the words); She told me the news (informed me of content); We talked for hours (the activity of conversing); He spoke to the manager (the activity of communicating with someone).",

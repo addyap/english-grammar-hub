@@ -106,6 +106,26 @@ for (const t of topics) {
   }
 }
 
+// --- relatedSlugs: every referenced slug must exist, no self-references,
+// and 2-4 entries when present (a "related topics" block with 1 or 20 links
+// isn't curated, it's either an accident or a dumped list) ---
+{
+  const registrySlugs = new Set(topicsRegistry.map((r) => r.slug));
+  for (const r of topicsRegistry) {
+    if (!r.relatedSlugs) continue;
+    if (r.relatedSlugs.length < 2 || r.relatedSlugs.length > 4) {
+      errors.push(`${r.slug}: relatedSlugs has ${r.relatedSlugs.length} entries (must be 2-4)`);
+    }
+    if (new Set(r.relatedSlugs).size !== r.relatedSlugs.length) {
+      errors.push(`${r.slug}: relatedSlugs has duplicate entries`);
+    }
+    for (const related of r.relatedSlugs) {
+      if (related === r.slug) errors.push(`${r.slug}: relatedSlugs references itself`);
+      else if (!registrySlugs.has(related)) errors.push(`${r.slug}: relatedSlugs references unknown slug "${related}"`);
+    }
+  }
+}
+
 if (errors.length) {
   console.error(`\n✗ Content validation failed — ${errors.length} issue(s):\n`);
   for (const e of errors) console.error("  • " + e);

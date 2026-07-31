@@ -4,7 +4,7 @@ export const nounVerbFormingSuffixes: GrammarTopicContent = {
   slug: "noun-verb-forming-suffixes",
   sectionSlug: "adjectives-adverbs",
   title: "Noun- and Verb-Forming Suffixes",
-  level: "B1",
+  level: "B2",
   explanations: {
     en: [
       "English also builds new nouns and verbs from other words by adding a suffix, not just adjectives. Turning a verb or adjective into a noun lets you talk about the quality, process, result, or person involved — happy (adjective) becomes happiness (a noun naming the quality), and develop (verb) becomes development (a noun naming the process or result). Turning an adjective or noun into a verb lets you talk about causing or becoming that quality — simple (adjective) becomes simplify (a verb meaning to make simple). Recognizing these noun- and verb-forming suffixes helps you build accurate word families and understand new vocabulary without needing a dictionary.",

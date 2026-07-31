@@ -8,7 +8,7 @@ export const articlesAThe: GrammarTopicContent = {
   explanations: {
     en: [
       "Use a/an the first time you mention something, or to talk about one member of a general category: I saw a dog in the park (not a specific dog you both know); she's a teacher (one of many teachers). Use the when both speaker and listener already know which specific thing is meant — because it was just mentioned, there's only one, or the situation makes it obvious: I saw a dog — the dog was barking (now specific, already mentioned); the sun is bright today (there's only one sun); can you close the door? (the door in this room, obvious from context).",
-      "Form: a before a consonant sound, an before a vowel sound — the sound matters, not the letter: a university, a European city (start with a consonant sound, 'yoo'), but an hour, an MBA (start with a vowel sound, the h and M are silent/vowel-sounding). The is the same spelling for singular and plural, and for every noun.",
+      "Form: a before a consonant sound, an before a vowel sound — the sound matters, not the letter: a university, a European city (start with a consonant sound, 'yoo'), but an hour (the h is silent, so the word starts with a vowel sound) and an MBA (M is pronounced 'em', which starts with a vowel sound even though the letter itself isn't silent). The is the same spelling for singular and plural, and for every noun.",
       {
         intro: "The signals a specific, identifiable thing in several common situations:",
         items: [
@@ -23,7 +23,7 @@ export const articlesAThe: GrammarTopicContent = {
     ],
     fr: [
       "On utilise a/an la première fois qu'on mentionne quelque chose, ou pour parler d'un élément parmi une catégorie générale : I saw a dog in the park (pas un chien précis que vous connaissez tous les deux) ; she's a teacher (une enseignante parmi tant d'autres). On utilise the quand le locuteur et l'auditeur savent déjà de quoi précisément il s'agit — parce que c'est déjà mentionné, qu'il n'y en a qu'un seul, ou que la situation le rend évident : I saw a dog — the dog was barking (maintenant précis, déjà mentionné) ; the sun is bright today (il n'y a qu'un seul soleil) ; can you close the door? (la porte de cette pièce, évidente d'après le contexte).",
-      "Formation : a devant un son consonne, an devant un son voyelle — c'est le son qui compte, pas la lettre : a university, a European city (commencent par un son consonne, « you ») mais an hour, an MBA (commencent par un son voyelle, le h et le M se prononcent comme une voyelle). The s'écrit de la même façon au singulier et au pluriel, pour tous les noms.",
+      "Formation : a devant un son consonne, an devant un son voyelle — c'est le son qui compte, pas la lettre : a university, a European city (commencent par un son consonne, « you ») mais an hour (le h est muet, donc le mot commence par un son voyelle) et an MBA (le M se prononce « em », qui commence par un son voyelle même si la lettre elle-même n'est pas muette). The s'écrit de la même façon au singulier et au pluriel, pour tous les noms.",
       {
         intro: "The signale quelque chose de précis et identifiable dans plusieurs situations courantes :",
         items: [
@@ -38,7 +38,7 @@ export const articlesAThe: GrammarTopicContent = {
     ],
     es: [
       "Se usa a/an la primera vez que mencionas algo, o para hablar de un elemento dentro de una categoría general: I saw a dog in the park (no un perro concreto que ambos conocéis); she's a teacher (una profesora entre muchas). Se usa the cuando tanto el hablante como el oyente ya saben exactamente a qué se refieren — porque ya se mencionó, porque solo hay uno, o porque la situación lo deja claro: I saw a dog — the dog was barking (ahora concreto, ya mencionado); the sun is bright today (solo hay un sol); can you close the door? (la puerta de esta habitación, obvia por el contexto).",
-      "Forma: a delante de un sonido consonántico, an delante de un sonido vocálico — importa el sonido, no la letra: a university, a European city (empiezan con sonido consonántico, «yu») pero an hour, an MBA (empiezan con sonido vocálico, la h y la M suenan como vocal). The se escribe igual en singular y en plural, y con cualquier sustantivo.",
+      "Forma: a delante de un sonido consonántico, an delante de un sonido vocálico — importa el sonido, no la letra: a university, a European city (empiezan con sonido consonántico, «yu») pero an hour (la h es muda, así que la palabra empieza con sonido vocálico) y an MBA (la M se pronuncia «em», que empieza con sonido vocálico aunque la letra en sí no sea muda). The se escribe igual en singular y en plural, y con cualquier sustantivo.",
       {
         intro: "The señala algo concreto e identificable en varias situaciones habituales:",
         items: [
@@ -53,7 +53,7 @@ export const articlesAThe: GrammarTopicContent = {
     ],
     pt: [
       "Usa-se a/an na primeira vez que se menciona algo, ou para falar de um elemento dentro de uma categoria geral: I saw a dog in the park (não um cão específico que ambos conhecem); she's a teacher (uma professora entre muitas). Usa-se the quando o falante e o ouvinte já sabem exatamente a que se referem — porque já foi mencionado, porque só há um, ou porque a situação o deixa óbvio: I saw a dog — the dog was barking (agora específico, já mencionado); the sun is bright today (só há um sol); can you close the door? (a porta desta divisão, óbvia pelo contexto).",
-      "Forma: a antes de um som consoante, an antes de um som vogal — o que importa é o som, não a letra: a university, a European city (começam com som consoante, «iu») mas an hour, an MBA (começam com som vogal, o h e o M soam como vogal). The escreve-se da mesma forma no singular e no plural, e com qualquer substantivo.",
+      "Forma: a antes de um som consoante, an antes de um som vogal — o que importa é o som, não a letra: a university, a European city (começam com som consoante, «iu») mas an hour (o h é mudo, por isso a palavra começa com som vogal) e an MBA (o M pronuncia-se «em», que começa com som vogal, mesmo que a letra em si não seja muda). The escreve-se da mesma forma no singular e no plural, e com qualquer substantivo.",
       {
         intro: "The assinala algo específico e identificável em várias situações comuns:",
         items: [
@@ -68,7 +68,7 @@ export const articlesAThe: GrammarTopicContent = {
     ],
     it: [
       "Si usa a/an la prima volta che si menziona qualcosa, o per parlare di un elemento all'interno di una categoria generale: I saw a dog in the park (non un cane specifico che entrambi conoscete); she's a teacher (un'insegnante tra tante). Si usa the quando sia chi parla sia chi ascolta sanno già esattamente a cosa ci si riferisce — perché è già stato menzionato, perché ce n'è solo uno, o perché la situazione lo rende ovvio: I saw a dog — the dog was barking (ora specifico, già menzionato); the sun is bright today (c'è un solo sole); can you close the door? (la porta di questa stanza, ovvia dal contesto).",
-      "Forma: a davanti a un suono consonantico, an davanti a un suono vocalico — conta il suono, non la lettera: a university, a European city (iniziano con un suono consonantico, «iu») ma an hour, an MBA (iniziano con un suono vocalico, la h e la M suonano come una vocale). The si scrive allo stesso modo al singolare e al plurale, e con qualsiasi nome.",
+      "Forma: a davanti a un suono consonantico, an davanti a un suono vocalico — conta il suono, non la lettera: a university, a European city (iniziano con un suono consonantico, «iu») ma an hour (la h è muta, quindi la parola inizia con un suono vocalico) e an MBA (la M si pronuncia «em», che inizia con un suono vocalico anche se la lettera in sé non è muta). The si scrive allo stesso modo al singolare e al plurale, e con qualsiasi nome.",
       {
         intro: "The segnala qualcosa di specifico e identificabile in diverse situazioni comuni:",
         items: [
@@ -83,7 +83,7 @@ export const articlesAThe: GrammarTopicContent = {
     ],
     de: [
       "Benutze a/an, wenn du etwas zum ersten Mal erwähnst, oder um über ein Element aus einer allgemeinen Kategorie zu sprechen: I saw a dog in the park (kein bestimmter Hund, den ihr beide kennt); she's a teacher (eine Lehrerin unter vielen). Benutze the, wenn Sprecher und Hörer bereits genau wissen, um was es geht — weil es schon erwähnt wurde, weil es nur eins davon gibt, oder weil es die Situation offensichtlich macht: I saw a dog — the dog was barking (jetzt konkret, schon erwähnt); the sun is bright today (es gibt nur eine Sonne); can you close the door? (die Tür in diesem Raum, aus dem Kontext klar).",
-      "Form: a vor einem Konsonantenlaut, an vor einem Vokallaut — der Laut zählt, nicht der Buchstabe: a university, a European city (beginnen mit einem Konsonantenlaut, „ju“), aber an hour, an MBA (beginnen mit einem Vokallaut, das h und das M klingen wie ein Vokal). The wird im Singular und Plural gleich geschrieben, bei jedem Nomen.",
+      "Form: a vor einem Konsonantenlaut, an vor einem Vokallaut — der Laut zählt, nicht der Buchstabe: a university, a European city (beginnen mit einem Konsonantenlaut, „ju“), aber an hour (das h ist stumm, daher beginnt das Wort mit einem Vokallaut) und an MBA (das M wird „em“ ausgesprochen, was mit einem Vokallaut beginnt, auch wenn der Buchstabe selbst nicht stumm ist). The wird im Singular und Plural gleich geschrieben, bei jedem Nomen.",
       {
         intro: "The signalisiert in mehreren häufigen Situationen etwas Bestimmtes, Identifizierbares:",
         items: [
@@ -98,7 +98,7 @@ export const articlesAThe: GrammarTopicContent = {
     ],
     ru: [
       "Используйте a/an, когда упоминаете что-то впервые, или чтобы говорить об одном представителе общей категории: I saw a dog in the park (не какая-то конкретная собака, которую вы оба знаете); she's a teacher (одна из многих учительниц). Используйте the, когда говорящий и слушающий уже точно знают, о чём речь — потому что это уже упоминалось, потому что это единственное в своём роде, или потому что это очевидно из ситуации: I saw a dog — the dog was barking (теперь конкретная, уже упомянутая); the sun is bright today (солнце только одно); can you close the door? (дверь в этой комнате, очевидно из контекста).",
-      "Форма: a перед согласным звуком, an перед гласным звуком — важен звук, а не буква: a university, a European city (начинаются с согласного звука «ю»), но an hour, an MBA (начинаются с гласного звука, буквы h и M звучат как гласные). The пишется одинаково в единственном и множественном числе, с любым существительным.",
+      "Форма: a перед согласным звуком, an перед гласным звуком — важен звук, а не буква: a university, a European city (начинаются с согласного звука «ю»), но an hour (буква h не произносится, поэтому слово начинается с гласного звука) и an MBA (буква M произносится как «эм», а это начинается с гласного звука, хотя сама буква не является немой). The пишется одинаково в единственном и множественном числе, с любым существительным.",
       {
         intro: "The указывает на что-то конкретное и узнаваемое в нескольких распространённых ситуациях:",
         items: [
@@ -113,7 +113,7 @@ export const articlesAThe: GrammarTopicContent = {
     ],
     ar: [
       "استخدم a/an عند ذكر شيء لأول مرة، أو للحديث عن عنصر واحد ضمن فئة عامة: I saw a dog in the park (ليس كلبًا محددًا يعرفه كلاكما)؛ she's a teacher (معلمة من بين كثيرات). استخدم the عندما يعرف المتحدث والمستمع بالفعل تحديدًا ما المقصود — لأنه ذُكر من قبل، أو لأنه واحد لا غير، أو لأن الموقف يجعل الأمر واضحًا: I saw a dog — the dog was barking (أصبح محددًا الآن، وقد ذُكر سابقًا)؛ the sun is bright today (الشمس واحدة لا غير)؛ can you close the door؟ (باب هذه الغرفة، وهذا واضح من السياق).",
-      "الصيغة: a قبل صوت ساكن، an قبل صوت متحرك — الصوت هو ما يهم لا الحرف: a university، a European city (تبدآن بصوت ساكن «يو») لكن an hour، an MBA (تبدآن بصوت متحرك، إذ يُنطق الـ h والـ M كحرف متحرك). أما the فتُكتب بالشكل نفسه في المفرد والجمع، ومع أي اسم.",
+      "الصيغة: a قبل صوت ساكن، an قبل صوت متحرك — الصوت هو ما يهم لا الحرف: a university، a European city (تبدآن بصوت ساكن «يو») لكن an hour (الحرف h صامت، لذا تبدأ الكلمة بصوت متحرك) و an MBA (يُنطق الحرف M كـ «إم»، وهو ما يبدأ بصوت متحرك رغم أن الحرف نفسه ليس صامتًا). أما the فتُكتب بالشكل نفسه في المفرد والجمع، ومع أي اسم.",
       {
         intro: "تشير the إلى شيء محدد وقابل للتعرّف عليه في عدة مواقف شائعة:",
         items: [
@@ -128,7 +128,7 @@ export const articlesAThe: GrammarTopicContent = {
     ],
     zh: [
       "第一次提到某事物时用 a/an,或用来谈论某个泛指类别中的一员:I saw a dog in the park(不是你们俩都认识的某只特定的狗);she's a teacher(众多老师中的一位)。当说话者和听话者都已经知道具体指的是哪一个时用 the——因为之前已经提过、因为只有一个,或者情境让这一点显而易见:I saw a dog — the dog was barking(现在是特指,之前已提到过);the sun is bright today(太阳只有一个);can you close the door?(这个房间的门,从语境中显而易见)。",
-      "构成:辅音音素前用 a,元音音素前用 an——重要的是发音,而不是字母:a university、a European city(以辅音音素「yu」开头)但 an hour、an MBA(以元音音素开头,h 和 M 的发音像元音)。the 的拼写在单数和复数、以及任何名词前都相同。",
+      "构成:辅音音素前用 a,元音音素前用 an——重要的是发音,而不是字母:a university、a European city(以辅音音素「yu」开头)但 an hour(h 不发音,所以这个词以元音音素开头)和 an MBA(M 读作「em」,即使字母本身并非不发音,发音仍以元音音素开头)。the 的拼写在单数和复数、以及任何名词前都相同。",
       {
         intro: "the 在几种常见情况下表示具体、可识别的事物:",
         items: [

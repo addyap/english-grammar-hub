@@ -13,7 +13,7 @@ export const twoObjectVerbs: GrammarTopicContent = {
         items: [
           "Pattern 1 — verb + person + thing (no preposition): the natural, most common order, especially with a short, simple direct object: She gave him a book; I sent my mother some flowers; He showed the children his photos.",
           "Pattern 2 — verb + thing + preposition + person: used to give extra emphasis to the thing, or when the direct object is long: She gave a book to him; I sent some flowers to my mother; He showed his photos to the children.",
-          "Most two-object verbs use to, because something is literally transferred to the person: give, tell, send, show, teach, lend, bring, pass, promise, pay, write, read — I lent him my car / I lent my car to him.",
+          "Most two-object verbs use to, because something is literally transferred to the person: give, tell, send, show, offer, teach, lend, bring, pass, promise, pay, write, read — I lent him my car / I lent my car to him.",
           "A smaller group uses for instead, because the action is done for the person's benefit rather than transferred to them: buy, cook, make, find, get, order — She bought him a present / She bought a present for him; He cooked us dinner / He cooked dinner for us.",
         ],
       },
@@ -27,7 +27,7 @@ export const twoObjectVerbs: GrammarTopicContent = {
         items: [
           "Schéma 1 — verbe + personne + chose (sans préposition) : l'ordre naturel, le plus courant, surtout avec un objet direct court et simple : She gave him a book ; I sent my mother some flowers ; He showed the children his photos.",
           "Schéma 2 — verbe + chose + préposition + personne : utilisé pour mettre l'accent sur la chose, ou quand l'objet direct est long : She gave a book to him ; I sent some flowers to my mother ; He showed his photos to the children.",
-          "La plupart des verbes à deux objets emploient to, car quelque chose est littéralement transféré à la personne : give, tell, send, show, teach, lend, bring, pass, promise, pay, write, read — I lent him my car / I lent my car to him.",
+          "La plupart des verbes à deux objets emploient to, car quelque chose est littéralement transféré à la personne : give, tell, send, show, offer, teach, lend, bring, pass, promise, pay, write, read — I lent him my car / I lent my car to him.",
           "Un groupe plus restreint emploie for à la place, car l'action est faite au bénéfice de la personne plutôt que transférée à elle : buy, cook, make, find, get, order — She bought him a present / She bought a present for him ; He cooked us dinner / He cooked dinner for us.",
         ],
       },
@@ -41,7 +41,7 @@ export const twoObjectVerbs: GrammarTopicContent = {
         items: [
           "Patrón 1 —verbo + persona + cosa (sin preposición): el orden natural y más común, sobre todo con un objeto directo corto y sencillo: She gave him a book; I sent my mother some flowers; He showed the children his photos.",
           "Patrón 2 —verbo + cosa + preposición + persona: se usa para dar más énfasis a la cosa, o cuando el objeto directo es largo: She gave a book to him; I sent some flowers to my mother; He showed his photos to the children.",
-          "La mayoría de los verbos con dos objetos usan to, porque algo se transfiere literalmente a la persona: give, tell, send, show, teach, lend, bring, pass, promise, pay, write, read —I lent him my car / I lent my car to him.",
+          "La mayoría de los verbos con dos objetos usan to, porque algo se transfiere literalmente a la persona: give, tell, send, show, offer, teach, lend, bring, pass, promise, pay, write, read —I lent him my car / I lent my car to him.",
           "Un grupo más reducido usa for en su lugar, porque la acción se hace en beneficio de la persona en vez de transferírsele: buy, cook, make, find, get, order —She bought him a present / She bought a present for him; He cooked us dinner / He cooked dinner for us.",
         ],
       },
@@ -55,7 +55,7 @@ export const twoObjectVerbs: GrammarTopicContent = {
         items: [
           "Padrão 1 —verbo + pessoa + coisa (sem preposição): a ordem natural e mais comum, sobretudo com um objeto direto curto e simples: She gave him a book; I sent my mother some flowers; He showed the children his photos.",
           "Padrão 2 —verbo + coisa + preposição + pessoa: usado para dar mais ênfase à coisa, ou quando o objeto direto é longo: She gave a book to him; I sent some flowers to my mother; He showed his photos to the children.",
-          "A maioria dos verbos com dois objetos usa to, porque algo é literalmente transferido para a pessoa: give, tell, send, show, teach, lend, bring, pass, promise, pay, write, read —I lent him my car / I lent my car to him.",
+          "A maioria dos verbos com dois objetos usa to, porque algo é literalmente transferido para a pessoa: give, tell, send, show, offer, teach, lend, bring, pass, promise, pay, write, read —I lent him my car / I lent my car to him.",
           "Um grupo mais pequeno usa for em vez disso, porque a ação é feita em benefício da pessoa, e não transferida para ela: buy, cook, make, find, get, order —She bought him a present / She bought a present for him; He cooked us dinner / He cooked dinner for us.",
         ],
       },
@@ -69,7 +69,7 @@ export const twoObjectVerbs: GrammarTopicContent = {
         items: [
           "Schema 1 —verbo + persona + cosa (senza preposizione): l'ordine naturale e più comune, soprattutto con un complemento diretto breve e semplice: She gave him a book; I sent my mother some flowers; He showed the children his photos.",
           "Schema 2 —verbo + cosa + preposizione + persona: usato per dare più enfasi alla cosa, o quando il complemento diretto è lungo: She gave a book to him; I sent some flowers to my mother; He showed his photos to the children.",
-          "La maggior parte dei verbi a due complementi usa to, perché qualcosa viene letteralmente trasferito alla persona: give, tell, send, show, teach, lend, bring, pass, promise, pay, write, read —I lent him my car / I lent my car to him.",
+          "La maggior parte dei verbi a due complementi usa to, perché qualcosa viene letteralmente trasferito alla persona: give, tell, send, show, offer, teach, lend, bring, pass, promise, pay, write, read —I lent him my car / I lent my car to him.",
           "Un gruppo più ristretto usa invece for, perché l'azione è compiuta a beneficio della persona anziché trasferita a essa: buy, cook, make, find, get, order —She bought him a present / She bought a present for him; He cooked us dinner / He cooked dinner for us.",
         ],
       },
@@ -83,7 +83,7 @@ export const twoObjectVerbs: GrammarTopicContent = {
         items: [
           "Muster 1 — Verb + Person + Sache (ohne Präposition): die natürliche, häufigste Reihenfolge, besonders bei einem kurzen, einfachen direkten Objekt: She gave him a book; I sent my mother some flowers; He showed the children his photos.",
           "Muster 2 — Verb + Sache + Präposition + Person: wird verwendet, um die Sache stärker zu betonen, oder wenn das direkte Objekt lang ist: She gave a book to him; I sent some flowers to my mother; He showed his photos to the children.",
-          "Die meisten Verben mit zwei Objekten verwenden to, weil etwas buchstäblich an die Person übergeben wird: give, tell, send, show, teach, lend, bring, pass, promise, pay, write, read — I lent him my car / I lent my car to him.",
+          "Die meisten Verben mit zwei Objekten verwenden to, weil etwas buchstäblich an die Person übergeben wird: give, tell, send, show, offer, teach, lend, bring, pass, promise, pay, write, read — I lent him my car / I lent my car to him.",
           "Eine kleinere Gruppe verwendet stattdessen for, weil die Handlung zum Nutzen der Person geschieht, statt ihr übergeben zu werden: buy, cook, make, find, get, order — She bought him a present / She bought a present for him; He cooked us dinner / He cooked dinner for us.",
         ],
       },
@@ -97,7 +97,7 @@ export const twoObjectVerbs: GrammarTopicContent = {
         items: [
           "Модель 1 — глагол + человек + вещь (без предлога): естественный, самый распространённый порядок, особенно с коротким, простым прямым дополнением: She gave him a book; I sent my mother some flowers; He showed the children his photos.",
           "Модель 2 — глагол + вещь + предлог + человек: используется, чтобы сделать акцент на вещи, или когда прямое дополнение длинное: She gave a book to him; I sent some flowers to my mother; He showed his photos to the children.",
-          "Большинство глаголов с двумя дополнениями используют to, потому что что-то буквально передаётся человеку: give, tell, send, show, teach, lend, bring, pass, promise, pay, write, read — I lent him my car / I lent my car to him.",
+          "Большинство глаголов с двумя дополнениями используют to, потому что что-то буквально передаётся человеку: give, tell, send, show, offer, teach, lend, bring, pass, promise, pay, write, read — I lent him my car / I lent my car to him.",
           "Меньшая группа глаголов использует вместо этого for, потому что действие совершается в пользу человека, а не передаётся ему: buy, cook, make, find, get, order — She bought him a present / She bought a present for him; He cooked us dinner / He cooked dinner for us.",
         ],
       },
@@ -111,7 +111,7 @@ export const twoObjectVerbs: GrammarTopicContent = {
         items: [
           "النمط 1 — فعل + شخص + شيء (بدون حرف جر): الترتيب الطبيعي والأكثر شيوعًا، خاصة مع مفعول مباشر قصير وبسيط: She gave him a book؛ I sent my mother some flowers؛ He showed the children his photos.",
           "النمط 2 — فعل + شيء + حرف جر + شخص: يُستخدم لإعطاء تركيز إضافي على الشيء، أو عندما يكون المفعول المباشر طويلاً: She gave a book to him؛ I sent some flowers to my mother؛ He showed his photos to the children.",
-          "معظم الأفعال ذات المفعولين تستخدم to، لأن شيئًا ما يُنقل فعليًا إلى الشخص: give, tell, send, show, teach, lend, bring, pass, promise, pay, write, read — I lent him my car / I lent my car to him.",
+          "معظم الأفعال ذات المفعولين تستخدم to، لأن شيئًا ما يُنقل فعليًا إلى الشخص: give, tell, send, show, offer, teach, lend, bring, pass, promise, pay, write, read — I lent him my car / I lent my car to him.",
           "مجموعة أصغر تستخدم for بدلاً من ذلك، لأن الفعل يُنجز لصالح الشخص وليس نقله إليه: buy, cook, make, find, get, order — She bought him a present / She bought a present for him؛ He cooked us dinner / He cooked dinner for us.",
         ],
       },
@@ -125,7 +125,7 @@ export const twoObjectVerbs: GrammarTopicContent = {
         items: [
           "句型1——动词 + 人 + 物(不加介词):自然、最常见的语序,尤其当直接宾语简短时:She gave him a book;I sent my mother some flowers;He showed the children his photos。",
           "句型2——动词 + 物 + 介词 + 人:用来特别强调那件物品,或当直接宾语较长时使用:She gave a book to him;I sent some flowers to my mother;He showed his photos to the children。",
-          "大多数双宾语动词使用 to,因为某物确实被转交给了那个人:give, tell, send, show, teach, lend, bring, pass, promise, pay, write, read——I lent him my car / I lent my car to him。",
+          "大多数双宾语动词使用 to,因为某物确实被转交给了那个人:give, tell, send, show, offer, teach, lend, bring, pass, promise, pay, write, read——I lent him my car / I lent my car to him。",
           "较小的一组动词则使用 for,因为这个动作是为了那个人的利益而做,而不是转交给他们:buy, cook, make, find, get, order——She bought him a present / She bought a present for him;He cooked us dinner / He cooked dinner for us。",
         ],
       },

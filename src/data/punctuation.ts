@@ -71,4 +71,18 @@ export const PUNCTUATION_RULES: PunctuationRule[] = [
       "Exclamation mark shows strong emotion or emphasis — used sparingly in formal writing, since overuse weakens its effect.",
     ],
   },
+  {
+    mark: "Capitalization",
+    summary: "Not just 'the first word' — English capitalizes a specific, learnable set of things.",
+    points: [
+      "The first word of every sentence: The train was late.",
+      "The pronoun I, always, wherever it falls in a sentence: My sister and I were there.",
+      "Proper nouns — specific people, places, organizations, and brands: Maria, Tokyo, the United Nations, Microsoft — but not the common noun they belong to: a city, her sister, a company.",
+      "Days of the week, months, and holidays: Monday, March, Thanksgiving — but not seasons: summer, winter.",
+      "Nationalities, languages, and other adjectives formed from proper nouns: French cheese, a Shakespearean play, Chinese New Year.",
+      "The first word — and usually every 'important' word (not a, the, and, of) — in titles of books, films, and articles: The Lord of the Rings, A Tale of Two Cities.",
+      "The first word of a direct quotation, if it's a full sentence: She said, \"Nothing worth having comes easy.\" — but not when the quotation continues a sentence: She said the plan was \"too risky to attempt.\"",
+      "Job titles are capitalized before a name (President Biden) but usually lowercase when used generally (the president spoke) — a common source of over-capitalization.",
+    ],
+  },
 ];

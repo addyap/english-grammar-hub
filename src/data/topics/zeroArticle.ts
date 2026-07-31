@@ -11,7 +11,7 @@ export const zeroArticle: GrammarTopicContent = {
       {
         intro: "Other common zero-article contexts:",
         items: [
-          "most proper nouns: names, most countries and cities (France, London, Mount Everest — but not names with 'of', like the United States, the Netherlands)",
+          "most proper nouns: names, most countries and cities (France, London, Mount Everest — but not names with 'of' or plural-form country names, like the United States, the Netherlands)",
           "meals, and most sports/games/languages: breakfast, football, Spanish (I speak Spanish, not I speak the Spanish)",
           "means of transport with by: by car, by bus, by train (but in the car, on the bus with a specific one)",
           "next/last + time word: next week, last year (no 'the' needed, unlike 'the following week')",
@@ -25,7 +25,7 @@ export const zeroArticle: GrammarTopicContent = {
       {
         intro: "Autres contextes courants sans article :",
         items: [
-          "la plupart des noms propres : noms de personnes, la plupart des pays et villes (France, London, Mount Everest — mais pas les noms avec « of », comme the United States, the Netherlands)",
+          "la plupart des noms propres : noms de personnes, la plupart des pays et villes (France, London, Mount Everest — mais pas les noms avec « of » ou les noms de pays au pluriel, comme the United States, the Netherlands)",
           "les repas, et la plupart des sports/jeux/langues : breakfast, football, Spanish (I speak Spanish, et non I speak the Spanish)",
           "les moyens de transport avec by : by car, by bus, by train (mais in the car, on the bus pour un véhicule précis)",
           "next/last + mot de temps : next week, last year (pas besoin de « the », contrairement à the following week)",
@@ -39,7 +39,7 @@ export const zeroArticle: GrammarTopicContent = {
       {
         intro: "Otros contextos habituales sin artículo:",
         items: [
-          "la mayoría de los nombres propios: nombres de personas, la mayoría de países y ciudades (France, London, Mount Everest — pero no los nombres con «of», como the United States, the Netherlands)",
+          "la mayoría de los nombres propios: nombres de personas, la mayoría de países y ciudades (France, London, Mount Everest — pero no los nombres con «of» o los nombres de países en plural, como the United States, the Netherlands)",
           "las comidas, y la mayoría de deportes/juegos/idiomas: breakfast, football, Spanish (I speak Spanish, no I speak the Spanish)",
           "los medios de transporte con by: by car, by bus, by train (pero in the car, on the bus para un vehículo concreto)",
           "next/last + palabra de tiempo: next week, last year (no hace falta «the», a diferencia de the following week)",
@@ -53,7 +53,7 @@ export const zeroArticle: GrammarTopicContent = {
       {
         intro: "Outros contextos comuns sem artigo:",
         items: [
-          "a maioria dos nomes próprios: nomes de pessoas, a maioria dos países e cidades (France, London, Mount Everest — mas não nomes com «of», como the United States, the Netherlands)",
+          "a maioria dos nomes próprios: nomes de pessoas, a maioria dos países e cidades (France, London, Mount Everest — mas não nomes com «of» ou nomes de países no plural, como the United States, the Netherlands)",
           "as refeições, e a maioria dos desportos/jogos/línguas: breakfast, football, Spanish (I speak Spanish, e não I speak the Spanish)",
           "meios de transporte com by: by car, by bus, by train (mas in the car, on the bus para um veículo específico)",
           "next/last + palavra de tempo: next week, last year (não é preciso «the», ao contrário de the following week)",
@@ -67,7 +67,7 @@ export const zeroArticle: GrammarTopicContent = {
       {
         intro: "Altri contesti comuni senza articolo:",
         items: [
-          "la maggior parte dei nomi propri: nomi di persona, la maggior parte di paesi e città (France, London, Mount Everest — ma non i nomi con «of», come the United States, the Netherlands)",
+          "la maggior parte dei nomi propri: nomi di persona, la maggior parte di paesi e città (France, London, Mount Everest — ma non i nomi con «of» o i nomi di paesi al plurale, come the United States, the Netherlands)",
           "i pasti, e la maggior parte di sport/giochi/lingue: breakfast, football, Spanish (I speak Spanish, non I speak the Spanish)",
           "i mezzi di trasporto con by: by car, by bus, by train (ma in the car, on the bus per un veicolo specifico)",
           "next/last + parola di tempo: next week, last year (non serve «the», a differenza di the following week)",
@@ -81,7 +81,7 @@ export const zeroArticle: GrammarTopicContent = {
       {
         intro: "Weitere häufige Kontexte ohne Artikel:",
         items: [
-          "die meisten Eigennamen: Namen von Personen, die meisten Länder und Städte (France, London, Mount Everest — aber nicht Namen mit „of“, wie the United States, the Netherlands)",
+          "die meisten Eigennamen: Namen von Personen, die meisten Länder und Städte (France, London, Mount Everest — aber nicht Namen mit „of“ oder Ländernamen im Plural, wie the United States, the Netherlands)",
           "Mahlzeiten sowie die meisten Sportarten/Spiele/Sprachen: breakfast, football, Spanish (I speak Spanish, nicht I speak the Spanish)",
           "Verkehrsmittel mit by: by car, by bus, by train (aber in the car, on the bus für ein bestimmtes Fahrzeug)",
           "next/last + Zeitwort: next week, last year (kein „the“ nötig, anders als bei the following week)",
@@ -95,7 +95,7 @@ export const zeroArticle: GrammarTopicContent = {
       {
         intro: "Другие распространённые случаи без артикля:",
         items: [
-          "большинство имён собственных: имена людей, большинство стран и городов (France, London, Mount Everest — но не названия с «of», такие как the United States, the Netherlands)",
+          "большинство имён собственных: имена людей, большинство стран и городов (France, London, Mount Everest — но не названия с «of» или названия стран во множественном числе, такие как the United States, the Netherlands)",
           "приёмы пищи и большинство видов спорта/игр/языков: breakfast, football, Spanish (I speak Spanish, а не I speak the Spanish)",
           "средства передвижения с by: by car, by bus, by train (но in the car, on the bus, если речь о конкретном транспортном средстве)",
           "next/last + слово времени: next week, last year (артикль the не нужен, в отличие от the following week)",
@@ -109,7 +109,7 @@ export const zeroArticle: GrammarTopicContent = {
       {
         intro: "سياقات شائعة أخرى بلا أداة:",
         items: [
-          "معظم أسماء الأعلام: أسماء الأشخاص، ومعظم الدول والمدن (France، London، Mount Everest — لكن ليس الأسماء التي تحوي «of»، مثل the United States، the Netherlands)",
+          "معظم أسماء الأعلام: أسماء الأشخاص، ومعظم الدول والمدن (France، London، Mount Everest — لكن ليس الأسماء التي تحوي «of» أو أسماء الدول بصيغة الجمع، مثل the United States، the Netherlands)",
           "الوجبات، ومعظم الرياضات/الألعاب/اللغات: breakfast، football، Spanish (I speak Spanish، وليس I speak the Spanish)",
           "وسائل النقل مع by: by car، by bus، by train (لكن in the car، on the bus عند الحديث عن مركبة محددة)",
           "next/last + كلمة زمنية: next week، last year (لا حاجة إلى «the»، خلافًا لـ the following week)",
@@ -123,7 +123,7 @@ export const zeroArticle: GrammarTopicContent = {
       {
         intro: "其他常见的零冠词情况:",
         items: [
-          "大多数专有名词:人名、大多数国家和城市名(France、London、Mount Everest——但带 「of」 的名称除外,如 the United States、the Netherlands)",
+          "大多数专有名词:人名、大多数国家和城市名(France、London、Mount Everest——但带 「of」 的名称或复数形式的国家名称除外,如 the United States、the Netherlands)",
           "三餐,以及大多数运动/游戏/语言:breakfast、football、Spanish(I speak Spanish,而不是 I speak the Spanish)",
           "用 by 表示的交通方式:by car、by bus、by train(但如果指某辆具体的车/某趟具体的车,则用 in the car、on the bus)",
           "next/last + 时间词:next week、last year(不需要「the」,这一点和 the following week 不同)",

@@ -7,7 +7,15 @@ export const pastModals: GrammarTopicContent = {
   level: "B2",
   explanations: {
     en: [
-      "should have, could have, and would have all use modal + have + past participle to talk about the past, but for a different reason than certainty (see Modals of Deduction) — here they express regret, criticism, or an unrealized possibility, not what actually happened. should have + past participle = a past action that didn't happen but would have been the right one: You should have called me (you didn't call, and that was a mistake). could have + past participle = something was possible but didn't happen: I could have helped you (I had the ability/opportunity, but I didn't). would have + past participle = the result side of an unreal past condition (see third conditionals), or a plan that didn't happen: I would have come, but I was ill.",
+      "should have, could have, and would have all use modal + have + past participle to talk about the past, but for a different reason than certainty (see Modals of Deduction) — here they express regret, criticism, or an unrealized possibility, not what actually happened.",
+      {
+        intro: "Each modal marks a different kind of unrealized past:",
+        items: [
+          "should have + past participle = a past action that didn't happen but would have been the right one: You should have called me (you didn't call, and that was a mistake).",
+          "could have + past participle = something was possible but didn't happen: I could have helped you (I had the ability/opportunity, but I didn't).",
+          "would have + past participle = the result side of an unreal past condition (see third conditionals), or a plan that didn't happen: I would have come, but I was ill.",
+        ],
+      },
       {
         intro: "Match the modal to what it expresses about the unrealized past:",
         items: [
@@ -21,7 +29,15 @@ export const pastModals: GrammarTopicContent = {
       "Look for should have/could have/would have (or their contractions) signalling regret, criticism, unused ability, or an unrealized plan — and double-check that of never appears where have belongs.",
     ],
     fr: [
-      "should have, could have et would have emploient tous modal + have + participe passé pour parler du passé, mais pour une raison différente de la certitude (voir Modals of Deduction) — ils expriment ici un regret, une critique, ou une possibilité non réalisée, pas ce qui s'est réellement passé. should have + participe passé = une action passée qui n'a pas eu lieu mais qui aurait été la bonne : You should have called me (vous n'avez pas appelé, et c'était une erreur). could have + participe passé = quelque chose était possible mais ne s'est pas produit : I could have helped you (j'en avais la capacité/l'occasion, mais je ne l'ai pas fait). would have + participe passé = le côté conséquence d'une condition irréelle au passé (voir les troisièmes conditionnelles), ou un projet qui n'a pas eu lieu : I would have come, but I was ill.",
+      "should have, could have et would have emploient tous modal + have + participe passé pour parler du passé, mais pour une raison différente de la certitude (voir Modals of Deduction) — ils expriment ici un regret, une critique, ou une possibilité non réalisée, pas ce qui s'est réellement passé.",
+      {
+        intro: "Chaque modal marque un type différent de passé non réalisé :",
+        items: [
+          "should have + participe passé = une action passée qui n'a pas eu lieu mais qui aurait été la bonne : You should have called me (vous n'avez pas appelé, et c'était une erreur).",
+          "could have + participe passé = quelque chose était possible mais ne s'est pas produit : I could have helped you (j'en avais la capacité/l'occasion, mais je ne l'ai pas fait).",
+          "would have + participe passé = le côté conséquence d'une condition irréelle au passé (voir les troisièmes conditionnelles), ou un projet qui n'a pas eu lieu : I would have come, but I was ill.",
+        ],
+      },
       {
         intro: "Faites correspondre le modal à ce qu'il exprime à propos du passé non réalisé :",
         items: [
@@ -35,7 +51,15 @@ export const pastModals: GrammarTopicContent = {
       "Repérez should have/could have/would have (ou leurs formes contractées) signalant un regret, une critique, une capacité inexploitée, ou un projet non réalisé — et vérifiez toujours que of n'apparaît jamais là où have devrait être.",
     ],
     es: [
-      "should have, could have y would have emplean todos modal + have + participio pasado para hablar del pasado, pero por una razón distinta a la certeza (ver Modals of Deduction) —aquí expresan arrepentimiento, crítica o una posibilidad no realizada, no lo que realmente ocurrió. should have + participio pasado = una acción pasada que no ocurrió pero habría sido la correcta: You should have called me (no llamaste, y eso fue un error). could have + participio pasado = algo era posible pero no ocurrió: I could have helped you (tenía la capacidad/oportunidad, pero no lo hice). would have + participio pasado = normalmente el lado de la consecuencia de una condición irreal en pasado (ver terceras condicionales), o un plan que no se cumplió: I would have come, but I was ill.",
+      "should have, could have y would have emplean todos modal + have + participio pasado para hablar del pasado, pero por una razón distinta a la certeza (ver Modals of Deduction) —aquí expresan arrepentimiento, crítica o una posibilidad no realizada, no lo que realmente ocurrió.",
+      {
+        intro: "Cada modal marca un tipo distinto de pasado no realizado:",
+        items: [
+          "should have + participio pasado = una acción pasada que no ocurrió pero habría sido la correcta: You should have called me (no llamaste, y eso fue un error).",
+          "could have + participio pasado = algo era posible pero no ocurrió: I could have helped you (tenía la capacidad/oportunidad, pero no lo hice).",
+          "would have + participio pasado = normalmente el lado de la consecuencia de una condición irreal en pasado (ver terceras condicionales), o un plan que no se cumplió: I would have come, but I was ill.",
+        ],
+      },
       {
         intro: "Haz coincidir el modal con lo que expresa sobre el pasado no realizado:",
         items: [
@@ -49,7 +73,15 @@ export const pastModals: GrammarTopicContent = {
       "Fíjate en should have/could have/would have (o sus formas contraídas) que señalan arrepentimiento, crítica, capacidad no aprovechada, o un plan no realizado —y comprueba siempre que of nunca aparece donde debería ir have.",
     ],
     pt: [
-      "should have, could have e would have usam todos modal + have + particípio passado para falar do passado, mas por uma razão diferente da certeza (ver Modals of Deduction) —aqui exprimem arrependimento, crítica ou uma possibilidade não realizada, não o que realmente aconteceu. should have + particípio passado = uma ação passada que não aconteceu mas teria sido a certa: You should have called me (não telefonaste, e isso foi um erro). could have + particípio passado = algo era possível mas não aconteceu: I could have helped you (tinha a capacidade/oportunidade, mas não o fiz). would have + particípio passado = normalmente o lado da consequência de uma condicional irreal no passado (ver terceiras condicionais), ou um plano que não se concretizou: I would have come, but I was ill.",
+      "should have, could have e would have usam todos modal + have + particípio passado para falar do passado, mas por uma razão diferente da certeza (ver Modals of Deduction) —aqui exprimem arrependimento, crítica ou uma possibilidade não realizada, não o que realmente aconteceu.",
+      {
+        intro: "Cada modal marca um tipo diferente de passado não realizado:",
+        items: [
+          "should have + particípio passado = uma ação passada que não aconteceu mas teria sido a certa: You should have called me (não telefonaste, e isso foi um erro).",
+          "could have + particípio passado = algo era possível mas não aconteceu: I could have helped you (tinha a capacidade/oportunidade, mas não o fiz).",
+          "would have + particípio passado = normalmente o lado da consequência de uma condicional irreal no passado (ver terceiras condicionais), ou um plano que não se concretizou: I would have come, but I was ill.",
+        ],
+      },
       {
         intro: "Faz corresponder o modal ao que exprime sobre o passado não realizado:",
         items: [
@@ -63,7 +95,15 @@ export const pastModals: GrammarTopicContent = {
       "Repara em should have/could have/would have (ou nas suas formas contraídas) a sinalizar arrependimento, crítica, capacidade não aproveitada, ou um plano não realizado —e verifica sempre que of nunca aparece onde deveria estar have.",
     ],
     it: [
-      "should have, could have e would have usano tutti modale + have + participio passato per parlare del passato, ma per una ragione diversa dalla certezza (vedi Modals of Deduction) — qui esprimono rammarico, critica, o una possibilità non realizzata, non ciò che è effettivamente accaduto. should have + participio passato = un'azione passata che non è avvenuta ma sarebbe stata quella giusta: You should have called me (non hai chiamato, ed è stato un errore). could have + participio passato = qualcosa era possibile ma non è accaduto: I could have helped you (ne avevo la capacità/l'occasione, ma non l'ho fatto). would have + participio passato = di solito il lato conseguenza di un periodo ipotetico irreale al passato (vedi i terzi condizionali), oppure un'intenzione che non si è realizzata: If I'd known, I would have come; I would have called, but my phone died.",
+      "should have, could have e would have usano tutti modale + have + participio passato per parlare del passato, ma per una ragione diversa dalla certezza (vedi Modals of Deduction) — qui esprimono rammarico, critica, o una possibilità non realizzata, non ciò che è effettivamente accaduto.",
+      {
+        intro: "Ogni modale segna un tipo diverso di passato non realizzato:",
+        items: [
+          "should have + participio passato = un'azione passata che non è avvenuta ma sarebbe stata quella giusta: You should have called me (non hai chiamato, ed è stato un errore).",
+          "could have + participio passato = qualcosa era possibile ma non è accaduto: I could have helped you (ne avevo la capacità/l'occasione, ma non l'ho fatto).",
+          "would have + participio passato = di solito il lato conseguenza di un periodo ipotetico irreale al passato (vedi i terzi condizionali), oppure un'intenzione che non si è realizzata: If I'd known, I would have come; I would have called, but my phone died.",
+        ],
+      },
       {
         intro: "Fai corrispondere il modale a ciò che esprime riguardo al passato non realizzato:",
         items: [
@@ -77,7 +117,15 @@ export const pastModals: GrammarTopicContent = {
       "Cerca should have/could have/would have (o le loro forme contratte) che segnalano rammarico, critica, capacità non sfruttata, o un progetto non realizzato — e controlla sempre che of non compaia mai dove dovrebbe esserci have.",
     ],
     de: [
-      "should have, could have und would have verwenden alle Modalverb + have + Partizip Perfekt, um über die Vergangenheit zu sprechen, aber aus einem anderen Grund als Gewissheit (siehe Modals of Deduction) — hier drücken sie Bedauern, Kritik oder eine nicht genutzte Möglichkeit aus, nicht das, was tatsächlich geschah. should have + Partizip Perfekt = eine vergangene Handlung, die nicht stattfand, aber richtig gewesen wäre: You should have called me (du hast nicht angerufen, und das war ein Fehler). could have + Partizip Perfekt = etwas war möglich, geschah aber nicht: I could have helped you (ich hätte die Fähigkeit/Gelegenheit gehabt, habe es aber nicht getan). would have + Partizip Perfekt = meist die Folge-Seite eines irrealen Bedingungssatzes der Vergangenheit (siehe dritte Konditionalsätze), oder eine Absicht, die nicht verwirklicht wurde: If I'd known, I would have come; I would have called, but my phone died.",
+      "should have, could have und would have verwenden alle Modalverb + have + Partizip Perfekt, um über die Vergangenheit zu sprechen, aber aus einem anderen Grund als Gewissheit (siehe Modals of Deduction) — hier drücken sie Bedauern, Kritik oder eine nicht genutzte Möglichkeit aus, nicht das, was tatsächlich geschah.",
+      {
+        intro: "Jedes Modalverb markiert eine andere Art von nicht verwirklichter Vergangenheit:",
+        items: [
+          "should have + Partizip Perfekt = eine vergangene Handlung, die nicht stattfand, aber richtig gewesen wäre: You should have called me (du hast nicht angerufen, und das war ein Fehler).",
+          "could have + Partizip Perfekt = etwas war möglich, geschah aber nicht: I could have helped you (ich hätte die Fähigkeit/Gelegenheit gehabt, habe es aber nicht getan).",
+          "would have + Partizip Perfekt = meist die Folge-Seite eines irrealen Bedingungssatzes der Vergangenheit (siehe dritte Konditionalsätze), oder eine Absicht, die nicht verwirklicht wurde: If I'd known, I would have come; I would have called, but my phone died.",
+        ],
+      },
       {
         intro: "Ordne das Modalverb dem zu, was es über die nicht verwirklichte Vergangenheit aussagt:",
         items: [
@@ -91,7 +139,15 @@ export const pastModals: GrammarTopicContent = {
       "Achte auf should have/could have/would have (oder ihre Kurzformen), die Bedauern, Kritik, eine ungenutzte Fähigkeit oder eine nicht verwirklichte Absicht signalisieren — und prüfe stets, dass of nie dort steht, wo have hingehört.",
     ],
     ru: [
-      "should have, could have и would have все используют модальный глагол + have + причастие прошедшего времени, чтобы говорить о прошлом, но по причине, отличной от уверенности (см. Modals of Deduction), — здесь они выражают сожаление, критику или неиспользованную возможность, а не то, что действительно произошло. should have + причастие прошедшего времени = прошлое действие, которое не произошло, но было бы правильным: You should have called me (ты не позвонил, и это было ошибкой). could have + причастие прошедшего времени = что-то было возможно, но не произошло: I could have helped you (у меня была возможность/способность, но я этого не сделал). would have + причастие прошедшего времени = обычно сторона следствия нереального условия в прошлом (см. третий тип условных предложений) или намерение, которое не осуществилось: If I'd known, I would have come; I would have called, but my phone died.",
+      "should have, could have и would have все используют модальный глагол + have + причастие прошедшего времени, чтобы говорить о прошлом, но по причине, отличной от уверенности (см. Modals of Deduction), — здесь они выражают сожаление, критику или неиспользованную возможность, а не то, что действительно произошло.",
+      {
+        intro: "Каждый модальный глагол отмечает свой тип неосуществлённого прошлого:",
+        items: [
+          "should have + причастие прошедшего времени = прошлое действие, которое не произошло, но было бы правильным: You should have called me (ты не позвонил, и это было ошибкой).",
+          "could have + причастие прошедшего времени = что-то было возможно, но не произошло: I could have helped you (у меня была возможность/способность, но я этого не сделал).",
+          "would have + причастие прошедшего времени = обычно сторона следствия нереального условия в прошлом (см. третий тип условных предложений) или намерение, которое не осуществилось: If I'd known, I would have come; I would have called, but my phone died.",
+        ],
+      },
       {
         intro: "Соотнесите модальный глагол с тем, что он выражает о неосуществлённом прошлом:",
         items: [
@@ -105,7 +161,15 @@ export const pastModals: GrammarTopicContent = {
       "Обращайте внимание на should have/could have/would have (или их сокращённые формы), сигнализирующие сожаление, критику, неиспользованную способность или неосуществлённое намерение, — и всегда проверяйте, что of никогда не стоит там, где должно быть have.",
     ],
     ar: [
-      "تستخدم should have وcould have وwould have جميعها فعلاً ناقصًا + have + التصريف الثالث للحديث عن الماضي، لكن لسبب مختلف عن اليقين (انظر Modals of Deduction) — فهي هنا تعبّر عن الندم أو النقد أو إمكانية لم تتحقق، لا عمّا حدث فعلاً. should have + التصريف الثالث = فعل ماضٍ لم يحدث لكنه كان سيكون الصواب: You should have called me (لم تتصل، وكان ذلك خطأ). could have + التصريف الثالث = كان الأمر ممكنًا لكنه لم يحدث: I could have helped you (كانت لدي القدرة/الفرصة، لكنني لم أفعل). would have + التصريف الثالث = عادةً الجانب النتيجة لشرط غير حقيقي في الماضي (انظر الشرط الثالث)، أو نية لم تتحقق: If I'd known, I would have come؛ I would have called, but my phone died.",
+      "تستخدم should have وcould have وwould have جميعها فعلاً ناقصًا + have + التصريف الثالث للحديث عن الماضي، لكن لسبب مختلف عن اليقين (انظر Modals of Deduction) — فهي هنا تعبّر عن الندم أو النقد أو إمكانية لم تتحقق، لا عمّا حدث فعلاً.",
+      {
+        intro: "يشير كل فعل ناقص إلى نوع مختلف من الماضي غير المتحقق:",
+        items: [
+          "should have + التصريف الثالث = فعل ماضٍ لم يحدث لكنه كان سيكون الصواب: You should have called me (لم تتصل، وكان ذلك خطأ).",
+          "could have + التصريف الثالث = كان الأمر ممكنًا لكنه لم يحدث: I could have helped you (كانت لدي القدرة/الفرصة، لكنني لم أفعل).",
+          "would have + التصريف الثالث = عادةً الجانب النتيجة لشرط غير حقيقي في الماضي (انظر الشرط الثالث)، أو نية لم تتحقق: If I'd known, I would have come؛ I would have called, but my phone died.",
+        ],
+      },
       {
         intro: "طابِق الفعل الناقص مع ما يعبّر عنه بشأن الماضي غير المتحقق:",
         items: [
@@ -119,7 +183,15 @@ export const pastModals: GrammarTopicContent = {
       "ابحث عن should have/could have/would have (أو صيغها المختصرة) تشير إلى ندم أو نقد أو قدرة لم تُستغل أو نية لم تتحقق — وتحقّق دائمًا من أن of لا تظهر أبدًا في موضع have.",
     ],
     zh: [
-      "should have、could have 和 would have 都用「情态动词 + have + 过去分词」来谈论过去,但原因和表示确定性(见 Modals of Deduction)不同——这里表达的是遗憾、批评,或没有实现的可能性,而不是实际发生的事。should have + 过去分词 = 一个没有发生、但本应是正确做法的过去行为:You should have called me(你没有打电话,那是个错误)。could have + 过去分词 = 某件事本来是可能的,但没有发生:I could have helped you(我本来有能力/机会,但没有这么做)。would have + 过去分词 = 通常是过去虚拟条件句(见第三类条件句)结果那一半,或者一个没有实现的打算:If I'd known, I would have come;I would have called, but my phone died。",
+      "should have、could have 和 would have 都用「情态动词 + have + 过去分词」来谈论过去,但原因和表示确定性(见 Modals of Deduction)不同——这里表达的是遗憾、批评,或没有实现的可能性,而不是实际发生的事。",
+      {
+        intro: "每个情态动词标记一种不同类型的未实现过去:",
+        items: [
+          "should have + 过去分词 = 一个没有发生、但本应是正确做法的过去行为:You should have called me(你没有打电话,那是个错误)。",
+          "could have + 过去分词 = 某件事本来是可能的,但没有发生:I could have helped you(我本来有能力/机会,但没有这么做)。",
+          "would have + 过去分词 = 通常是过去虚拟条件句(见第三类条件句)结果那一半,或者一个没有实现的打算:If I'd known, I would have come;I would have called, but my phone died。",
+        ],
+      },
       {
         intro: "把情态动词和它所表达的、关于未实现过去的意思对应起来:",
         items: [
@@ -133,7 +205,7 @@ export const pastModals: GrammarTopicContent = {
       "留意 should have/could have/would have(或它们的缩略形式)表示遗憾、批评、未被利用的能力,或未实现的打算——并且始终检查该用 have 的地方有没有被错误地写成 of。",
     ],
   },
-  paragraphKinds: ["use", "form", "mistake", "markers"],
+  paragraphKinds: ["use", "form", "form", "mistake", "markers"],
   exercises: [
     {
       title: "Should Have, Could Have, Would Have",

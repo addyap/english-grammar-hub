@@ -13,7 +13,7 @@ export const anotherVsOtherVsTheOther: GrammarTopicContent = {
         items: [
           "another + singular countable noun: for one more or a different one from an unlimited set — Can I have another coffee? (there's no limit on how many coffees exist).",
           "other + plural or uncountable noun: for more of the same general kind, still from an open set — I need other examples / other information.",
-          "the other + singular noun: for the one specific remaining item out of exactly two — I have two brothers; one lives in Paris, the other lives in Rome.",
+          "the other + singular noun: for the one specific remaining item — either out of exactly two, or the last one left from a larger known, limited group whose other members have each already been singled out — I have two brothers; one lives in Paris, the other lives in Rome. I have three sisters; two are doctors, and the other is a teacher.",
           "the other + plural noun: for the specific remaining items out of a known, limited group — Three students passed; the other students failed.",
           "others (no noun): a pronoun standing in for 'other + plural noun' from an unlimited set — Some people like tea; others prefer coffee.",
           "the others (no noun): a pronoun standing in for 'the other + plural noun' from a specific, limited group — I found two files; the others are still missing.",
@@ -29,7 +29,7 @@ export const anotherVsOtherVsTheOther: GrammarTopicContent = {
         items: [
           "another + nom dénombrable singulier : pour un de plus ou un différent au sein d'un ensemble illimité — Can I have another coffee? (il n'y a pas de limite au nombre de cafés possibles).",
           "other + nom pluriel ou indénombrable : pour davantage du même type général, toujours au sein d'un ensemble ouvert — I need other examples / other information.",
-          "the other + nom singulier : pour l'unique élément spécifique restant parmi exactement deux — I have two brothers; one lives in Paris, the other lives in Rome.",
+          "the other + nom singulier : pour l'unique élément spécifique restant — soit parmi exactement deux, soit le dernier restant d'un groupe connu et limité plus large dont chacun des autres membres a déjà été distingué individuellement — I have two brothers; one lives in Paris, the other lives in Rome. I have three sisters; two are doctors, and the other is a teacher.",
           "the other + nom pluriel : pour les éléments spécifiques restants au sein d'un groupe connu et limité — Three students passed; the other students failed.",
           "others (sans nom) : un pronom représentant « other + nom pluriel » au sein d'un ensemble illimité — Some people like tea; others prefer coffee.",
           "the others (sans nom) : un pronom représentant « the other + nom pluriel » au sein d'un groupe spécifique et limité — I found two files; the others are still missing.",
@@ -45,7 +45,7 @@ export const anotherVsOtherVsTheOther: GrammarTopicContent = {
         items: [
           "another + sustantivo contable singular: para uno más o uno diferente dentro de un conjunto ilimitado —Can I have another coffee? (no hay límite en cuántos cafés existen).",
           "other + sustantivo plural o incontable: para más del mismo tipo general, todavía dentro de un conjunto abierto —I need other examples / other information.",
-          "the other + sustantivo singular: para el único elemento específico que queda de exactamente dos —I have two brothers; one lives in Paris, the other lives in Rome.",
+          "the other + sustantivo singular: para el único elemento específico que queda —ya sea de exactamente dos, ya sea el último que queda de un grupo más amplio, conocido y limitado, cuyos demás miembros ya se han distinguido uno a uno —I have two brothers; one lives in Paris, the other lives in Rome. I have three sisters; two are doctors, and the other is a teacher.",
           "the other + sustantivo plural: para los elementos específicos que quedan dentro de un grupo conocido y limitado —Three students passed; the other students failed.",
           "others (sin sustantivo): un pronombre que sustituye a «other + sustantivo plural» dentro de un conjunto ilimitado —Some people like tea; others prefer coffee.",
           "the others (sin sustantivo): un pronombre que sustituye a «the other + sustantivo plural» dentro de un grupo específico y limitado —I found two files; the others are still missing.",
@@ -61,7 +61,7 @@ export const anotherVsOtherVsTheOther: GrammarTopicContent = {
         items: [
           "another + substantivo contável singular: para mais um ou um diferente dentro de um conjunto ilimitado —Can I have another coffee? (não há limite para quantos cafés existem).",
           "other + substantivo plural ou incontável: para mais do mesmo tipo geral, ainda dentro de um conjunto aberto —I need other examples / other information.",
-          "the other + substantivo singular: para o único elemento específico que resta de exatamente dois —I have two brothers; one lives in Paris, the other lives in Rome.",
+          "the other + substantivo singular: para o único elemento específico que resta —seja de exatamente dois, seja o último que resta de um grupo maior, conhecido e limitado, cujos outros membros já foram distinguidos um a um —I have two brothers; one lives in Paris, the other lives in Rome. I have three sisters; two are doctors, and the other is a teacher.",
           "the other + substantivo plural: para os elementos específicos que restam dentro de um grupo conhecido e limitado —Three students passed; the other students failed.",
           "others (sem substantivo): um pronome que substitui «other + substantivo plural» dentro de um conjunto ilimitado —Some people like tea; others prefer coffee.",
           "the others (sem substantivo): um pronome que substitui «the other + substantivo plural» dentro de um grupo específico e limitado —I found two files; the others are still missing.",
@@ -77,7 +77,7 @@ export const anotherVsOtherVsTheOther: GrammarTopicContent = {
         items: [
           "another + sostantivo numerabile singolare: per uno in più o uno diverso all'interno di un insieme illimitato — Can I have another coffee? (non c'è limite a quanti caffè esistano).",
           "other + sostantivo plurale o non numerabile: per altri dello stesso tipo generale, ancora all'interno di un insieme aperto — I need other examples / other information.",
-          "the other + sostantivo singolare: per l'unico elemento specifico rimasto tra esattamente due — I have two brothers; one lives in Paris, the other lives in Rome.",
+          "the other + sostantivo singolare: per l'unico elemento specifico rimasto — sia tra esattamente due, sia come ultimo rimasto di un gruppo più ampio, noto e limitato, i cui altri membri sono già stati distinti uno a uno — I have two brothers; one lives in Paris, the other lives in Rome. I have three sisters; two are doctors, and the other is a teacher.",
           "the other + sostantivo plurale: per gli elementi specifici rimasti all'interno di un gruppo noto e limitato — Three students passed; the other students failed.",
           "others (senza sostantivo): un pronome che sostituisce «other + sostantivo plurale» all'interno di un insieme illimitato — Some people like tea; others prefer coffee.",
           "the others (senza sostantivo): un pronome che sostituisce «the other + sostantivo plurale» all'interno di un gruppo specifico e limitato — I found two files; the others are still missing.",
@@ -93,7 +93,7 @@ export const anotherVsOtherVsTheOther: GrammarTopicContent = {
         items: [
           "another + zählbares Substantiv im Singular: für noch eins oder ein anderes aus einer unbegrenzten Menge — Can I have another coffee? (es gibt keine Grenze, wie viele Kaffees existieren).",
           "other + Plural- oder nicht zählbares Substantiv: für mehr von derselben allgemeinen Art, weiterhin aus einer offenen Menge — I need other examples / other information.",
-          "the other + Substantiv im Singular: für das eine bestimmte übrige Element aus genau zwei — I have two brothers; one lives in Paris, the other lives in Rome.",
+          "the other + Substantiv im Singular: für das eine bestimmte übrige Element — entweder aus genau zwei, oder als letztes verbleibendes Element aus einer größeren, bekannten, begrenzten Gruppe, deren übrige Mitglieder bereits einzeln unterschieden wurden — I have two brothers; one lives in Paris, the other lives in Rome. I have three sisters; two are doctors, and the other is a teacher.",
           "the other + Substantiv im Plural: für die bestimmten übrigen Elemente aus einer bekannten, begrenzten Gruppe — Three students passed; the other students failed.",
           "others (ohne Substantiv): ein Pronomen, das für „other + Pluralsubstantiv“ aus einer unbegrenzten Menge steht — Some people like tea; others prefer coffee.",
           "the others (ohne Substantiv): ein Pronomen, das für „the other + Pluralsubstantiv“ aus einer bestimmten, begrenzten Gruppe steht — I found two files; the others are still missing.",
@@ -109,7 +109,7 @@ export const anotherVsOtherVsTheOther: GrammarTopicContent = {
         items: [
           "another + исчисляемое существительное в единственном числе: для ещё одного или другого из неограниченного множества — Can I have another coffee? (нет ограничения на то, сколько кофе существует).",
           "other + существительное во множественном числе или неисчисляемое: для ещё чего-то того же общего вида, всё ещё из открытого множества — I need other examples / other information.",
-          "the other + существительное в единственном числе: для единственного конкретного оставшегося предмета ровно из двух — I have two brothers; one lives in Paris, the other lives in Rome.",
+          "the other + существительное в единственном числе: для единственного конкретного оставшегося предмета — либо ровно из двух, либо как последнего оставшегося из более крупной, известной, ограниченной группы, остальные члены которой уже были по отдельности выделены — I have two brothers; one lives in Paris, the other lives in Rome. I have three sisters; two are doctors, and the other is a teacher.",
           "the other + существительное во множественном числе: для конкретных оставшихся предметов из известной, ограниченной группы — Three students passed; the other students failed.",
           "others (без существительного): местоимение, заменяющее «other + существительное во множественном числе» из неограниченного множества — Some people like tea; others prefer coffee.",
           "the others (без существительного): местоимение, заменяющее «the other + существительное во множественном числе» из конкретной, ограниченной группы — I found two files; the others are still missing.",
@@ -125,7 +125,7 @@ export const anotherVsOtherVsTheOther: GrammarTopicContent = {
         items: [
           "another + اسم مفرد معدود: لواحد آخر أو واحد مختلف من مجموعة غير محدودة — Can I have another coffee? (لا يوجد حد لعدد أكواب القهوة الموجودة).",
           "other + اسم جمع أو غير معدود: للمزيد من النوع العام نفسه، وما زال من مجموعة مفتوحة — I need other examples / other information.",
-          "the other + اسم مفرد: للعنصر المحدد الوحيد المتبقي من عنصرين بالتحديد — I have two brothers; one lives in Paris, the other lives in Rome.",
+          "the other + اسم مفرد: للعنصر المحدد الوحيد المتبقي — إمّا من عنصرين بالتحديد، وإمّا العنصر الأخير المتبقي من مجموعة أكبر معروفة ومحدودة سبق أن مُيِّز باقي أفرادها واحدًا واحدًا — I have two brothers; one lives in Paris, the other lives in Rome. I have three sisters; two are doctors, and the other is a teacher.",
           "the other + اسم جمع: للعناصر المحددة المتبقية من مجموعة معروفة ومحدودة — Three students passed; the other students failed.",
           "others (بدون اسم): ضمير يحل محل «other + اسم جمع» من مجموعة غير محدودة — Some people like tea; others prefer coffee.",
           "the others (بدون اسم): ضمير يحل محل «the other + اسم جمع» من مجموعة محددة ومحدودة — I found two files; the others are still missing.",
@@ -141,7 +141,7 @@ export const anotherVsOtherVsTheOther: GrammarTopicContent = {
         items: [
           "another + 可数名词单数:表示从无限范围里再来一个或另一个——Can I have another coffee?(咖啡的数量没有限制)。",
           "other + 复数名词或不可数名词:表示同一大类中更多的,仍然是开放范围——I need other examples / other information。",
-          "the other + 单数名词:表示恰好两个之中那唯一具体剩下的一个——I have two brothers; one lives in Paris, the other lives in Rome。",
+          "the other + 单数名词:表示那唯一具体剩下的一个——可能是恰好两个之中剩下的那个,也可能是一个更大的、已知且有限的群体中,在其他成员都已被逐一区分之后剩下的最后一个——I have two brothers; one lives in Paris, the other lives in Rome。I have three sisters; two are doctors, and the other is a teacher。",
           "the other + 复数名词:表示已知有限群体中具体剩下的那些——Three students passed; the other students failed。",
           "others(不接名词):代词,代替无限范围中的“other + 复数名词”——Some people like tea; others prefer coffee。",
           "the others(不接名词):代词,代替具体有限群体中的“the other + 复数名词”——I found two files; the others are still missing。",

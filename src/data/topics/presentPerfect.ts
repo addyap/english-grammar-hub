@@ -163,7 +163,7 @@ export const presentPerfect: GrammarTopicContent = {
       title: "Present Perfect vs Past Simple",
       questions: [
         { sentence: "I ___ (see) that film yesterday.", answer: "saw", options: ["saw", "have seen", "have saw"], explanation: "yesterday = a finished, specific time → past simple." },
-        { sentence: "I ___ (see) that film — it was amazing.", answer: "have seen", options: ["have seen", "saw", "seeing"], explanation: "no specific time, the result (the opinion) matters now → present perfect." },
+        { sentence: "I ___ (see) that film three times so far — it's amazing every time.", answer: "have seen", options: ["have seen", "saw", "seeing"], explanation: "so far = an unfinished period continuing to now (you might see it again) → present perfect, not past simple." },
         { sentence: "She ___ (visit) Paris in 2019.", answer: "visited", options: ["visited", "has visited", "has visit"], explanation: "in 2019 = a finished, specific time → past simple." },
         { sentence: "She ___ (visit) Paris three times.", answer: "has visited", options: ["has visited", "visited", "visits"], explanation: "life experience, no specific time → present perfect." },
         { sentence: "We ___ (finish) the project last week.", answer: "finished", options: ["finished", "have finished", "have finish"], explanation: "last week = a finished, specific time → past simple." },

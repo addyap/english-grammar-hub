@@ -153,7 +153,7 @@ export const nominalRelativeWhat: GrammarTopicContent = {
     {
       title: "Mixed Practice",
       questions: [
-        { sentence: "I don't know ___ to say to her.", answer: "what", options: ["what", "that", "which"], explanation: "no noun before the gap — what means 'the thing that'." },
+        { sentence: "Faced with her tears, I had no idea ___ to say.", answer: "what", options: ["what", "that", "which"], explanation: "no noun before the gap — what means 'the thing that'. Which is excluded too: it implies choosing among a known or implied set of specific options, but this is a completely open-ended situation with no such set." },
         { sentence: "The car ___ broke down was brand new.", answer: "that", options: ["that", "what", "who"], explanation: "car is already named — a normal relative pronoun is needed, not what." },
         { sentence: "___ they found in the attic amazed the whole family.", answer: "What", options: ["What", "That", "Which"], explanation: "no noun before the gap — the whole clause is the subject." },
         { sentence: "The teacher ___ explained the lesson was very clear.", answer: "who", options: ["who", "what", "which"], explanation: "teacher is already named — a normal relative pronoun (who) is needed." },
