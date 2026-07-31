@@ -95,13 +95,12 @@ export const adjectivesAdverbs: GrammarTopicContent = {
       {
         intro: "لكل من الصفات والظروف موضع ثابت:",
         items: [
-          "قبل الاسم، تتبع الصفات ترتيبًا تقريبيًا: الرأي، الحجم، العمر، الشكل، اللون، الأصل، المادة، الغرض — a lovely small old round black Italian leather travel bag (في الواقع العملي، عادةً ما تتراكم صفتان أو ثلاث فقط).",
           "تُشكَّل ظروف الطريقة عادةً بإضافة -ly إلى الصفة: quick ← quickly، careful ← carefully (تغييرات إملائية: happy ← happily، terrible ← terribly).",
           "تأتي ظروف الطريقة عادةً بعد الفعل، أو بعد الفعل والمفعول به، دون أن تفصل بينهما أبدًا: She sings beautifully؛ She plays the piano beautifully (وليس She sings beautifully the song).",
         ],
       },
-      "أكثر الأخطاء شيوعًا هو استخدام صفة في موضع يحتاج إلى ظرف، خصوصًا مع good/well: good هي دائمًا الصفة (a good singer)، وwell هي الظرف (she sings well) — she sings good خطأ. خطأ ثانٍ شائع هو الخطأ في ترتيب الصفات قبل الاسم — a black lovely small bag يبدو خاطئًا؛ يأتي الرأي عادةً أولًا: a lovely small black bag.",
-      "انظر إلى ما يُوصَف: الاسم يحتاج إلى صفة، والفعل/الصفة/الظرف الآخر يحتاج إلى ظرف. ابحث عن نهايات -ly في كلمات تصف فعلاً لا شيئًا، وعن سلسلة من كلمتين وصفيتين أو أكثر قبل اسم — فتلك إشارة للتحقق من ترتيب الرأي-الحجم-العمر-الشكل-اللون-الأصل-المادة-الغرض.",
+      "أكثر الأخطاء شيوعًا هو استخدام صفة في موضع يحتاج إلى ظرف، خصوصًا مع good/well: good هي دائمًا الصفة (a good singer)، وwell هي الظرف (she sings well) — she sings good خطأ. خطأ ثانٍ شائع هو معاملة صفة تنتهي بالمصادفة بـ -ly، مثل friendly أو lovely أو silly أو lonely، وكأنها ظرف — فجملة she smiled friendly خاطئة، لأن friendly لا تكون إلا صفة؛ بل يجب أن تقول she gave a friendly smile أو she smiled in a friendly way.",
+      "انظر إلى ما يُوصَف: الاسم يحتاج إلى صفة، والفعل/الصفة/الظرف الآخر يحتاج إلى ظرف. ولا تعني نهاية -ly تلقائيًا أن الكلمة ظرف — تحقّق مما إذا كانت في الواقع أحد الصفات المنتهية بـ -ly (friendly، lovely، silly، lonely، elderly) التي تصف اسمًا، أم ظرفًا حقيقيًا (quickly، carefully) يصف فعلاً.",
     ],
     zh: [
       "形容词描述名词(a tall building, she is happy);副词描述动词、形容词或另一个副词(she sings beautifully;a really tall building;she sings very beautifully)。英语很看重这个区别,因为两者在句子里的作用和位置都不同——把它们弄混是最常见的错误之一,即使在较高水平也是如此。",

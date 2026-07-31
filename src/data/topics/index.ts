@@ -131,6 +131,10 @@ import { sentenceStructureClauses } from "./sentenceStructureClauses";
 import { partsOfSpeechOverview } from "./partsOfSpeechOverview";
 import { formalInformalRegister } from "./formalInformalRegister";
 import { activePassiveStyleChoice } from "./activePassiveStyleChoice";
+import { nonFiniteVerbsOverview } from "./nonFiniteVerbsOverview";
+import { spellingRulesSuffixes } from "./spellingRulesSuffixes";
+import { numbersFractionsPercentages } from "./numbersFractionsPercentages";
+import { irregularPluralsLatinGreek } from "./irregularPluralsLatinGreek";
 
 /**
  * Every built topic goes here. To add a new one: create a file next to these
@@ -269,6 +273,10 @@ export const topics: GrammarTopicContent[] = [
   partsOfSpeechOverview,
   formalInformalRegister,
   activePassiveStyleChoice,
+  nonFiniteVerbsOverview,
+  spellingRulesSuffixes,
+  numbersFractionsPercentages,
+  irregularPluralsLatinGreek,
 ];
 
 export const getTopic = (slug: string) => topics.find((t) => t.slug === slug);

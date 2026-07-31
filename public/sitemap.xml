@@ -664,4 +664,20 @@
     <loc>https://grammatica.antonyaddy.com/grammar/active-passive-style-choice</loc>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/non-finite-verbs-overview</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/spelling-rules-suffixes</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/numbers-fractions-percentages</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grammatica.antonyaddy.com/grammar/irregular-plurals-latin-greek</loc>
+    <priority>0.9</priority>
+  </url>
 </urlset>

@@ -77,7 +77,7 @@ export const passiveReporting: GrammarTopicContent = {
       "Cerca it is said/thought/believed/reported/expected + that, un soggetto personale seguito da is/are/was/were + said/believed/known + to, e to have + participio passato che segnala che l'evento riportato è avvenuto prima del resoconto stesso.",
     ],
     de: [
-      "Passive Berichtsstrukturen präsentieren eine Meinung oder Behauptung, ohne zu nennen, wer sie vertritt — die klassische Stimme von Nachrichten und akademischen Texten: It is said that the castle is haunted; He is believed to be living abroad. Sie halten den Ton neutral und formell, wenn die Quelle „alle im Allgemeinen\", unbekannt oder unwichtig ist.",
+      "Passive Berichtsstrukturen präsentieren eine Meinung oder Behauptung, ohne zu nennen, wer sie vertritt — die klassische Stimme von Nachrichten und akademischen Texten: It is said that the castle is haunted; He is believed to be living abroad. Sie halten den Ton neutral und formell, wenn die Quelle „alle im Allgemeinen“, unbekannt oder unwichtig ist.",
       {
         intro: "Für dieselbe Idee gibt es zwei gleichwertige Muster, gebildet mit Berichtsverben wie say, believe, think, know, expect, report, consider:",
         items: [

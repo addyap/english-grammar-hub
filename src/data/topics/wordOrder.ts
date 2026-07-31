@@ -92,7 +92,7 @@ export const wordOrder: GrammarTopicContent = {
         ],
       },
       "Halte Subjekt und Verb zusammen und in der Reihenfolge. Sogar in Fragen und Verneinungen verändert Englisch den Satz mit Hilfsverben (do, be), statt die Hauptwörter frei umzustellen: Do you like coffee?, nicht Like you coffee?",
-      "Der häufigste Fehler ist, das Adjektiv nach das Substantiv zu stellen, wie es viele Sprachen tun: a car red und a house big sind falsch — Englisch stellt das Adjektiv immer voran: a red car, a big house.",
+      "Der häufigste Fehler ist, das Adjektiv nach dem Substantiv zu stellen, wie es viele Sprachen tun: a car red und a house big sind falsch — Englisch stellt das Adjektiv immer voran: a red car, a big house.",
       "Ein zweiter häufiger Fehler ist, das Subjekt wegzulassen, da viele Sprachen ein Verb ohne Subjekt erlauben. Englisch braucht fast immer eines, sogar ein 'leeres' it oder there: It is raining, nicht nur Is raining; There is a problem, nicht nur Is a problem.",
       "Hier gibt es kein Signalwort — die Wortstellung ist strukturell. Die zuverlässige Prüfung ist: behalte Subjekt–Verb–Objekt bei, stelle Adjektive vor ihr Substantiv, und stelle Orts- und Zeitangaben ans Ende (Ort vor Zeit). Wenn ein Satz falsch klingt, ist diese Reihenfolge das Erste, was man prüfen sollte.",
     ],
