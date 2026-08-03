@@ -3,6 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
     <script>
       // Runs before the React bundle loads so there's no flash of the wrong
       // theme. Storage key must match STORAGE_KEY in ThemeProvider.tsx.
@@ -28,13 +30,17 @@
       property="og:description"
       content="Clear rules explained in French, Spanish, Portuguese, Italian, German, Russian, Arabic and Mandarin Chinese, with self-correcting exercises."
     />
+    <meta property="og:image" content="https://grammatica.antonyaddy.com/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
 
-    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="English grammar, in your language" />
     <meta
       name="twitter:description"
       content="Clear rules explained in French, Spanish, Portuguese, Italian, German, Russian, Arabic and Mandarin Chinese, with self-correcting exercises."
     />
+    <meta name="twitter:image" content="https://grammatica.antonyaddy.com/og-image.png" />
   </head>
   <body>
     <div id="root"></div>

@@ -16,6 +16,7 @@ import LinkingWordsPage from "@/pages/LinkingWordsPage";
 import ProgressPage from "@/pages/ProgressPage";
 import ContrastPracticePage from "@/pages/ContrastPracticePage";
 import ContrastExercisePage from "@/pages/ContrastExercisePage";
+import NotFoundPage from "@/pages/NotFoundPage";
 
 function App() {
   return (
@@ -38,6 +39,7 @@ function App() {
           <Route path="/progress" element={<ProgressPage />} />
           <Route path="/contrast-practice" element={<ContrastPracticePage />} />
           <Route path="/contrast-practice/:pairSlug" element={<ContrastExercisePage />} />
+          <Route path="*" element={<NotFoundPage />} />
         </Routes>
       </BrowserRouter>
     </ThemeProvider>
