@@ -41,6 +41,10 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://grammatica.antonyaddy.com/mentions-legales</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://grammatica.antonyaddy.com/contrast-practice/present-simple-vs-continuous</loc>
     <priority>0.7</priority>
   </url>

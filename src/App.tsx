@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import SiteHeader from "@/components/SiteHeader";
+import SiteFooter from "@/components/SiteFooter";
 import { ThemeProvider } from "@/components/ThemeProvider";
 import HomePage from "@/pages/HomePage";
 import SectionPage from "@/pages/SectionPage";
@@ -17,6 +18,7 @@ import ProgressPage from "@/pages/ProgressPage";
 import ContrastPracticePage from "@/pages/ContrastPracticePage";
 import ContrastExercisePage from "@/pages/ContrastExercisePage";
 import NotFoundPage from "@/pages/NotFoundPage";
+import MentionsLegalesPage from "@/pages/MentionsLegalesPage";
 
 function App() {
   return (
@@ -39,8 +41,10 @@ function App() {
           <Route path="/progress" element={<ProgressPage />} />
           <Route path="/contrast-practice" element={<ContrastPracticePage />} />
           <Route path="/contrast-practice/:pairSlug" element={<ContrastExercisePage />} />
+          <Route path="/mentions-legales" element={<MentionsLegalesPage />} />
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
+        <SiteFooter />
       </BrowserRouter>
     </ThemeProvider>
   );

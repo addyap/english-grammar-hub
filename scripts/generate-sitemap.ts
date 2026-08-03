@@ -28,6 +28,7 @@ const urls: UrlEntry[] = [
   { loc: "/punctuation", priority: 0.6 },
   { loc: "/linking-words", priority: 0.6 },
   { loc: "/contrast-practice", priority: 0.6 },
+  { loc: "/mentions-legales", priority: 0.3 },
   ...CONTRAST_PAIRS.map((p): UrlEntry => ({ loc: `/contrast-practice/${p.slug}`, priority: 0.7 })),
   // /progress deliberately excluded — it's a per-browser localStorage view with no
   // indexable content for a crawler (a fresh visitor always sees the empty state).
