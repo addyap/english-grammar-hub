@@ -7,7 +7,7 @@ export const sentenceStructureClauses: GrammarTopicContent = {
   level: "B1",
   explanations: {
     en: [
-      "A clause is any group of words that has at least a subject and a verb. She smiled is a clause; running late is not (no subject, no full verb). Every sentence is built from one or more clauses, and there are only two kinds: an independent clause can stand alone as a complete sentence (She smiled), while a dependent clause has a subject and a verb but cannot stand alone — it starts with a word that makes it incomplete, like because, although, who, or that (because she smiled is not a full sentence; it leaves you waiting for more).",
+      "A clause is any group of words that has at least a subject and a verb. She smiled is a clause; running late is not (no subject, no full verb). Every sentence is built from one or more clauses, and there are only two kinds. An independent clause can stand alone as a complete sentence (She smiled), while a dependent clause has a subject and a verb but cannot stand alone. It starts with a word that makes it incomplete, like because, although, who, or that (because she smiled is not a full sentence; it leaves you waiting for more).",
       {
         intro: "Dependent clauses do different jobs inside a sentence:",
         items: [
@@ -31,7 +31,7 @@ export const sentenceStructureClauses: GrammarTopicContent = {
       "Check for a subject and a verb to confirm a clause exists, and check whether it starts with a word like because, although, when, if, who, which, or that — that word is the signal for a dependent clause. Count the independent clauses (does each part make sense alone?) and the dependent clauses to classify the sentence type, and check that commas, conjunctions, and semicolons match the pattern for that type.",
     ],
     fr: [
-      "Une proposition est tout groupe de mots contenant au moins un sujet et un verbe. She smiled est une proposition ; running late n'en est pas une (pas de sujet, pas de verbe conjugué). Toute phrase est construite à partir d'une ou plusieurs propositions, et il n'en existe que deux sortes : une proposition indépendante peut se suffire à elle-même comme phrase complète (She smiled), tandis qu'une proposition subordonnée a un sujet et un verbe mais ne peut pas être autonome — elle commence par un mot qui la rend incomplète, comme because, although, who ou that (because she smiled n'est pas une phrase complète ; on attend la suite).",
+      "Une proposition est tout groupe de mots contenant au moins un sujet et un verbe. She smiled est une proposition ; running late n'en est pas une (pas de sujet, pas de verbe conjugué). Toute phrase est construite à partir d'une ou plusieurs propositions, et il n'en existe que deux sortes. Une proposition indépendante peut se suffire à elle-même comme phrase complète (She smiled), tandis qu'une proposition subordonnée a un sujet et un verbe mais ne peut pas être autonome. Elle commence par un mot qui la rend incomplète, comme because, although, who ou that (because she smiled n'est pas une phrase complète ; on attend la suite).",
       {
         intro: "Les propositions subordonnées jouent différents rôles dans la phrase :",
         items: [
@@ -55,7 +55,7 @@ export const sentenceStructureClauses: GrammarTopicContent = {
       "Vérifiez la présence d'un sujet et d'un verbe pour confirmer qu'il s'agit bien d'une proposition, et regardez si elle commence par un mot comme because, although, when, if, who, which ou that — ce mot signale une proposition subordonnée. Comptez les propositions indépendantes (chaque partie a-t-elle un sens seule ?) et les propositions subordonnées pour classer le type de phrase, et vérifiez que les virgules, les conjonctions et les points-virgules correspondent bien au schéma de ce type.",
     ],
     es: [
-      "Una oración (clause) es cualquier grupo de palabras que tiene al menos un sujeto y un verbo. She smiled es una oración; running late no lo es (no tiene sujeto ni verbo conjugado). Toda frase se construye a partir de una o más oraciones, y solo hay dos tipos: una oración independiente puede funcionar sola como frase completa (She smiled), mientras que una oración subordinada tiene sujeto y verbo pero no puede ser autónoma — empieza con una palabra que la deja incompleta, como because, although, who o that (because she smiled no es una frase completa; deja esperando el resto).",
+      "Una oración (clause) es cualquier grupo de palabras que tiene al menos un sujeto y un verbo. She smiled es una oración; running late no lo es (no tiene sujeto ni verbo conjugado). Toda frase se construye a partir de una o más oraciones, y solo hay dos tipos. Una oración independiente puede funcionar sola como frase completa (She smiled), mientras que una oración subordinada tiene sujeto y verbo pero no puede ser autónoma. Empieza con una palabra que la deja incompleta, como because, although, who o that (because she smiled no es una frase completa; deja esperando el resto).",
       {
         intro: "Las oraciones subordinadas cumplen distintas funciones dentro de la frase:",
         items: [
@@ -79,7 +79,7 @@ export const sentenceStructureClauses: GrammarTopicContent = {
       "Comprueba que haya un sujeto y un verbo para confirmar que existe una oración, y fíjate en si empieza con una palabra como because, although, when, if, who, which o that — esa palabra es la señal de una oración subordinada. Cuenta las oraciones independientes (¿tiene sentido cada parte por sí sola?) y las subordinadas para clasificar el tipo de frase, y comprueba que las comas, las conjunciones y los puntos y coma se ajusten al patrón de ese tipo.",
     ],
     pt: [
-      "Uma oração é qualquer grupo de palavras que tem pelo menos um sujeito e um verbo. She smiled é uma oração; running late não é (sem sujeito, sem verbo conjugado). Toda frase é construída a partir de uma ou mais orações, e há apenas dois tipos: uma oração independente pode funcionar sozinha como frase completa (She smiled), enquanto uma oração subordinada tem sujeito e verbo mas não pode ser autónoma — começa com uma palavra que a torna incompleta, como because, although, who ou that (because she smiled não é uma frase completa; fica-se à espera do resto).",
+      "Uma oração é qualquer grupo de palavras que tem pelo menos um sujeito e um verbo. She smiled é uma oração; running late não é (sem sujeito, sem verbo conjugado). Toda frase é construída a partir de uma ou mais orações, e há apenas dois tipos. Uma oração independente pode funcionar sozinha como frase completa (She smiled), enquanto uma oração subordinada tem sujeito e verbo mas não pode ser autónoma. Começa com uma palavra que a torna incompleta, como because, although, who ou that (because she smiled não é uma frase completa; fica-se à espera do resto).",
       {
         intro: "As orações subordinadas desempenham funções diferentes na frase:",
         items: [
@@ -103,7 +103,7 @@ export const sentenceStructureClauses: GrammarTopicContent = {
       "Verifica se há um sujeito e um verbo para confirmar que existe uma oração, e repara se começa com uma palavra como because, although, when, if, who, which ou that — essa palavra é o sinal de uma oração subordinada. Conta as orações independentes (cada parte faz sentido sozinha?) e as subordinadas para classificar o tipo de frase, e verifica se as vírgulas, as conjunções e os pontos e vírgula correspondem ao padrão desse tipo.",
     ],
     it: [
-      "Una proposizione è qualsiasi gruppo di parole che contiene almeno un soggetto e un verbo. She smiled è una proposizione; running late non lo è (nessun soggetto, nessun verbo coniugato). Ogni frase è costruita da una o più proposizioni, e ne esistono solo due tipi: una proposizione indipendente può reggersi da sola come frase completa (She smiled), mentre una proposizione subordinata ha soggetto e verbo ma non può reggersi da sola — inizia con una parola che la rende incompleta, come because, although, who o that (because she smiled non è una frase completa; lascia in attesa del resto).",
+      "Una proposizione è qualsiasi gruppo di parole che contiene almeno un soggetto e un verbo. She smiled è una proposizione; running late non lo è (nessun soggetto, nessun verbo coniugato). Ogni frase è costruita da una o più proposizioni, e ne esistono solo due tipi. Una proposizione indipendente può reggersi da sola come frase completa (She smiled), mentre una proposizione subordinata ha soggetto e verbo ma non può reggersi da sola. Inizia con una parola che la rende incompleta, come because, although, who o that (because she smiled non è una frase completa; lascia in attesa del resto).",
       {
         intro: "Le proposizioni subordinate svolgono funzioni diverse all'interno della frase:",
         items: [
@@ -127,7 +127,7 @@ export const sentenceStructureClauses: GrammarTopicContent = {
       "Controlla che ci siano un soggetto e un verbo per confermare che si tratti di una proposizione, e verifica se inizia con una parola come because, although, when, if, who, which o that — quella parola segnala una proposizione subordinata. Conta le proposizioni indipendenti (ogni parte ha senso da sola?) e quelle subordinate per classificare il tipo di frase, e controlla che virgole, congiunzioni e punti e virgola corrispondano allo schema di quel tipo.",
     ],
     de: [
-      "Ein Satzglied auf Satzebene, ein sogenannter Teilsatz (clause), ist jede Wortgruppe mit mindestens einem Subjekt und einem Verb. She smiled ist ein Teilsatz; running late ist keiner (kein Subjekt, kein vollständiges Verb). Jeder Satz besteht aus einem oder mehreren Teilsätzen, und es gibt nur zwei Arten: Ein Hauptsatz (independent clause) kann allein als vollständiger Satz stehen (She smiled), während ein Nebensatz (dependent clause) zwar Subjekt und Verb hat, aber nicht allein stehen kann — er beginnt mit einem Wort, das ihn unvollständig macht, wie because, although, who oder that (because she smiled ist kein vollständiger Satz; man wartet auf den Rest).",
+      "Ein Satzglied auf Satzebene, ein sogenannter Teilsatz (clause), ist jede Wortgruppe mit mindestens einem Subjekt und einem Verb. She smiled ist ein Teilsatz; running late ist keiner (kein Subjekt, kein vollständiges Verb). Jeder Satz besteht aus einem oder mehreren Teilsätzen, und es gibt nur zwei Arten. Ein Hauptsatz (independent clause) kann allein als vollständiger Satz stehen (She smiled), während ein Nebensatz (dependent clause) zwar Subjekt und Verb hat, aber nicht allein stehen kann. Er beginnt mit einem Wort, das ihn unvollständig macht, wie because, although, who oder that (because she smiled ist kein vollständiger Satz; man wartet auf den Rest).",
       {
         intro: "Nebensätze übernehmen unterschiedliche Aufgaben im Satz:",
         items: [
@@ -151,7 +151,7 @@ export const sentenceStructureClauses: GrammarTopicContent = {
       "Prüfe, ob ein Subjekt und ein Verb vorhanden sind, um zu bestätigen, dass ein Teilsatz vorliegt, und schau, ob er mit einem Wort wie because, although, when, if, who, which oder that beginnt — dieses Wort ist das Signal für einen Nebensatz. Zähle die Hauptsätze (ergibt jeder Teil allein Sinn?) und die Nebensätze, um den Satztyp zu bestimmen, und prüfe, ob Kommas, Konjunktionen und Semikolons zum Muster dieses Typs passen.",
     ],
     ru: [
-      "Клауза (clause) — это любая группа слов, содержащая как минимум подлежащее и сказуемое. She smiled — это клауза; running late — нет (нет подлежащего, нет полного глагола). Любое предложение строится из одной или нескольких клауз, и их бывает только два вида: независимая клауза (главное предложение) может стоять отдельно как законченное предложение (She smiled), а зависимая клауза (придаточное предложение) имеет подлежащее и сказуемое, но не может стоять отдельно — она начинается со слова, которое делает её незаконченной, например because, although, who или that (because she smiled — не законченное предложение; ждёшь продолжения).",
+      "Клауза (clause) — это любая группа слов, содержащая как минимум подлежащее и сказуемое. She smiled — это клауза; running late — нет (нет подлежащего, нет полного глагола). Любое предложение строится из одной или нескольких клауз, и их бывает только два вида. Независимая клауза (главное предложение) может стоять отдельно как законченное предложение (She smiled), а зависимая клауза (придаточное предложение) имеет подлежащее и сказуемое, но не может стоять отдельно. Она начинается со слова, которое делает её незаконченной, например because, although, who или that (because she smiled — не законченное предложение; ждёшь продолжения).",
       {
         intro: "Придаточные предложения выполняют разные функции внутри предложения:",
         items: [
@@ -175,7 +175,7 @@ export const sentenceStructureClauses: GrammarTopicContent = {
       "Проверяйте наличие подлежащего и сказуемого, чтобы убедиться, что перед вами клауза, и смотрите, не начинается ли она со слова вроде because, although, when, if, who, which или that — это слово сигнализирует о придаточном предложении. Считайте независимые клаузы (имеет ли смысл каждая часть отдельно?) и придаточные, чтобы определить тип предложения, и проверяйте, соответствуют ли запятые, союзы и точки с запятой образцу этого типа.",
     ],
     ar: [
-      "الجملة الفرعية (clause) هي أي مجموعة كلمات تحتوي على فاعل وفعل على الأقل. فـ She smiled جملة فرعية؛ أما running late فليست كذلك (لا فاعل ولا فعل تام). تُبنى كل جملة كاملة من جملة فرعية واحدة أو أكثر، ولا يوجد سوى نوعين: الجملة المستقلة (independent clause) يمكن أن تقف وحدها كجملة كاملة (She smiled)، بينما الجملة التابعة (dependent clause) لها فاعل وفعل لكنها لا يمكن أن تقف وحدها — فهي تبدأ بكلمة تجعلها ناقصة، مثل because أو although أو who أو that (فـ because she smiled ليست جملة كاملة؛ فهي تترك القارئ في انتظار المزيد).",
+      "الجملة الفرعية (clause) هي أي مجموعة كلمات تحتوي على فاعل وفعل على الأقل. فـ She smiled جملة فرعية؛ أما running late فليست كذلك (لا فاعل ولا فعل تام). تُبنى كل جملة كاملة من جملة فرعية واحدة أو أكثر، ولا يوجد سوى نوعين. الجملة المستقلة (independent clause) يمكن أن تقف وحدها كجملة كاملة (She smiled)، بينما الجملة التابعة (dependent clause) لها فاعل وفعل لكنها لا يمكن أن تقف وحدها. فهي تبدأ بكلمة تجعلها ناقصة، مثل because أو although أو who أو that (فـ because she smiled ليست جملة كاملة؛ فهي تترك القارئ في انتظار المزيد).",
       {
         intro: "تؤدي الجمل التابعة وظائف مختلفة داخل الجملة الكاملة:",
         items: [
@@ -199,7 +199,7 @@ export const sentenceStructureClauses: GrammarTopicContent = {
       "تحقق من وجود فاعل وفعل للتأكد من وجود جملة فرعية، وانظر هل تبدأ بكلمة مثل because أو although أو when أو if أو who أو which أو that — فهذه الكلمة هي إشارة الجملة التابعة. عُدّ الجمل المستقلة (هل كل جزء له معنى بمفرده؟) والجمل التابعة لتصنيف نوع الجملة، وتحقق من أن الفواصل وأدوات العطف والفواصل المنقوطة تطابق نمط ذلك النوع.",
     ],
     zh: [
-      "从句(clause)是指至少包含一个主语和一个动词的词组。She smiled 是一个从句;running late 不是(没有主语,也没有完整的动词)。每个句子都由一个或多个从句构成,从句只有两种:独立分句(independent clause)可以单独成句(She smiled),而从属分句(dependent clause)虽然有主语和动词,却不能独立成句——它以某个词开头,使它变得不完整,比如 because、although、who 或 that(because she smiled 不是一个完整的句子,让人等着后面的内容)。",
+      "从句(clause)是指至少包含一个主语和一个动词的词组。She smiled 是一个从句;running late 不是(没有主语,也没有完整的动词)。每个句子都由一个或多个从句构成,从句只有两种。独立分句(independent clause)可以单独成句(She smiled),而从属分句(dependent clause)虽然有主语和动词,却不能独立成句。它以某个词开头,使它变得不完整,比如 because、although、who 或 that(because she smiled 不是一个完整的句子,让人等着后面的内容)。",
       {
         intro: "从属分句在句子里承担不同的功能:",
         items: [

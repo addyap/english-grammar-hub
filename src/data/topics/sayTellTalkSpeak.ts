@@ -7,7 +7,7 @@ export const sayTellTalkSpeak: GrammarTopicContent = {
   level: "B1",
   explanations: {
     en: [
-      "say, tell, talk, and speak all relate to using language, but they take different grammar and suit different situations. say and tell report the exact content of what was communicated (say focuses on the words, tell focuses on informing a listener); talk and speak focus on the act of communicating itself, often without reporting the content — She said hello (the words); She told me the news (informed me of content); We talked for hours (the activity of conversing); He spoke to the manager (the activity of communicating with someone).",
+      "say, tell, talk, and speak all relate to using language, but they take different grammar and suit different situations. say and tell report the exact content of what was communicated (say focuses on the words, tell focuses on informing a listener); talk and speak focus on the act of communicating itself, often without reporting the content. She said hello (the words); She told me the news (informed me of content); We talked for hours (the activity of conversing); He spoke to the manager (the activity of communicating with someone).",
       {
         intro: "How each verb is used:",
         items: [
@@ -21,7 +21,7 @@ export const sayTellTalkSpeak: GrammarTopicContent = {
       "Ask whether a specific listener is named right after the verb with no preposition — if yes, it's tell (tell me, tell him); say never works that way, needing to before a person. For talk and speak, look for a conversation or an act of using language, usually followed by to/with (a person) or about (a topic) — speak leans more formal or one-way, talk leans more casual or two-way.",
     ],
     fr: [
-      "say, tell, talk et speak concernent tous l'usage du langage, mais suivent des constructions grammaticales différentes et conviennent à des situations différentes. say et tell rapportent le contenu exact de ce qui a été communiqué (say se concentre sur les mots, tell se concentre sur le fait d'informer un auditeur) ; talk et speak se concentrent sur l'acte de communiquer lui-même, souvent sans rapporter le contenu — She said hello (les mots) ; She told me the news (m'a informé du contenu) ; We talked for hours (l'activité de converser) ; He spoke to the manager (l'activité de communiquer avec quelqu'un).",
+      "say, tell, talk et speak concernent tous l'usage du langage, mais suivent des constructions grammaticales différentes et conviennent à des situations différentes. say et tell rapportent le contenu exact de ce qui a été communiqué (say se concentre sur les mots, tell se concentre sur le fait d'informer un auditeur) ; talk et speak se concentrent sur l'acte de communiquer lui-même, souvent sans rapporter le contenu. She said hello (les mots) ; She told me the news (m'a informé du contenu) ; We talked for hours (l'activité de converser) ; He spoke to the manager (l'activité de communiquer avec quelqu'un).",
       {
         intro: "Comment chaque verbe s'emploie :",
         items: [
@@ -35,7 +35,7 @@ export const sayTellTalkSpeak: GrammarTopicContent = {
       "Demandez-vous si un auditeur précis est nommé juste après le verbe sans préposition — si oui, c'est tell (tell me, tell him) ; say ne fonctionne jamais ainsi, il a besoin de to devant une personne. Pour talk et speak, cherchez une conversation ou un acte d'utilisation du langage, généralement suivi de to/with (une personne) ou about (un sujet) — speak penche vers le formel ou à sens unique, talk penche vers le décontracté ou à double sens.",
     ],
     es: [
-      "say, tell, talk y speak están todos relacionados con el uso del lenguaje, pero siguen construcciones gramaticales distintas y encajan en situaciones diferentes. say y tell relatan el contenido exacto de lo comunicado (say se centra en las palabras, tell se centra en informar a un oyente); talk y speak se centran en el acto de comunicarse en sí, a menudo sin relatar el contenido —She said hello (las palabras); She told me the news (me informó del contenido); We talked for hours (la actividad de conversar); He spoke to the manager (la actividad de comunicarse con alguien).",
+      "say, tell, talk y speak están todos relacionados con el uso del lenguaje, pero siguen construcciones gramaticales distintas y encajan en situaciones diferentes. say y tell relatan el contenido exacto de lo comunicado (say se centra en las palabras, tell se centra en informar a un oyente); talk y speak se centran en el acto de comunicarse en sí, a menudo sin relatar el contenido. She said hello (las palabras); She told me the news (me informó del contenido); We talked for hours (la actividad de conversar); He spoke to the manager (la actividad de comunicarse con alguien).",
       {
         intro: "Cómo se usa cada verbo:",
         items: [
@@ -49,7 +49,7 @@ export const sayTellTalkSpeak: GrammarTopicContent = {
       "Pregúntate si se nombra un oyente concreto justo después del verbo sin preposición —si es así, es tell (tell me, tell him); say nunca funciona así, necesita to antes de una persona. Para talk y speak, busca una conversación o un acto de usar el lenguaje, normalmente seguido de to/with (una persona) o about (un tema) —speak se inclina hacia lo formal o unidireccional, talk hacia lo informal o bidireccional.",
     ],
     pt: [
-      "say, tell, talk e speak estão todos relacionados com o uso da linguagem, mas seguem construções gramaticais diferentes e servem para situações diferentes. say e tell relatam o conteúdo exato do que foi comunicado (say foca-se nas palavras, tell foca-se em informar um ouvinte); talk e speak focam-se no próprio ato de comunicar, muitas vezes sem relatar o conteúdo —She said hello (as palavras); She told me the news (informou-me do conteúdo); We talked for hours (a atividade de conversar); He spoke to the manager (a atividade de comunicar com alguém).",
+      "say, tell, talk e speak estão todos relacionados com o uso da linguagem, mas seguem construções gramaticais diferentes e servem para situações diferentes. say e tell relatam o conteúdo exato do que foi comunicado (say foca-se nas palavras, tell foca-se em informar um ouvinte); talk e speak focam-se no próprio ato de comunicar, muitas vezes sem relatar o conteúdo. She said hello (as palavras); She told me the news (informou-me do conteúdo); We talked for hours (a atividade de conversar); He spoke to the manager (a atividade de comunicar com alguém).",
       {
         intro: "Como se usa cada verbo:",
         items: [
@@ -63,7 +63,7 @@ export const sayTellTalkSpeak: GrammarTopicContent = {
       "Pergunta-te se um ouvinte específico é nomeado logo a seguir ao verbo sem preposição —se sim, é tell (tell me, tell him); say nunca funciona assim, precisa de to antes de uma pessoa. Para talk e speak, procura uma conversa ou um ato de usar a linguagem, normalmente seguido de to/with (uma pessoa) ou about (um tema) —speak tende a ser mais formal ou unidirecional, talk tende a ser mais casual ou bidirecional.",
     ],
     it: [
-      "say, tell, talk e speak riguardano tutti l'uso del linguaggio, ma seguono costruzioni grammaticali diverse e si adattano a situazioni diverse. say e tell riportano il contenuto esatto di ciò che è stato comunicato (say si concentra sulle parole, tell si concentra sull'informare un ascoltatore); talk e speak si concentrano sull'atto stesso di comunicare, spesso senza riportare il contenuto — She said hello (le parole); She told me the news (mi ha informato del contenuto); We talked for hours (l'attività di conversare); He spoke to the manager (l'attività di comunicare con qualcuno).",
+      "say, tell, talk e speak riguardano tutti l'uso del linguaggio, ma seguono costruzioni grammaticali diverse e si adattano a situazioni diverse. say e tell riportano il contenuto esatto di ciò che è stato comunicato (say si concentra sulle parole, tell si concentra sull'informare un ascoltatore); talk e speak si concentrano sull'atto stesso di comunicare, spesso senza riportare il contenuto. She said hello (le parole); She told me the news (mi ha informato del contenuto); We talked for hours (l'attività di conversare); He spoke to the manager (l'attività di comunicare con qualcuno).",
       {
         intro: "Come si usa ciascun verbo:",
         items: [
@@ -77,7 +77,7 @@ export const sayTellTalkSpeak: GrammarTopicContent = {
       "Chiediti se subito dopo il verbo, senza preposizione, viene nominato un ascoltatore specifico — se sì, è tell (tell me, tell him); say non funziona mai così, ha bisogno di to prima di una persona. Per talk e speak, cerca una conversazione o un atto di uso del linguaggio, di solito seguito da to/with (una persona) o about (un argomento) — speak tende al formale o unidirezionale, talk tende al colloquiale o bidirezionale.",
     ],
     de: [
-      "say, tell, talk und speak beziehen sich alle auf die Verwendung von Sprache, folgen aber unterschiedlichen grammatischen Mustern und passen zu unterschiedlichen Situationen. say und tell geben den genauen Inhalt dessen wieder, was mitgeteilt wurde (say konzentriert sich auf die Worte, tell auf das Informieren eines Zuhörers); talk und speak konzentrieren sich auf den Akt der Kommunikation selbst, oft ohne den Inhalt wiederzugeben — She said hello (die Worte); She told me the news (informierte mich über den Inhalt); We talked for hours (die Tätigkeit des Sich-Unterhaltens); He spoke to the manager (die Tätigkeit, mit jemandem zu kommunizieren).",
+      "say, tell, talk und speak beziehen sich alle auf die Verwendung von Sprache, folgen aber unterschiedlichen grammatischen Mustern und passen zu unterschiedlichen Situationen. say und tell geben den genauen Inhalt dessen wieder, was mitgeteilt wurde (say konzentriert sich auf die Worte, tell auf das Informieren eines Zuhörers); talk und speak konzentrieren sich auf den Akt der Kommunikation selbst, oft ohne den Inhalt wiederzugeben. She said hello (die Worte); She told me the news (informierte mich über den Inhalt); We talked for hours (die Tätigkeit des Sich-Unterhaltens); He spoke to the manager (die Tätigkeit, mit jemandem zu kommunizieren).",
       {
         intro: "So wird jedes Verb benutzt:",
         items: [
@@ -91,7 +91,7 @@ export const sayTellTalkSpeak: GrammarTopicContent = {
       "Frage dich, ob direkt nach dem Verb, ohne Präposition, ein bestimmter Zuhörer genannt wird — wenn ja, ist es tell (tell me, tell him); say funktioniert nie so, es braucht to vor einer Person. Achte bei talk und speak auf ein Gespräch oder eine sprachliche Handlung, meist gefolgt von to/with (eine Person) oder about (ein Thema) — speak tendiert eher zu formell oder einseitig, talk eher zu locker oder wechselseitig.",
     ],
     ru: [
-      "say, tell, talk и speak — все они связаны с использованием языка, но следуют разным грамматическим моделям и подходят для разных ситуаций. say и tell передают точное содержание сказанного (say сосредоточен на словах, tell — на информировании слушателя); talk и speak сосредоточены на самом акте общения, часто без передачи содержания — She said hello (слова); She told me the news (сообщила мне содержание); We talked for hours (деятельность разговора); He spoke to the manager (деятельность общения с кем-то).",
+      "say, tell, talk и speak — все они связаны с использованием языка, но следуют разным грамматическим моделям и подходят для разных ситуаций. say и tell передают точное содержание сказанного (say сосредоточен на словах, tell — на информировании слушателя); talk и speak сосредоточены на самом акте общения, часто без передачи содержания. She said hello (слова); She told me the news (сообщила мне содержание); We talked for hours (деятельность разговора); He spoke to the manager (деятельность общения с кем-то).",
       {
         intro: "Как используется каждый глагол:",
         items: [
@@ -105,7 +105,7 @@ export const sayTellTalkSpeak: GrammarTopicContent = {
       "Спросите себя, назван ли конкретный слушатель сразу после глагола без предлога — если да, это tell (tell me, tell him); say никогда так не работает, ему нужен to перед человеком. Для talk и speak ищите беседу или акт использования языка, обычно за которым следует to/with (человек) или about (тема) — speak склоняется к формальному или одностороннему, talk — к непринуждённому или двустороннему.",
     ],
     ar: [
-      "ترتبط say وtell وtalk وspeak جميعها باستخدام اللغة، لكنها تتبع تراكيب نحوية مختلفة وتناسب مواقف مختلفة. تنقل say وtell المحتوى الدقيق لما تم التواصل به (تركز say على الكلمات، بينما تركز tell على إبلاغ المستمع)؛ بينما تركز talk وspeak على فعل التواصل نفسه، غالبًا دون نقل المحتوى — She said hello (الكلمات)؛ She told me the news (أبلغتني بالمحتوى)؛ We talked for hours (نشاط المحادثة)؛ He spoke to the manager (نشاط التواصل مع شخص ما).",
+      "ترتبط say وtell وtalk وspeak جميعها باستخدام اللغة، لكنها تتبع تراكيب نحوية مختلفة وتناسب مواقف مختلفة. تنقل say وtell المحتوى الدقيق لما تم التواصل به (تركز say على الكلمات، بينما تركز tell على إبلاغ المستمع)؛ بينما تركز talk وspeak على فعل التواصل نفسه، غالبًا دون نقل المحتوى. She said hello (الكلمات)؛ She told me the news (أبلغتني بالمحتوى)؛ We talked for hours (نشاط المحادثة)؛ He spoke to the manager (نشاط التواصل مع شخص ما).",
       {
         intro: "كيف يُستخدم كل فعل:",
         items: [
@@ -119,7 +119,7 @@ export const sayTellTalkSpeak: GrammarTopicContent = {
       "اسأل نفسك هل يُذكر مستمع محدد مباشرةً بعد الفعل دون حرف جر — إذا كانت الإجابة نعم، فهي tell (tell me, tell him)؛ لا تعمل say أبدًا بهذه الطريقة، فهي تحتاج إلى to قبل الشخص. أما بالنسبة لـ talk وspeak، فابحث عن محادثة أو فعل استخدام لغة، يليه عادةً to/with (شخص) أو about (موضوع) — تميل speak إلى الرسمية أو الاتجاه الواحد، بينما تميل talk إلى العفوية أو الاتجاهين.",
     ],
     zh: [
-      "say、tell、talk 和 speak 都与语言的使用有关,但它们遵循不同的语法结构,适用于不同的情境。say 和 tell 转述所交流内容的确切信息(say 侧重于话语本身,tell 侧重于告知听者);talk 和 speak 侧重于交流这一行为本身,通常不转述具体内容——She said hello(说的话);She told me the news(告诉了我消息内容);We talked for hours(交谈这一活动);He spoke to the manager(与人交流这一活动)。",
+      "say、tell、talk 和 speak 都与语言的使用有关,但它们遵循不同的语法结构,适用于不同的情境。say 和 tell 转述所交流内容的确切信息(say 侧重于话语本身,tell 侧重于告知听者);talk 和 speak 侧重于交流这一行为本身,通常不转述具体内容。She said hello(说的话);She told me the news(告诉了我消息内容);We talked for hours(交谈这一活动);He spoke to the manager(与人交流这一活动)。",
       {
         intro: "每个动词的用法:",
         items: [
