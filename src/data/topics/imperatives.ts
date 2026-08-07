@@ -18,7 +18,7 @@ export const imperatives: GrammarTopicContent = {
           "With be, the imperative uses be directly, not are or is, since it is still the base form: Be careful (though You be careful does exist informally, to single someone out).",
         ],
       },
-      "The most common mistake is adding a subject pronoun or using a conjugated verb instead of the bare base form: You close the door or You must close the door sound like a statement, not a direct instruction — the natural imperative drops the subject entirely: Close the door. A second frequent error is misplacing the negation: Close not the door is wrong. Negative imperatives always put don't before the base verb: Don't close the door.",
+      "The most common mistake is adding a subject pronoun or using a conjugated verb instead of the bare base form: You close the door or You must close the door sound like a statement, not a direct instruction. The natural imperative drops the subject entirely: Close the door. A second frequent error is misplacing the negation: Close not the door is wrong. Negative imperatives always put don't before the base verb: Don't close the door.",
       "Look for a sentence with no stated subject that opens directly with a base-form verb — or with Don't + base verb, or Let's + base verb — that shape is the signature of an imperative. The context is usually a direct instruction, a request, a warning, or a suggestion, and the sentence often (though not always) ends with an exclamation mark.",
     ],
     fr: [
@@ -33,7 +33,7 @@ export const imperatives: GrammarTopicContent = {
           "Avec be, l'impératif utilise be directement, et non are ou is, puisque c'est toujours la forme de base : Be careful (bien que You be careful existe de façon informelle, pour interpeller quelqu'un en particulier).",
         ],
       },
-      "L'erreur la plus fréquente est d'ajouter un pronom sujet ou d'utiliser un verbe conjugué au lieu de la forme de base : You close the door ou You must close the door ressemblent à une affirmation, pas à une instruction directe — l'impératif naturel supprime entièrement le sujet : Close the door. Une deuxième erreur fréquente est de mal placer la négation : Close not the door est incorrect. Les impératifs négatifs placent toujours don't avant le verbe de base : Don't close the door.",
+      "L'erreur la plus fréquente est d'ajouter un pronom sujet ou d'utiliser un verbe conjugué au lieu de la forme de base : You close the door ou You must close the door ressemblent à une affirmation, pas à une instruction directe. L'impératif naturel supprime entièrement le sujet : Close the door. Une deuxième erreur fréquente est de mal placer la négation : Close not the door est incorrect. Les impératifs négatifs placent toujours don't avant le verbe de base : Don't close the door.",
       "Repérez une phrase sans sujet exprimé qui commence directement par un verbe à la forme de base — ou par Don't + verbe de base, ou par Let's + verbe de base — cette structure est la signature de l'impératif. Le contexte est généralement une instruction directe, une demande, un avertissement ou une suggestion, et la phrase se termine souvent (mais pas toujours) par un point d'exclamation.",
     ],
     es: [
@@ -48,7 +48,7 @@ export const imperatives: GrammarTopicContent = {
           "Con be, el imperativo usa be directamente, no are ni is, puesto que sigue siendo la forma base: Be careful (aunque You be careful existe de forma informal, para señalar a alguien en concreto).",
         ],
       },
-      "El error más común es añadir un pronombre sujeto o usar un verbo conjugado en lugar de la forma base: You close the door o You must close the door suenan a afirmación, no a instrucción directa —el imperativo natural elimina el sujeto por completo: Close the door. Un segundo error frecuente es colocar mal la negación: Close not the door es incorrecto. Los imperativos negativos siempre ponen don't antes del verbo base: Don't close the door.",
+      "El error más común es añadir un pronombre sujeto o usar un verbo conjugado en lugar de la forma base: You close the door o You must close the door suenan a afirmación, no a instrucción directa. El imperativo natural elimina el sujeto por completo: Close the door. Un segundo error frecuente es colocar mal la negación: Close not the door es incorrecto. Los imperativos negativos siempre ponen don't antes del verbo base: Don't close the door.",
       "Busca una oración sin sujeto expresado que empiece directamente con un verbo en forma base —o con Don't + verbo base, o con Let's + verbo base— esa forma es la firma del imperativo. El contexto suele ser una instrucción directa, una petición, una advertencia o una sugerencia, y la oración termina a menudo (aunque no siempre) con un signo de exclamación.",
     ],
     pt: [
@@ -63,7 +63,7 @@ export const imperatives: GrammarTopicContent = {
           "Com be, o imperativo usa be diretamente, não are nem is, pois continua a ser a forma base: Be careful (embora You be careful exista de forma informal, para apontar para alguém em particular).",
         ],
       },
-      "O erro mais comum é acrescentar um pronome sujeito ou usar um verbo conjugado em vez da forma base: You close the door ou You must close the door soam a afirmação, não a instrução direta —o imperativo natural elimina o sujeito por completo: Close the door. Um segundo erro frequente é colocar mal a negação: Close not the door está errado. Os imperativos negativos colocam sempre don't antes do verbo base: Don't close the door.",
+      "O erro mais comum é acrescentar um pronome sujeito ou usar um verbo conjugado em vez da forma base: You close the door ou You must close the door soam a afirmação, não a instrução direta. O imperativo natural elimina o sujeito por completo: Close the door. Um segundo erro frequente é colocar mal a negação: Close not the door está errado. Os imperativos negativos colocam sempre don't antes do verbo base: Don't close the door.",
       "Procura uma frase sem sujeito expresso que comece diretamente por um verbo na forma base —ou por Don't + verbo base, ou por Let's + verbo base— essa forma é a assinatura do imperativo. O contexto costuma ser uma instrução direta, um pedido, um aviso ou uma sugestão, e a frase termina muitas vezes (mas nem sempre) com um ponto de exclamação.",
     ],
     it: [
@@ -78,7 +78,7 @@ export const imperatives: GrammarTopicContent = {
           "Con be, l'imperativo usa be direttamente, non are o is, poiché resta comunque la forma base: Be careful (anche se You be careful esiste informalmente, per rivolgersi a qualcuno in particolare).",
         ],
       },
-      "L'errore più comune è aggiungere un pronome soggetto o usare un verbo coniugato invece della forma base: You close the door o You must close the door suonano come un'affermazione, non come un'istruzione diretta — l'imperativo naturale elimina completamente il soggetto: Close the door. Un secondo errore frequente è collocare male la negazione: Close not the door è sbagliato. Gli imperativi negativi mettono sempre don't prima del verbo base: Don't close the door.",
+      "L'errore più comune è aggiungere un pronome soggetto o usare un verbo coniugato invece della forma base: You close the door o You must close the door suonano come un'affermazione, non come un'istruzione diretta. L'imperativo naturale elimina completamente il soggetto: Close the door. Un secondo errore frequente è collocare male la negazione: Close not the door è sbagliato. Gli imperativi negativi mettono sempre don't prima del verbo base: Don't close the door.",
       "Cerca una frase senza soggetto espresso che inizi direttamente con un verbo alla forma base — oppure con Don't + verbo base, o con Let's + verbo base — questa struttura è la firma dell'imperativo. Il contesto è di solito un'istruzione diretta, una richiesta, un avvertimento o un suggerimento, e la frase termina spesso (ma non sempre) con un punto esclamativo.",
     ],
     de: [
@@ -93,7 +93,7 @@ export const imperatives: GrammarTopicContent = {
           "Bei be verwendet der Imperativ be direkt, nicht are oder is, da es weiterhin die Grundform ist: Be careful (auch wenn You be careful informell existiert, um jemanden gezielt anzusprechen).",
         ],
       },
-      "Der häufigste Fehler ist, ein Subjektpronomen hinzuzufügen oder eine konjugierte Verbform statt der Grundform zu verwenden: You close the door oder You must close the door klingen wie eine Aussage, nicht wie eine direkte Anweisung — der natürliche Imperativ lässt das Subjekt vollständig weg: Close the door. Ein zweiter häufiger Fehler ist die falsch platzierte Verneinung: Close not the door ist falsch. Verneinte Imperative stellen don't immer vor die Grundform: Don't close the door.",
+      "Der häufigste Fehler ist, ein Subjektpronomen hinzuzufügen oder eine konjugierte Verbform statt der Grundform zu verwenden: You close the door oder You must close the door klingen wie eine Aussage, nicht wie eine direkte Anweisung. Der natürliche Imperativ lässt das Subjekt vollständig weg: Close the door. Ein zweiter häufiger Fehler ist die falsch platzierte Verneinung: Close not the door ist falsch. Verneinte Imperative stellen don't immer vor die Grundform: Don't close the door.",
       "Achte auf einen Satz ohne genanntes Subjekt, der direkt mit einem Verb in der Grundform beginnt — oder mit Don't + Grundform, oder mit Let's + Grundform — diese Form ist das Erkennungszeichen des Imperativs. Der Kontext ist meist eine direkte Anweisung, eine Bitte, eine Warnung oder ein Vorschlag, und der Satz endet oft (aber nicht immer) mit einem Ausrufezeichen.",
     ],
     ru: [
@@ -108,7 +108,7 @@ export const imperatives: GrammarTopicContent = {
           "С глаголом be императив использует be напрямую, а не are или is, поскольку это всё та же базовая форма: Be careful (хотя You be careful существует неформально, чтобы выделить конкретного человека).",
         ],
       },
-      "Самая частая ошибка — добавить подлежащее-местоимение или использовать спрягаемую форму глагола вместо базовой: You close the door или You must close the door звучат как утверждение, а не как прямая инструкция — естественный императив полностью опускает подлежащее: Close the door. Вторая распространённая ошибка — неверное расположение отрицания: Close not the door неправильно. В отрицательном императиве don't всегда ставится перед базовой формой глагола: Don't close the door.",
+      "Самая частая ошибка — добавить подлежащее-местоимение или использовать спрягаемую форму глагола вместо базовой: You close the door или You must close the door звучат как утверждение, а не как прямая инструкция. Естественный императив полностью опускает подлежащее: Close the door. Вторая распространённая ошибка — неверное расположение отрицания: Close not the door неправильно. В отрицательном императиве don't всегда ставится перед базовой формой глагола: Don't close the door.",
       "Ищите предложение без указанного подлежащего, которое начинается прямо с глагола в базовой форме — либо с Don't + базовая форма, либо с Let's + базовая форма — это и есть характерная форма императива. Контекст обычно — прямая инструкция, просьба, предупреждение или предложение, и предложение часто (но не всегда) заканчивается восклицательным знаком.",
     ],
     ar: [
@@ -123,7 +123,7 @@ export const imperatives: GrammarTopicContent = {
           "مع الفعل be، يستخدم الأمر be مباشرة، وليس are أو is، لأنها تبقى الصيغة الأساسية: Be careful (رغم أن You be careful موجودة بشكل غير رسمي، لتخصيص شخص بعينه).",
         ],
       },
-      "أكثر الأخطاء شيوعًا هو إضافة ضمير فاعل أو استخدام صيغة فعل مصرّفة بدلًا من الصيغة الأساسية: فجملة You close the door أو You must close the door تبدو وكأنها جملة خبرية لا تعليمة مباشرة — الأمر الطبيعي يحذف الفاعل تمامًا: Close the door. والخطأ الشائع الثاني هو وضع أداة النفي في مكان خاطئ: فـ Close not the door خطأ. الأمر المنفي يضع don't دائمًا قبل صيغة الفعل الأساسية: Don't close the door.",
+      "أكثر الأخطاء شيوعًا هو إضافة ضمير فاعل أو استخدام صيغة فعل مصرّفة بدلًا من الصيغة الأساسية: فجملة You close the door أو You must close the door تبدو وكأنها جملة خبرية لا تعليمة مباشرة. الأمر الطبيعي يحذف الفاعل تمامًا: Close the door. والخطأ الشائع الثاني هو وضع أداة النفي في مكان خاطئ: فـ Close not the door خطأ. الأمر المنفي يضع don't دائمًا قبل صيغة الفعل الأساسية: Don't close the door.",
       "ابحث عن جملة بلا فاعل مذكور تبدأ مباشرة بفعل بصيغته الأساسية — أو بـ Don't + صيغة أساسية، أو بـ Let's + صيغة أساسية — فهذا الشكل هو السمة المميزة للأمر. والسياق عادةً ما يكون تعليمة مباشرة أو طلبًا أو تحذيرًا أو اقتراحًا، وغالبًا (لكن ليس دائمًا) تنتهي الجملة بعلامة تعجب.",
     ],
     zh: [
@@ -138,7 +138,7 @@ export const imperatives: GrammarTopicContent = {
           "对于 be,祈使句直接使用 be,而不是 are 或 is,因为它仍然是原形:Be careful(不过 You be careful 也非正式地存在,用来特别指出某个人)。",
         ],
       },
-      "最常见的错误是添加主语代词,或使用变位后的动词形式而不是原形:You close the door 或 You must close the door 听起来像陈述句,而不是直接的指令——自然的祈使句会完全省略主语:Close the door。第二个常见错误是否定词位置错误:Close not the door 是错的。否定祈使句总是把 don't 放在动词原形之前:Don't close the door。",
+      "最常见的错误是添加主语代词,或使用变位后的动词形式而不是原形:You close the door 或 You must close the door 听起来像陈述句,而不是直接的指令。自然的祈使句会完全省略主语:Close the door。第二个常见错误是否定词位置错误:Close not the door 是错的。否定祈使句总是把 don't 放在动词原形之前:Don't close the door。",
       "留意那些没有主语、直接以动词原形开头的句子——或者以 Don't + 动词原形、Let's + 动词原形开头——这种形状就是祈使句的标志性特征。语境通常是直接的指令、请求、警告或建议,句子也常常(但不总是)以感叹号结尾。",
     ],
   },
