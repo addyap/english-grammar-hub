@@ -18,7 +18,7 @@ export const quantifiers: GrammarTopicContent = {
           "a little (uncountable, with a) = some, a small amount — positive: there's a little hope left (still some hope).",
         ],
       },
-      "The most common mistake is treating few/a few and little/a little as interchangeable, when a completely flips the meaning: I have few friends (negative — I'm somewhat isolated) is a very different statement from I have a few friends (neutral — I have some, a normal number); dropping or adding that one word changes whether the sentence sounds sad or simply factual.",
+      "The most common mistake is treating few/a few and little/a little as interchangeable, when a completely flips the meaning. I have few friends is negative — I'm somewhat isolated. I have a few friends is neutral — I have some, a normal number. Dropping or adding that one word changes whether the sentence sounds sad or simply factual.",
       "Quick check: countable noun (can count it: 1, 2, 3) → many/few/a few. Uncountable noun (can't count it directly: water, time, money) → much/little/a little. Any noun, affirmative, everyday speech → a lot of. And always ask: is a present or absent? — that alone decides positive ('some, and that's fine') vs negative ('not enough') meaning.",
     ],
     fr: [
@@ -33,7 +33,7 @@ export const quantifiers: GrammarTopicContent = {
           "a little (indénombrable, avec a) = un peu, une petite quantité — positif : there's a little hope left (il reste un peu d'espoir).",
         ],
       },
-      "L'erreur la plus fréquente consiste à traiter few/a few et little/a little comme interchangeables, alors que a inverse totalement le sens : I have few friends (négatif — je suis plutôt isolé) est une affirmation très différente de I have a few friends (neutre — j'en ai quelques-uns, un nombre normal) ; retirer ou ajouter ce seul mot change si la phrase paraît triste ou simplement factuelle.",
+      "L'erreur la plus fréquente consiste à traiter few/a few et little/a little comme interchangeables, alors que a inverse totalement le sens. I have few friends est négatif : je suis plutôt isolé. I have a few friends est neutre : j'en ai quelques-uns, un nombre normal. Retirer ou ajouter ce seul mot change si la phrase paraît triste ou simplement factuelle.",
       "Vérification rapide : nom dénombrable (on peut le compter : 1, 2, 3) → many/few/a few. Nom indénombrable (impossible à compter directement : water, time, money) → much/little/a little. N'importe quel nom, phrase affirmative, langage courant → a lot of. Et demandez-vous toujours : a est-il présent ou absent ? — c'est cela seul qui détermine un sens positif (« quelques-uns, et ça va ») ou négatif (« pas assez »).",
     ],
     es: [
@@ -48,7 +48,7 @@ export const quantifiers: GrammarTopicContent = {
           "a little (incontable, con a) = un poco, una pequeña cantidad — positivo: there's a little hope left (todavía queda algo de esperanza).",
         ],
       },
-      "El error más común es tratar few/a few y little/a little como si fueran intercambiables, cuando a cambia por completo el significado: I have few friends (negativo — estoy bastante aislado) es una afirmación muy distinta de I have a few friends (neutra — tengo algunos, un número normal); quitar o añadir esa sola palabra cambia si la frase suena triste o simplemente factual.",
+      "El error más común es tratar few/a few y little/a little como si fueran intercambiables, cuando a cambia por completo el significado. I have few friends es negativo: estoy bastante aislado. I have a few friends es neutro: tengo algunos, un número normal. Quitar o añadir esa sola palabra cambia si la frase suena triste o simplemente factual.",
       "Comprobación rápida: sustantivo contable (se puede contar: 1, 2, 3) → many/few/a few. Sustantivo incontable (no se puede contar directamente: water, time, money) → much/little/a little. Cualquier sustantivo, frase afirmativa, habla cotidiana → a lot of. Y pregúntate siempre: ¿está presente o ausente a? — eso por sí solo decide el significado positivo («algunos, y está bien») o negativo («no suficiente»).",
     ],
     pt: [
@@ -63,7 +63,7 @@ export const quantifiers: GrammarTopicContent = {
           "a little (incontável, com a) = um pouco, uma pequena quantidade — positivo: there's a little hope left (ainda resta alguma esperança).",
         ],
       },
-      "O erro mais comum é tratar few/a few e little/a little como se fossem intercambiáveis, quando a muda completamente o significado: I have few friends (negativo — estou bastante isolado) é uma afirmação muito diferente de I have a few friends (neutra — tenho alguns, um número normal); tirar ou acrescentar essa única palavra muda se a frase soa triste ou apenas factual.",
+      "O erro mais comum é tratar few/a few e little/a little como se fossem intercambiáveis, quando a muda completamente o significado. I have few friends é negativo: estou bastante isolado. I have a few friends é neutro: tenho alguns, um número normal. Tirar ou acrescentar essa única palavra muda se a frase soa triste ou apenas factual.",
       "Verificação rápida: substantivo contável (dá para contar: 1, 2, 3) → many/few/a few. Substantivo incontável (não dá para contar diretamente: water, time, money) → much/little/a little. Qualquer substantivo, frase afirmativa, fala do dia a dia → a lot of. E pergunta sempre: o a está presente ou ausente? — só isso decide o significado positivo («alguns, e está tudo bem») ou negativo («não o suficiente»).",
     ],
     it: [
@@ -78,7 +78,7 @@ export const quantifiers: GrammarTopicContent = {
           "a little (non numerabile, con a) = un po', una piccola quantità — positivo: there's a little hope left (resta ancora un po' di speranza).",
         ],
       },
-      "L'errore più comune è trattare few/a few e little/a little come intercambiabili, mentre a ribalta completamente il significato: I have few friends (negativo — sono piuttosto isolato) è un'affermazione molto diversa da I have a few friends (neutro — ne ho alcuni, un numero normale); togliere o aggiungere quella sola parola cambia se la frase suona triste o semplicemente fattuale.",
+      "L'errore più comune è trattare few/a few e little/a little come intercambiabili, mentre a ribalta completamente il significato. I have few friends è negativo: sono piuttosto isolato. I have a few friends è neutro: ne ho alcuni, un numero normale. Togliere o aggiungere quella sola parola cambia se la frase suona triste o semplicemente fattuale.",
       "Verifica rapida: nome numerabile (si può contare: 1, 2, 3) → many/few/a few. Nome non numerabile (non si può contare direttamente: water, time, money) → much/little/a little. Qualsiasi nome, frase affermativa, linguaggio quotidiano → a lot of. E chiediti sempre: a è presente o assente? — solo questo decide il significato positivo ('alcuni, e va bene così') o negativo ('non abbastanza').",
     ],
     de: [
@@ -93,7 +93,7 @@ export const quantifiers: GrammarTopicContent = {
           "a little (nicht zählbar, mit a) = etwas, eine kleine Menge — positiv: there's a little hope left (es bleibt noch etwas Hoffnung).",
         ],
       },
-      "Der häufigste Fehler ist, few/a few und little/a little als austauschbar zu behandeln, obwohl a die Bedeutung komplett umkehrt: I have few friends (negativ — ich bin ziemlich isoliert) ist eine ganz andere Aussage als I have a few friends (neutral — ich habe einige, eine normale Anzahl); dieses eine Wort wegzulassen oder hinzuzufügen entscheidet, ob der Satz traurig oder einfach sachlich klingt.",
+      "Der häufigste Fehler ist, few/a few und little/a little als austauschbar zu behandeln, obwohl a die Bedeutung komplett umkehrt. I have few friends ist negativ: ich bin ziemlich isoliert. I have a few friends ist neutral: ich habe einige, eine normale Anzahl. Dieses eine Wort wegzulassen oder hinzuzufügen entscheidet, ob der Satz traurig oder einfach sachlich klingt.",
       "Schnelltest: zählbares Nomen (man kann es zählen: 1, 2, 3) → many/few/a few. Nicht zählbares Nomen (kann man nicht direkt zählen: water, time, money) → much/little/a little. Jedes Nomen, bejahter Satz, Alltagssprache → a lot of. Und frag immer: steht a da oder nicht? — allein das entscheidet zwischen positiver Bedeutung ('einige, und das ist okay') und negativer ('nicht genug').",
     ],
     ru: [
@@ -108,7 +108,7 @@ export const quantifiers: GrammarTopicContent = {
           "a little (неисчисляемое, с a) = немного, небольшое количество — положительно: there's a little hope left (ещё остаётся немного надежды).",
         ],
       },
-      "Самая частая ошибка — считать few/a few и little/a little взаимозаменяемыми, хотя a полностью меняет смысл: I have few friends (негативно — я довольно одинок) — это совсем другое утверждение, чем I have a few friends (нейтрально — у меня есть несколько, обычное количество); добавление или удаление одного этого слова меняет, звучит ли фраза грустно или просто как факт.",
+      "Самая частая ошибка — считать few/a few и little/a little взаимозаменяемыми, хотя a полностью меняет смысл. I have few friends звучит негативно: я довольно одинок. I have a few friends нейтрально: у меня есть несколько, обычное количество. Добавление или удаление одного этого слова меняет, звучит ли фраза грустно или просто как факт.",
       "Быстрая проверка: исчисляемое существительное (можно посчитать: 1, 2, 3) → many/few/a few. Неисчисляемое существительное (нельзя посчитать напрямую: water, time, money) → much/little/a little. Любое существительное, утвердительное предложение, повседневная речь → a lot of. И всегда спрашивайте себя: есть ли a? — именно это определяет положительный смысл («несколько, и это нормально») или отрицательный («недостаточно»).",
     ],
     ar: [
@@ -123,7 +123,7 @@ export const quantifiers: GrammarTopicContent = {
           "a little (غير معدود، مع a) = القليل، كمية صغيرة — إيجابي: there's a little hope left (ما زال هناك بعض الأمل).",
         ],
       },
-      "أكثر الأخطاء شيوعًا هو التعامل مع few/a few وlittle/a little وكأنهما قابلتان للتبادل، بينما تقلب a المعنى تمامًا: فجملة I have few friends (سلبية — أنا منعزل نوعًا ما) مختلفة تمامًا عن I have a few friends (محايدة — لدي بعض الأصدقاء، عدد طبيعي)؛ وحذف تلك الكلمة الواحدة أو إضافتها يُغيّر ما إذا كانت الجملة تبدو حزينة أم مجرد حقيقة عادية.",
+      "أكثر الأخطاء شيوعًا هو التعامل مع few/a few وlittle/a little وكأنهما قابلتان للتبادل، بينما تقلب a المعنى تمامًا. فجملة I have few friends سلبية: أنا منعزل نوعًا ما. أما I have a few friends فمحايدة: لدي بعض الأصدقاء، عدد طبيعي. وحذف تلك الكلمة الواحدة أو إضافتها يُغيّر ما إذا كانت الجملة تبدو حزينة أم مجرد حقيقة عادية.",
       "تحقق سريع: اسم معدود (يمكن عدّه: 1، 2، 3) → many/few/a few. اسم غير معدود (لا يمكن عدّه مباشرة: water، time، money) → much/little/a little. أي اسم، جملة مثبتة، كلام يومي → a lot of. واسأل نفسك دائمًا: هل a موجودة أم غائبة؟ — فهذا وحده يحدد المعنى الإيجابي («بعض، ولا بأس بذلك») أو السلبي («غير كافٍ»).",
     ],
     zh: [
@@ -138,7 +138,7 @@ export const quantifiers: GrammarTopicContent = {
           "a little(不可数,带 a)= 一点,一小部分——正面:there's a little hope left(还剩一点希望)。",
         ],
       },
-      "最常见的错误是把 few/a few 和 little/a little 当作可以互换,而实际上 a 会彻底改变意思:I have few friends(负面——我相当孤立)和 I have a few friends(中性——我有一些朋友,数量正常)是完全不同的两句话;加不加这一个词,会决定这句话听起来是伤感还是仅仅是陈述事实。",
+      "最常见的错误是把 few/a few 和 little/a little 当作可以互换,而实际上 a 会彻底改变意思。I have few friends 是负面的:我相当孤立。I have a few friends 是中性的:我有一些朋友,数量正常。加不加这一个词,会决定这句话听起来是伤感还是仅仅是陈述事实。",
       "快速判断:可数名词(能数得清:1、2、3)→ many/few/a few。不可数名词(不能直接数:water、time、money)→ much/little/a little。任何名词、肯定句、日常口语 → a lot of。并且始终要问自己:a 存在还是不存在?——仅这一点就决定了是正面含义(「有一些,还不错」)还是负面含义(「不够」)。",
     ],
   },
