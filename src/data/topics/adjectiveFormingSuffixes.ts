@@ -12,7 +12,7 @@ export const adjectiveFormingSuffixes: GrammarTopicContent = {
         intro: "Common adjective-forming suffixes and their meanings:",
         items: [
           "-ful = full of, having: careful (full of care), helpful (giving help), beautiful (full of beauty). -less = without, lacking: careless (without care), hopeless (without hope), homeless (without a home) — -ful and -less are often opposite pairs on the same noun: careful/careless, harmful/harmless.",
-          "-able / -ible = capable of being [verb]-ed: comfortable (able to be comforted, giving comfort), readable (able to be read), responsible (able to respond/answer for something). This suffix usually attaches to a verb: wash → washable, afford → affordable.",
+          "-able / -ible = capable of being [verb]-ed, and it attaches to a verb: read → readable (able to be read), wash → washable, afford → affordable, break → breakable. Beware of lookalikes: comfortable and responsible end the same way but are not built by this rule — comfortable does not mean 'able to be comforted' — so learn those two as ordinary vocabulary.",
           "-ous / -ious = having the quality of, full of: dangerous (full of danger), famous (having fame), curious (full of curiosity). -ive = having a tendency to, related to: active (tending to act), creative (having creativity), effective (producing an effect).",
           "-y = characterized by, having a lot of (often with weather, texture, or small nouns): rainy (having a lot of rain), sunny (full of sun), noisy (full of noise). -al / -ical = relating to: national (relating to a nation), musical (relating to music), historical (relating to history).",
         ],
@@ -26,7 +26,7 @@ export const adjectiveFormingSuffixes: GrammarTopicContent = {
         intro: "Suffixes courants formant des adjectifs et leur sens :",
         items: [
           "-ful = plein de, ayant : careful (plein de soin), helpful (qui aide), beautiful (plein de beauté). -less = sans, manquant de : careless (sans soin), hopeless (sans espoir), homeless (sans domicile) — -ful et -less forment souvent des paires opposées sur le même nom : careful/careless, harmful/harmless.",
-          "-able / -ible = capable d'être [verbe]-é : comfortable (qui peut être réconforté, apportant du réconfort), readable (qui peut être lu), responsible (capable de répondre de quelque chose). Ce suffixe s'attache généralement à un verbe : wash → washable, afford → affordable.",
+          "-able / -ible = capable d'être [verbe]-é, et ce suffixe s'attache à un verbe : read → readable (qui peut être lu), wash → washable, afford → affordable, break → breakable. Attention aux faux amis : comfortable et responsible se terminent de la même façon mais ne sont pas formés par cette règle — comfortable ne signifie pas « qui peut être réconforté » — apprenez donc ces deux mots comme du vocabulaire ordinaire.",
           "-ous / -ious = ayant la qualité de, plein de : dangerous (plein de danger), famous (ayant de la renommée), curious (plein de curiosité). -ive = ayant tendance à, lié à : active (tendant à agir), creative (ayant de la créativité), effective (produisant un effet).",
           "-y = caractérisé par, ayant beaucoup de (souvent pour la météo, la texture, ou des petits noms) : rainy (ayant beaucoup de pluie), sunny (plein de soleil), noisy (plein de bruit). -al / -ical = relatif à : national (relatif à une nation), musical (relatif à la musique), historical (relatif à l'histoire).",
         ],
@@ -40,7 +40,7 @@ export const adjectiveFormingSuffixes: GrammarTopicContent = {
         intro: "Sufijos comunes que forman adjetivos y sus significados:",
         items: [
           "-ful = lleno de, que tiene: careful (lleno de cuidado), helpful (que ayuda), beautiful (lleno de belleza). -less = sin, que carece de: careless (sin cuidado), hopeless (sin esperanza), homeless (sin hogar) —-ful y -less suelen formar pares opuestos sobre el mismo sustantivo: careful/careless, harmful/harmless.",
-          "-able / -ible = capaz de ser [verbo]-ado: comfortable (capaz de ser confortado, que da comodidad), readable (que se puede leer), responsible (capaz de responder por algo). Este sufijo suele unirse a un verbo: wash → washable, afford → affordable.",
+          "-able / -ible = capaz de ser [verbo]-ado, y este sufijo se une a un verbo: read → readable (que se puede leer), wash → washable, afford → affordable, break → breakable. Cuidado con los parecidos: comfortable y responsible terminan igual pero no se forman con esta regla —comfortable no significa «capaz de ser confortado»—, así que apréndelas como vocabulario corriente.",
           "-ous / -ious = que tiene la cualidad de, lleno de: dangerous (lleno de peligro), famous (que tiene fama), curious (lleno de curiosidad). -ive = que tiende a, relacionado con: active (que tiende a actuar), creative (que tiene creatividad), effective (que produce un efecto).",
           "-y = caracterizado por, que tiene mucho de (a menudo con el clima, la textura, o sustantivos pequeños): rainy (que tiene mucha lluvia), sunny (lleno de sol), noisy (lleno de ruido). -al / -ical = relativo a: national (relativo a una nación), musical (relativo a la música), historical (relativo a la historia).",
         ],
@@ -54,7 +54,7 @@ export const adjectiveFormingSuffixes: GrammarTopicContent = {
         intro: "Sufixos comuns que formam adjetivos e os seus significados:",
         items: [
           "-ful = cheio de, que tem: careful (cheio de cuidado), helpful (que ajuda), beautiful (cheio de beleza). -less = sem, que carece de: careless (sem cuidado), hopeless (sem esperança), homeless (sem casa) —-ful e -less formam frequentemente pares opostos sobre o mesmo substantivo: careful/careless, harmful/harmless.",
-          "-able / -ible = capaz de ser [verbo]-ado: comfortable (capaz de ser confortado, que dá conforto), readable (que se pode ler), responsible (capaz de responder por algo). Este sufixo geralmente junta-se a um verbo: wash → washable, afford → affordable.",
+          "-able / -ible = capaz de ser [verbo]-ado, e este sufixo junta-se a um verbo: read → readable (que se pode ler), wash → washable, afford → affordable, break → breakable. Atenção aos parecidos: comfortable e responsible terminam da mesma forma mas não são formados por esta regra —comfortable não significa «capaz de ser confortado»—, por isso aprende-as como vocabulário corrente.",
           "-ous / -ious = que tem a qualidade de, cheio de: dangerous (cheio de perigo), famous (que tem fama), curious (cheio de curiosidade). -ive = que tende a, relacionado com: active (que tende a agir), creative (que tem criatividade), effective (que produz um efeito).",
           "-y = caracterizado por, que tem muito de (frequentemente com o clima, a textura, ou substantivos pequenos): rainy (que tem muita chuva), sunny (cheio de sol), noisy (cheio de ruído). -al / -ical = relativo a: national (relativo a uma nação), musical (relativo à música), historical (relativo à história).",
         ],
@@ -68,7 +68,7 @@ export const adjectiveFormingSuffixes: GrammarTopicContent = {
         intro: "Suffissi comuni che formano aggettivi e i loro significati:",
         items: [
           "-ful = pieno di, che ha: careful (pieno di cura), helpful (che aiuta), beautiful (pieno di bellezza). -less = senza, privo di: careless (senza cura), hopeless (senza speranza), homeless (senza casa) —-ful e -less formano spesso coppie opposte sullo stesso nome: careful/careless, harmful/harmless.",
-          "-able / -ible = capace di essere [verbo]-ato: comfortable (capace di essere confortato, che dà conforto), readable (che si può leggere), responsible (capace di rispondere di qualcosa). Questo suffisso solitamente si unisce a un verbo: wash → washable, afford → affordable.",
+          "-able / -ible = capace di essere [verbo]-ato, e questo suffisso si unisce a un verbo: read → readable (che si può leggere), wash → washable, afford → affordable, break → breakable. Attenzione ai casi ingannevoli: comfortable e responsible finiscono allo stesso modo ma non sono formati con questa regola — comfortable non significa «capace di essere confortato» — quindi vanno imparate come vocabolario ordinario.",
           "-ous / -ious = che ha la qualità di, pieno di: dangerous (pieno di pericolo), famous (che ha fama), curious (pieno di curiosità). -ive = che tende a, relativo a: active (che tende ad agire), creative (che ha creatività), effective (che produce un effetto).",
           "-y = caratterizzato da, che ha molto di (spesso con il meteo, la consistenza, o nomi piccoli): rainy (che ha molta pioggia), sunny (pieno di sole), noisy (pieno di rumore). -al / -ical = relativo a: national (relativo a una nazione), musical (relativo alla musica), historical (relativo alla storia).",
         ],
@@ -82,7 +82,7 @@ export const adjectiveFormingSuffixes: GrammarTopicContent = {
         intro: "Häufige adjektivbildende Suffixe und ihre Bedeutungen:",
         items: [
           "-ful = voll von, habend: careful (voller Sorgfalt), helpful (hilfreich), beautiful (voller Schönheit). -less = ohne, fehlend: careless (ohne Sorgfalt), hopeless (ohne Hoffnung), homeless (ohne Zuhause) — -ful und -less bilden oft gegensätzliche Paare beim gleichen Nomen: careful/careless, harmful/harmless.",
-          "-able / -ible = fähig, [verb]-t zu werden: comfortable (fähig getröstet zu werden, Trost spendend), readable (lesbar), responsible (fähig, für etwas Rechenschaft abzulegen). Dieses Suffix wird meist an ein Verb angehängt: wash → washable, afford → affordable.",
+          "-able / -ible = fähig, [verb]-t zu werden, und dieses Suffix wird an ein Verb angehängt: read → readable (lesbar), wash → washable, afford → affordable, break → breakable. Vorsicht bei Ähnlichkeiten: comfortable und responsible enden gleich, sind aber nicht nach dieser Regel gebildet — comfortable heißt nicht „fähig, getröstet zu werden“ —, diese beiden lernt man daher als normales Vokabular.",
           "-ous / -ious = die Eigenschaft habend von, voll von: dangerous (voller Gefahr), famous (berühmt/voller Ruhm), curious (voller Neugier). -ive = eine Tendenz zu haben, bezogen auf: active (aktiv, zu Handlungen neigend), creative (kreativ), effective (wirksam).",
           "-y = charakterisiert durch, viel von etwas habend (oft bei Wetter, Textur oder kleinen Nomen): rainy (viel Regen habend), sunny (voller Sonne), noisy (voller Lärm). -al / -ical = sich beziehend auf: national (sich auf eine Nation beziehend), musical (sich auf Musik beziehend), historical (sich auf Geschichte beziehend).",
         ],
@@ -96,7 +96,7 @@ export const adjectiveFormingSuffixes: GrammarTopicContent = {
         intro: "Распространённые суффиксы, образующие прилагательные, и их значения:",
         items: [
           "-ful = полный, имеющий: careful (полный заботы), helpful (полезный), beautiful (полный красоты). -less = без, лишённый: careless (без заботы), hopeless (безнадёжный), homeless (бездомный) — -ful и -less часто образуют противоположные пары от одного существительного: careful/careless, harmful/harmless.",
-          "-able / -ible = способный быть [глагол]-нным: comfortable (способный быть утешенным, дающий утешение), readable (читаемый), responsible (способный отвечать за что-то). Этот суффикс обычно присоединяется к глаголу: wash → washable, afford → affordable.",
+          "-able / -ible = способный быть [глагол]-нным, и этот суффикс присоединяется к глаголу: read → readable (читаемый), wash → washable, afford → affordable, break → breakable. Осторожно с похожими словами: comfortable и responsible оканчиваются так же, но по этому правилу не образованы — comfortable не значит «способный быть утешенным», — поэтому их заучивают как обычную лексику.",
           "-ous / -ious = обладающий качеством, полный: dangerous (полный опасности), famous (обладающий известностью), curious (полный любопытства). -ive = имеющий тенденцию к, связанный с: active (склонный действовать), creative (обладающий творчеством), effective (производящий эффект).",
           "-y = характеризующийся, имеющий много (часто о погоде, текстуре или небольших существительных): rainy (с большим количеством дождя), sunny (полный солнца), noisy (полный шума). -al / -ical = относящийся к: national (относящийся к нации), musical (относящийся к музыке), historical (относящийся к истории).",
         ],
@@ -110,7 +110,7 @@ export const adjectiveFormingSuffixes: GrammarTopicContent = {
         intro: "لواحق شائعة تكوّن الصفات ومعانيها:",
         items: [
           "-ful = مليء بـ، يمتلك: careful (مليء بالعناية)، helpful (يقدم المساعدة)، beautiful (مليء بالجمال). -less = بلا، يفتقر إلى: careless (بلا عناية)، hopeless (بلا أمل)، homeless (بلا منزل) — غالبًا ما تشكّل -ful وless- أزواجًا متضادة من نفس الاسم: careful/careless, harmful/harmless.",
-          "-able / -ible = قابل لأن يُفعل به [الفعل]: comfortable (قابل لأن يُعزَّى، يمنح الراحة)، readable (قابل للقراءة)، responsible (قادر على تحمل المسؤولية عن شيء ما). تُضاف هذه اللاحقة عادةً إلى فعل: wash → washable, afford → affordable.",
+          "-able / -ible = قابل لأن يُفعل به [الفعل]، وتُضاف هذه اللاحقة إلى فعل: read → readable (قابل للقراءة)، wash → washable، afford → affordable، break → breakable. وانتبه للكلمات المشابهة شكلًا: فـcomfortable وresponsible تنتهيان بالطريقة نفسها لكنهما ليستا مكوَّنتين بهذه القاعدة — إذ لا تعني comfortable 'قابل لأن يُعزَّى' — فتُحفظان كمفردات عادية.",
           "-ous / -ious = يمتلك صفة، مليء بـ: dangerous (مليء بالخطر)، famous (يمتلك شهرة)، curious (مليء بالفضول). -ive = ذو ميل إلى، متعلق بـ: active (ذو ميل للفعل)، creative (يمتلك إبداعًا)، effective (يُحدث تأثيرًا).",
           "-y = يتّسم بـ، يمتلك الكثير من (غالبًا مع الطقس أو الملمس أو الأسماء الصغيرة): rainy (يمتلك الكثير من المطر)، sunny (مليء بالشمس)، noisy (مليء بالضجيج). -al / -ical = متعلق بـ: national (متعلق بأمة)، musical (متعلق بالموسيقى)، historical (متعلق بالتاريخ).",
         ],
@@ -124,7 +124,7 @@ export const adjectiveFormingSuffixes: GrammarTopicContent = {
         intro: "常见的构成形容词的后缀及其含义:",
         items: [
           "-ful = 充满……的,有……的:careful(充满关心的)、helpful(提供帮助的)、beautiful(充满美的)。-less = 没有……的,缺乏……的:careless(缺乏关心的)、hopeless(没有希望的)、homeless(无家可归的)——-ful 和 -less 常常在同一个名词上构成一对反义词:careful/careless, harmful/harmless。",
-          "-able / -ible = 能够被[动词]的:comfortable(能够被安慰的,给人以安慰的)、readable(可读的)、responsible(能够对某事负责的)。这个后缀通常加在动词后面:wash → washable, afford → affordable。",
+          "-able / -ible = 能够被[动词]的,这个后缀加在动词后面:read → readable(可读的)、wash → washable、afford → affordable、break → breakable。要当心形似的词:comfortable 和 responsible 词尾相同,却并不是按这条规则构成的——comfortable 并不表示「能够被安慰的」——所以这两个词要当作普通词汇来记。",
           "-ous / -ious = 具有……性质的,充满……的:dangerous(充满危险的)、famous(有名气的)、curious(充满好奇心的)。-ive = 有……倾向的,与……相关的:active(有行动倾向的)、creative(有创造力的)、effective(产生效果的)。",
           "-y = 以……为特征的,有很多……的(常用于天气、质地或小名词):rainy(多雨的)、sunny(阳光充足的)、noisy(嘈杂的)。-al / -ical = 与……相关的:national(与国家相关的)、musical(与音乐相关的)、historical(与历史相关的)。",
         ],

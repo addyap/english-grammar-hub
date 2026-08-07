@@ -12,7 +12,7 @@ export const oneOnesSubstitute: GrammarTopicContent = {
         intro: "How one and ones work as substitutes:",
         items: [
           "one replaces a singular countable noun already mentioned, usually after an adjective or determiner: I don't want this pen, I want that one; Do you have a bigger size? I need a smaller one.",
-          "ones replaces a plural countable noun already mentioned, in the same way: These apples are sour; those ones are sweeter; I don't like small cars — I prefer big ones.",
+          "ones replaces a plural countable noun already mentioned, in the same way: These apples are sour; the green ones are sweeter; I don't like small cars — I prefer big ones.",
           "one/ones is optional (though common) after this/that/these/those alone, but required after most adjectives when the noun is dropped: this one is fine (this alone also works); but the red one needs one — not just the red.",
           "one/ones cannot replace an uncountable noun — you can't say I'd like some water, not that one; with uncountable nouns, simply repeat the noun or drop it: I'd like some water, not that (bottled water).",
         ],
@@ -26,7 +26,7 @@ export const oneOnesSubstitute: GrammarTopicContent = {
         intro: "Comment one et ones fonctionnent comme substituts :",
         items: [
           "one remplace un nom dénombrable singulier déjà mentionné, généralement après un adjectif ou un déterminant : I don't want this pen, I want that one ; Do you have a bigger size? I need a smaller one.",
-          "ones remplace de la même façon un nom dénombrable pluriel déjà mentionné : These apples are sour; those ones are sweeter ; I don't like small cars — I prefer big ones.",
+          "ones remplace de la même façon un nom dénombrable pluriel déjà mentionné : These apples are sour; the green ones are sweeter ; I don't like small cars — I prefer big ones.",
           "one/ones est facultatif (bien que courant) après this/that/these/those seuls, mais obligatoire après la plupart des adjectifs quand le nom est supprimé : this one is fine (this seul fonctionne aussi) ; mais the red one a besoin de one — pas seulement the red.",
           "one/ones ne peut pas remplacer un nom indénombrable — on ne peut pas dire I'd like some water, not that one ; avec les noms indénombrables, répétez simplement le nom ou omettez-le : I'd like some water, not that (bottled water).",
         ],
@@ -40,7 +40,7 @@ export const oneOnesSubstitute: GrammarTopicContent = {
         intro: "Cómo funcionan one y ones como sustitutos:",
         items: [
           "one sustituye a un sustantivo contable singular ya mencionado, normalmente después de un adjetivo o determinante: I don't want this pen, I want that one; Do you have a bigger size? I need a smaller one.",
-          "ones sustituye de la misma forma a un sustantivo contable plural ya mencionado: These apples are sour; those ones are sweeter; I don't like small cars — I prefer big ones.",
+          "ones sustituye de la misma forma a un sustantivo contable plural ya mencionado: These apples are sour; the green ones are sweeter; I don't like small cars — I prefer big ones.",
           "one/ones es opcional (aunque habitual) después de this/that/these/those solos, pero obligatorio después de la mayoría de los adjetivos cuando se omite el sustantivo: this one is fine (this solo también funciona); pero the red one necesita one —no basta con the red.",
           "one/ones no puede sustituir a un sustantivo incontable —no se puede decir I'd like some water, not that one; con sustantivos incontables, simplemente repite el sustantivo u omítelo: I'd like some water, not that (bottled water).",
         ],
@@ -54,7 +54,7 @@ export const oneOnesSubstitute: GrammarTopicContent = {
         intro: "Como funcionam one e ones como substitutos:",
         items: [
           "one substitui um substantivo contável singular já mencionado, normalmente depois de um adjetivo ou determinante: I don't want this pen, I want that one; Do you have a bigger size? I need a smaller one.",
-          "ones substitui da mesma forma um substantivo contável plural já mencionado: These apples are sour; those ones are sweeter; I don't like small cars — I prefer big ones.",
+          "ones substitui da mesma forma um substantivo contável plural já mencionado: These apples are sour; the green ones are sweeter; I don't like small cars — I prefer big ones.",
           "one/ones é opcional (embora comum) depois de this/that/these/those sozinhos, mas obrigatório depois da maioria dos adjetivos quando o substantivo é omitido: this one is fine (this sozinho também funciona); mas the red one precisa de one —não basta the red.",
           "one/ones não pode substituir um substantivo incontável —não se pode dizer I'd like some water, not that one; com substantivos incontáveis, basta repetir o substantivo ou omiti-lo: I'd like some water, not that (bottled water).",
         ],
@@ -68,7 +68,7 @@ export const oneOnesSubstitute: GrammarTopicContent = {
         intro: "Come funzionano one e ones come sostituti:",
         items: [
           "one sostituisce un nome numerabile singolare già menzionato, di solito dopo un aggettivo o un determinante: I don't want this pen, I want that one; Do you have a bigger size? I need a smaller one.",
-          "ones sostituisce allo stesso modo un nome numerabile plurale già menzionato: These apples are sour; those ones are sweeter; I don't like small cars — I prefer big ones.",
+          "ones sostituisce allo stesso modo un nome numerabile plurale già menzionato: These apples are sour; the green ones are sweeter; I don't like small cars — I prefer big ones.",
           "one/ones è facoltativo (anche se comune) dopo this/that/these/those da soli, ma obbligatorio dopo la maggior parte degli aggettivi quando il nome viene omesso: this one is fine (anche this da solo funziona); ma the red one ha bisogno di one — non basta the red.",
           "one/ones non può sostituire un nome non numerabile — non si può dire I'd like some water, not that one; con i nomi non numerabili, ripeti semplicemente il nome oppure omettilo: I'd like some water, not that (bottled water).",
         ],
@@ -82,7 +82,7 @@ export const oneOnesSubstitute: GrammarTopicContent = {
         intro: "So funktionieren one und ones als Ersatzwörter:",
         items: [
           "one ersetzt ein bereits genanntes zählbares Nomen im Singular, meist nach einem Adjektiv oder Artikelwort: I don't want this pen, I want that one; Do you have a bigger size? I need a smaller one.",
-          "ones ersetzt auf dieselbe Weise ein bereits genanntes zählbares Nomen im Plural: These apples are sour; those ones are sweeter; I don't like small cars — I prefer big ones.",
+          "ones ersetzt auf dieselbe Weise ein bereits genanntes zählbares Nomen im Plural: These apples are sour; the green ones are sweeter; I don't like small cars — I prefer big ones.",
           "one/ones ist nach this/that/these/those allein optional (wenn auch üblich), aber nach den meisten Adjektiven nötig, wenn das Nomen weggelassen wird: this one is fine (auch this allein funktioniert); aber the red one braucht one — nicht nur the red.",
           "one/ones kann kein unzählbares Nomen ersetzen — man kann nicht sagen I'd like some water, not that one; bei unzählbaren Nomen wiederholt man einfach das Nomen oder lässt es weg: I'd like some water, not that (bottled water).",
         ],
@@ -96,7 +96,7 @@ export const oneOnesSubstitute: GrammarTopicContent = {
         intro: "Как one и ones работают как слова-заменители:",
         items: [
           "one заменяет уже упомянутое исчисляемое существительное в единственном числе, обычно после прилагательного или определителя: I don't want this pen, I want that one; Do you have a bigger size? I need a smaller one.",
-          "ones таким же образом заменяет уже упомянутое исчисляемое существительное во множественном числе: These apples are sour; those ones are sweeter; I don't like small cars — I prefer big ones.",
+          "ones таким же образом заменяет уже упомянутое исчисляемое существительное во множественном числе: These apples are sour; the green ones are sweeter; I don't like small cars — I prefer big ones.",
           "one/ones необязательно (хотя и распространено) после отдельно стоящих this/that/these/those, но обязательно после большинства прилагательных, когда существительное опущено: this one is fine (одно this тоже работает); но the red one требует one — просто the red недостаточно.",
           "one/ones не может заменять неисчисляемое существительное — нельзя сказать I'd like some water, not that one; с неисчисляемыми существительными просто повторите существительное или опустите его: I'd like some water, not that (bottled water).",
         ],
@@ -110,7 +110,7 @@ export const oneOnesSubstitute: GrammarTopicContent = {
         intro: "كيف تعمل one وones كبديلين:",
         items: [
           "تحل one محل اسم معدود مفرد سبق ذكره، عادةً بعد صفة أو أداة تحديد: I don't want this pen, I want that one؛ Do you have a bigger size؟ I need a smaller one.",
-          "تحل ones بالطريقة نفسها محل اسم معدود جمع سبق ذكره: These apples are sour؛ those ones are sweeter؛ I don't like small cars — I prefer big ones.",
+          "تحل ones بالطريقة نفسها محل اسم معدود جمع سبق ذكره: These apples are sour؛ the green ones are sweeter؛ I don't like small cars — I prefer big ones.",
           "تُعد one/ones اختيارية (رغم شيوعها) بعد this/that/these/those وحدها، لكنها ضرورية بعد معظم الصفات عندما يُحذف الاسم: this one is fine (تعمل this وحدها أيضًا)؛ لكن the red one تحتاج إلى one — لا يكفي the red وحدها.",
           "لا يمكن لـ one/ones أن تحل محل اسم غير معدود — لا يمكن قول I'd like some water, not that one؛ مع الأسماء غير المعدودة، ببساطة كرر الاسم أو احذفه: I'd like some water, not that (bottled water).",
         ],
@@ -124,7 +124,7 @@ export const oneOnesSubstitute: GrammarTopicContent = {
         intro: "one 和 ones 作为替代词的用法:",
         items: [
           "one 代替前面提到过的单数可数名词,通常用在形容词或限定词后面:I don't want this pen, I want that one;Do you have a bigger size? I need a smaller one。",
-          "ones 以同样的方式代替前面提到过的复数可数名词:These apples are sour; those ones are sweeter;I don't like small cars — I prefer big ones。",
+          "ones 以同样的方式代替前面提到过的复数可数名词:These apples are sour; the green ones are sweeter;I don't like small cars — I prefer big ones。",
           "在单独使用 this/that/these/those 时,one/ones 是可选的(尽管很常见),但在大多数形容词后面,如果省略了名词,就必须加上 one/ones:this one is fine(单独用 this 也可以);但 the red one 需要加 one——不能只说 the red。",
           "one/ones 不能代替不可数名词——不能说 I'd like some water, not that one;对于不可数名词,只需重复该名词或直接省略:I'd like some water, not that(瓶装水)。",
         ],

@@ -17,7 +17,7 @@ export const relativePrepositions: GrammarTopicContent = {
         ],
       },
       "whose covers possession for both people and things in formal writing (the book whose cover is torn), while of which is the strictly formal alternative for things: the book, the cover of which is torn. In everyday English, whose alone is by far the more natural choice for things too — of which mostly appears in quite formal or technical writing.",
-      "The most common mistake is stranding the preposition after a fronted formal pronoun: the man to who I spoke or the man whom I spoke to whom both misfire — a fronted preposition takes whom/which right after it (to whom), and if the pronoun is dropped or that is used, the preposition goes back to the end (I spoke to), never both at once. A second frequent error: using whom as a subject — whom called you? is wrong; a subject always stays who, even formally.",
+      "The most common mistake is stranding the preposition after a fronted formal pronoun: the man to who I spoke or the man to whom I spoke to both misfire — a fronted preposition takes whom/which right after it (to whom), and if the pronoun is dropped or that is used, the preposition goes back to the end (I spoke to), never both at once. A second frequent error: using whom as a subject — whom called you? is wrong; a subject always stays who, even formally.",
       "Look for a preposition either stranded at the very end of a clause (the sign of everyday style) or sitting immediately before whom/which (the sign of formal style) — the two never combine — and whose or of which marking possession inside the clause.",
     ],
     fr: [
@@ -31,7 +31,7 @@ export const relativePrepositions: GrammarTopicContent = {
         ],
       },
       "whose couvre la possession pour les personnes comme pour les choses en anglais soutenu (the book whose cover is torn), tandis que of which est l'alternative strictement formelle pour les choses : the book, the cover of which is torn. Dans l'anglais courant, whose seul reste de loin le choix le plus naturel, même pour les choses — of which apparaît surtout dans un anglais très formel ou technique.",
-      "L'erreur la plus fréquente est de laisser la préposition à la fin après un pronom formel déplacé devant : the man to who I spoke ou the man whom I spoke to whom sont tous deux fautifs — une préposition déplacée devant exige whom/which juste après elle (to whom), et si l'on omet le pronom ou qu'on emploie that, la préposition retourne à la fin (I spoke to), jamais les deux à la fois. Une autre erreur courante : employer whom comme sujet — whom called you? est incorrect ; un sujet reste toujours who, même à l'écrit formel.",
+      "L'erreur la plus fréquente est de laisser la préposition à la fin après un pronom formel déplacé devant : the man to who I spoke ou the man to whom I spoke to sont tous deux fautifs — une préposition déplacée devant exige whom/which juste après elle (to whom), et si l'on omet le pronom ou qu'on emploie that, la préposition retourne à la fin (I spoke to), jamais les deux à la fois. Une autre erreur courante : employer whom comme sujet — whom called you? est incorrect ; un sujet reste toujours who, même à l'écrit formel.",
       "Repérez une préposition soit rejetée tout à la fin d'une proposition (signe du style courant), soit placée juste avant whom/which (signe du style formel) — les deux ne se combinent jamais — et whose ou of which marquant la possession à l'intérieur de la proposition.",
     ],
     es: [
@@ -45,7 +45,7 @@ export const relativePrepositions: GrammarTopicContent = {
         ],
       },
       "whose cubre la posesión tanto para personas como para cosas en el inglés formal (the book whose cover is torn), mientras que of which es la alternativa estrictamente formal para cosas: the book, the cover of which is torn. En el inglés cotidiano, whose solo es, con diferencia, la opción más natural también para cosas —of which aparece sobre todo en textos bastante formales o técnicos.",
-      "El error más común es dejar la preposición al final después de un pronombre formal adelantado: the man to who I spoke o the man whom I spoke to whom fallan ambas —una preposición adelantada exige whom/which justo después (to whom), y si se omite el pronombre o se usa that, la preposición vuelve al final (I spoke to), nunca las dos cosas a la vez. Otro error frecuente: usar whom como sujeto —whom called you? es incorrecto; el sujeto siempre es who, incluso en el registro formal.",
+      "El error más común es dejar la preposición al final después de un pronombre formal adelantado: the man to who I spoke o the man to whom I spoke to fallan ambas —una preposición adelantada exige whom/which justo después (to whom), y si se omite el pronombre o se usa that, la preposición vuelve al final (I spoke to), nunca las dos cosas a la vez. Otro error frecuente: usar whom como sujeto —whom called you? es incorrecto; el sujeto siempre es who, incluso en el registro formal.",
       "Fíjate en una preposición relegada al final de la oración (señal de estilo habitual) o justo antes de whom/which (señal de estilo formal) —las dos nunca se combinan— y en whose o of which marcando la posesión dentro de la oración.",
     ],
     pt: [
@@ -59,7 +59,7 @@ export const relativePrepositions: GrammarTopicContent = {
         ],
       },
       "whose cobre a posse tanto para pessoas como para coisas no inglês formal (the book whose cover is torn), enquanto of which é a alternativa estritamente formal para coisas: the book, the cover of which is torn. No inglês do dia a dia, whose sozinho continua a ser, de longe, a escolha mais natural também para coisas —of which aparece sobretudo em textos bastante formais ou técnicos.",
-      "O erro mais comum é deixar a preposição no fim depois de um pronome formal adiantado: the man to who I spoke ou the man whom I spoke to whom falham ambas —uma preposição adiantada exige whom/which logo a seguir (to whom), e se o pronome for omitido ou se usar that, a preposição volta para o fim (I spoke to), nunca as duas coisas ao mesmo tempo. Outro erro frequente: usar whom como sujeito —whom called you? está errado; o sujeito é sempre who, mesmo no registo formal.",
+      "O erro mais comum é deixar a preposição no fim depois de um pronome formal adiantado: the man to who I spoke ou the man to whom I spoke to falham ambas —uma preposição adiantada exige whom/which logo a seguir (to whom), e se o pronome for omitido ou se usar that, a preposição volta para o fim (I spoke to), nunca as duas coisas ao mesmo tempo. Outro erro frequente: usar whom como sujeito —whom called you? está errado; o sujeito é sempre who, mesmo no registo formal.",
       "Repara numa preposição relegada para o final da oração (sinal de estilo habitual) ou mesmo antes de whom/which (sinal de estilo formal) —as duas nunca se combinam— e em whose ou of which a marcar a posse dentro da oração.",
     ],
     it: [
@@ -73,7 +73,7 @@ export const relativePrepositions: GrammarTopicContent = {
         ],
       },
       "whose copre il possesso sia per le persone sia per le cose nell'inglese formale (the book whose cover is torn), mentre of which è l'alternativa strettamente formale per le cose: the book, the cover of which is torn. Nell'inglese quotidiano, whose da solo resta di gran lunga la scelta più naturale anche per le cose — of which compare soprattutto in testi piuttosto formali o tecnici.",
-      "L'errore più comune è lasciare la preposizione alla fine dopo un pronome formale anticipato: the man to who I spoke oppure the man whom I spoke to whom sono entrambi sbagliati — una preposizione anticipata richiede whom/which subito dopo (to whom), e se il pronome viene omesso o si usa that, la preposizione torna alla fine (I spoke to), mai entrambe insieme. Un altro errore frequente: usare whom come soggetto — whom called you? è sbagliato; il soggetto resta sempre who, anche nel registro formale.",
+      "L'errore più comune è lasciare la preposizione alla fine dopo un pronome formale anticipato: the man to who I spoke oppure the man to whom I spoke to sono entrambi sbagliati — una preposizione anticipata richiede whom/which subito dopo (to whom), e se il pronome viene omesso o si usa that, la preposizione torna alla fine (I spoke to), mai entrambe insieme. Un altro errore frequente: usare whom come soggetto — whom called you? è sbagliato; il soggetto resta sempre who, anche nel registro formale.",
       "Cerca una preposizione relegata alla fine della proposizione (segno di stile quotidiano) oppure subito prima di whom/which (segno di stile formale) — le due non si combinano mai — e whose oppure of which che segnalano il possesso all'interno della proposizione.",
     ],
     de: [
@@ -87,7 +87,7 @@ export const relativePrepositions: GrammarTopicContent = {
         ],
       },
       "whose deckt Besitz sowohl für Personen als auch für Sachen im formellen Englisch ab (the book whose cover is torn), während of which die streng förmliche Alternative für Sachen ist: the book, the cover of which is torn. Im Alltagsenglisch ist whose allein bei weitem die natürlichere Wahl, auch für Sachen — of which taucht vor allem in recht formellen oder fachlichen Texten auf.",
-      "Der häufigste Fehler ist, die Präposition nach einem vorangestellten förmlichen Pronomen trotzdem am Ende stehen zu lassen: the man to who I spoke oder the man whom I spoke to whom gehen beide schief — eine vorangestellte Präposition verlangt whom/which direkt danach (to whom), und wenn das Pronomen weggelassen wird oder that benutzt wird, wandert die Präposition zurück ans Ende (I spoke to), nie beides zugleich. Ein weiterer häufiger Fehler: whom als Subjekt zu verwenden — whom called you? ist falsch; das Subjekt bleibt immer who, auch im formellen Register.",
+      "Der häufigste Fehler ist, die Präposition nach einem vorangestellten förmlichen Pronomen trotzdem am Ende stehen zu lassen: the man to who I spoke oder the man to whom I spoke to gehen beide schief — eine vorangestellte Präposition verlangt whom/which direkt danach (to whom), und wenn das Pronomen weggelassen wird oder that benutzt wird, wandert die Präposition zurück ans Ende (I spoke to), nie beides zugleich. Ein weiterer häufiger Fehler: whom als Subjekt zu verwenden — whom called you? ist falsch; das Subjekt bleibt immer who, auch im formellen Register.",
       "Achte auf eine Präposition entweder ganz am Ende eines Satzes (Zeichen für Alltagsstil) oder direkt vor whom/which (Zeichen für formellen Stil) — beides kombiniert sich nie —, sowie auf whose oder of which, die Besitz innerhalb des Satzes markieren.",
     ],
     ru: [
@@ -101,7 +101,7 @@ export const relativePrepositions: GrammarTopicContent = {
         ],
       },
       "whose обозначает принадлежность и для людей, и для предметов в формальном английском (the book whose cover is torn), а of which — строго формальный вариант для предметов: the book, the cover of which is torn. В повседневном английском одно только whose остаётся куда более естественным выбором и для предметов — of which встречается в основном в довольно официальных или технических текстах.",
-      "Самая частая ошибка — оставлять предлог в конце после вынесенного вперёд формального местоимения: the man to who I spoke или the man whom I spoke to whom — обе формы неверны; вынесенный вперёд предлог требует whom/which сразу после себя (to whom), а если местоимение опущено или используется that, предлог возвращается в конец (I spoke to), но никогда не бывает и того, и другого одновременно. Другая распространённая ошибка — использовать whom в роли подлежащего: whom called you? неправильно; подлежащее всегда остаётся who, даже в официальном стиле.",
+      "Самая частая ошибка — оставлять предлог в конце после вынесенного вперёд формального местоимения: the man to who I spoke или the man to whom I spoke to — обе формы неверны; вынесенный вперёд предлог требует whom/which сразу после себя (to whom), а если местоимение опущено или используется that, предлог возвращается в конец (I spoke to), но никогда не бывает и того, и другого одновременно. Другая распространённая ошибка — использовать whom в роли подлежащего: whom called you? неправильно; подлежащее всегда остаётся who, даже в официальном стиле.",
       "Обращайте внимание на предлог либо в самом конце придаточного (признак обычного стиля), либо прямо перед whom/which (признак формального стиля) — они никогда не сочетаются, — а также на whose или of which, обозначающие принадлежность внутри придаточного.",
     ],
     ar: [
@@ -115,7 +115,7 @@ export const relativePrepositions: GrammarTopicContent = {
         ],
       },
       "تغطي whose الملكية للأشخاص والأشياء معًا في الإنجليزية الرسمية (the book whose cover is torn)، بينما تُعد of which البديل الرسمي الصِّرف للأشياء: the book, the cover of which is torn. وفي الإنجليزية اليومية، تبقى whose وحدها الخيار الأكثر طبيعية بفارق كبير حتى للأشياء — إذ تظهر of which غالبًا في كتابة رسمية أو تقنية إلى حد كبير.",
-      "أكثر الأخطاء شيوعًا هو ترك حرف الجر في النهاية بعد ضمير رسمي مُقدَّم: كل من the man to who I spoke وthe man whom I spoke to whom خطأ — فحرف الجر المُقدَّم يتطلب whom/which مباشرة بعده (to whom)، وإذا حُذف الضمير أو استُخدمت that، يعود حرف الجر إلى النهاية (I spoke to)، ولا يحدث الأمران معًا أبدًا. وخطأ شائع آخر: استخدام whom كفاعل — whom called you؟ خطأ؛ يبقى الفاعل دائمًا who، حتى في السياق الرسمي.",
+      "أكثر الأخطاء شيوعًا هو ترك حرف الجر في النهاية بعد ضمير رسمي مُقدَّم: كل من the man to who I spoke وthe man to whom I spoke to خطأ — فحرف الجر المُقدَّم يتطلب whom/which مباشرة بعده (to whom)، وإذا حُذف الضمير أو استُخدمت that، يعود حرف الجر إلى النهاية (I spoke to)، ولا يحدث الأمران معًا أبدًا. وخطأ شائع آخر: استخدام whom كفاعل — whom called you؟ خطأ؛ يبقى الفاعل دائمًا who، حتى في السياق الرسمي.",
       "ابحث عن حرف جر إما في نهاية الجملة تمامًا (علامة على الأسلوب اليومي) أو مباشرة قبل whom/which (علامة على الأسلوب الرسمي) — ولا يجتمع الأسلوبان أبدًا — وعن whose أو of which تُشير إلى الملكية داخل الجملة.",
     ],
     zh: [
@@ -129,7 +129,7 @@ export const relativePrepositions: GrammarTopicContent = {
         ],
       },
       "在正式英语中,whose 既可以表示人的所属,也可以表示事物的所属(the book whose cover is torn),而 of which 是指物时严格意义上的正式替代形式:the book, the cover of which is torn。在日常英语中,单用 whose 对事物来说也是明显更自然的选择——of which 主要出现在相当正式或专业的文本中。",
-      "最常见的错误是:介词提前用了正式代词之后,句末又留了一个介词——the man to who I spoke 和 the man whom I spoke to whom 都是错的——提前的介词后面要紧跟 whom/which(to whom),如果省略关系代词或用 that,介词就要回到句末(I spoke to),两种做法绝不能同时出现。另一个常见错误是:把 whom 当主语用——whom called you? 是错的;主语永远用 who,即使在正式语境中也是如此。",
+      "最常见的错误是:介词提前用了正式代词之后,句末又留了一个介词——the man to who I spoke 和 the man to whom I spoke to 都是错的——提前的介词后面要紧跟 whom/which(to whom),如果省略关系代词或用 that,介词就要回到句末(I spoke to),两种做法绝不能同时出现。另一个常见错误是:把 whom 当主语用——whom called you? 是错的;主语永远用 who,即使在正式语境中也是如此。",
       "留意介词要么完全留在从句末尾(日常风格的标志),要么紧挨着放在 whom/which 前面(正式风格的标志)——这两种绝不会同时出现——以及 whose 或 of which 用来标记从句内部的所属关系。",
     ],
   },

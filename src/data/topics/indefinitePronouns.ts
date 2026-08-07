@@ -18,7 +18,7 @@ export const indefinitePronouns: GrammarTopicContent = {
         ],
       },
       {
-        intro: "Two grammar points that follow from the form:",
+        intro: "Three grammar points that follow from the form:",
         items: [
           "All these words take a singular verb, even when the meaning feels plural: Everybody is here; nothing was missing; someone has taken my seat.",
           "But the pronoun referring back to them is usually they/their in modern English: Somebody left their umbrella; if anyone calls, tell them I'm out.",
@@ -40,7 +40,7 @@ export const indefinitePronouns: GrammarTopicContent = {
         ],
       },
       {
-        intro: "Deux points de grammaire qui découlent de la forme :",
+        intro: "Trois points de grammaire qui découlent de la forme :",
         items: [
           "Tous ces mots prennent un verbe au singulier, même quand le sens paraît pluriel : Everybody is here ; nothing was missing ; someone has taken my seat.",
           "Mais le pronom qui les reprend est généralement they/their en anglais moderne : Somebody left their umbrella ; if anyone calls, tell them I'm out.",
@@ -62,7 +62,7 @@ export const indefinitePronouns: GrammarTopicContent = {
         ],
       },
       {
-        intro: "Dos puntos gramaticales que se derivan de la forma:",
+        intro: "Tres puntos gramaticales que se derivan de la forma:",
         items: [
           "Todas estas palabras llevan verbo en singular, aunque el sentido parezca plural: Everybody is here; nothing was missing; someone has taken my seat.",
           "Pero el pronombre que los retoma suele ser they/their en el inglés moderno: Somebody left their umbrella; if anyone calls, tell them I'm out.",
@@ -84,7 +84,7 @@ export const indefinitePronouns: GrammarTopicContent = {
         ],
       },
       {
-        intro: "Dois pontos gramaticais que decorrem da forma:",
+        intro: "Três pontos gramaticais que decorrem da forma:",
         items: [
           "Todas estas palavras levam verbo no singular, mesmo quando o sentido parece plural: Everybody is here; nothing was missing; someone has taken my seat.",
           "Mas o pronome que os retoma costuma ser they/their no inglês moderno: Somebody left their umbrella; if anyone calls, tell them I'm out.",
@@ -106,7 +106,7 @@ export const indefinitePronouns: GrammarTopicContent = {
         ],
       },
       {
-        intro: "Due punti grammaticali che derivano dalla forma:",
+        intro: "Tre punti grammaticali che derivano dalla forma:",
         items: [
           "Tutte queste parole vogliono il verbo al singolare, anche quando il senso sembra plurale: Everybody is here; nothing was missing; someone has taken my seat.",
           "Ma il pronome che li riprende è di solito they/their nell'inglese moderno: Somebody left their umbrella; if anyone calls, tell them I'm out.",
@@ -128,7 +128,7 @@ export const indefinitePronouns: GrammarTopicContent = {
         ],
       },
       {
-        intro: "Zwei Grammatikpunkte, die aus der Form folgen:",
+        intro: "Drei Grammatikpunkte, die aus der Form folgen:",
         items: [
           "Alle diese Wörter stehen mit einem Verb im Singular, auch wenn die Bedeutung plural wirkt: Everybody is here; nothing was missing; someone has taken my seat.",
           "Aber das rückverweisende Pronomen ist im modernen Englisch meist they/their: Somebody left their umbrella; if anyone calls, tell them I'm out.",
@@ -150,7 +150,7 @@ export const indefinitePronouns: GrammarTopicContent = {
         ],
       },
       {
-        intro: "Два грамматических момента, вытекающих из формы:",
+        intro: "Три грамматических момента, вытекающих из формы:",
         items: [
           "Все эти слова требуют глагола в единственном числе, даже если смысл кажется множественным: Everybody is here; nothing was missing; someone has taken my seat.",
           "Но местоимение, отсылающее к ним, в современном английском обычно they/their: Somebody left their umbrella; if anyone calls, tell them I'm out.",
@@ -172,7 +172,7 @@ export const indefinitePronouns: GrammarTopicContent = {
         ],
       },
       {
-        intro: "نقطتان نحويتان تنبعان من هذه الصيغة:",
+        intro: "ثلاث نقاط نحوية تنبع من هذه الصيغة:",
         items: [
           "كل هذه الكلمات تأخذ فعلًا مفردًا، حتى عندما يبدو المعنى جمعًا: Everybody is here؛ nothing was missing؛ someone has taken my seat.",
           "لكن الضمير الذي يعود عليها هو عادةً they/their في الإنجليزية الحديثة: Somebody left their umbrella؛ if anyone calls, tell them I'm out.",
@@ -194,7 +194,7 @@ export const indefinitePronouns: GrammarTopicContent = {
         ],
       },
       {
-        intro: "由这种构词法引出的两个语法要点:",
+        intro: "由这种构词法引出的三个语法要点:",
         items: [
           "这些词全部搭配单数动词,即使意思上感觉是复数:Everybody is here;nothing was missing;someone has taken my seat。",
           "但在现代英语中,回指它们的代词通常是 they/their:Somebody left their umbrella;if anyone calls, tell them I'm out。",

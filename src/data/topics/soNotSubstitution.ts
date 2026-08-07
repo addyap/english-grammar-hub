@@ -17,7 +17,7 @@ export const soNotSubstitution: GrammarTopicContent = {
           "Other verbs (think, believe, guess, suppose) more commonly negate the main verb instead of using not, especially in speech: I don't think so is more natural than I think not, though both exist.",
         ],
       },
-      "The most common mistake is repeating the full clause after these verbs when so/not would sound far more natural — Will it rain? I think it will rain is grammatically fine but unnaturally repetitive; native speakers say I think so. A second mistake is adding not after a verb that already carries the negation naturally with don't — I don't think so not is wrong (doubling the negative); choose either I don't think so or I think not, never both.",
+      "The most common mistake is repeating the full clause after these verbs when so/not would sound far more natural — Will it rain? I think it will rain is grammatically fine but unnaturally repetitive; native speakers say I think so. A second mistake is negating the main verb with hope and be afraid, which only ever take not — I don't hope so and I'm not afraid so are wrong; the negative is I hope not and I'm afraid not. With think, believe, guess and suppose the opposite holds: negating the main verb is the everyday choice, so I don't think so is more natural than I think not.",
       "Look for a yes/no question or a previous statement followed by a short opinion-verb reply (think, hope, guess, believe, expect, suppose, afraid) — if the reply agrees with a positive idea, use so; if it agrees with a negative idea, use not (or don't + think/believe/etc. + so).",
     ],
     fr: [
@@ -31,7 +31,7 @@ export const soNotSubstitution: GrammarTopicContent = {
           "D'autres verbes (think, believe, guess, suppose) nient plus souvent le verbe principal plutôt que d'utiliser not, surtout à l'oral : I don't think so est plus naturel que I think not, bien que les deux existent.",
         ],
       },
-      "L'erreur la plus fréquente est de répéter toute la proposition après ces verbes alors que so/not sonnerait bien plus naturel — Will it rain? I think it will rain est grammaticalement correct mais anormalement répétitif ; les anglophones natifs disent I think so. Une deuxième erreur est d'ajouter not après un verbe qui porte déjà la négation naturellement avec don't — I don't think so not est incorrect (double négation) ; choisissez soit I don't think so, soit I think not, jamais les deux.",
+      "L'erreur la plus fréquente est de répéter toute la proposition après ces verbes alors que so/not sonnerait bien plus naturel — Will it rain? I think it will rain est grammaticalement correct mais anormalement répétitif ; les anglophones natifs disent I think so. Une deuxième erreur est de nier le verbe principal avec hope et be afraid, qui ne prennent jamais que not — I don't hope so et I'm not afraid so sont incorrects ; la négation est I hope not et I'm afraid not. Avec think, believe, guess et suppose, c'est l'inverse : nier le verbe principal est l'usage courant, donc I don't think so est plus naturel que I think not.",
       "Repérez une question fermée ou une affirmation précédente suivie d'une courte réponse avec un verbe d'opinion (think, hope, guess, believe, expect, suppose, afraid) — si la réponse confirme une idée positive, employez so ; si elle confirme une idée négative, employez not (ou don't + think/believe/etc. + so).",
     ],
     es: [
@@ -45,7 +45,7 @@ export const soNotSubstitution: GrammarTopicContent = {
           "Otros verbos (think, believe, guess, suppose) suelen negar más a menudo el verbo principal en vez de usar not, sobre todo al hablar: I don't think so es más natural que I think not, aunque ambos existen.",
         ],
       },
-      "El error más común es repetir toda la oración después de estos verbos cuando so/not sonaría mucho más natural —Will it rain? I think it will rain es gramaticalmente correcto pero anormalmente repetitivo; los hablantes nativos dicen I think so. Un segundo error es añadir not después de un verbo que ya lleva la negación de forma natural con don't —I don't think so not es incorrecto (doble negación); elige o bien I don't think so o bien I think not, nunca ambos.",
+      "El error más común es repetir toda la oración después de estos verbos cuando so/not sonaría mucho más natural —Will it rain? I think it will rain es gramaticalmente correcto pero anormalmente repetitivo; los hablantes nativos dicen I think so. Un segundo error es negar el verbo principal con hope y be afraid, que solo admiten not —I don't hope so y I'm not afraid so son incorrectos; la negación es I hope not e I'm afraid not. Con think, believe, guess y suppose ocurre lo contrario: negar el verbo principal es lo habitual, así que I don't think so es más natural que I think not.",
       "Busca una pregunta de sí/no o una afirmación anterior seguida de una respuesta breve con un verbo de opinión (think, hope, guess, believe, expect, suppose, afraid) —si la respuesta confirma una idea positiva, usa so; si confirma una idea negativa, usa not (o don't + think/believe/etc. + so).",
     ],
     pt: [
@@ -59,7 +59,7 @@ export const soNotSubstitution: GrammarTopicContent = {
           "Outros verbos (think, believe, guess, suppose) costumam negar mais frequentemente o verbo principal em vez de usar not, sobretudo na fala: I don't think so é mais natural do que I think not, embora ambos existam.",
         ],
       },
-      "O erro mais comum é repetir toda a oração depois destes verbos quando so/not soaria muito mais natural —Will it rain? I think it will rain é gramaticalmente correto mas anormalmente repetitivo; os falantes nativos dizem I think so. Um segundo erro é acrescentar not depois de um verbo que já leva a negação naturalmente com don't —I don't think so not está errado (dupla negação); escolhe I don't think so ou I think not, nunca os dois.",
+      "O erro mais comum é repetir toda a oração depois destes verbos quando so/not soaria muito mais natural —Will it rain? I think it will rain é gramaticalmente correto mas anormalmente repetitivo; os falantes nativos dizem I think so. Um segundo erro é negar o verbo principal com hope e be afraid, que só admitem not —I don't hope so e I'm not afraid so estão errados; a negação é I hope not e I'm afraid not. Com think, believe, guess e suppose passa-se o contrário: negar o verbo principal é o uso corrente, por isso I don't think so é mais natural do que I think not.",
       "Procura uma pergunta de sim/não ou uma afirmação anterior seguida de uma resposta curta com um verbo de opinião (think, hope, guess, believe, expect, suppose, afraid) —se a resposta confirma uma ideia positiva, usa so; se confirma uma ideia negativa, usa not (ou don't + think/believe/etc. + so).",
     ],
     it: [
@@ -73,7 +73,7 @@ export const soNotSubstitution: GrammarTopicContent = {
           "Altri verbi (think, believe, guess, suppose) negano più spesso il verbo principale invece di usare not, soprattutto nel parlato: I don't think so è più naturale di I think not, anche se entrambi esistono.",
         ],
       },
-      "L'errore più comune è ripetere l'intera proposizione dopo questi verbi quando so/not suonerebbe molto più naturale — Will it rain? I think it will rain è grammaticalmente corretto ma innaturalmente ripetitivo; i madrelingua dicono I think so. Un secondo errore è aggiungere not dopo un verbo che porta già la negazione in modo naturale con don't — I don't think so not è sbagliato (doppia negazione); scegli I don't think so oppure I think not, mai entrambi.",
+      "L'errore più comune è ripetere l'intera proposizione dopo questi verbi quando so/not suonerebbe molto più naturale — Will it rain? I think it will rain è grammaticalmente corretto ma innaturalmente ripetitivo; i madrelingua dicono I think so. Un secondo errore è negare il verbo principale con hope e be afraid, che ammettono solo not — I don't hope so e I'm not afraid so sono sbagliati; la negazione è I hope not e I'm afraid not. Con think, believe, guess e suppose vale il contrario: negare il verbo principale è la scelta corrente, quindi I don't think so è più naturale di I think not.",
       "Cerca una domanda sì/no o un'affermazione precedente seguita da una breve risposta con un verbo di opinione (think, hope, guess, believe, expect, suppose, afraid) — se la risposta conferma un'idea positiva, usa so; se conferma un'idea negativa, usa not (oppure don't + think/believe/ecc. + so).",
     ],
     de: [
@@ -87,7 +87,7 @@ export const soNotSubstitution: GrammarTopicContent = {
           "Andere Verben (think, believe, guess, suppose) verneinen häufiger das Hauptverb, statt not zu benutzen, besonders in der gesprochenen Sprache: I don't think so ist natürlicher als I think not, obwohl beide existieren.",
         ],
       },
-      "Der häufigste Fehler ist, nach diesen Verben den ganzen Nebensatz zu wiederholen, obwohl so/not viel natürlicher klingen würde — Will it rain? I think it will rain ist grammatisch korrekt, aber unnatürlich repetitiv; Muttersprachler sagen I think so. Ein zweiter Fehler ist, not nach einem Verb hinzuzufügen, das die Verneinung schon natürlich mit don't trägt — I don't think so not ist falsch (doppelte Verneinung); wähle entweder I don't think so oder I think not, nie beides.",
+      "Der häufigste Fehler ist, nach diesen Verben den ganzen Nebensatz zu wiederholen, obwohl so/not viel natürlicher klingen würde — Will it rain? I think it will rain ist grammatisch korrekt, aber unnatürlich repetitiv; Muttersprachler sagen I think so. Ein zweiter Fehler ist, bei hope und be afraid das Hauptverb zu verneinen, obwohl diese nur not zulassen — I don't hope so und I'm not afraid so sind falsch; die Verneinung lautet I hope not und I'm afraid not. Bei think, believe, guess und suppose gilt das Gegenteil: die Verneinung des Hauptverbs ist der Alltagsfall, also ist I don't think so natürlicher als I think not.",
       "Achte auf eine Ja/Nein-Frage oder eine vorherige Aussage, gefolgt von einer kurzen Antwort mit einem Meinungsverb (think, hope, guess, believe, expect, suppose, afraid) — stimmt die Antwort einer positiven Aussage zu, benutze so; stimmt sie einer negativen Aussage zu, benutze not (oder don't + think/believe/usw. + so).",
     ],
     ru: [
@@ -101,7 +101,7 @@ export const soNotSubstitution: GrammarTopicContent = {
           "Другие глаголы (think, believe, guess, suppose) чаще отрицают само главное сказуемое вместо использования not, особенно в устной речи: I don't think so звучит естественнее, чем I think not, хотя оба варианта существуют.",
         ],
       },
-      "Самая частая ошибка — повторять всё придаточное после этих глаголов, когда so/not звучало бы гораздо естественнее: Will it rain? I think it will rain грамматически верно, но неестественно многословно; носители языка говорят I think so. Вторая ошибка — добавлять not после глагола, который уже несёт отрицание естественным образом с don't: I don't think so not неверно (двойное отрицание); выбирайте либо I don't think so, либо I think not, никогда не оба сразу.",
+      "Самая частая ошибка — повторять всё придаточное после этих глаголов, когда so/not звучало бы гораздо естественнее: Will it rain? I think it will rain грамматически верно, но неестественно многословно; носители языка говорят I think so. Вторая ошибка — отрицать основной глагол при hope и be afraid, которые допускают только not: I don't hope so и I'm not afraid so неверны; отрицание — I hope not и I'm afraid not. С think, believe, guess и suppose всё наоборот: отрицание основного глагола и есть обычный вариант, поэтому I don't think so естественнее, чем I think not.",
       "Ищите вопрос типа да/нет или предыдущее утверждение, за которым следует короткий ответ с глаголом мнения (think, hope, guess, believe, expect, suppose, afraid) — если ответ подтверждает положительную мысль, используйте so; если отрицательную — используйте not (или don't + think/believe/и т. д. + so).",
     ],
     ar: [
@@ -115,7 +115,7 @@ export const soNotSubstitution: GrammarTopicContent = {
           "تميل أفعال أخرى (think, believe, guess, suppose) إلى نفي الفعل الرئيسي بدلاً من استخدام not، خاصةً في الكلام: I don't think so أكثر طبيعية من I think not، رغم وجود الصيغتين.",
         ],
       },
-      "أكثر الأخطاء شيوعًا هو تكرار الجملة كاملةً بعد هذه الأفعال بينما تبدو so/not أكثر طبيعية بكثير — تُعد Will it rain? I think it will rain صحيحة نحويًا لكنها مكررة بشكل غير طبيعي؛ يقول المتحدثون الأصليون I think so. وخطأ ثانٍ هو إضافة not بعد فعل يحمل بالفعل النفي بشكل طبيعي مع don't — I don't think so not خطأ (نفي مزدوج)؛ اختر إما I don't think so أو I think not، لا كليهما معًا.",
+      "أكثر الأخطاء شيوعًا هو تكرار الجملة كاملةً بعد هذه الأفعال بينما تبدو so/not أكثر طبيعية بكثير — تُعد Will it rain? I think it will rain صحيحة نحويًا لكنها مكررة بشكل غير طبيعي؛ يقول المتحدثون الأصليون I think so. وخطأ ثانٍ هو نفي الفعل الرئيسي مع hope وbe afraid، وهما لا يقبلان إلا not — فجملتا I don't hope so وI'm not afraid so خطأ؛ والنفي الصحيح هو I hope not وI'm afraid not. أما مع think وbelieve وguess وsuppose فالعكس هو الصحيح: نفي الفعل الرئيسي هو المعتاد، فتكون I don't think so أطبع من I think not.",
       "ابحث عن سؤال بنعم/لا أو جملة سابقة يتبعها ردّ قصير بفعل رأي (think, hope, guess, believe, expect, suppose, afraid) — إذا كان الردّ يوافق فكرة إيجابية، استخدم so؛ وإذا كان يوافق فكرة سلبية، استخدم not (أو don't + think/believe/إلخ + so).",
     ],
     zh: [
@@ -129,7 +129,7 @@ export const soNotSubstitution: GrammarTopicContent = {
           "其他动词(think, believe, guess, suppose)更常见的做法是否定主要动词,而不是用 not,尤其是在口语中:I don't think so 比 I think not 更自然,不过两种说法都存在。",
         ],
       },
-      "最常见的错误是在这些动词后面重复整个从句,而用 so/not 会自然得多——Will it rain? I think it will rain 语法上没问题,但显得不自然、啰嗦;母语者会说 I think so。第二个常见错误是在已经用 don't 自然表达否定的动词后面再加 not——I don't think so not 是错误的(双重否定);要么选 I don't think so,要么选 I think not,绝不能两个一起用。",
+      "最常见的错误是在这些动词后面重复整个从句,而用 so/not 会自然得多——Will it rain? I think it will rain 语法上没问题,但显得不自然、啰嗦;母语者会说 I think so。第二个常见错误是对 hope 和 be afraid 否定主动词,而这两个词只能用 not——I don't hope so 和 I'm not afraid so 都是错的;正确的否定是 I hope not 和 I'm afraid not。而 think、believe、guess、suppose 恰恰相反:否定主动词才是日常说法,所以 I don't think so 比 I think not 自然。",
       "留意一个是/否问句,或者前面的一句话,后面跟着一个带看法动词的简短回答(think, hope, guess, believe, expect, suppose, afraid)——如果回答肯定的是一个正面的想法,用 so;如果肯定的是一个负面的想法,用 not(或者用 don't + think/believe 等 + so)。",
     ],
   },

@@ -17,7 +17,7 @@ export const whoeverWhateverWhichever: GrammarTopicContent = {
           "however can join this family too, but modifies an adjective or adverb rather than standing for a person or thing: However difficult it is, keep trying (no matter how difficult).",
         ],
       },
-      "The most common mistake is using whoever/whatever/whichever with if, doubling the concessive meaning — Whatever if you choose is wrong; the -ever word alone already carries the 'no matter' meaning: Whatever you choose. A second mistake is confusing whoever with whomever in formal writing — whoever is the subject form (Whoever calls, put them through — whoever is the subject of calls), whomever is the (increasingly rare) object form (Give it to whomever you trust — whomever is the object of trust).",
+      "The most common mistake is stacking a second concessive marker on top of the -ever word — no matter whatever you choose and whatever if you choose are both wrong; the -ever word alone already carries the 'no matter' meaning: Whatever you choose. A second mistake is confusing whoever with whomever in formal writing — whoever is the subject form (Whoever calls, put them through — whoever is the subject of calls), whomever is the (increasingly rare) object form (Give it to whomever you trust — whomever is the object of trust).",
       "Look for a wh-word + ever with no separate antecedent noun before it — if it means 'any person/thing that', it's the free-relative use; if it opens a sentence with a comma before a full result clause and means 'no matter who/what/which', it's the concessive use. Check whether options are limited and known (whichever) or open-ended (whoever/whatever).",
     ],
     fr: [
@@ -31,7 +31,7 @@ export const whoeverWhateverWhichever: GrammarTopicContent = {
           "however peut aussi rejoindre cette famille, mais modifie un adjectif ou un adverbe plutôt que de représenter une personne ou une chose : However difficult it is, keep trying (peu importe la difficulté).",
         ],
       },
-      "L'erreur la plus fréquente est d'employer whoever/whatever/whichever avec if, doublant le sens concessif — Whatever if you choose est incorrect ; le mot en -ever porte déjà à lui seul le sens « peu importe » : Whatever you choose. Une deuxième erreur est de confondre whoever et whomever à l'écrit soutenu — whoever est la forme sujet (Whoever calls, put them through — whoever est le sujet de calls), whomever est la forme objet (de plus en plus rare) (Give it to whomever you trust — whomever est l'objet de trust).",
+      "L'erreur la plus fréquente est d'ajouter un second marqueur concessif au mot en -ever — no matter whatever you choose et whatever if you choose sont tous deux incorrects ; le mot en -ever porte déjà à lui seul le sens « peu importe » : Whatever you choose. Une deuxième erreur est de confondre whoever et whomever à l'écrit soutenu — whoever est la forme sujet (Whoever calls, put them through — whoever est le sujet de calls), whomever est la forme objet (de plus en plus rare) (Give it to whomever you trust — whomever est l'objet de trust).",
       "Repérez un mot en wh- + ever sans antécédent nominal séparé devant lui — s'il signifie « toute personne/chose qui », c'est l'emploi en relative libre ; s'il ouvre une phrase avec une virgule avant une proposition de résultat complète et signifie « peu importe qui/quoi/lequel », c'est l'emploi concessif. Vérifiez si les options sont limitées et connues (whichever) ou ouvertes (whoever/whatever).",
     ],
     es: [
@@ -45,7 +45,7 @@ export const whoeverWhateverWhichever: GrammarTopicContent = {
           "however también puede unirse a esta familia, pero modifica a un adjetivo o adverbio en vez de representar a una persona o cosa: However difficult it is, keep trying (no importa lo difícil que sea).",
         ],
       },
-      "El error más común es usar whoever/whatever/whichever con if, duplicando el sentido concesivo —Whatever if you choose es incorrecto; la palabra en -ever ya lleva por sí sola el sentido de «no importa»: Whatever you choose. Un segundo error es confundir whoever con whomever en la escritura formal —whoever es la forma de sujeto (Whoever calls, put them through —whoever es el sujeto de calls), whomever es la forma de objeto (cada vez más rara) (Give it to whomever you trust —whomever es el objeto de trust).",
+      "El error más común es añadir un segundo marcador concesivo a la palabra en -ever —no matter whatever you choose y whatever if you choose son ambos incorrectos; la palabra en -ever ya lleva por sí sola el sentido de «no importa»: Whatever you choose. Un segundo error es confundir whoever con whomever en la escritura formal —whoever es la forma de sujeto (Whoever calls, put them through —whoever es el sujeto de calls), whomever es la forma de objeto (cada vez más rara) (Give it to whomever you trust —whomever es el objeto de trust).",
       "Busca una palabra wh- + ever sin un sustantivo antecedente aparte delante —si significa «cualquier persona/cosa que», es el uso de relativa libre; si abre una frase con una coma antes de una oración de resultado completa y significa «no importa quién/qué/cuál», es el uso concesivo. Comprueba si las opciones son limitadas y conocidas (whichever) o abiertas (whoever/whatever).",
     ],
     pt: [
@@ -59,7 +59,7 @@ export const whoeverWhateverWhichever: GrammarTopicContent = {
           "however também pode juntar-se a esta família, mas modifica um adjetivo ou advérbio em vez de representar uma pessoa ou coisa: However difficult it is, keep trying (não importa quão difícil seja).",
         ],
       },
-      "O erro mais comum é usar whoever/whatever/whichever com if, duplicando o sentido concessivo —Whatever if you choose está errado; a palavra em -ever já leva sozinha o sentido de «não importa»: Whatever you choose. Um segundo erro é confundir whoever com whomever na escrita formal —whoever é a forma de sujeito (Whoever calls, put them through —whoever é o sujeito de calls), whomever é a forma de objeto (cada vez mais rara) (Give it to whomever you trust —whomever é o objeto de trust).",
+      "O erro mais comum é acrescentar um segundo marcador concessivo à palavra em -ever —no matter whatever you choose e whatever if you choose estão ambos errados; a palavra em -ever já leva sozinha o sentido de «não importa»: Whatever you choose. Um segundo erro é confundir whoever com whomever na escrita formal —whoever é a forma de sujeito (Whoever calls, put them through —whoever é o sujeito de calls), whomever é a forma de objeto (cada vez mais rara) (Give it to whomever you trust —whomever é o objeto de trust).",
       "Procura uma palavra wh- + ever sem um substantivo antecedente separado antes dela —se significa «qualquer pessoa/coisa que», é o uso de relativa livre; se abre uma frase com uma vírgula antes de uma oração de resultado completa e significa «não importa quem/o quê/qual», é o uso concessivo. Verifica se as opções são limitadas e conhecidas (whichever) ou abertas (whoever/whatever).",
     ],
     it: [
@@ -73,7 +73,7 @@ export const whoeverWhateverWhichever: GrammarTopicContent = {
           "however può unirsi anche a questa famiglia, ma modifica un aggettivo o un avverbio invece di rappresentare una persona o una cosa: However difficult it is, keep trying (non importa quanto sia difficile).",
         ],
       },
-      "L'errore più comune è usare whoever/whatever/whichever con if, raddoppiando il significato concessivo — Whatever if you choose è sbagliato; la parola in -ever porta già da sola il significato di «non importa»: Whatever you choose. Un secondo errore è confondere whoever con whomever nello scritto formale — whoever è la forma soggetto (Whoever calls, put them through — whoever è il soggetto di calls), whomever è la forma oggetto (sempre più rara) (Give it to whomever you trust — whomever è l'oggetto di trust).",
+      "L'errore più comune è aggiungere un secondo marcatore concessivo alla parola in -ever — no matter whatever you choose e whatever if you choose sono entrambi sbagliati; la parola in -ever porta già da sola il significato di «non importa»: Whatever you choose. Un secondo errore è confondere whoever con whomever nello scritto formale — whoever è la forma soggetto (Whoever calls, put them through — whoever è il soggetto di calls), whomever è la forma oggetto (sempre più rara) (Give it to whomever you trust — whomever è l'oggetto di trust).",
       "Cerca una parola wh- + ever senza un nome antecedente separato prima di essa — se significa «qualsiasi persona/cosa che», è l'uso relativo libero; se apre una frase con una virgola prima di una proposizione di risultato completa e significa «non importa chi/cosa/quale», è l'uso concessivo. Controlla se le opzioni sono limitate e note (whichever) o aperte (whoever/whatever).",
     ],
     de: [
@@ -87,7 +87,7 @@ export const whoeverWhateverWhichever: GrammarTopicContent = {
           "however kann sich dieser Familie ebenfalls anschließen, verändert aber ein Adjektiv oder Adverb, statt für eine Person oder Sache zu stehen: However difficult it is, keep trying (egal, wie schwierig es ist).",
         ],
       },
-      "Der häufigste Fehler ist, whoever/whatever/whichever zusammen mit if zu benutzen und so die konzessive Bedeutung zu verdoppeln — Whatever if you choose ist falsch; das -ever-Wort trägt die 'egal'-Bedeutung bereits allein: Whatever you choose. Ein zweiter Fehler ist, whoever mit whomever im formellen Schreiben zu verwechseln — whoever ist die Subjektform (Whoever calls, put them through — whoever ist das Subjekt von calls), whomever ist die (zunehmend seltene) Objektform (Give it to whomever you trust — whomever ist das Objekt von trust).",
+      "Der häufigste Fehler ist, dem -ever-Wort einen zweiten konzessiven Marker hinzuzufügen — no matter whatever you choose und whatever if you choose sind beide falsch; das -ever-Wort trägt die 'egal'-Bedeutung bereits allein: Whatever you choose. Ein zweiter Fehler ist, whoever mit whomever im formellen Schreiben zu verwechseln — whoever ist die Subjektform (Whoever calls, put them through — whoever ist das Subjekt von calls), whomever ist die (zunehmend seltene) Objektform (Give it to whomever you trust — whomever ist das Objekt von trust).",
       "Achte auf ein wh-Wort + ever ohne separates vorangehendes Bezugsnomen — bedeutet es 'jede Person/Sache, die', ist es die freie Relativverwendung; eröffnet es einen Satz mit Komma vor einem vollständigen Ergebnissatz und bedeutet 'egal wer/was/welche', ist es die konzessive Verwendung. Prüfe, ob die Optionen begrenzt und bekannt sind (whichever) oder offen (whoever/whatever).",
     ],
     ru: [
@@ -101,7 +101,7 @@ export const whoeverWhateverWhichever: GrammarTopicContent = {
           "however тоже может присоединиться к этому семейству, но изменяет прилагательное или наречие, а не обозначает человека или вещь: However difficult it is, keep trying (неважно, насколько это трудно).",
         ],
       },
-      "Самая частая ошибка — использовать whoever/whatever/whichever вместе с if, удваивая уступительное значение: Whatever if you choose неверно; слово на -ever само по себе уже несёт значение 'неважно': Whatever you choose. Вторая ошибка — путать whoever с whomever в формальном письме: whoever — форма подлежащего (Whoever calls, put them through — whoever является подлежащим calls), whomever — (всё более редкая) форма дополнения (Give it to whomever you trust — whomever является дополнением trust).",
+      "Самая частая ошибка — добавлять к слову на -ever второй уступительный маркер: no matter whatever you choose и whatever if you choose одинаково неверны; слово на -ever само по себе уже несёт значение 'неважно': Whatever you choose. Вторая ошибка — путать whoever с whomever в формальном письме: whoever — форма подлежащего (Whoever calls, put them through — whoever является подлежащим calls), whomever — (всё более редкая) форма дополнения (Give it to whomever you trust — whomever является дополнением trust).",
       "Ищите wh-слово + ever без отдельного предшествующего существительного-антецедента — если оно означает 'любой человек/вещь, который', это свободное относительное употребление; если оно открывает предложение с запятой перед полным придаточным результата и означает 'неважно кто/что/какой', это уступительное употребление. Проверьте, ограничены ли варианты и известны ли они (whichever) или открыты (whoever/whatever).",
     ],
     ar: [
@@ -115,7 +115,7 @@ export const whoeverWhateverWhichever: GrammarTopicContent = {
           "يمكن أن تنضم however أيضًا إلى هذه العائلة، لكنها تُعدّل صفة أو ظرفًا بدلاً من أن تمثل شخصًا أو شيئًا: However difficult it is, keep trying (بغض النظر عن مدى الصعوبة).",
         ],
       },
-      "أكثر الأخطاء شيوعًا هو استخدام whoever/whatever/whichever مع if، مما يُضاعف المعنى التنازلي — Whatever if you choose خطأ؛ فالكلمة المنتهية بـ-ever تحمل بمفردها بالفعل معنى 'بغض النظر': Whatever you choose. وخطأ ثانٍ هو الخلط بين whoever وwhomever في الكتابة الرسمية — whoever هي صيغة الفاعل (Whoever calls, put them through — whoever فاعل calls)، وwhomever هي صيغة المفعول (النادرة بشكل متزايد) (Give it to whomever you trust — whomever مفعول trust).",
+      "أكثر الأخطاء شيوعًا هو إضافة أداة تنازل ثانية إلى الكلمة المنتهية بـ-ever — فكل من no matter whatever you choose وwhatever if you choose خطأ؛ فالكلمة المنتهية بـ-ever تحمل بمفردها بالفعل معنى 'بغض النظر': Whatever you choose. وخطأ ثانٍ هو الخلط بين whoever وwhomever في الكتابة الرسمية — whoever هي صيغة الفاعل (Whoever calls, put them through — whoever فاعل calls)، وwhomever هي صيغة المفعول (النادرة بشكل متزايد) (Give it to whomever you trust — whomever مفعول trust).",
       "ابحث عن كلمة wh- + ever دون اسم موصوف منفصل قبلها — إذا كانت تعني 'أي شخص/شيء'، فهذا هو الاستخدام الموصول الحر؛ وإذا افتتحت جملة بفاصلة قبل جملة نتيجة كاملة وعنت 'بغض النظر عمن/عمّا/عن أيهما'، فهذا هو الاستخدام التنازلي. تحقق مما إذا كانت الخيارات محدودة ومعروفة (whichever) أم مفتوحة (whoever/whatever).",
     ],
     zh: [
@@ -129,7 +129,7 @@ export const whoeverWhateverWhichever: GrammarTopicContent = {
           "however 也可以归入这一类,但它修饰的是形容词或副词,而不是代表一个人或事物:However difficult it is, keep trying(不管有多难)。",
         ],
       },
-      "最常见的错误是把 whoever/whatever/whichever 和 if 一起使用,造成让步意义的重复——Whatever if you choose 是错误的;-ever 结尾的词本身就已经带有'不管'的意思:Whatever you choose。第二个常见错误是在正式写作中混淆 whoever 和 whomever——whoever 是主格形式(Whoever calls, put them through——whoever 是 calls 的主语),whomever 是(越来越少见的)宾格形式(Give it to whomever you trust——whomever 是 trust 的宾语)。",
+      "最常见的错误是在 -ever 结尾的词上再叠加一个让步标记——no matter whatever you choose 和 whatever if you choose 都是错误的;-ever 结尾的词本身就已经带有'不管'的意思:Whatever you choose。第二个常见错误是在正式写作中混淆 whoever 和 whomever——whoever 是主格形式(Whoever calls, put them through——whoever 是 calls 的主语),whomever 是(越来越少见的)宾格形式(Give it to whomever you trust——whomever 是 trust 的宾语)。",
       "留意一个 wh- + ever 的词,前面没有单独的先行名词——如果它的意思是'任何……的人/事物',那就是自由关系从句用法;如果它以逗号开头引出一个完整的结果从句,意思是'不管是谁/什么/哪一个',那就是让步用法。检查选项是有限且已知的(whichever),还是开放式的(whoever/whatever)。",
     ],
   },

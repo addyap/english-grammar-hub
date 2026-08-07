@@ -19,7 +19,7 @@ export const anotherVsOtherVsTheOther: GrammarTopicContent = {
           "the others (no noun): a pronoun standing in for 'the other + plural noun' from a specific, limited group — I found two files; the others are still missing.",
         ],
       },
-      "The most common mistake is using another with a plural noun — another cars or another people are both wrong, since another only ever attaches to a singular countable noun; the plural form is other cars. A second frequent error is using other alone (without the) when a specific, limited set is meant — after mentioning one of two friends, saying other friend is unlimited works instead of the specific the other friend. If a definite, known set is in mind, the is required.",
+      "The most common mistake is using another with a plural noun — another cars or another people are both wrong, since another only ever attaches to a singular countable noun; the plural form is other cars. A second frequent error is using other alone (without the) when a specific, limited set is meant — after mentioning one of two friends, saying other friend suggests an unlimited set, when the specific the other friend is what's needed. If a definite, known set is in mind, the is required.",
       "Watch for these signals: a specific number already mentioned (two, three, both) usually points to the other/the others for what's left; an open, unspecified quantity points to another or other/others; a singular noun after these words almost always takes another or the other, never other alone.",
     ],
     fr: [

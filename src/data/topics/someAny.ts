@@ -8,7 +8,7 @@ export const someAny: GrammarTopicContent = {
   explanations: {
     en: [
       "Use some in affirmative sentences, and in questions that are offers or requests, where you expect the answer to be yes: I have some books; would you like some tea? (an offer). Use any in negative sentences and most other questions, where you don't know or expect the answer: I don't have any books; do you have any siblings?",
-      "Both some and any combine with plural countable nouns (some books, any apples) and uncountable nouns (some water, any information) — never with singular countable nouns (not some book, not any apple).",
+      "Both some and any combine with plural countable nouns (some books, any apples) and uncountable nouns (some water, any information), not with singular countable nouns in this quantity sense — not some book, not any apple. There is one exception, covered below: any meaning 'it doesn't matter which' does attach to a singular noun — take any book you like.",
       {
         intro: "A few special cases worth knowing:",
         items: [
@@ -22,7 +22,7 @@ export const someAny: GrammarTopicContent = {
     ],
     fr: [
       "Employez some dans les phrases affirmatives, et dans les questions qui sont des offres ou des demandes, où vous vous attendez à une réponse positive : I have some books ; would you like some tea? (une offre). Employez any dans les phrases négatives et dans la plupart des autres questions, où vous ne connaissez pas ou n'attendez pas la réponse : I don't have any books ; do you have any siblings?",
-      "Some et any se combinent tous deux avec un nom pluriel dénombrable (some books, any apples) et un nom indénombrable (some water, any information) — jamais avec un nom dénombrable singulier (pas some book, pas any apple).",
+      "Some et any se combinent tous deux avec un nom pluriel dénombrable (some books, any apples) et un nom indénombrable (some water, any information), mais pas avec un nom dénombrable singulier dans ce sens quantitatif : pas some book, pas any apple. Il existe une exception, traitée plus bas : any au sens de « peu importe lequel » s'emploie bien avec un nom singulier — take any book you like.",
       {
         intro: "Quelques cas particuliers à connaître :",
         items: [
@@ -36,7 +36,7 @@ export const someAny: GrammarTopicContent = {
     ],
     es: [
       "Usa some en frases afirmativas, y en preguntas que son ofrecimientos o peticiones, donde esperas una respuesta afirmativa: I have some books; would you like some tea? (un ofrecimiento). Usa any en frases negativas y en la mayoría de las demás preguntas, donde no sabes o no esperas la respuesta: I don't have any books; do you have any siblings?",
-      "Tanto some como any se combinan con un sustantivo plural contable (some books, any apples) y con un sustantivo incontable (some water, any information) — nunca con un sustantivo contable en singular (no some book, no any apple).",
+      "Tanto some como any se combinan con un sustantivo plural contable (some books, any apples) y con un sustantivo incontable (some water, any information), pero no con un sustantivo contable en singular en este sentido cuantitativo: no some book, no any apple. Hay una excepción, tratada más abajo: any con el sentido de «da igual cuál» sí acompaña a un sustantivo singular — take any book you like.",
       {
         intro: "Algunos casos especiales que conviene conocer:",
         items: [
@@ -50,7 +50,7 @@ export const someAny: GrammarTopicContent = {
     ],
     pt: [
       "Usa some em frases afirmativas, e em perguntas que são ofertas ou pedidos, em que esperas uma resposta positiva: I have some books; would you like some tea? (uma oferta). Usa any em frases negativas e na maioria das outras perguntas, em que não sabes ou não esperas a resposta: I don't have any books; do you have any siblings?",
-      "Tanto some como any se combinam com um substantivo plural contável (some books, any apples) e com um substantivo incontável (some water, any information) — nunca com um substantivo contável no singular (não some book, não any apple).",
+      "Tanto some como any se combinam com um substantivo plural contável (some books, any apples) e com um substantivo incontável (some water, any information), mas não com um substantivo contável no singular neste sentido quantitativo: não some book, não any apple. Há uma exceção, tratada mais abaixo: any com o sentido de «não importa qual» acompanha de facto um substantivo no singular — take any book you like.",
       {
         intro: "Alguns casos especiais que vale a pena conhecer:",
         items: [
@@ -64,7 +64,7 @@ export const someAny: GrammarTopicContent = {
     ],
     it: [
       "Usa some nelle frasi affermative, e nelle domande che sono offerte o richieste, dove ti aspetti una risposta affermativa: I have some books; would you like some tea? (un'offerta). Usa any nelle frasi negative e nella maggior parte delle altre domande, dove non conosci o non ti aspetti la risposta: I don't have any books; do you have any siblings?",
-      "Sia some sia any si combinano con un nome plurale numerabile (some books, any apples) e con un nome non numerabile (some water, any information) — mai con un nome numerabile singolare (non some book, non any apple).",
+      "Sia some sia any si combinano con un nome plurale numerabile (some books, any apples) e con un nome non numerabile (some water, any information), ma non con un nome numerabile singolare in questo senso quantitativo: non some book, non any apple. C'è un'eccezione, trattata più sotto: any nel senso di «non importa quale» accompagna eccome un nome singolare — take any book you like.",
       {
         intro: "Alcuni casi particolari da conoscere:",
         items: [
@@ -78,7 +78,7 @@ export const someAny: GrammarTopicContent = {
     ],
     de: [
       "Benutze some in bejahten Sätzen und in Fragen, die ein Angebot oder eine Bitte sind, bei denen du eine zustimmende Antwort erwartest: I have some books; would you like some tea? (ein Angebot). Benutze any in verneinten Sätzen und den meisten anderen Fragen, bei denen du die Antwort nicht kennst oder nicht erwartest: I don't have any books; do you have any siblings?",
-      "Sowohl some als auch any stehen mit einem zählbaren Plural-Nomen (some books, any apples) und mit einem nicht zählbaren Nomen (some water, any information) — nie mit einem zählbaren Singular-Nomen (nicht some book, nicht any apple).",
+      "Sowohl some als auch any stehen mit einem zählbaren Plural-Nomen (some books, any apples) und mit einem nicht zählbaren Nomen (some water, any information), aber in dieser Mengenbedeutung nicht mit einem zählbaren Singular-Nomen: nicht some book, nicht any apple. Es gibt eine Ausnahme, die weiter unten behandelt wird: any in der Bedeutung „egal welche(r)“ steht sehr wohl mit einem Singular-Nomen — take any book you like.",
       {
         intro: "Ein paar Sonderfälle, die man kennen sollte:",
         items: [
@@ -92,7 +92,7 @@ export const someAny: GrammarTopicContent = {
     ],
     ru: [
       "Используйте some в утвердительных предложениях, а также в вопросах, которые являются предложением или просьбой, когда вы ожидаете утвердительный ответ: I have some books; would you like some tea? (предложение). Используйте any в отрицательных предложениях и в большинстве других вопросов, когда вы не знаете или не ожидаете ответа: I don't have any books; do you have any siblings?",
-      "И some, и any сочетаются с исчисляемым существительным во множественном числе (some books, any apples) и с неисчисляемым существительным (some water, any information) — но никогда с исчисляемым существительным в единственном числе (не some book, не any apple).",
+      "И some, и any сочетаются с исчисляемым существительным во множественном числе (some books, any apples) и с неисчисляемым существительным (some water, any information), но не с исчисляемым существительным в единственном числе в этом количественном значении: не some book, не any apple. Есть одно исключение, разобранное ниже: any в значении «неважно какой» как раз сочетается с существительным в единственном числе — take any book you like.",
       {
         intro: "Несколько особых случаев, которые полезно знать:",
         items: [
@@ -106,7 +106,7 @@ export const someAny: GrammarTopicContent = {
     ],
     ar: [
       "استخدم some في الجمل المثبتة، وفي الأسئلة التي تكون عرضًا أو طلبًا حيث تتوقع إجابة بالموافقة: I have some books؛ would you like some tea؟ (عرض). استخدم any في الجمل المنفية ومعظم الأسئلة الأخرى، حيث لا تعرف الإجابة أو لا تتوقعها: I don't have any books؛ do you have any siblings؟",
-      "تُستخدم كل من some وany مع الاسم الجمع المعدود (some books، any apples) والاسم غير المعدود (some water، any information) — ولا تُستخدمان أبدًا مع اسم مفرد معدود (ليس some book ولا any apple).",
+      "تُستخدم كل من some وany مع الاسم الجمع المعدود (some books، any apples) والاسم غير المعدود (some water، any information)، ولا تُستخدمان مع اسم مفرد معدود في معنى الكمية هذا: ليس some book ولا any apple. وثمة استثناء واحد يأتي شرحه أدناه: any بمعنى «أيًّا كان» تُستخدم فعلًا مع اسم مفرد — take any book you like.",
       {
         intro: "بعض الحالات الخاصة الجديرة بالمعرفة:",
         items: [
@@ -120,7 +120,7 @@ export const someAny: GrammarTopicContent = {
     ],
     zh: [
       "在肯定句中使用 some,以及在表示提议或请求、期待对方回答「是」的疑问句中也用 some:I have some books;would you like some tea?(提议)。在否定句和大多数其他疑问句中使用 any,这些情况下你不知道或不期待特定答案:I don't have any books;do you have any siblings?",
-      "some 和 any 都可以与可数名词复数(some books、any apples)以及不可数名词(some water、any information)连用——但绝不与单数可数名词连用(不能说 some book,也不能说 any apple)。",
+      "some 和 any 都可以与可数名词复数(some books、any apples)以及不可数名词(some water、any information)连用,但在这种表示数量的用法中不与单数可数名词连用:不能说 some book,也不能说 any apple。不过有一个例外,下文会讲到:表示「哪个都行」的 any 确实可以接单数名词——take any book you like。",
       {
         intro: "几个值得了解的特殊情况:",
         items: [
