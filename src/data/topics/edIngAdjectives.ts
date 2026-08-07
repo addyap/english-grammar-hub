@@ -17,7 +17,7 @@ export const edIngAdjectives: GrammarTopicContent = {
           "The same person can occasionally be described both ways with different meanings: a boring person makes others feel bored (the cause); that same person, in a different sentence, could be a bored person (feeling it themselves).",
         ],
       },
-      "The most common mistake is swapping the two — I am boring (this says you cause boredom in others, not that you feel bored) instead of I am bored (your actual feeling); or this film is bored (nonsensical — a film can't feel anything) instead of this film is boring (the film causes the feeling). A second frequent error: using -ing for how a person feels — I am confusing means you cause confusion in others; if you mean you don't understand something, it's I am confused.",
+      "The most common mistake is swapping the two — I am boring (this says you cause boredom in others, not that you feel bored) instead of I am bored (your actual feeling). Or this film is bored (nonsensical — a film can't feel anything) instead of this film is boring (the film causes the feeling). A second frequent error: using -ing for how a person feels — I am confusing means you cause confusion in others; if you mean you don't understand something, it's I am confused.",
       "Ask who or what is doing the causing and who is doing the feeling: the person experiencing an emotion takes -ed (bored, interested, excited). The thing, situation, or person responsible for causing that emotion takes -ing (boring, interesting, exciting) — a film, a book, a lesson, or a person's personality is usually -ing, while a person's reaction is usually -ed.",
     ],
     fr: [
@@ -31,7 +31,7 @@ export const edIngAdjectives: GrammarTopicContent = {
           "La même personne peut parfois être décrite des deux façons avec des sens différents : a boring person suscite l'ennui chez les autres (la cause) ; cette même personne, dans une autre phrase, pourrait être a bored person (elle ressent elle-même l'ennui).",
         ],
       },
-      "L'erreur la plus fréquente est d'inverser les deux — I am boring (cela signifie que vous provoquez l'ennui chez les autres, pas que vous vous ennuyez) au lieu de I am bored (votre ressenti réel) ; ou this film is bored (absurde — un film ne peut rien ressentir) au lieu de this film is boring (le film provoque le sentiment). Une autre erreur courante : employer -ing pour décrire ce que ressent une personne — I am confusing signifie que vous semez la confusion chez les autres ; si vous voulez dire que vous ne comprenez pas quelque chose, il faut I am confused.",
+      "L'erreur la plus fréquente est d'inverser les deux — I am boring (cela signifie que vous provoquez l'ennui chez les autres, pas que vous vous ennuyez) au lieu de I am bored (votre ressenti réel). Ou this film is bored (absurde — un film ne peut rien ressentir) au lieu de this film is boring (le film provoque le sentiment). Une autre erreur courante : employer -ing pour décrire ce que ressent une personne — I am confusing signifie que vous semez la confusion chez les autres ; si vous voulez dire que vous ne comprenez pas quelque chose, il faut I am confused.",
       "Demandez-vous qui ou quoi provoque le sentiment et qui le ressent : la personne qui vit une émotion prend -ed (bored, interested, excited). La chose, la situation ou la personne responsable de ce sentiment prend -ing (boring, interesting, exciting) — un film, un livre, un cours, ou la personnalité de quelqu'un sont généralement en -ing, tandis que la réaction d'une personne est généralement en -ed.",
     ],
     es: [
@@ -45,7 +45,7 @@ export const edIngAdjectives: GrammarTopicContent = {
           "La misma persona a veces puede describirse de las dos formas con significados distintos: a boring person hace que otros se aburran (la causa); esa misma persona, en otra frase, podría ser a bored person (siente ella misma el aburrimiento).",
         ],
       },
-      "El error más común es intercambiar los dos —I am boring (dice que provocas aburrimiento en otros, no que tú te aburres) en vez de I am bored (tu sensación real); o this film is bored (sin sentido —una película no puede sentir nada) en vez de this film is boring (la película provoca la sensación). Otro error frecuente: usar -ing para describir cómo se siente una persona —I am confusing significa que provocas confusión en otros; si quieres decir que no entiendes algo, es I am confused.",
+      "El error más común es intercambiar los dos —I am boring (dice que provocas aburrimiento en otros, no que tú te aburres) en vez de I am bored (tu sensación real). O this film is bored (sin sentido —una película no puede sentir nada) en vez de this film is boring (la película provoca la sensación). Otro error frecuente: usar -ing para describir cómo se siente una persona —I am confusing significa que provocas confusión en otros; si quieres decir que no entiendes algo, es I am confused.",
       "Pregúntate quién o qué provoca la sensación y quién la siente: la persona que experimenta una emoción lleva -ed (bored, interested, excited). La cosa, situación o persona responsable de provocar esa emoción lleva -ing (boring, interesting, exciting) —una película, un libro, una clase o la personalidad de alguien suelen ser -ing, mientras que la reacción de una persona suele ser -ed.",
     ],
     pt: [
@@ -59,7 +59,7 @@ export const edIngAdjectives: GrammarTopicContent = {
           "A mesma pessoa pode por vezes ser descrita das duas formas com significados diferentes: a boring person faz com que outros se sintam aborrecidos (a causa); essa mesma pessoa, noutra frase, poderia ser a bored person (sente ela própria o aborrecimento).",
         ],
       },
-      "O erro mais comum é trocar os dois —I am boring (diz que provocas aborrecimento nos outros, não que estás aborrecido) em vez de I am bored (o teu sentimento real); ou this film is bored (sem sentido —um filme não pode sentir nada) em vez de this film is boring (o filme provoca o sentimento). Outro erro frequente: usar -ing para descrever o que uma pessoa sente —I am confusing significa que provocas confusão nos outros; se queres dizer que não entendes algo, é I am confused.",
+      "O erro mais comum é trocar os dois —I am boring (diz que provocas aborrecimento nos outros, não que estás aborrecido) em vez de I am bored (o teu sentimento real). Ou this film is bored (sem sentido —um filme não pode sentir nada) em vez de this film is boring (o filme provoca o sentimento). Outro erro frequente: usar -ing para descrever o que uma pessoa sente —I am confusing significa que provocas confusão nos outros; se queres dizer que não entendes algo, é I am confused.",
       "Pergunta-te quem ou o quê provoca a sensação e quem a sente: a pessoa que vive uma emoção leva -ed (bored, interested, excited). A coisa, situação ou pessoa responsável por provocar essa emoção leva -ing (boring, interesting, exciting) —um filme, um livro, uma aula, ou a personalidade de alguém costumam ser -ing, enquanto a reação de uma pessoa costuma ser -ed.",
     ],
     it: [
@@ -73,7 +73,7 @@ export const edIngAdjectives: GrammarTopicContent = {
           "La stessa persona può a volte essere descritta in entrambi i modi con significati diversi: a boring person fa annoiare gli altri (la causa); quella stessa persona, in un'altra frase, potrebbe essere a bored person (prova essa stessa noia).",
         ],
       },
-      "L'errore più comune è scambiare i due — I am boring (significa che provochi noia negli altri, non che ti annoi) invece di I am bored (ciò che provi davvero); oppure this film is bored (privo di senso — un film non può provare nulla) invece di this film is boring (il film provoca la sensazione). Un altro errore frequente: usare -ing per descrivere ciò che prova una persona — I am confusing significa che generi confusione negli altri; se intendi che non capisci qualcosa, è I am confused.",
+      "L'errore più comune è scambiare i due — I am boring (significa che provochi noia negli altri, non che ti annoi) invece di I am bored (ciò che provi davvero). Oppure this film is bored (privo di senso — un film non può provare nulla) invece di this film is boring (il film provoca la sensazione). Un altro errore frequente: usare -ing per descrivere ciò che prova una persona — I am confusing significa che generi confusione negli altri; se intendi che non capisci qualcosa, è I am confused.",
       "Chiediti chi o cosa provoca la sensazione e chi la prova: la persona che vive un'emozione prende -ed (bored, interested, excited). La cosa, la situazione o la persona responsabile di quell'emozione prende -ing (boring, interesting, exciting) — un film, un libro, una lezione o la personalità di qualcuno sono di solito -ing, mentre la reazione di una persona è di solito -ed.",
     ],
     de: [
@@ -87,7 +87,7 @@ export const edIngAdjectives: GrammarTopicContent = {
           "Dieselbe Person kann gelegentlich auf beide Arten beschrieben werden, mit unterschiedlicher Bedeutung: a boring person löst bei anderen Langeweile aus (die Ursache); dieselbe Person könnte in einem anderen Satz a bored person sein (sie selbst empfindet Langeweile).",
         ],
       },
-      "Der häufigste Fehler ist, die beiden zu vertauschen — I am boring bedeutet, dass du bei anderen Langeweile auslöst, nicht dass du dich langweilst, statt I am bored (dein tatsächliches Gefühl); oder this film is bored (unsinnig — ein Film kann nichts fühlen) statt this film is boring (der Film löst das Gefühl aus). Ein weiterer häufiger Fehler: -ing zu verwenden, um zu beschreiben, wie sich eine Person fühlt — I am confusing bedeutet, dass du bei anderen Verwirrung auslöst; wenn du meinst, dass du etwas nicht verstehst, heißt es I am confused.",
+      "Der häufigste Fehler ist, die beiden zu vertauschen — I am boring bedeutet, dass du bei anderen Langeweile auslöst, nicht dass du dich langweilst, statt I am bored (dein tatsächliches Gefühl). Oder this film is bored (unsinnig — ein Film kann nichts fühlen) statt this film is boring (der Film löst das Gefühl aus). Ein weiterer häufiger Fehler: -ing zu verwenden, um zu beschreiben, wie sich eine Person fühlt — I am confusing bedeutet, dass du bei anderen Verwirrung auslöst; wenn du meinst, dass du etwas nicht verstehst, heißt es I am confused.",
       "Frage dich, wer oder was das Gefühl auslöst und wer es empfindet: die Person, die eine Emotion erlebt, bekommt -ed (bored, interested, excited). Die Sache, Situation oder Person, die für dieses Gefühl verantwortlich ist, bekommt -ing (boring, interesting, exciting) — ein Film, ein Buch, eine Unterrichtsstunde oder die Persönlichkeit einer Person sind meist -ing, während die Reaktion einer Person meist -ed ist.",
     ],
     ru: [
@@ -101,7 +101,7 @@ export const edIngAdjectives: GrammarTopicContent = {
           "Один и тот же человек иногда может описываться обоими способами с разным значением: a boring person вызывает скуку у других (причина); тот же человек в другом предложении может быть a bored person (сам испытывает скуку).",
         ],
       },
-      "Самая частая ошибка — перепутать местами: I am boring означает, что вы вызываете скуку у других, а не что вам скучно, вместо I am bored (ваше настоящее чувство); или this film is bored (бессмысленно — фильм не может ничего чувствовать) вместо this film is boring (фильм вызывает это чувство). Другая распространённая ошибка — использовать -ing, чтобы описать чувства человека: I am confusing означает, что вы вызываете замешательство у других; если вы имеете в виду, что сами чего-то не понимаете, нужно I am confused.",
+      "Самая частая ошибка — перепутать местами: I am boring означает, что вы вызываете скуку у других, а не что вам скучно, вместо I am bored (ваше настоящее чувство). Или this film is bored (бессмысленно — фильм не может ничего чувствовать) вместо this film is boring (фильм вызывает это чувство). Другая распространённая ошибка — использовать -ing, чтобы описать чувства человека: I am confusing означает, что вы вызываете замешательство у других; если вы имеете в виду, что сами чего-то не понимаете, нужно I am confused.",
       "Спросите себя, кто или что вызывает чувство, а кто его испытывает: человек, переживающий эмоцию, получает -ed (bored, interested, excited). Вещь, ситуация или человек, ответственный за это чувство, получает -ing (boring, interesting, exciting) — фильм, книга, урок или чья-то личность обычно описываются через -ing, а реакция человека — через -ed.",
     ],
     ar: [
@@ -115,7 +115,7 @@ export const edIngAdjectives: GrammarTopicContent = {
           "يمكن وصف الشخص نفسه أحيانًا بالطريقتين بمعنيين مختلفين: a boring person تجعل الآخرين يشعرون بالملل (السبب)؛ ويمكن لهذا الشخص نفسه، في جملة أخرى، أن يكون a bored person (يشعر هو نفسه بالملل).",
         ],
       },
-      "أكثر الأخطاء شيوعًا هو تبديل الاثنتين — تعني I am boring أنك تسبّب الملل للآخرين، لا أنك تشعر بالملل، بدلاً من I am bored (شعورك الحقيقي)؛ أو this film is bored (لا معنى له — فالفيلم لا يشعر بشيء) بدلاً من this film is boring (الفيلم يسبّب الشعور). وخطأ شائع آخر: استخدام -ing لوصف شعور شخص ما — تعني I am confusing أنك تسبّب الحيرة للآخرين؛ إذا كنت تقصد أنك لا تفهم شيئًا، فالصواب I am confused.",
+      "أكثر الأخطاء شيوعًا هو تبديل الاثنتين — تعني I am boring أنك تسبّب الملل للآخرين، لا أنك تشعر بالملل، بدلاً من I am bored (شعورك الحقيقي). أو this film is bored (لا معنى له — فالفيلم لا يشعر بشيء) بدلاً من this film is boring (الفيلم يسبّب الشعور). وخطأ شائع آخر: استخدام -ing لوصف شعور شخص ما — تعني I am confusing أنك تسبّب الحيرة للآخرين؛ إذا كنت تقصد أنك لا تفهم شيئًا، فالصواب I am confused.",
       "اسأل نفسك من أو ما الذي يسبّب الشعور ومن الذي يشعر به: الشخص الذي يعيش عاطفة يأخذ -ed (bored, interested, excited). والشيء أو الموقف أو الشخص المسؤول عن التسبب في ذلك الشعور يأخذ -ing (boring, interesting, exciting) — عادةً ما يكون الفيلم أو الكتاب أو الدرس أو شخصية شخص ما -ing، بينما تكون ردة فعل الشخص عادةً -ed.",
     ],
     zh: [
@@ -129,7 +129,7 @@ export const edIngAdjectives: GrammarTopicContent = {
           "同一个人有时可以用两种方式描述,意思不同:a boring person 让别人感到无聊(是原因);而同一个人在另一个句子里也可能是 a bored person(他自己感到无聊)。",
         ],
       },
-      "最常见的错误是把两者用反了——I am boring 的意思是你让别人感到无聊,而不是你自己感到无聊,应该说 I am bored(你真实的感受);或者 this film is bored(没有意义——电影不会有感觉),应该说 this film is boring(电影引起了这种感受)。另一个常见错误是:用 -ing 来描述一个人的感受——I am confusing 的意思是你让别人感到困惑;如果你想表达自己不理解某件事,应该说 I am confused。",
+      "最常见的错误是把两者用反了——I am boring 的意思是你让别人感到无聊,而不是你自己感到无聊,应该说 I am bored(你真实的感受)。或者 this film is bored(没有意义——电影不会有感觉),应该说 this film is boring(电影引起了这种感受)。另一个常见错误是:用 -ing 来描述一个人的感受——I am confusing 的意思是你让别人感到困惑;如果你想表达自己不理解某件事,应该说 I am confused。",
       "问问自己是谁或什么东西在引起这种感受,谁在感受它:体验某种情绪的人用 -ed(bored, interested, excited)。造成这种情绪的事物、情境或人用 -ing(boring, interesting, exciting)——电影、书、课程,或者一个人的性格通常用 -ing,而一个人的反应通常用 -ed。",
     ],
   },

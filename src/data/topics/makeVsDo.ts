@@ -7,7 +7,7 @@ export const makeVsDo: GrammarTopicContent = {
   level: "A2",
   explanations: {
     en: [
-      "Make and do both translate as a single, general verb in many languages, but English treats them as genuinely different: make is for creating, producing, or causing something that didn't exist before, and do is for performing an activity, task, or action in a more general sense — with no new \"thing\" necessarily resulting. Compare two cases. She made a cake (a new cake now exists) and She did the washing up (an activity was performed, nothing was created).",
+      "Make and do both translate as a single, general verb in many languages, but English treats them as genuinely different. Make is for creating, producing, or causing something that didn't exist before, and do is for performing an activity, task, or action in a more general sense — with no new \"thing\" necessarily resulting. Compare two cases. She made a cake (a new cake now exists) and She did the washing up (an activity was performed, nothing was created).",
       {
         intro: "Most of the choice comes down to memorizing fixed expressions rather than applying a rule, but these groups help:",
         items: [
@@ -21,7 +21,7 @@ export const makeVsDo: GrammarTopicContent = {
       "There's no reliable grammatical signal — make/do collocations have to be learned individually, in chunks, the same way you'd learn any fixed expression. Build a mental list around the most common ones (make a decision/mistake/effort/plan vs do homework/the shopping/a favor/your best) rather than looking for a pattern that applies universally.",
     ],
     fr: [
-      "Make et do se traduisent tous deux par un seul verbe général dans de nombreuses langues, mais l'anglais les traite comme réellement différents : make sert à créer, produire ou causer quelque chose qui n'existait pas avant, et do sert à accomplir une activité, une tâche ou une action de façon plus générale — sans qu'une nouvelle « chose » en résulte forcément. Comparez deux cas. She made a cake (un nouveau gâteau existe maintenant) et She did the washing up (une activité a été accomplie, rien n'a été créé).",
+      "Make et do se traduisent tous deux par un seul verbe général dans de nombreuses langues, mais l'anglais les traite comme réellement différents. Make sert à créer, produire ou causer quelque chose qui n'existait pas avant, et do sert à accomplir une activité, une tâche ou une action de façon plus générale — sans qu'une nouvelle « chose » en résulte forcément. Comparez deux cas. She made a cake (un nouveau gâteau existe maintenant) et She did the washing up (une activité a été accomplie, rien n'a été créé).",
       {
         intro: "La plupart du choix repose sur la mémorisation d'expressions figées plutôt que sur une règle, mais ces groupes aident :",
         items: [
@@ -35,7 +35,7 @@ export const makeVsDo: GrammarTopicContent = {
       "Il n'existe aucun signal grammatical fiable — les associations make/do doivent être apprises individuellement, par blocs, de la même façon qu'on apprendrait n'importe quelle expression figée. Construisez une liste mentale autour des plus courantes (make a decision/mistake/effort/plan contre do homework/the shopping/a favor/your best) plutôt que de chercher un schéma qui s'appliquerait universellement.",
     ],
     es: [
-      "Make y do se traducen ambos como un único verbo general en muchos idiomas, pero el inglés los trata como algo genuinamente distinto: make sirve para crear, producir o causar algo que no existía antes, y do sirve para realizar una actividad, tarea o acción en un sentido más general —sin que necesariamente resulte una nueva «cosa». Compara dos casos. She made a cake (ahora existe un pastel nuevo) y She did the washing up (se realizó una actividad, no se creó nada).",
+      "Make y do se traducen ambos como un único verbo general en muchos idiomas, pero el inglés los trata como algo genuinamente distinto. Make sirve para crear, producir o causar algo que no existía antes, y do sirve para realizar una actividad, tarea o acción en un sentido más general —sin que necesariamente resulte una nueva «cosa». Compara dos casos. She made a cake (ahora existe un pastel nuevo) y She did the washing up (se realizó una actividad, no se creó nada).",
       {
         intro: "La mayor parte de la elección se reduce a memorizar expresiones fijas más que a aplicar una regla, pero estos grupos ayudan:",
         items: [
@@ -49,7 +49,7 @@ export const makeVsDo: GrammarTopicContent = {
       "No hay una señal gramatical fiable —las combinaciones make/do hay que aprenderlas individualmente, en bloques, igual que aprenderías cualquier expresión fija. Construye una lista mental con las más comunes (make a decision/mistake/effort/plan frente a do homework/the shopping/a favor/your best) en lugar de buscar un patrón que se aplique universalmente.",
     ],
     pt: [
-      "Make e do traduzem-se ambos por um único verbo geral em muitas línguas, mas o inglês trata-os como genuinamente diferentes: make serve para criar, produzir ou causar algo que não existia antes, e do serve para realizar uma atividade, tarefa ou ação num sentido mais geral —sem que necessariamente resulte uma nova «coisa». Compara dois casos. She made a cake (agora existe um bolo novo) e She did the washing up (realizou-se uma atividade, nada foi criado).",
+      "Make e do traduzem-se ambos por um único verbo geral em muitas línguas, mas o inglês trata-os como genuinamente diferentes. Make serve para criar, produzir ou causar algo que não existia antes, e do serve para realizar uma atividade, tarefa ou ação num sentido mais geral —sem que necessariamente resulte uma nova «coisa». Compara dois casos. She made a cake (agora existe um bolo novo) e She did the washing up (realizou-se uma atividade, nada foi criado).",
       {
         intro: "A maior parte da escolha resume-se a memorizar expressões fixas mais do que a aplicar uma regra, mas estes grupos ajudam:",
         items: [
@@ -63,7 +63,7 @@ export const makeVsDo: GrammarTopicContent = {
       "Não existe nenhum sinal gramatical fiável —as combinações make/do têm de ser aprendidas individualmente, em blocos, tal como aprenderias qualquer expressão fixa. Constrói uma lista mental à volta das mais comuns (make a decision/mistake/effort/plan versus do homework/the shopping/a favor/your best) em vez de procurares um padrão universal.",
     ],
     it: [
-      "Make e do si traducono entrambi con un unico verbo generico in molte lingue, ma l'inglese li tratta come genuinamente diversi: make serve a creare, produrre o causare qualcosa che prima non esisteva, e do serve a svolgere un'attività, un compito o un'azione in senso più generale — senza che ne risulti necessariamente una nuova «cosa». Confronta due casi. She made a cake (ora esiste una torta nuova) e She did the washing up (è stata svolta un'attività, non è stato creato nulla).",
+      "Make e do si traducono entrambi con un unico verbo generico in molte lingue, ma l'inglese li tratta come genuinamente diversi. Make serve a creare, produrre o causare qualcosa che prima non esisteva, e do serve a svolgere un'attività, un compito o un'azione in senso più generale — senza che ne risulti necessariamente una nuova «cosa». Confronta due casi. She made a cake (ora esiste una torta nuova) e She did the washing up (è stata svolta un'attività, non è stato creato nulla).",
       {
         intro: "Gran parte della scelta si riduce a memorizzare espressioni fisse più che ad applicare una regola, ma questi gruppi aiutano:",
         items: [
@@ -77,7 +77,7 @@ export const makeVsDo: GrammarTopicContent = {
       "Non esiste un segnale grammaticale affidabile — le combinazioni make/do vanno imparate singolarmente, a blocchi, allo stesso modo in cui impareresti qualsiasi espressione fissa. Costruisci una lista mentale intorno alle più comuni (make a decision/mistake/effort/plan contro do homework/the shopping/a favor/your best) invece di cercare uno schema universale.",
     ],
     de: [
-      "Make und do werden in vielen Sprachen beide mit einem einzigen allgemeinen Verb übersetzt, aber das Englische behandelt sie als wirklich unterschiedlich: make steht für das Erschaffen, Herstellen oder Verursachen von etwas, das vorher nicht existierte, und do steht für das Ausführen einer Tätigkeit, Aufgabe oder Handlung im allgemeineren Sinne — ohne dass zwangsläufig eine neue „Sache“ dabei entsteht. Vergleiche zwei Fälle. She made a cake (jetzt existiert ein neuer Kuchen) und She did the washing up (eine Tätigkeit wurde ausgeführt, nichts wurde erschaffen).",
+      "Make und do werden in vielen Sprachen beide mit einem einzigen allgemeinen Verb übersetzt, aber das Englische behandelt sie als wirklich unterschiedlich. Make steht für das Erschaffen, Herstellen oder Verursachen von etwas, das vorher nicht existierte, und do steht für das Ausführen einer Tätigkeit, Aufgabe oder Handlung im allgemeineren Sinne — ohne dass zwangsläufig eine neue „Sache“ dabei entsteht. Vergleiche zwei Fälle. She made a cake (jetzt existiert ein neuer Kuchen) und She did the washing up (eine Tätigkeit wurde ausgeführt, nichts wurde erschaffen).",
       {
         intro: "Der größte Teil der Wahl läuft eher auf das Auswendiglernen fester Ausdrücke hinaus als auf eine Regel, aber diese Gruppen helfen:",
         items: [
@@ -91,7 +91,7 @@ export const makeVsDo: GrammarTopicContent = {
       "Es gibt kein verlässliches grammatisches Signal — make/do-Kombinationen müssen einzeln, in Blöcken, gelernt werden, genau wie jeder andere feste Ausdruck. Baue dir eine gedankliche Liste der häufigsten auf (make a decision/mistake/effort/plan gegenüber do homework/the shopping/a favor/your best), statt nach einem universell gültigen Muster zu suchen.",
     ],
     ru: [
-      "Make и do во многих языках переводятся одним и тем же общим глаголом, но в английском они рассматриваются как совершенно разные слова: make используется, когда что-то создаётся, производится или вызывается — то, чего раньше не существовало, а do используется для выполнения деятельности, задачи или действия в более общем смысле — без обязательного появления новой «вещи». Сравните два случая. She made a cake (теперь существует новый торт) и She did the washing up (было выполнено действие, ничего не создано).",
+      "Make и do во многих языках переводятся одним и тем же общим глаголом, но в английском они рассматриваются как совершенно разные слова. Make используется, когда что-то создаётся, производится или вызывается — то, чего раньше не существовало, а do используется для выполнения деятельности, задачи или действия в более общем смысле — без обязательного появления новой «вещи». Сравните два случая. She made a cake (теперь существует новый торт) и She did the washing up (было выполнено действие, ничего не создано).",
       {
         intro: "Большая часть выбора сводится к запоминанию устойчивых выражений, а не к применению правила, но эти группы помогают:",
         items: [
@@ -105,7 +105,7 @@ export const makeVsDo: GrammarTopicContent = {
       "Надёжного грамматического сигнала не существует — сочетания make/do нужно запоминать по отдельности, блоками, так же как вы бы запоминали любое устойчивое выражение. Составьте мысленный список самых распространённых (make a decision/mistake/effort/plan против do homework/the shopping/a favor/your best), а не ищите универсальную закономерность.",
     ],
     ar: [
-      "تُترجم make وdo كلتاهما بفعل عام واحد في لغات كثيرة، لكن الإنجليزية تعاملهما كفعلين مختلفين حقًا: تُستخدم make لصنع شيء أو إنتاجه أو التسبب فيه — شيء لم يكن موجودًا من قبل، بينما تُستخدم do لأداء نشاط أو مهمة أو فعل بمعنى أعم — دون أن ينتج بالضرورة «شيء» جديد. قارن بين حالتين. She made a cake (توجد الآن كعكة جديدة) وShe did the washing up (تم أداء نشاط، ولم يُصنع شيء).",
+      "تُترجم make وdo كلتاهما بفعل عام واحد في لغات كثيرة، لكن الإنجليزية تعاملهما كفعلين مختلفين حقًا. تُستخدم make لصنع شيء أو إنتاجه أو التسبب فيه — شيء لم يكن موجودًا من قبل، بينما تُستخدم do لأداء نشاط أو مهمة أو فعل بمعنى أعم — دون أن ينتج بالضرورة «شيء» جديد. قارن بين حالتين. She made a cake (توجد الآن كعكة جديدة) وShe did the washing up (تم أداء نشاط، ولم يُصنع شيء).",
       {
         intro: "معظم الاختيار يعتمد على حفظ تعبيرات ثابتة أكثر من تطبيق قاعدة، لكن هذه المجموعات تساعد:",
         items: [
@@ -119,7 +119,7 @@ export const makeVsDo: GrammarTopicContent = {
       "لا توجد إشارة نحوية موثوقة — يجب حفظ تراكيب make/do فرديًا، على شكل كتل، تمامًا كما تحفظ أي تعبير ثابت. ابنِ قائمة ذهنية حول الأكثر شيوعًا (make a decision/mistake/effort/plan مقابل do homework/the shopping/a favor/your best) بدلًا من البحث عن نمط ينطبق عالميًا.",
     ],
     zh: [
-      "在很多语言里,make 和 do 都翻译成同一个笼统的动词,但英语把它们当作真正不同的两个词:make 用于创造、制造或造成以前不存在的东西,而 do 用于以更笼统的方式执行某项活动、任务或动作——不一定会产生一个新的“东西”。比较下面两种情况。She made a cake(现在有了一个新蛋糕)和 She did the washing up(执行了一项活动,什么都没被创造出来)。",
+      "在很多语言里,make 和 do 都翻译成同一个笼统的动词,但英语把它们当作真正不同的两个词。make 用于创造、制造或造成以前不存在的东西,而 do 用于以更笼统的方式执行某项活动、任务或动作——不一定会产生一个新的“东西”。比较下面两种情况。She made a cake(现在有了一个新蛋糕)和 She did the washing up(执行了一项活动,什么都没被创造出来)。",
       {
         intro: "大部分的选择靠的是记住固定搭配,而不是套用一条规则,不过以下这几组有帮助:",
         items: [

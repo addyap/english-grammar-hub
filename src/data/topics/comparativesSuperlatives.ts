@@ -7,7 +7,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
   level: "A2",
   explanations: {
     en: [
-      "Use a comparative to say one thing has more (or less) of a quality than another single thing — This bag is cheaper than that one — and a superlative to say something has the most (or least) of a quality out of a group of three or more — This is the cheapest bag in the shop. A comparative always measures exactly two things against each other with than; a superlative always takes the, because it points to one specific item that beats everything else in its group.",
+      "Use a comparative to say one thing has more (or less) of a quality than another single thing — This bag is cheaper than that one. Use a superlative to say something has the most (or least) of a quality out of a group of three or more — This is the cheapest bag in the shop. A comparative always measures exactly two things against each other with than; a superlative always takes the, because it points to one specific item that beats everything else in its group.",
       {
         intro: "Adjectives change form depending on their length:",
         items: [
@@ -21,7 +21,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
       "Look for -er or -est attached directly to a short adjective, more or most in front of a longer one, than signalling exactly two things being measured against each other, as...as (or not as...as) for equality or inequality, and the before every superlative — a superlative always singles out one specific item from a larger group.",
     ],
     fr: [
-      "Utilisez un comparatif pour dire qu'une chose a plus (ou moins) d'une qualité qu'une autre chose unique — This bag is cheaper than that one — et un superlatif pour dire que quelque chose a le plus (ou le moins) d'une qualité au sein d'un groupe de trois éléments ou plus — This is the cheapest bag in the shop. Un comparatif mesure toujours exactement deux éléments l'un par rapport à l'autre avec than ; un superlatif prend toujours the, car il désigne un élément précis qui l'emporte sur tous les autres de son groupe.",
+      "Utilisez un comparatif pour dire qu'une chose a plus (ou moins) d'une qualité qu'une autre chose unique — This bag is cheaper than that one. Utilisez un superlatif pour dire que quelque chose a le plus (ou le moins) d'une qualité au sein d'un groupe de trois éléments ou plus — This is the cheapest bag in the shop. Un comparatif mesure toujours exactement deux éléments l'un par rapport à l'autre avec than ; un superlatif prend toujours the, car il désigne un élément précis qui l'emporte sur tous les autres de son groupe.",
       {
         intro: "Les adjectifs changent de forme selon leur longueur :",
         items: [
@@ -35,7 +35,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
       "Repérez -er ou -est directement accolé à un adjectif court, more ou most devant un adjectif plus long, than signalant que exactement deux éléments sont mesurés l'un par rapport à l'autre, as...as (ou not as...as) pour l'égalité ou l'inégalité, et the devant chaque superlatif — un superlatif désigne toujours un élément précis au sein d'un groupe plus large.",
     ],
     es: [
-      "Usa un comparativo para decir que algo tiene más (o menos) de una cualidad que otra cosa concreta — This bag is cheaper than that one — y un superlativo para decir que algo tiene la mayor (o menor) cantidad de una cualidad dentro de un grupo de tres o más — This is the cheapest bag in the shop. Un comparativo siempre mide exactamente dos cosas entre sí con than; un superlativo siempre lleva the, porque señala un elemento concreto que supera a todos los demás de su grupo.",
+      "Usa un comparativo para decir que algo tiene más (o menos) de una cualidad que otra cosa concreta — This bag is cheaper than that one. Usa un superlativo para decir que algo tiene la mayor (o menor) cantidad de una cualidad dentro de un grupo de tres o más — This is the cheapest bag in the shop. Un comparativo siempre mide exactamente dos cosas entre sí con than; un superlativo siempre lleva the, porque señala un elemento concreto que supera a todos los demás de su grupo.",
       {
         intro: "Los adjetivos cambian de forma según su longitud:",
         items: [
@@ -49,7 +49,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
       "Fíjate en -er o -est unido directamente a un adjetivo corto, more o most delante de uno más largo, than que indica que se están midiendo exactamente dos cosas entre sí, as...as (o not as...as) para la igualdad o la desigualdad, y the delante de cada superlativo —un superlativo siempre señala un elemento concreto dentro de un grupo más amplio.",
     ],
     pt: [
-      "Usa um comparativo para dizer que algo tem mais (ou menos) de uma qualidade do que outra coisa concreta — This bag is cheaper than that one — e um superlativo para dizer que algo tem a maior (ou menor) quantidade de uma qualidade dentro de um grupo de três ou mais — This is the cheapest bag in the shop. Um comparativo mede sempre exatamente duas coisas entre si com than; um superlativo leva sempre the, porque assinala um elemento concreto que supera todos os outros do seu grupo.",
+      "Usa um comparativo para dizer que algo tem mais (ou menos) de uma qualidade do que outra coisa concreta — This bag is cheaper than that one. Usa um superlativo para dizer que algo tem a maior (ou menor) quantidade de uma qualidade dentro de um grupo de três ou mais — This is the cheapest bag in the shop. Um comparativo mede sempre exatamente duas coisas entre si com than; um superlativo leva sempre the, porque assinala um elemento concreto que supera todos os outros do seu grupo.",
       {
         intro: "Os adjetivos mudam de forma consoante o seu comprimento:",
         items: [
@@ -63,7 +63,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
       "Repara em -er ou -est diretamente ligado a um adjetivo curto, more ou most antes de um mais longo, than a assinalar que estão a ser medidas exatamente duas coisas entre si, as...as (ou not as...as) para a igualdade ou desigualdade, e the antes de cada superlativo —um superlativo assinala sempre um elemento concreto dentro de um grupo mais alargado.",
     ],
     it: [
-      "Usa un comparativo per dire che una cosa ha più (o meno) di una qualità rispetto a un'altra cosa specifica — This bag is cheaper than that one — e un superlativo per dire che qualcosa ha la maggiore (o minore) quantità di una qualità all'interno di un gruppo di tre o più elementi — This is the cheapest bag in the shop. Un comparativo misura sempre esattamente due cose l'una rispetto all'altra con than; un superlativo prende sempre the, perché indica un elemento specifico che supera tutti gli altri del suo gruppo.",
+      "Usa un comparativo per dire che una cosa ha più (o meno) di una qualità rispetto a un'altra cosa specifica — This bag is cheaper than that one. Usa un superlativo per dire che qualcosa ha la maggiore (o minore) quantità di una qualità all'interno di un gruppo di tre o più elementi — This is the cheapest bag in the shop. Un comparativo misura sempre esattamente due cose l'una rispetto all'altra con than; un superlativo prende sempre the, perché indica un elemento specifico che supera tutti gli altri del suo gruppo.",
       {
         intro: "Gli aggettivi cambiano forma in base alla loro lunghezza:",
         items: [
@@ -77,7 +77,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
       "Cerca -er o -est attaccato direttamente a un aggettivo breve, more o most davanti a uno più lungo, than che segnala che si stanno confrontando esattamente due cose, as...as (o not as...as) per l'uguaglianza o la disuguaglianza, e the prima di ogni superlativo — un superlativo indica sempre un elemento specifico all'interno di un gruppo più ampio.",
     ],
     de: [
-      "Verwende einen Komparativ, um zu sagen, dass etwas mehr (oder weniger) von einer Eigenschaft hat als eine andere bestimmte Sache — This bag is cheaper than that one —, und einen Superlativ, um zu sagen, dass etwas die meiste (oder wenigste) Eigenschaft innerhalb einer Gruppe von drei oder mehr hat — This is the cheapest bag in the shop. Ein Komparativ misst immer genau zwei Dinge gegeneinander mit than; ein Superlativ steht immer mit the, weil er auf ein bestimmtes Element verweist, das alle anderen in seiner Gruppe übertrifft.",
+      "Verwende einen Komparativ, um zu sagen, dass etwas mehr (oder weniger) von einer Eigenschaft hat als eine andere bestimmte Sache — This bag is cheaper than that one. Verwende einen Superlativ, um zu sagen, dass etwas die meiste (oder wenigste) Eigenschaft innerhalb einer Gruppe von drei oder mehr hat — This is the cheapest bag in the shop. Ein Komparativ misst immer genau zwei Dinge gegeneinander mit than; ein Superlativ steht immer mit the, weil er auf ein bestimmtes Element verweist, das alle anderen in seiner Gruppe übertrifft.",
       {
         intro: "Adjektive ändern ihre Form je nach Länge:",
         items: [
@@ -91,7 +91,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
       "Achte auf -er oder -est direkt an einem kurzen Adjektiv, more oder most vor einem längeren, than als Signal dafür, dass genau zwei Dinge gegeneinander gemessen werden, as...as (oder not as...as) für Gleichheit oder Ungleichheit, und the vor jedem Superlativ — ein Superlativ verweist immer auf ein bestimmtes Element innerhalb einer größeren Gruppe.",
     ],
     ru: [
-      "Используйте сравнительную степень, чтобы сказать, что у чего-то больше (или меньше) качества, чем у другой конкретной вещи — This bag is cheaper than that one, — и превосходную степень, чтобы сказать, что у чего-то больше всего (или меньше всего) качества в группе из трёх и более — This is the cheapest bag in the shop. Сравнительная степень всегда сопоставляет ровно два предмета с помощью than; превосходная степень всегда требует the, поскольку указывает на один конкретный элемент, превосходящий все остальные в своей группе.",
+      "Используйте сравнительную степень, чтобы сказать, что у чего-то больше (или меньше) качества, чем у другой конкретной вещи — This bag is cheaper than that one. Используйте превосходную степень, чтобы сказать, что у чего-то больше всего (или меньше всего) качества в группе из трёх и более — This is the cheapest bag in the shop. Сравнительная степень всегда сопоставляет ровно два предмета с помощью than; превосходная степень всегда требует the, поскольку указывает на один конкретный элемент, превосходящий все остальные в своей группе.",
       {
         intro: "Прилагательные меняют форму в зависимости от длины:",
         items: [
@@ -105,7 +105,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
       "Обратите внимание на -er или -est, присоединённые напрямую к короткому прилагательному, на more или most перед более длинным, на than, сигнализирующее, что сравниваются ровно два предмета, на as...as (или not as...as) для равенства или неравенства, и на the перед каждой превосходной степенью — превосходная степень всегда указывает на один конкретный элемент внутри более крупной группы.",
     ],
     ar: [
-      "استخدم صيغة المقارنة للقول إن شيئًا ما يملك قدرًا أكبر (أو أقل) من صفة معينة مقارنةً بشيء آخر محدد — This bag is cheaper than that one — واستخدم صيغة التفضيل للقول إن شيئًا ما يملك أكبر (أو أقل) قدر من صفة معينة ضمن مجموعة من ثلاثة عناصر أو أكثر — This is the cheapest bag in the shop. تقيس صيغة المقارنة دائمًا شيئين بالتحديد أحدهما بالآخر باستخدام than؛ وتأخذ صيغة التفضيل دائمًا the، لأنها تشير إلى عنصر محدد يتفوق على كل العناصر الأخرى في مجموعته.",
+      "استخدم صيغة المقارنة للقول إن شيئًا ما يملك قدرًا أكبر (أو أقل) من صفة معينة مقارنةً بشيء آخر محدد — This bag is cheaper than that one. استخدم صيغة التفضيل للقول إن شيئًا ما يملك أكبر (أو أقل) قدر من صفة معينة ضمن مجموعة من ثلاثة عناصر أو أكثر — This is the cheapest bag in the shop. تقيس صيغة المقارنة دائمًا شيئين بالتحديد أحدهما بالآخر باستخدام than؛ وتأخذ صيغة التفضيل دائمًا the، لأنها تشير إلى عنصر محدد يتفوق على كل العناصر الأخرى في مجموعته.",
       {
         intro: "تتغيّر صيغة الصفة حسب طولها:",
         items: [
@@ -119,7 +119,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
       "ابحث عن -er أو -est ملتصقة مباشرة بصفة قصيرة، وmore أو most قبل صفة أطول، وthan كإشارة إلى أن شيئين بالتحديد يُقاسان أحدهما بالآخر، وas...as (أو not as...as) للتساوي أو عدم التساوي، وthe قبل كل صيغة تفضيل — فصيغة التفضيل تشير دائمًا إلى عنصر محدد داخل مجموعة أكبر.",
     ],
     zh: [
-      "用比较级来表示某事物比另一个具体事物拥有更多(或更少)的某种特质——This bag is cheaper than that one;用最高级来表示某事物在三个或更多的一组事物中拥有最多(或最少)的某种特质——This is the cheapest bag in the shop。比较级总是用 than 来对比恰好两件事物;最高级前面总是加 the,因为它指向一组事物中胜过所有其他成员的那个具体对象。",
+      "用比较级来表示某事物比另一个具体事物拥有更多(或更少)的某种特质——This bag is cheaper than that one。用最高级来表示某事物在三个或更多的一组事物中拥有最多(或最少)的某种特质——This is the cheapest bag in the shop。比较级总是用 than 来对比恰好两件事物;最高级前面总是加 the,因为它指向一组事物中胜过所有其他成员的那个具体对象。",
       {
         intro: "形容词会根据长度改变形式:",
         items: [
