@@ -7,7 +7,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
   level: "A2",
   explanations: {
     en: [
-      "English uses different prepositions for getting into or being inside different kinds of transport, based mainly on whether you can stand up and move around inside the vehicle. in is for small, enclosed vehicles you sit inside without much room to move (a car, a taxi); on is for larger vehicles you can walk around inside or that you sit 'on top of' in some sense (a bus, a train, a plane, a bike); at marks a location connected with transport (a stop, a station), not the vehicle itself.",
+      "English uses different prepositions for getting into or being inside different kinds of transport, based mainly on whether you can stand up and move around inside the vehicle. in is for small, enclosed vehicles you sit inside without much room to move (a car, a taxi). on is for larger vehicles you can walk around inside or that you sit 'on top of' in some sense (a bus, a train, a plane, a bike). at marks a location connected with transport (a stop, a station), not the vehicle itself.",
       {
         intro: "How to choose in, on, or at with transport:",
         items: [
@@ -21,7 +21,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
       "Ask whether you're referring to a small private vehicle (in), a larger public vehicle or something you sit astride (on), or a transport-related location like a stop or station (at). If you can walk around inside it or sit on top of it, use on; if it's small and enclosed, use in; if it's a place connected to transport rather than the vehicle, use at.",
     ],
     fr: [
-      "L'anglais emploie des prépositions différentes pour monter dans ou se trouver à l'intérieur de différents types de transports, selon principalement que l'on puisse se lever et se déplacer à l'intérieur du véhicule. in s'emploie pour les petits véhicules fermés où l'on s'assoit sans grande place pour bouger (a car, a taxi) ; on s'emploie pour les véhicules plus grands où l'on peut marcher à l'intérieur ou que l'on chevauche en un sens (a bus, a train, a plane, a bike) ; at marque un lieu lié au transport (a stop, a station), et non le véhicule lui-même.",
+      "L'anglais emploie des prépositions différentes pour monter dans ou se trouver à l'intérieur de différents types de transports, selon principalement que l'on puisse se lever et se déplacer à l'intérieur du véhicule. in s'emploie pour les petits véhicules fermés où l'on s'assoit sans grande place pour bouger (a car, a taxi). on s'emploie pour les véhicules plus grands où l'on peut marcher à l'intérieur ou que l'on chevauche en un sens (a bus, a train, a plane, a bike). at marque un lieu lié au transport (a stop, a station), et non le véhicule lui-même.",
       {
         intro: "Comment choisir entre in, on et at avec les transports :",
         items: [
@@ -35,7 +35,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
       "Demandez-vous si vous parlez d'un petit véhicule privé (in), d'un véhicule public plus grand ou d'un véhicule que l'on enfourche (on), ou d'un lieu lié au transport comme un arrêt ou une gare (at). Si on peut marcher à l'intérieur ou s'asseoir dessus, employez on ; si c'est petit et fermé, employez in ; si c'est un lieu lié au transport plutôt que le véhicule, employez at.",
     ],
     es: [
-      "El inglés emplea preposiciones distintas para subir a o estar dentro de diferentes tipos de transporte, según principalmente si puedes ponerte de pie y moverte dentro del vehículo. in se usa para vehículos pequeños y cerrados en los que te sientas con poco espacio para moverte (a car, a taxi); on se usa para vehículos más grandes en los que puedes caminar dentro o que montas en cierto sentido (a bus, a train, a plane, a bike); at marca un lugar relacionado con el transporte (a stop, a station), no el vehículo en sí.",
+      "El inglés emplea preposiciones distintas para subir a o estar dentro de diferentes tipos de transporte, según principalmente si puedes ponerte de pie y moverte dentro del vehículo. in se usa para vehículos pequeños y cerrados en los que te sientas con poco espacio para moverte (a car, a taxi). on se usa para vehículos más grandes en los que puedes caminar dentro o que montas en cierto sentido (a bus, a train, a plane, a bike). at marca un lugar relacionado con el transporte (a stop, a station), no el vehículo en sí.",
       {
         intro: "Cómo elegir entre in, on y at con el transporte:",
         items: [
@@ -49,7 +49,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
       "Pregúntate si te refieres a un vehículo pequeño y privado (in), a un vehículo público más grande o a algo que se monta a horcajadas (on), o a un lugar relacionado con el transporte como una parada o estación (at). Si puedes caminar dentro o sentarte encima, usa on; si es pequeño y cerrado, usa in; si es un lugar relacionado con el transporte en vez del vehículo, usa at.",
     ],
     pt: [
-      "O inglês usa preposições diferentes para entrar em ou estar dentro de diferentes tipos de transporte, dependendo principalmente de se consegues levantar-te e circular dentro do veículo. in usa-se para veículos pequenos e fechados onde te sentas com pouco espaço para te mexeres (a car, a taxi); on usa-se para veículos maiores onde podes caminhar lá dentro ou que montas de certa forma (a bus, a train, a plane, a bike); at assinala um local relacionado com o transporte (a stop, a station), não o veículo em si.",
+      "O inglês usa preposições diferentes para entrar em ou estar dentro de diferentes tipos de transporte, dependendo principalmente de se consegues levantar-te e circular dentro do veículo. in usa-se para veículos pequenos e fechados onde te sentas com pouco espaço para te mexeres (a car, a taxi). on usa-se para veículos maiores onde podes caminhar lá dentro ou que montas de certa forma (a bus, a train, a plane, a bike). at assinala um local relacionado com o transporte (a stop, a station), não o veículo em si.",
       {
         intro: "Como escolher entre in, on e at com o transporte:",
         items: [
@@ -63,7 +63,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
       "Pergunta-te se te referes a um veículo pequeno e privado (in), a um veículo público maior ou a algo que se monta (on), ou a um local relacionado com o transporte como uma paragem ou estação (at). Se consegues caminhar lá dentro ou sentar-te em cima, usa on; se é pequeno e fechado, usa in; se é um local relacionado com o transporte em vez do veículo, usa at.",
     ],
     it: [
-      "L'inglese usa preposizioni diverse per salire su o essere all'interno di diversi tipi di trasporto, in base soprattutto al fatto che tu possa alzarti e muoverti all'interno del veicolo. in si usa per veicoli piccoli e chiusi in cui ci si siede con poco spazio per muoversi (a car, a taxi); on si usa per veicoli più grandi in cui si può camminare oppure che si cavalca in un certo senso (a bus, a train, a plane, a bike); at indica un luogo legato al trasporto (a stop, a station), non il veicolo stesso.",
+      "L'inglese usa preposizioni diverse per salire su o essere all'interno di diversi tipi di trasporto, in base soprattutto al fatto che tu possa alzarti e muoverti all'interno del veicolo. in si usa per veicoli piccoli e chiusi in cui ci si siede con poco spazio per muoversi (a car, a taxi). on si usa per veicoli più grandi in cui si può camminare oppure che si cavalca in un certo senso (a bus, a train, a plane, a bike). at indica un luogo legato al trasporto (a stop, a station), non il veicolo stesso.",
       {
         intro: "Come scegliere tra in, on e at con i mezzi di trasporto:",
         items: [
@@ -77,7 +77,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
       "Chiediti se ti riferisci a un piccolo veicolo privato (in), a un veicolo pubblico più grande o a qualcosa che si cavalca (on), oppure a un luogo legato al trasporto come una fermata o una stazione (at). Se puoi camminarci dentro o sederci sopra, usa on; se è piccolo e chiuso, usa in; se è un luogo legato al trasporto piuttosto che il veicolo, usa at.",
     ],
     de: [
-      "Das Englische verwendet unterschiedliche Präpositionen dafür, in verschiedene Verkehrsmittel einzusteigen oder sich darin zu befinden, hauptsächlich je nachdem, ob man im Fahrzeug aufstehen und sich bewegen kann. in wird für kleine, geschlossene Fahrzeuge verwendet, in denen man mit wenig Bewegungsspielraum sitzt (a car, a taxi); on wird für größere Fahrzeuge verwendet, in denen man herumlaufen kann oder die man in gewissem Sinne 'besteigt' (a bus, a train, a plane, a bike); at bezeichnet einen mit dem Verkehr verbundenen Ort (a stop, a station), nicht das Fahrzeug selbst.",
+      "Das Englische verwendet unterschiedliche Präpositionen dafür, in verschiedene Verkehrsmittel einzusteigen oder sich darin zu befinden, hauptsächlich je nachdem, ob man im Fahrzeug aufstehen und sich bewegen kann. in wird für kleine, geschlossene Fahrzeuge verwendet, in denen man mit wenig Bewegungsspielraum sitzt (a car, a taxi). on wird für größere Fahrzeuge verwendet, in denen man herumlaufen kann oder die man in gewissem Sinne 'besteigt' (a bus, a train, a plane, a bike). at bezeichnet einen mit dem Verkehr verbundenen Ort (a stop, a station), nicht das Fahrzeug selbst.",
       {
         intro: "So wählt man zwischen in, on und at bei Verkehrsmitteln:",
         items: [
@@ -91,7 +91,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
       "Frage dich, ob du dich auf ein kleines privates Fahrzeug beziehst (in), auf ein größeres öffentliches Fahrzeug oder etwas, das man rittlings besteigt (on), oder auf einen mit dem Verkehr verbundenen Ort wie eine Haltestelle oder einen Bahnhof (at). Kannst du darin herumlaufen oder darauf sitzen, benutze on; ist es klein und geschlossen, benutze in; ist es ein mit dem Verkehr verbundener Ort statt des Fahrzeugs, benutze at.",
     ],
     ru: [
-      "В английском используются разные предлоги для обозначения посадки в различные виды транспорта или нахождения внутри них, в основном в зависимости от того, можно ли встать и передвигаться внутри транспортного средства. in используется для маленьких, закрытых транспортных средств, где вы сидите с небольшим пространством для движения (a car, a taxi); on используется для более крупных транспортных средств, внутри которых можно ходить, или которые в каком-то смысле 'оседлывают' (a bus, a train, a plane, a bike); at обозначает место, связанное с транспортом (a stop, a station), а не само транспортное средство.",
+      "В английском используются разные предлоги для обозначения посадки в различные виды транспорта или нахождения внутри них, в основном в зависимости от того, можно ли встать и передвигаться внутри транспортного средства. in используется для маленьких, закрытых транспортных средств, где вы сидите с небольшим пространством для движения (a car, a taxi). on используется для более крупных транспортных средств, внутри которых можно ходить, или которые в каком-то смысле 'оседлывают' (a bus, a train, a plane, a bike). at обозначает место, связанное с транспортом (a stop, a station), а не само транспортное средство.",
       {
         intro: "Как выбирать между in, on и at с транспортом:",
         items: [
@@ -105,7 +105,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
       "Спросите себя, идёт ли речь о маленьком частном транспортном средстве (in), о более крупном общественном транспорте или о том, что 'оседлывают' (on), или о месте, связанном с транспортом, например об остановке или станции (at). Если внутри можно ходить или на нём можно сидеть верхом, используйте on; если он маленький и закрытый, используйте in; если это место, связанное с транспортом, а не сам транспорт, используйте at.",
     ],
     ar: [
-      "تستخدم الإنجليزية حروف جر مختلفة للركوب في أو التواجد داخل أنواع مختلفة من وسائل النقل، اعتمادًا بشكل أساسي على ما إذا كنت تستطيع الوقوف والتحرك داخل المركبة. تُستخدم in لوسائل النقل الصغيرة المغلقة التي تجلس بداخلها بمساحة قليلة للحركة (a car, a taxi)؛ وتُستخدم on لوسائل النقل الأكبر التي يمكنك التجول بداخلها أو التي 'تمتطيها' بمعنى ما (a bus, a train, a plane, a bike)؛ أما at فتشير إلى مكان مرتبط بالنقل (a stop, a station)، لا المركبة نفسها.",
+      "تستخدم الإنجليزية حروف جر مختلفة للركوب في أو التواجد داخل أنواع مختلفة من وسائل النقل، اعتمادًا بشكل أساسي على ما إذا كنت تستطيع الوقوف والتحرك داخل المركبة. تُستخدم in لوسائل النقل الصغيرة المغلقة التي تجلس بداخلها بمساحة قليلة للحركة (a car, a taxi). وتُستخدم on لوسائل النقل الأكبر التي يمكنك التجول بداخلها أو التي 'تمتطيها' بمعنى ما (a bus, a train, a plane, a bike). أما at فتشير إلى مكان مرتبط بالنقل (a stop, a station)، لا المركبة نفسها.",
       {
         intro: "كيفية الاختيار بين in وon وat مع وسائل النقل:",
         items: [
@@ -119,7 +119,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
       "اسأل نفسك هل تشير إلى مركبة صغيرة خاصة (in)، أم وسيلة نقل عامة أكبر أو شيء يُمتطى (on)، أم مكان مرتبط بالنقل مثل موقف أو محطة (at). إذا كان بإمكانك التجول بداخلها أو الجلوس فوقها، استخدم on؛ وإذا كانت صغيرة ومغلقة، استخدم in؛ وإذا كان مكانًا مرتبطًا بالنقل بدلاً من المركبة، استخدم at.",
     ],
     zh: [
-      "英语用不同的介词来表示乘坐或身处不同类型的交通工具,主要取决于你能否在车内站起来走动。in 用于狭小、封闭的交通工具,你坐在里面几乎没有活动空间(a car, a taxi);on 用于较大的交通工具,你可以在里面走动,或者从某种意义上说是'骑'在上面(a bus, a train, a plane, a bike);at 标示与交通相关的地点(a stop, a station),而不是交通工具本身。",
+      "英语用不同的介词来表示乘坐或身处不同类型的交通工具,主要取决于你能否在车内站起来走动。in 用于狭小、封闭的交通工具,你坐在里面几乎没有活动空间(a car, a taxi)。on 用于较大的交通工具,你可以在里面走动,或者从某种意义上说是'骑'在上面(a bus, a train, a plane, a bike)。at 标示与交通相关的地点(a stop, a station),而不是交通工具本身。",
       {
         intro: "如何在 in、on 和 at 之间为交通工具做选择:",
         items: [
