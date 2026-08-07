@@ -7,7 +7,7 @@ export const phrasalVerbsIntroduction: GrammarTopicContent = {
   level: "A2",
   explanations: {
     en: [
-      "A phrasal verb is a verb combined with a short word like up, off, on, in, or down (called a particle) that together mean something different from the verb alone. Get up and get off are a perfect example: get by itself is vague, but get up means to rise from bed or a sitting position, while get off means to leave a bus, train, or bike — two completely different actions built from the same verb plus a different particle. This is why phrasal verbs have to be learned as whole units, not worked out word by word.",
+      "A phrasal verb is a verb combined with a short word like up, off, on, in, or down (called a particle) that together mean something different from the verb alone. Get up and get off are a perfect example. get by itself is vague, but get up means to rise from bed or a sitting position, while get off means to leave a bus, train, or bike — two completely different actions built from the same verb plus a different particle. This is why phrasal verbs have to be learned as whole units, not worked out word by word.",
       {
         intro: "Phrasal verbs for getting around and returning somewhere:",
         items: [
@@ -41,7 +41,7 @@ export const phrasalVerbsIntroduction: GrammarTopicContent = {
       "Look for a common verb — get, turn, put, take, sit, stand, wake, pick, wait, look, come, go — immediately followed by a short particle (up, off, on, in, out, down, away, back, for) that together mean something more specific than the verb alone. Then check the object: a pronoun right after the verb (pick it up) signals a separable phrasal verb, an object stuck firmly at the end (wait for her) signals an inseparable one, and no object at all (get up, sit down) means there's nothing to place.",
     ],
     fr: [
-      "Un phrasal verb est un verbe associé à un petit mot comme up, off, on, in ou down (appelé particule) qui, ensemble, signifient quelque chose de différent du verbe seul. Get up et get off en sont un parfait exemple : get seul est vague, mais get up signifie se lever du lit ou d'une position assise, tandis que get off signifie descendre d'un bus, d'un train ou d'un vélo — deux actions complètement différentes construites à partir du même verbe avec une particule différente. C'est pourquoi les phrasal verbs doivent être appris comme des unités entières, et non déduits mot à mot.",
+      "Un phrasal verb est un verbe associé à un petit mot comme up, off, on, in ou down (appelé particule) qui, ensemble, signifient quelque chose de différent du verbe seul. Get up et get off en sont un parfait exemple. get seul est vague, mais get up signifie se lever du lit ou d'une position assise, tandis que get off signifie descendre d'un bus, d'un train ou d'un vélo — deux actions complètement différentes construites à partir du même verbe avec une particule différente. C'est pourquoi les phrasal verbs doivent être appris comme des unités entières, et non déduits mot à mot.",
       {
         intro: "Phrasal verbs pour se déplacer et retourner quelque part :",
         items: [
@@ -75,7 +75,7 @@ export const phrasalVerbsIntroduction: GrammarTopicContent = {
       "Repérez un verbe courant — get, turn, put, take, sit, stand, wake, pick, wait, look, come, go — immédiatement suivi d'une courte particule (up, off, on, in, out, down, away, back, for) qui, ensemble, signifient quelque chose de plus précis que le verbe seul. Vérifiez ensuite l'objet : un pronom juste après le verbe (pick it up) signale un phrasal verb séparable, un objet fermement fixé à la fin (wait for her) signale un phrasal verb inséparable, et l'absence totale d'objet (get up, sit down) signifie qu'il n'y a rien à placer.",
     ],
     es: [
-      "Un phrasal verb es un verbo combinado con una palabra corta como up, off, on, in o down (llamada partícula) que, juntos, significan algo distinto del verbo solo. Get up y get off son un ejemplo perfecto: get por sí solo es vago, pero get up significa levantarse de la cama o de una posición sentada, mientras que get off significa bajarse de un autobús, un tren o una bicicleta — dos acciones completamente distintas construidas con el mismo verbo y una partícula diferente. Por eso los phrasal verbs hay que aprenderlos como unidades completas, no deducirlos palabra por palabra.",
+      "Un phrasal verb es un verbo combinado con una palabra corta como up, off, on, in o down (llamada partícula) que, juntos, significan algo distinto del verbo solo. Get up y get off son un ejemplo perfecto. get por sí solo es vago, pero get up significa levantarse de la cama o de una posición sentada, mientras que get off significa bajarse de un autobús, un tren o una bicicleta — dos acciones completamente distintas construidas con el mismo verbo y una partícula diferente. Por eso los phrasal verbs hay que aprenderlos como unidades completas, no deducirlos palabra por palabra.",
       {
         intro: "Phrasal verbs para desplazarse y volver a algún sitio:",
         items: [
@@ -109,7 +109,7 @@ export const phrasalVerbsIntroduction: GrammarTopicContent = {
       "Busca un verbo común — get, turn, put, take, sit, stand, wake, pick, wait, look, come, go — seguido inmediatamente de una partícula corta (up, off, on, in, out, down, away, back, for) que juntos signifiquen algo más específico que el verbo solo. Después revisa el objeto: un pronombre justo después del verbo (pick it up) indica un phrasal verb separable, un objeto fijo al final (wait for her) indica uno inseparable, y la ausencia total de objeto (get up, sit down) significa que no hay nada que colocar.",
     ],
     pt: [
-      "Um phrasal verb é um verbo combinado com uma palavra curta como up, off, on, in ou down (chamada partícula) que, juntas, significam algo diferente do verbo sozinho. Get up e get off são um exemplo perfeito: get sozinho é vago, mas get up significa levantar-se da cama ou de uma posição sentada, enquanto get off significa descer de um autocarro, comboio ou bicicleta — duas ações completamente diferentes construídas com o mesmo verbo e uma partícula diferente. É por isso que os phrasal verbs têm de ser aprendidos como unidades inteiras, e não deduzidos palavra por palavra.",
+      "Um phrasal verb é um verbo combinado com uma palavra curta como up, off, on, in ou down (chamada partícula) que, juntas, significam algo diferente do verbo sozinho. Get up e get off são um exemplo perfeito. get sozinho é vago, mas get up significa levantar-se da cama ou de uma posição sentada, enquanto get off significa descer de um autocarro, comboio ou bicicleta — duas ações completamente diferentes construídas com o mesmo verbo e uma partícula diferente. É por isso que os phrasal verbs têm de ser aprendidos como unidades inteiras, e não deduzidos palavra por palavra.",
       {
         intro: "Phrasal verbs para se deslocar e voltar a algum lugar:",
         items: [
@@ -143,7 +143,7 @@ export const phrasalVerbsIntroduction: GrammarTopicContent = {
       "Procura um verbo comum — get, turn, put, take, sit, stand, wake, pick, wait, look, come, go — imediatamente seguido de uma partícula curta (up, off, on, in, out, down, away, back, for) que juntos significam algo mais específico do que o verbo sozinho. Depois verifica o objeto: um pronome logo a seguir ao verbo (pick it up) indica um phrasal verb separável, um objeto fixo no fim (wait for her) indica um inseparável, e a ausência total de objeto (get up, sit down) significa que não há nada para colocar.",
     ],
     it: [
-      "Un phrasal verb è un verbo combinato con una breve parola come up, off, on, in o down (chiamata particella) che, insieme, significano qualcosa di diverso dal verbo da solo. Get up e get off sono un esempio perfetto: get da solo è vago, ma get up significa alzarsi dal letto o da una posizione seduta, mentre get off significa scendere da un autobus, un treno o una bicicletta — due azioni completamente diverse costruite con lo stesso verbo e una particella diversa. Per questo i phrasal verbs vanno imparati come unità intere, non dedotti parola per parola.",
+      "Un phrasal verb è un verbo combinato con una breve parola come up, off, on, in o down (chiamata particella) che, insieme, significano qualcosa di diverso dal verbo da solo. Get up e get off sono un esempio perfetto. get da solo è vago, ma get up significa alzarsi dal letto o da una posizione seduta, mentre get off significa scendere da un autobus, un treno o una bicicletta — due azioni completamente diverse costruite con lo stesso verbo e una particella diversa. Per questo i phrasal verbs vanno imparati come unità intere, non dedotti parola per parola.",
       {
         intro: "Phrasal verbs per spostarsi e tornare da qualche parte:",
         items: [
@@ -177,7 +177,7 @@ export const phrasalVerbsIntroduction: GrammarTopicContent = {
       "Cerca un verbo comune — get, turn, put, take, sit, stand, wake, pick, wait, look, come, go — seguito immediatamente da una breve particella (up, off, on, in, out, down, away, back, for) che insieme significano qualcosa di più specifico del verbo da solo. Poi controlla l'oggetto: un pronome subito dopo il verbo (pick it up) indica un phrasal verb separabile, un oggetto fisso alla fine (wait for her) ne indica uno inseparabile, e l'assenza totale di oggetto (get up, sit down) significa che non c'è nulla da collocare.",
     ],
     de: [
-      "Ein phrasal verb ist ein Verb, das mit einem kurzen Wort wie up, off, on, in oder down (Partikel genannt) kombiniert wird und zusammen etwas anderes bedeutet als das Verb allein. Get up und get off sind ein perfektes Beispiel: get allein ist vage, aber get up bedeutet aus dem Bett oder aus einer sitzenden Position aufstehen, während get off bedeutet, einen Bus, Zug oder ein Fahrrad zu verlassen — zwei völlig unterschiedliche Handlungen, gebildet aus demselben Verb mit einer anderen Partikel. Deshalb müssen phrasal verbs als ganze Einheiten gelernt werden, nicht Wort für Wort erschlossen.",
+      "Ein phrasal verb ist ein Verb, das mit einem kurzen Wort wie up, off, on, in oder down (Partikel genannt) kombiniert wird und zusammen etwas anderes bedeutet als das Verb allein. Get up und get off sind ein perfektes Beispiel. get allein ist vage, aber get up bedeutet aus dem Bett oder aus einer sitzenden Position aufstehen, während get off bedeutet, einen Bus, Zug oder ein Fahrrad zu verlassen — zwei völlig unterschiedliche Handlungen, gebildet aus demselben Verb mit einer anderen Partikel. Deshalb müssen phrasal verbs als ganze Einheiten gelernt werden, nicht Wort für Wort erschlossen.",
       {
         intro: "Phrasal verbs für Fortbewegung und Rückkehr an einen Ort:",
         items: [
@@ -211,7 +211,7 @@ export const phrasalVerbsIntroduction: GrammarTopicContent = {
       "Achte auf ein gebräuchliches Verb — get, turn, put, take, sit, stand, wake, pick, wait, look, come, go — direkt gefolgt von einer kurzen Partikel (up, off, on, in, out, down, away, back, for), die zusammen etwas Genaueres bedeuten als das Verb allein. Prüfe dann das Objekt: ein Pronomen direkt nach dem Verb (pick it up) zeigt ein trennbares phrasal verb an, ein Objekt fest am Ende (wait for her) zeigt ein untrennbares an, und gar kein Objekt (get up, sit down) bedeutet, dass es nichts zu platzieren gibt.",
     ],
     ru: [
-      "Фразовый глагол (phrasal verb) — это глагол в сочетании с коротким словом, например up, off, on, in или down (называемым частицей), которые вместе означают нечто иное, чем сам глагол. Get up и get off — прекрасный пример: get само по себе расплывчато, но get up значит встать с кровати или из сидячего положения, а get off значит выйти из автобуса, поезда или сойти с велосипеда — два совершенно разных действия, образованных от одного и того же глагола с разной частицей. Поэтому фразовые глаголы нужно учить как целые единицы, а не выводить значение по словам.",
+      "Фразовый глагол (phrasal verb) — это глагол в сочетании с коротким словом, например up, off, on, in или down (называемым частицей), которые вместе означают нечто иное, чем сам глагол. Get up и get off — прекрасный пример. get само по себе расплывчато, но get up значит встать с кровати или из сидячего положения, а get off значит выйти из автобуса, поезда или сойти с велосипеда — два совершенно разных действия, образованных от одного и того же глагола с разной частицей. Поэтому фразовые глаголы нужно учить как целые единицы, а не выводить значение по словам.",
       {
         intro: "Фразовые глаголы для передвижения и возвращения куда-либо:",
         items: [
@@ -245,7 +245,7 @@ export const phrasalVerbsIntroduction: GrammarTopicContent = {
       "Ищите распространённый глагол — get, turn, put, take, sit, stand, wake, pick, wait, look, come, go — сразу за которым следует короткая частица (up, off, on, in, out, down, away, back, for); вместе они означают нечто более конкретное, чем глагол сам по себе. Затем проверьте дополнение: местоимение сразу после глагола (pick it up) указывает на разделяемый фразовый глагол, дополнение, прочно закреплённое в конце (wait for her), — на неразделяемый, а полное отсутствие дополнения (get up, sit down) означает, что ставить нечего.",
     ],
     ar: [
-      "الفعل المركّب (phrasal verb) هو فعل مقترن بكلمة قصيرة مثل up أو off أو on أو in أو down (تُسمّى أداة)، ويكوّنان معًا معنى مختلفًا عن الفعل وحده. يُعدّ get up وget off مثالًا مثاليًا: get وحدها غامضة، لكن get up تعني النهوض من السرير أو من وضعية الجلوس، بينما get off تعني النزول من حافلة أو قطار أو دراجة — فعلان مختلفان تمامًا مبنيان من الفعل نفسه بأداة مختلفة. لهذا السبب يجب تعلّم الأفعال المركّبة كوحدات كاملة، لا استنتاج معناها كلمة بكلمة.",
+      "الفعل المركّب (phrasal verb) هو فعل مقترن بكلمة قصيرة مثل up أو off أو on أو in أو down (تُسمّى أداة)، ويكوّنان معًا معنى مختلفًا عن الفعل وحده. يُعدّ get up وget off مثالًا مثاليًا. get وحدها غامضة، لكن get up تعني النهوض من السرير أو من وضعية الجلوس، بينما get off تعني النزول من حافلة أو قطار أو دراجة — فعلان مختلفان تمامًا مبنيان من الفعل نفسه بأداة مختلفة. لهذا السبب يجب تعلّم الأفعال المركّبة كوحدات كاملة، لا استنتاج معناها كلمة بكلمة.",
       {
         intro: "أفعال مركّبة للتنقل والعودة إلى مكان ما:",
         items: [
@@ -279,7 +279,7 @@ export const phrasalVerbsIntroduction: GrammarTopicContent = {
       "ابحث عن فعل شائع — get أو turn أو put أو take أو sit أو stand أو wake أو pick أو wait أو look أو come أو go — تتبعه مباشرة أداة قصيرة (up، off، on، in، out، down، away، back، for) يعني مجموعهما شيئًا أكثر تحديدًا من الفعل وحده. ثم تحقق من المفعول: ضمير مباشرة بعد الفعل (pick it up) يدل على فعل مركّب قابل للانفصال، ومفعول ثابت في النهاية (wait for her) يدل على فعل غير قابل للانفصال، وغياب المفعول تمامًا (get up، sit down) يعني أنه لا يوجد شيء لوضعه.",
     ],
     zh: [
-      "短语动词(phrasal verb)是动词和一个像 up、off、on、in 或 down 这样的短词(称为小品词)组合在一起,合起来表示与动词单独使用时不同的意思。get up 和 get off 就是一个很好的例子:get 单独使用时意思很模糊,但 get up 表示从床上或坐着的姿势起来,而 get off 表示下公交车、下火车或下自行车——用同一个动词加不同的小品词构成了两个完全不同的动作。这就是为什么短语动词必须作为一个整体来学习,而不能逐字去猜意思。",
+      "短语动词(phrasal verb)是动词和一个像 up、off、on、in 或 down 这样的短词(称为小品词)组合在一起,合起来表示与动词单独使用时不同的意思。get up 和 get off 就是一个很好的例子。get 单独使用时意思很模糊,但 get up 表示从床上或坐着的姿势起来,而 get off 表示下公交车、下火车或下自行车——用同一个动词加不同的小品词构成了两个完全不同的动作。这就是为什么短语动词必须作为一个整体来学习,而不能逐字去猜意思。",
       {
         intro: "表示出行和返回某处的短语动词:",
         items: [
