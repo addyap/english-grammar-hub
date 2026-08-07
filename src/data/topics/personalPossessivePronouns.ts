@@ -17,7 +17,7 @@ export const personalPossessivePronouns: GrammarTopicContent = {
           "Possessive pronouns stand alone, with no noun after them: mine, yours, his, hers, its, ours, theirs — This car is mine (not this car is my).",
         ],
       },
-      "The most common mistake is confusing its (possessive: belonging to it) with it's (it is/it has) — The dog wagged its tail, not it's tail. A second frequent error: using a subject pronoun where an object pronoun belongs, especially after and or a preposition — between you and I is wrong (a preposition needs an object pronoun); it should be between you and me, just as it's obviously me who called, not it's obviously I who called.",
+      "The most common mistake is confusing its (possessive: belonging to it) with it's (it is/it has) — The dog wagged its tail, not it's tail. A second frequent error: using a subject pronoun where an object pronoun belongs, especially after and or a preposition — between you and I is wrong (a preposition needs an object pronoun). It should be between you and me, just as it's obviously me who called, not it's obviously I who called.",
       "Look at the pronoun's job: doing the verb's action → subject pronoun; receiving the action or following a preposition (to, with, between, for) → object pronoun; sitting right before a noun → possessive determiner; standing alone with no noun following → possessive pronoun.",
     ],
     fr: [
@@ -31,7 +31,7 @@ export const personalPossessivePronouns: GrammarTopicContent = {
           "Les pronoms possessifs sont autonomes, sans nom après eux : mine, yours, his, hers, its, ours, theirs — This car is mine (et non this car is my).",
         ],
       },
-      "L'erreur la plus fréquente est de confondre its (possessif : appartenant à it) avec it's (it is/it has) — The dog wagged its tail, et non it's tail. Une autre erreur courante : employer un pronom sujet là où il faut un pronom complément, surtout après and ou une préposition — between you and I est incorrect (une préposition exige un pronom complément) ; il faut dire between you and me, tout comme it's obviously me who called, et non it's obviously I who called.",
+      "L'erreur la plus fréquente est de confondre its (possessif : appartenant à it) avec it's (it is/it has) — The dog wagged its tail, et non it's tail. Une autre erreur courante : employer un pronom sujet là où il faut un pronom complément, surtout après and ou une préposition — between you and I est incorrect (une préposition exige un pronom complément). Il faut dire between you and me, tout comme it's obviously me who called, et non it's obviously I who called.",
       "Observez le rôle du pronom : il fait l'action du verbe → pronom sujet ; il reçoit l'action ou suit une préposition (to, with, between, for) → pronom complément ; il précède directement un nom → déterminant possessif ; il est autonome, sans nom après lui → pronom possessif.",
     ],
     es: [
@@ -45,7 +45,7 @@ export const personalPossessivePronouns: GrammarTopicContent = {
           "Los pronombres posesivos van solos, sin sustantivo después: mine, yours, his, hers, its, ours, theirs — This car is mine (no this car is my).",
         ],
       },
-      "El error más común es confundir its (posesivo: perteneciente a it) con it's (it is/it has) —The dog wagged its tail, no it's tail. Otro error frecuente: usar un pronombre sujeto donde corresponde uno objeto, sobre todo después de and o una preposición —between you and I es incorrecto (una preposición exige un pronombre objeto); debe ser between you and me, igual que it's obviously me who called, no it's obviously I who called.",
+      "El error más común es confundir its (posesivo: perteneciente a it) con it's (it is/it has) —The dog wagged its tail, no it's tail. Otro error frecuente: usar un pronombre sujeto donde corresponde uno objeto, sobre todo después de and o una preposición —between you and I es incorrecto (una preposición exige un pronombre objeto). Debe ser between you and me, igual que it's obviously me who called, no it's obviously I who called.",
       "Fíjate en la función del pronombre: realiza la acción del verbo → pronombre sujeto; recibe la acción o sigue una preposición (to, with, between, for) → pronombre objeto; va justo antes de un sustantivo → determinante posesivo; va solo, sin sustantivo detrás → pronombre posesivo.",
     ],
     pt: [
@@ -59,7 +59,7 @@ export const personalPossessivePronouns: GrammarTopicContent = {
           "Os pronomes possessivos ficam sozinhos, sem substantivo a seguir: mine, yours, his, hers, its, ours, theirs — This car is mine (e não this car is my).",
         ],
       },
-      "O erro mais comum é confundir its (possessivo: pertencente a it) com it's (it is/it has) — The dog wagged its tail, e não it's tail. Outro erro frequente: usar um pronome sujeito onde é preciso um pronome objeto, sobretudo depois de and ou de uma preposição — between you and I está errado (uma preposição exige um pronome objeto); deve ser between you and me, tal como it's obviously me who called, e não it's obviously I who called.",
+      "O erro mais comum é confundir its (possessivo: pertencente a it) com it's (it is/it has) — The dog wagged its tail, e não it's tail. Outro erro frequente: usar um pronome sujeito onde é preciso um pronome objeto, sobretudo depois de and ou de uma preposição — between you and I está errado (uma preposição exige um pronome objeto). Deve ser between you and me, tal como it's obviously me who called, e não it's obviously I who called.",
       "Repara na função do pronome: faz a ação do verbo → pronome sujeito; recebe a ação ou segue uma preposição (to, with, between, for) → pronome objeto; vem mesmo antes de um substantivo → determinante possessivo; fica sozinho, sem substantivo a seguir → pronome possessivo.",
     ],
     it: [
@@ -73,7 +73,7 @@ export const personalPossessivePronouns: GrammarTopicContent = {
           "I pronomi possessivi stanno da soli, senza nome dopo di loro: mine, yours, his, hers, its, ours, theirs — This car is mine (non this car is my).",
         ],
       },
-      "L'errore più comune è confondere its (possessivo: appartenente a it) con it's (it is/it has) — The dog wagged its tail, non it's tail. Un altro errore frequente: usare un pronome soggetto dove serve un pronome oggetto, soprattutto dopo and o una preposizione — between you and I è sbagliato (una preposizione richiede un pronome oggetto); deve essere between you and me, proprio come it's obviously me who called, non it's obviously I who called.",
+      "L'errore più comune è confondere its (possessivo: appartenente a it) con it's (it is/it has) — The dog wagged its tail, non it's tail. Un altro errore frequente: usare un pronome soggetto dove serve un pronome oggetto, soprattutto dopo and o una preposizione — between you and I è sbagliato (una preposizione richiede un pronome oggetto). Deve essere between you and me, proprio come it's obviously me who called, non it's obviously I who called.",
       "Osserva la funzione del pronome: compie l'azione del verbo → pronome soggetto; riceve l'azione o segue una preposizione (to, with, between, for) → pronome oggetto; precede direttamente un nome → aggettivo possessivo; sta da solo, senza nome dopo → pronome possessivo.",
     ],
     de: [
@@ -87,7 +87,7 @@ export const personalPossessivePronouns: GrammarTopicContent = {
           "Possessivpronomen stehen allein, ohne folgendes Nomen: mine, yours, his, hers, its, ours, theirs — This car is mine (nicht this car is my).",
         ],
       },
-      "Der häufigste Fehler ist, its (possessiv: gehört zu it) mit it's (it is/it has) zu verwechseln — The dog wagged its tail, nicht it's tail. Ein weiterer häufiger Fehler: ein Subjektpronomen zu verwenden, wo ein Objektpronomen gebraucht wird, besonders nach and oder einer Präposition — between you and I ist falsch (eine Präposition braucht ein Objektpronomen); richtig ist between you and me, genau wie it's obviously me who called, nicht it's obviously I who called.",
+      "Der häufigste Fehler ist, its (possessiv: gehört zu it) mit it's (it is/it has) zu verwechseln — The dog wagged its tail, nicht it's tail. Ein weiterer häufiger Fehler: ein Subjektpronomen zu verwenden, wo ein Objektpronomen gebraucht wird, besonders nach and oder einer Präposition — between you and I ist falsch (eine Präposition braucht ein Objektpronomen). Richtig ist between you and me, genau wie it's obviously me who called, nicht it's obviously I who called.",
       "Achte auf die Aufgabe des Pronomens: führt die Handlung des Verbs aus → Subjektpronomen; empfängt die Handlung oder folgt auf eine Präposition (to, with, between, for) → Objektpronomen; steht direkt vor einem Nomen → Possessivbegleiter; steht allein, ohne folgendes Nomen → Possessivpronomen.",
     ],
     ru: [
@@ -101,7 +101,7 @@ export const personalPossessivePronouns: GrammarTopicContent = {
           "Притяжательные местоимения стоят самостоятельно, без существительного после себя: mine, yours, his, hers, its, ours, theirs — This car is mine (а не this car is my).",
         ],
       },
-      "Самая частая ошибка — путать its (притяжательное: принадлежащее it) с it's (it is/it has) — The dog wagged its tail, а не it's tail. Другая распространённая ошибка — использовать местоимение-подлежащее там, где нужно местоимение-дополнение, особенно после and или предлога — between you and I неправильно (после предлога нужно местоимение-дополнение); правильно between you and me, точно так же как it's obviously me who called, а не it's obviously I who called.",
+      "Самая частая ошибка — путать its (притяжательное: принадлежащее it) с it's (it is/it has) — The dog wagged its tail, а не it's tail. Другая распространённая ошибка — использовать местоимение-подлежащее там, где нужно местоимение-дополнение, особенно после and или предлога — between you and I неправильно (после предлога нужно местоимение-дополнение). Правильно between you and me, точно так же как it's obviously me who called, а не it's obviously I who called.",
       "Обращайте внимание на роль местоимения: выполняет действие глагола → подлежащее; получает действие или стоит после предлога (to, with, between, for) → дополнение; стоит прямо перед существительным → притяжательный определитель; стоит самостоятельно, без существительного после себя → притяжательное местоимение.",
     ],
     ar: [
@@ -115,7 +115,7 @@ export const personalPossessivePronouns: GrammarTopicContent = {
           "ضمائر الملكية تقف وحدها، دون اسم بعدها: mine, yours, his, hers, its, ours, theirs — This car is mine (وليس this car is my).",
         ],
       },
-      "أكثر الأخطاء شيوعًا هو الخلط بين its (ملكية: تخص it) وit's (it is/it has) — The dog wagged its tail، وليس it's tail. وخطأ شائع آخر: استخدام ضمير فاعل في موضع يحتاج ضمير مفعول به، خصوصًا بعد and أو حرف جر — between you and I خطأ (حرف الجر يحتاج ضمير مفعول به)؛ والصواب between you and me، تمامًا مثل it's obviously me who called، وليس it's obviously I who called.",
+      "أكثر الأخطاء شيوعًا هو الخلط بين its (ملكية: تخص it) وit's (it is/it has) — The dog wagged its tail، وليس it's tail. وخطأ شائع آخر: استخدام ضمير فاعل في موضع يحتاج ضمير مفعول به، خصوصًا بعد and أو حرف جر — between you and I خطأ (حرف الجر يحتاج ضمير مفعول به). والصواب between you and me، تمامًا مثل it's obviously me who called، وليس it's obviously I who called.",
       "انتبه إلى وظيفة الضمير: يقوم بفعل الجملة ← ضمير فاعل؛ يستقبل الفعل أو يأتي بعد حرف جر (to, with, between, for) ← ضمير مفعول به؛ يقف مباشرة قبل اسم ← صفة ملكية؛ يقف وحده دون اسم بعده ← ضمير ملكية.",
     ],
     zh: [
@@ -129,7 +129,7 @@ export const personalPossessivePronouns: GrammarTopicContent = {
           "名词性物主代词单独使用,后面不跟名词:mine, yours, his, hers, its, ours, theirs——This car is mine(而不是 this car is my)。",
         ],
       },
-      "最常见的错误是把 its(物主代词,表示属于 it)和 it's(it is/it has 的缩写)搞混——应该说 The dog wagged its tail,而不是 it's tail。另一个常见错误是:在该用宾格代词的地方用了主格代词,尤其是在 and 后面或介词后面——between you and I 是错的(介词后面需要宾格代词);应该说 between you and me,就像 it's obviously me who called,而不是 it's obviously I who called。",
+      "最常见的错误是把 its(物主代词,表示属于 it)和 it's(it is/it has 的缩写)搞混——应该说 The dog wagged its tail,而不是 it's tail。另一个常见错误是:在该用宾格代词的地方用了主格代词,尤其是在 and 后面或介词后面——between you and I 是错的(介词后面需要宾格代词)。应该说 between you and me,就像 it's obviously me who called,而不是 it's obviously I who called。",
       "留意代词在句中的作用:发出动词的动作 → 主格代词;承受动作,或跟在介词(to, with, between, for)后面 → 宾格代词;紧跟在名词前面 → 形容词性物主代词;单独使用,后面没有名词 → 名词性物主代词。",
     ],
   },
