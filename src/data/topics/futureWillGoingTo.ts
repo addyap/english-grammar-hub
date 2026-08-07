@@ -18,7 +18,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
           "Evidence-based prediction (going to): look at the sky — it's going to rain (proof right now)",
         ],
       },
-      "The most common mistake is using will for a plan that's already decided, or going to for a spontaneous, in-the-moment decision. If you decided before speaking, use going to: I'm going to see a film tonight (already planned), not I'll see a film tonight; if you decide as you speak, use will: this bag is heavy — I'll carry it for you, not I'm going to carry it for you.",
+      "The most common mistake is using will for a plan that's already decided, or going to for a spontaneous, in-the-moment decision. If you decided before speaking, use going to: I'm going to see a film tonight (already planned), not I'll see a film tonight. If you decide as you speak, use will: this bag is heavy — I'll carry it for you, not I'm going to carry it for you.",
       "Typical trigger words: right now, at the moment (will, for spontaneous decisions); already, next week/month, planning to (going to, for prior plans); I think, probably, I'm sure (will, for opinion-based predictions); look at, those clouds, about to (going to, for evidence-based predictions).",
     ],
     fr: [
@@ -33,7 +33,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
           "Prédiction fondée sur une preuve (going to) : look at the sky — it's going to rain (preuve visible)",
         ],
       },
-      "L'erreur la plus fréquente consiste à employer will pour un projet déjà décidé, ou going to pour une décision spontanée prise sur l'instant. Si la décision a été prise avant de parler, employez going to : I'm going to see a film tonight (déjà prévu), et non I'll see a film tonight ; si la décision se prend en parlant, employez will : this bag is heavy — I'll carry it for you, et non I'm going to carry it for you.",
+      "L'erreur la plus fréquente consiste à employer will pour un projet déjà décidé, ou going to pour une décision spontanée prise sur l'instant. Si la décision a été prise avant de parler, employez going to : I'm going to see a film tonight (déjà prévu), et non I'll see a film tonight. Si la décision se prend en parlant, employez will : this bag is heavy — I'll carry it for you, et non I'm going to carry it for you.",
       "Mots déclencheurs typiques : right now, at the moment (will, pour une décision spontanée) ; already, next week/month, planning to (going to, pour un projet déjà décidé) ; I think, probably, I'm sure (will, pour une prédiction d'opinion) ; look at, those clouds, about to (going to, pour une prédiction fondée sur une preuve).",
     ],
     es: [
@@ -48,7 +48,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
           "Predicción basada en pruebas (going to): look at the sky — it's going to rain (prueba visible)",
         ],
       },
-      "El error más común es usar will para un plan ya decidido, o going to para una decisión espontánea tomada en el momento. Si la decisión se tomó antes de hablar, usa going to: I'm going to see a film tonight (ya planeado), no I'll see a film tonight; si la decisión se toma mientras hablas, usa will: this bag is heavy — I'll carry it for you, no I'm going to carry it for you.",
+      "El error más común es usar will para un plan ya decidido, o going to para una decisión espontánea tomada en el momento. Si la decisión se tomó antes de hablar, usa going to: I'm going to see a film tonight (ya planeado), no I'll see a film tonight. Si la decisión se toma mientras hablas, usa will: this bag is heavy — I'll carry it for you, no I'm going to carry it for you.",
       "Palabras clave típicas: right now, at the moment (will, para decisiones espontáneas); already, next week/month, planning to (going to, para planes ya decididos); I think, probably, I'm sure (will, para predicciones de opinión); look at, those clouds, about to (going to, para predicciones basadas en pruebas).",
     ],
     pt: [
@@ -63,7 +63,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
           "Previsão baseada em provas (going to): look at the sky — it's going to rain (prova visível)",
         ],
       },
-      "O erro mais comum é usar will para um plano já decidido, ou going to para uma decisão espontânea tomada no momento. Se a decisão foi tomada antes de falar, usa going to: I'm going to see a film tonight (já planeado), e não I'll see a film tonight; se a decisão é tomada enquanto falas, usa will: this bag is heavy — I'll carry it for you, e não I'm going to carry it for you.",
+      "O erro mais comum é usar will para um plano já decidido, ou going to para uma decisão espontânea tomada no momento. Se a decisão foi tomada antes de falar, usa going to: I'm going to see a film tonight (já planeado), e não I'll see a film tonight. Se a decisão é tomada enquanto falas, usa will: this bag is heavy — I'll carry it for you, e não I'm going to carry it for you.",
       "Palavras-chave típicas: right now, at the moment (will, para decisões espontâneas); already, next week/month, planning to (going to, para planos já decididos); I think, probably, I'm sure (will, para previsões de opinião); look at, those clouds, about to (going to, para previsões baseadas em provas).",
     ],
     it: [
@@ -78,7 +78,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
           "Previsione basata su prove (going to): look at the sky — it's going to rain (prova visibile)",
         ],
       },
-      "L'errore più comune è usare will per un piano già deciso, o going to per una decisione spontanea presa sul momento. Se la decisione è stata presa prima di parlare, usa going to: I'm going to see a film tonight (già programmato), non I'll see a film tonight; se la decisione si prende mentre si parla, usa will: this bag is heavy — I'll carry it for you, non I'm going to carry it for you.",
+      "L'errore più comune è usare will per un piano già deciso, o going to per una decisione spontanea presa sul momento. Se la decisione è stata presa prima di parlare, usa going to: I'm going to see a film tonight (già programmato), non I'll see a film tonight. Se la decisione si prende mentre si parla, usa will: this bag is heavy — I'll carry it for you, non I'm going to carry it for you.",
       "Parole chiave tipiche: right now, at the moment (will, per decisioni spontanee); already, next week/month, planning to (going to, per piani già decisi); I think, probably, I'm sure (will, per previsioni di opinione); look at, those clouds, about to (going to, per previsioni basate su prove).",
     ],
     de: [
@@ -93,7 +93,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
           "Beweisbasierte Vorhersage (going to): look at the sky — it's going to rain (sichtbarer Beweis)",
         ],
       },
-      "Der häufigste Fehler ist, will für einen bereits feststehenden Plan zu benutzen, oder going to für eine spontane, im Moment getroffene Entscheidung. Wenn die Entscheidung schon vor dem Sprechen feststand, benutze going to: I'm going to see a film tonight (bereits geplant), nicht I'll see a film tonight; wenn die Entscheidung beim Sprechen getroffen wird, benutze will: this bag is heavy — I'll carry it for you, nicht I'm going to carry it for you.",
+      "Der häufigste Fehler ist, will für einen bereits feststehenden Plan zu benutzen, oder going to für eine spontane, im Moment getroffene Entscheidung. Wenn die Entscheidung schon vor dem Sprechen feststand, benutze going to: I'm going to see a film tonight (bereits geplant), nicht I'll see a film tonight. Wenn die Entscheidung beim Sprechen getroffen wird, benutze will: this bag is heavy — I'll carry it for you, nicht I'm going to carry it for you.",
       "Typische Signalwörter: right now, at the moment (will, für spontane Entscheidungen); already, next week/month, planning to (going to, für bereits feststehende Pläne); I think, probably, I'm sure (will, für meinungsbasierte Vorhersagen); look at, those clouds, about to (going to, für beweisbasierte Vorhersagen).",
     ],
     ru: [
@@ -108,7 +108,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
           "Предсказание на основе доказательств (going to): look at the sky — it's going to rain (видимое доказательство)",
         ],
       },
-      "Самая частая ошибка — использовать will для уже решённого плана или going to для спонтанного решения, принятого в момент речи. Если решение принято до разговора, используйте going to: I'm going to see a film tonight (уже запланировано), а не I'll see a film tonight; если решение принимается по ходу разговора, используйте will: this bag is heavy — I'll carry it for you, а не I'm going to carry it for you.",
+      "Самая частая ошибка — использовать will для уже решённого плана или going to для спонтанного решения, принятого в момент речи. Если решение принято до разговора, используйте going to: I'm going to see a film tonight (уже запланировано), а не I'll see a film tonight. Если решение принимается по ходу разговора, используйте will: this bag is heavy — I'll carry it for you, а не I'm going to carry it for you.",
       "Типичные слова-сигналы: right now, at the moment (will, для спонтанных решений); already, next week/month, planning to (going to, для заранее решённых планов); I think, probably, I'm sure (will, для предсказаний-мнений); look at, those clouds, about to (going to, для предсказаний на основе доказательств).",
     ],
     ar: [
@@ -123,7 +123,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
           "تنبؤ مبني على دليل (going to): look at the sky — it's going to rain (دليل مرئي)",
         ],
       },
-      "أكثر الأخطاء شيوعًا هو استخدام will لخطة تم تقريرها مسبقًا، أو going to لقرار عفوي يُتخذ في اللحظة نفسها. إذا اتُّخذ القرار قبل الحديث، استخدم going to: I'm going to see a film tonight (مخطط له مسبقًا)، وليس I'll see a film tonight؛ وإذا اتُّخذ القرار أثناء الحديث، استخدم will: this bag is heavy — I'll carry it for you، وليس I'm going to carry it for you.",
+      "أكثر الأخطاء شيوعًا هو استخدام will لخطة تم تقريرها مسبقًا، أو going to لقرار عفوي يُتخذ في اللحظة نفسها. إذا اتُّخذ القرار قبل الحديث، استخدم going to: I'm going to see a film tonight (مخطط له مسبقًا)، وليس I'll see a film tonight. وإذا اتُّخذ القرار أثناء الحديث، استخدم will: this bag is heavy — I'll carry it for you، وليس I'm going to carry it for you.",
       "كلمات دالة شائعة: right now، at the moment (will، للقرارات العفوية)؛ already، next week/month، planning to (going to، للخطط المقررة مسبقًا)؛ I think، probably، I'm sure (will، للتنبؤات المبنية على رأي)؛ look at، those clouds، about to (going to، للتنبؤات المبنية على دليل).",
     ],
     zh: [
@@ -138,7 +138,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
           "基于证据的预测(going to):look at the sky — it's going to rain(眼前的证据)",
         ],
       },
-      "最常见的错误是把 will 用在一个已经决定好的计划上,或者把 going to 用在说话当场才做出的临时决定上。如果决定是在说话之前做出的,要用 going to:I'm going to see a film tonight(已经计划好了),而不是 I'll see a film tonight;如果决定是在说话的同时做出的,要用 will:this bag is heavy — I'll carry it for you,而不是 I'm going to carry it for you。",
+      "最常见的错误是把 will 用在一个已经决定好的计划上,或者把 going to 用在说话当场才做出的临时决定上。如果决定是在说话之前做出的,要用 going to:I'm going to see a film tonight(已经计划好了),而不是 I'll see a film tonight。如果决定是在说话的同时做出的,要用 will:this bag is heavy — I'll carry it for you,而不是 I'm going to carry it for you。",
       "常见信号词:right now、at the moment(will,用于临时决定);already、next week/month、planning to(going to,用于事先计划好的事);I think、probably、I'm sure(will,用于基于看法的预测);look at、those clouds、about to(going to,用于基于证据的预测)。",
     ],
   },

@@ -18,7 +18,7 @@ export const borrowVsLend: GrammarTopicContent = {
         ],
       },
       "The most common mistake is using borrow when you mean lend, or vice versa, because both describe the same transaction — Can you borrow me your pen? is wrong; if you want the other person to give you something, use lend: Can you lend me your pen?; borrow can never take a person as its direct object in this way. A second mistake is forgetting from with borrow when naming the source — I borrowed the car my brother is missing from: I borrowed the car from my brother.",
-      "Ask who ends up with the item and who originally had it: if the subject of the sentence is receiving something that belongs to someone else, use borrow (+ from); if the subject is the one giving something away temporarily, use lend (+ to, or with an indirect object). Substituting take/receive for borrow and give for lend can help confirm which verb fits.",
+      "Ask who ends up with the item and who originally had it: if the subject of the sentence is receiving something that belongs to someone else, use borrow (+ from). If the subject is the one giving something away temporarily, use lend (+ to, or with an indirect object). Substituting take/receive for borrow and give for lend can help confirm which verb fits.",
     ],
     fr: [
       "borrow et lend décrivent tous deux le fait de donner ou de recevoir temporairement quelque chose, mais ils envisagent la même transaction sous deux angles opposés. borrow signifie prendre et utiliser quelque chose qui appartient à quelqu'un d'autre, avec l'intention de le rendre — celui qui emprunte reçoit. lend signifie donner temporairement quelque chose qui vous appartient à quelqu'un d'autre, en s'attendant à ce qu'on vous le rende — celui qui prête donne. Can I borrow your pen? (je veux prendre et utiliser votre stylo) est le reflet de Can you lend me your pen? (je veux que vous me donniez votre stylo) — les deux décrivent le même événement, sous des perspectives différentes.",
@@ -32,7 +32,7 @@ export const borrowVsLend: GrammarTopicContent = {
         ],
       },
       "L'erreur la plus fréquente est d'utiliser borrow alors qu'on veut dire lend, ou l'inverse, car les deux décrivent la même transaction — Can you borrow me your pen? est incorrect ; si vous voulez que l'autre personne vous donne quelque chose, utilisez lend : Can you lend me your pen? ; borrow ne peut jamais prendre une personne comme complément direct de cette façon. Une deuxième erreur est d'oublier from avec borrow lorsqu'on nomme la source — I borrowed the car my brother est incomplet, il manque from : I borrowed the car from my brother.",
-      "Demandez-vous qui finit par avoir l'objet et qui l'avait à l'origine : si le sujet de la phrase reçoit quelque chose qui appartient à quelqu'un d'autre, utilisez borrow (+ from) ; si le sujet est celui qui donne temporairement quelque chose, utilisez lend (+ to, ou avec un complément d'objet indirect). Remplacer borrow par take/receive et lend par give peut aider à confirmer quel verbe convient.",
+      "Demandez-vous qui finit par avoir l'objet et qui l'avait à l'origine : si le sujet de la phrase reçoit quelque chose qui appartient à quelqu'un d'autre, utilisez borrow (+ from). Si le sujet est celui qui donne temporairement quelque chose, utilisez lend (+ to, ou avec un complément d'objet indirect). Remplacer borrow par take/receive et lend par give peut aider à confirmer quel verbe convient.",
     ],
     es: [
       "borrow y lend describen ambos el hecho de dar o recibir algo temporalmente, pero contemplan la misma transacción desde lados opuestos. borrow significa tomar y usar algo que pertenece a otra persona, con la intención de devolverlo —quien pide prestado recibe. lend significa dar algo tuyo a otra persona temporalmente, esperando que te lo devuelva —quien presta da. Can I borrow your pen? (quiero tomar y usar tu bolígrafo) es el reflejo de Can you lend me your pen? (quiero que me des tu bolígrafo) —ambas describen el mismo evento, desde perspectivas distintas.",
@@ -46,7 +46,7 @@ export const borrowVsLend: GrammarTopicContent = {
         ],
       },
       "El error más común es usar borrow cuando se quiere decir lend, o viceversa, porque ambos describen la misma transacción —Can you borrow me your pen? es incorrecto; si quieres que la otra persona te dé algo, usa lend: Can you lend me your pen?; borrow nunca puede llevar una persona como objeto directo de esta manera. Un segundo error es olvidar from con borrow al nombrar la fuente —I borrowed the car my brother está incompleto, falta from: I borrowed the car from my brother.",
-      "Pregúntate quién termina con el objeto y quién lo tenía originalmente: si el sujeto de la frase recibe algo que pertenece a otra persona, usa borrow (+ from); si el sujeto es quien da algo temporalmente, usa lend (+ to, o con un objeto indirecto). Sustituir borrow por take/receive y lend por give puede ayudar a confirmar qué verbo encaja.",
+      "Pregúntate quién termina con el objeto y quién lo tenía originalmente: si el sujeto de la frase recibe algo que pertenece a otra persona, usa borrow (+ from). Si el sujeto es quien da algo temporalmente, usa lend (+ to, o con un objeto indirecto). Sustituir borrow por take/receive y lend por give puede ayudar a confirmar qué verbo encaja.",
     ],
     pt: [
       "borrow e lend descrevem ambos o ato de dar ou receber algo temporariamente, mas encaram a mesma transação a partir de lados opostos. borrow significa pegar e usar algo que pertence a outra pessoa, com a intenção de devolver —quem pede emprestado recebe. lend significa dar algo teu a outra pessoa temporariamente, esperando que te seja devolvido —quem empresta dá. Can I borrow your pen? (quero pegar e usar a tua caneta) é o reflexo de Can you lend me your pen? (quero que me dês a tua caneta) —ambas descrevem o mesmo acontecimento, a partir de perspetivas diferentes.",
@@ -60,7 +60,7 @@ export const borrowVsLend: GrammarTopicContent = {
         ],
       },
       "O erro mais comum é usar borrow quando se quer dizer lend, ou vice-versa, porque ambos descrevem a mesma transação —Can you borrow me your pen? está errado; se queres que a outra pessoa te dê algo, usa lend: Can you lend me your pen?; borrow nunca pode ter uma pessoa como objeto direto desta forma. Um segundo erro é esquecer from com borrow ao nomear a origem —I borrowed the car my brother está incompleto, falta from: I borrowed the car from my brother.",
-      "Pergunta-te quem fica com o objeto e quem o tinha originalmente: se o sujeito da frase está a receber algo que pertence a outra pessoa, usa borrow (+ from); se o sujeito é quem dá algo temporariamente, usa lend (+ to, ou com um objeto indireto). Substituir borrow por take/receive e lend por give pode ajudar a confirmar qual verbo se encaixa.",
+      "Pergunta-te quem fica com o objeto e quem o tinha originalmente: se o sujeito da frase está a receber algo que pertence a outra pessoa, usa borrow (+ from). Se o sujeito é quem dá algo temporariamente, usa lend (+ to, ou com um objeto indireto). Substituir borrow por take/receive e lend por give pode ajudar a confirmar qual verbo se encaixa.",
     ],
     it: [
       "borrow e lend descrivono entrambi il dare o ricevere qualcosa temporaneamente, ma osservano la stessa transazione da lati opposti. borrow significa prendere e usare qualcosa che appartiene a qualcun altro, con l'intenzione di restituirlo —chi prende in prestito riceve. lend significa dare temporaneamente qualcosa di tuo a qualcun altro, aspettandosi che ti venga restituito —chi presta dà. Can I borrow your pen? (voglio prendere e usare la tua penna) è lo specchio di Can you lend me your pen? (voglio che tu mi dia la tua penna) —entrambe descrivono lo stesso evento, da prospettive diverse.",
@@ -74,7 +74,7 @@ export const borrowVsLend: GrammarTopicContent = {
         ],
       },
       "L'errore più comune è usare borrow quando si intende lend, o viceversa, perché entrambi descrivono la stessa transazione —Can you borrow me your pen? è sbagliato; se vuoi che l'altra persona ti dia qualcosa, usa lend: Can you lend me your pen?; borrow non può mai avere una persona come complemento oggetto diretto in questo modo. Un secondo errore è dimenticare from con borrow quando si nomina la fonte —I borrowed the car my brother è incompleto, manca from: I borrowed the car from my brother.",
-      "Chiediti chi finisce per avere l'oggetto e chi lo aveva originariamente: se il soggetto della frase sta ricevendo qualcosa che appartiene a qualcun altro, usa borrow (+ from); se il soggetto è colui che dà temporaneamente qualcosa, usa lend (+ to, o con un complemento di termine). Sostituire borrow con take/receive e lend con give può aiutare a confermare quale verbo si adatta.",
+      "Chiediti chi finisce per avere l'oggetto e chi lo aveva originariamente: se il soggetto della frase sta ricevendo qualcosa che appartiene a qualcun altro, usa borrow (+ from). Se il soggetto è colui che dà temporaneamente qualcosa, usa lend (+ to, o con un complemento di termine). Sostituire borrow con take/receive e lend con give può aiutare a confermare quale verbo si adatta.",
     ],
     de: [
       "borrow und lend beschreiben beide das vorübergehende Geben oder Erhalten von etwas, betrachten aber dasselbe Geschäft von entgegengesetzten Seiten. borrow bedeutet, etwas zu nehmen und zu benutzen, das jemand anderem gehört, mit der Absicht, es zurückzugeben — der Entleiher erhält. lend bedeutet, jemand anderem vorübergehend etwas von einem selbst zu geben, in der Erwartung, es zurückzubekommen — der Verleiher gibt. Can I borrow your pen? (ich möchte deinen Stift nehmen und benutzen) ist das Spiegelbild von Can you lend me your pen? (ich möchte, dass du mir deinen Stift gibst) — beide beschreiben dasselbe Ereignis, aus unterschiedlichen Perspektiven.",
@@ -88,7 +88,7 @@ export const borrowVsLend: GrammarTopicContent = {
         ],
       },
       "Der häufigste Fehler ist, borrow zu verwenden, wenn lend gemeint ist, oder umgekehrt, da beide dasselbe Geschäft beschreiben — Can you borrow me your pen? ist falsch; wenn du möchtest, dass die andere Person dir etwas gibt, verwende lend: Can you lend me your pen?; borrow kann niemals auf diese Weise eine Person als direktes Objekt haben. Ein zweiter Fehler ist, from bei borrow zu vergessen, wenn die Quelle genannt wird — I borrowed the car my brother ist unvollständig, es fehlt from: I borrowed the car from my brother.",
-      "Frage dich, wer am Ende den Gegenstand hat und wer ihn ursprünglich hatte: Wenn das Subjekt des Satzes etwas erhält, das jemand anderem gehört, verwende borrow (+ from); wenn das Subjekt derjenige ist, der vorübergehend etwas gibt, verwende lend (+ to, oder mit einem indirekten Objekt). borrow durch take/receive und lend durch give zu ersetzen kann helfen zu bestätigen, welches Verb passt.",
+      "Frage dich, wer am Ende den Gegenstand hat und wer ihn ursprünglich hatte: Wenn das Subjekt des Satzes etwas erhält, das jemand anderem gehört, verwende borrow (+ from). Wenn das Subjekt derjenige ist, der vorübergehend etwas gibt, verwende lend (+ to, oder mit einem indirekten Objekt). borrow durch take/receive und lend durch give zu ersetzen kann helfen zu bestätigen, welches Verb passt.",
     ],
     ru: [
       "borrow и lend оба описывают временную передачу или получение чего-либо, но рассматривают одну и ту же операцию с противоположных сторон. borrow означает взять и использовать что-то, принадлежащее другому человеку, с намерением вернуть — берущий получает. lend означает временно отдать что-то своё другому человеку, ожидая, что это вернут — дающий отдаёт. Can I borrow your pen? (я хочу взять и использовать вашу ручку) — это зеркальное отражение Can you lend me your pen? (я хочу, чтобы вы дали мне свою ручку) — оба описывают одно и то же событие с разных точек зрения.",
@@ -102,7 +102,7 @@ export const borrowVsLend: GrammarTopicContent = {
         ],
       },
       "Самая частая ошибка — использовать borrow, когда имеется в виду lend, или наоборот, поскольку оба описывают одну и ту же операцию: Can you borrow me your pen? неверно; если вы хотите, чтобы другой человек дал вам что-то, используйте lend: Can you lend me your pen?; borrow никогда не может иметь человека в качестве прямого дополнения таким образом. Вторая ошибка — забывать from с borrow при указании источника: I borrowed the car my brother — неполное предложение, не хватает from: I borrowed the car from my brother.",
-      "Спросите себя, у кого в итоге оказывается предмет и у кого он был изначально: если подлежащее предложения получает что-то, принадлежащее другому человеку, используйте borrow (+ from); если подлежащее — тот, кто временно отдаёт что-то, используйте lend (+ to, или с косвенным дополнением). Замена borrow на take/receive и lend на give может помочь подтвердить, какой глагол подходит.",
+      "Спросите себя, у кого в итоге оказывается предмет и у кого он был изначально: если подлежащее предложения получает что-то, принадлежащее другому человеку, используйте borrow (+ from). Если подлежащее — тот, кто временно отдаёт что-то, используйте lend (+ to, или с косвенным дополнением). Замена borrow на take/receive и lend на give может помочь подтвердить, какой глагол подходит.",
     ],
     ar: [
       "يصف كل من borrow وlend إعطاء أو استلام شيء ما مؤقتًا، لكنهما ينظران إلى المعاملة نفسها من جانبين متعاكسين. تعني borrow أخذ واستخدام شيء يخص شخصًا آخر، بنية إعادته — فالمستعير يستلم. وتعني lend إعطاء شيء يخصك لشخص آخر مؤقتًا، متوقعًا استرداده — فالمُقرِض يعطي. تعني Can I borrow your pen؟ (أريد أن آخذ قلمك وأستخدمه) نفس معنى Can you lend me your pen؟ (أريد أن تعطيني قلمك) بشكل معكوس — كلتاهما تصفان الحدث نفسه، من منظورين مختلفين.",
@@ -116,7 +116,7 @@ export const borrowVsLend: GrammarTopicContent = {
         ],
       },
       "أكثر الأخطاء شيوعًا هو استخدام borrow بينما المقصود lend، أو العكس، لأن كلتيهما تصفان المعاملة نفسها — Can you borrow me your pen؟ خطأ؛ إذا أردت أن يعطيك الشخص الآخر شيئًا، استخدم lend: Can you lend me your pen؟؛ لا يمكن أبدًا أن يأخذ borrow شخصًا كمفعول به مباشر بهذه الطريقة. وخطأ ثانٍ هو نسيان from مع borrow عند ذكر المصدر — I borrowed the car my brother جملة ناقصة، تنقصها from: I borrowed the car from my brother.",
-      "اسأل نفسك من ينتهي به الأمر حاملاً الشيء ومن كان يملكه أصلاً: إذا كان فاعل الجملة يستلم شيئًا يخص شخصًا آخر، استخدم borrow (+ from)؛ وإذا كان الفاعل هو من يعطي شيئًا مؤقتًا، استخدم lend (+ to، أو مع مفعول به غير مباشر). استبدال borrow بـ take/receive وlend بـ give يمكن أن يساعد في تأكيد الفعل المناسب.",
+      "اسأل نفسك من ينتهي به الأمر حاملاً الشيء ومن كان يملكه أصلاً: إذا كان فاعل الجملة يستلم شيئًا يخص شخصًا آخر، استخدم borrow (+ from). وإذا كان الفاعل هو من يعطي شيئًا مؤقتًا، استخدم lend (+ to، أو مع مفعول به غير مباشر). استبدال borrow بـ take/receive وlend بـ give يمكن أن يساعد في تأكيد الفعل المناسب.",
     ],
     zh: [
       "borrow 和 lend 都描述暂时给予或接受某物,但它们从相反的两个角度看待同一笔交易。borrow 指拿取并使用属于别人的东西,并打算归还——借入方是接收方。lend 指暂时把自己的东西给别人,期待对方归还——出借方是给予方。Can I borrow your pen?(我想拿你的笔来用)与 Can you lend me your pen?(我想让你把笔给我)互为镜像——两者描述的是同一件事,只是视角不同。",
@@ -130,7 +130,7 @@ export const borrowVsLend: GrammarTopicContent = {
         ],
       },
       "最常见的错误是把 borrow 和 lend 用反,因为两者描述的是同一笔交易——Can you borrow me your pen? 是错误的;如果你想让对方把东西给你,应该用 lend:Can you lend me your pen?;borrow 不能以这种方式直接把人当作宾语。第二个常见错误是用 borrow 说明来源时忘记加 from——I borrowed the car my brother 这句话不完整,缺少 from:I borrowed the car from my brother。",
-      "问问自己最终谁拥有了这件物品,原本又是谁的:如果句子的主语正在接收属于别人的东西,用 borrow(+ from);如果主语是暂时把东西给出去的一方,用 lend(+ to,或搭配间接宾语)。把 borrow 换成 take/receive、把 lend 换成 give,有助于确认哪个动词更合适。",
+      "问问自己最终谁拥有了这件物品,原本又是谁的:如果句子的主语正在接收属于别人的东西,用 borrow(+ from)。如果主语是暂时把东西给出去的一方,用 lend(+ to,或搭配间接宾语)。把 borrow 换成 take/receive、把 lend 换成 give,有助于确认哪个动词更合适。",
     ],
   },
   paragraphKinds: ["use", "form", "mistake", "markers"],
