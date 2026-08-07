@@ -17,7 +17,7 @@ export const pronounsPossessives: GrammarTopicContent = {
           "Indefinite (somebody, anything, nowhere) and demonstrative (this, that) pronouns cover two more common jobs — pointing at an unspecified person/thing, or at something nearby/distant — each with its own dedicated topic.",
         ],
       },
-      "The most common mistake is picking the right pronoun but the wrong family for the job — using a possessive where a personal pronoun belongs, or a personal pronoun where a reflexive is needed: I hurt me is wrong (subject and object are the same person, so it needs the reflexive myself: I hurt myself). A second frequent error is skipping the family question entirely and just guessing the form that 'sounds right' — which fails as soon as the sentence uses a less common pronoun like its or theirs.",
+      "The most common mistake is picking the right pronoun but the wrong family for the job — using a possessive where a personal pronoun belongs, or a personal pronoun where a reflexive is needed. I hurt me is wrong (subject and object are the same person, so it needs the reflexive myself: I hurt myself). A second frequent error is skipping the family question entirely and just guessing the form that 'sounds right' — which fails as soon as the sentence uses a less common pronoun like its or theirs.",
       "Before picking a specific pronoun, first identify the family: is something doing or receiving an action (personal), does it show ownership (possessive), or are the subject and object the same person (reflexive)? Only once the family is clear does the exact word — I vs me, my vs mine, himself vs him — become a simple lookup.",
     ],
     fr: [
@@ -31,7 +31,7 @@ export const pronounsPossessives: GrammarTopicContent = {
           "Les pronoms indéfinis (somebody, anything, nowhere) et démonstratifs (this, that) couvrent deux autres rôles courants — désigner une personne/chose non précisée, ou quelque chose de proche/lointain — chacun avec son propre sujet dédié.",
         ],
       },
-      "L'erreur la plus fréquente est de choisir le bon pronom mais la mauvaise famille pour le rôle — employer un possessif là où il faut un personnel, ou un personnel là où il faut un réfléchi : I hurt me est incorrect (le sujet et le complément sont la même personne, il faut donc le réfléchi myself : I hurt myself). Une deuxième erreur fréquente est de sauter entièrement la question de la famille et de deviner la forme qui « sonne bien » — ce qui échoue dès que la phrase emploie un pronom moins courant comme its ou theirs.",
+      "L'erreur la plus fréquente est de choisir le bon pronom mais la mauvaise famille pour le rôle — employer un possessif là où il faut un personnel, ou un personnel là où il faut un réfléchi. I hurt me est incorrect (le sujet et le complément sont la même personne, il faut donc le réfléchi myself : I hurt myself). Une deuxième erreur fréquente est de sauter entièrement la question de la famille et de deviner la forme qui « sonne bien » — ce qui échoue dès que la phrase emploie un pronom moins courant comme its ou theirs.",
       "Avant de choisir un pronom précis, identifiez d'abord la famille : quelque chose fait-il ou reçoit-il une action (personnel), montre-t-il une possession (possessif), ou le sujet et le complément sont-ils la même personne (réfléchi) ? Ce n'est qu'une fois la famille claire que le mot exact — I ou me, my ou mine, himself ou him — devient une simple recherche.",
     ],
     es: [
@@ -45,7 +45,7 @@ export const pronounsPossessives: GrammarTopicContent = {
           "Los pronombres indefinidos (somebody, anything, nowhere) y demostrativos (this, that) cubren otras dos funciones comunes —señalar a una persona/cosa no especificada, o algo cercano/lejano— cada uno con su propio tema dedicado.",
         ],
       },
-      "El error más frecuente es elegir el pronombre correcto pero la familia equivocada para la función —usar un posesivo donde corresponde uno personal, o uno personal donde se necesita uno reflexivo: I hurt me es incorrecto (el sujeto y el objeto son la misma persona, así que necesita el reflexivo myself: I hurt myself). Un segundo error frecuente es saltarse por completo la pregunta de la familia y simplemente adivinar la forma que «suena bien» —lo cual falla en cuanto la frase usa un pronombre menos común como its o theirs.",
+      "El error más frecuente es elegir el pronombre correcto pero la familia equivocada para la función —usar un posesivo donde corresponde uno personal, o uno personal donde se necesita uno reflexivo. I hurt me es incorrecto (el sujeto y el objeto son la misma persona, así que necesita el reflexivo myself: I hurt myself). Un segundo error frecuente es saltarse por completo la pregunta de la familia y simplemente adivinar la forma que «suena bien» —lo cual falla en cuanto la frase usa un pronombre menos común como its o theirs.",
       "Antes de elegir un pronombre concreto, identifica primero la familia: ¿algo realiza o recibe una acción (personal), muestra posesión (posesivo), o el sujeto y el objeto son la misma persona (reflexivo)? Solo una vez que la familia está clara, la palabra exacta —I o me, my o mine, himself o him— se convierte en una simple consulta.",
     ],
     pt: [
@@ -59,7 +59,7 @@ export const pronounsPossessives: GrammarTopicContent = {
           "Os pronomes indefinidos (somebody, anything, nowhere) e demonstrativos (this, that) cobrem mais duas funções comuns — apontar para uma pessoa/coisa não especificada, ou para algo próximo/distante — cada um com o seu próprio tema dedicado.",
         ],
       },
-      "O erro mais comum é escolher o pronome certo mas a família errada para a função — usar um possessivo onde é preciso um pessoal, ou um pessoal onde é preciso um reflexivo: I hurt me está errado (o sujeito e o objeto são a mesma pessoa, por isso precisa do reflexivo myself: I hurt myself). Um segundo erro frequente é saltar completamente a questão da família e simplesmente adivinhar a forma que «soa bem» — o que falha assim que a frase usa um pronome menos comum como its ou theirs.",
+      "O erro mais comum é escolher o pronome certo mas a família errada para a função — usar um possessivo onde é preciso um pessoal, ou um pessoal onde é preciso um reflexivo. I hurt me está errado (o sujeito e o objeto são a mesma pessoa, por isso precisa do reflexivo myself: I hurt myself). Um segundo erro frequente é saltar completamente a questão da família e simplesmente adivinhar a forma que «soa bem» — o que falha assim que a frase usa um pronome menos comum como its ou theirs.",
       "Antes de escolher um pronome específico, identifica primeiro a família: algo está a fazer ou a receber uma ação (pessoal), mostra posse (possessivo), ou o sujeito e o objeto são a mesma pessoa (reflexivo)? Só depois de a família estar clara é que a palavra exata — I ou me, my ou mine, himself ou him — se torna uma simples consulta.",
     ],
     it: [
@@ -73,7 +73,7 @@ export const pronounsPossessives: GrammarTopicContent = {
           "I pronomi indefiniti (somebody, anything, nowhere) e dimostrativi (this, that) coprono altri due ruoli comuni — indicare una persona/cosa non specificata, o qualcosa di vicino/lontano — ciascuno con il proprio argomento dedicato.",
         ],
       },
-      "L'errore più comune è scegliere il pronome giusto ma la famiglia sbagliata per il ruolo — usare un possessivo dove serve un personale, o un personale dove serve un riflessivo: I hurt me è sbagliato (soggetto e oggetto sono la stessa persona, quindi serve il riflessivo myself: I hurt myself). Un secondo errore frequente è saltare del tutto la domanda sulla famiglia e indovinare semplicemente la forma che «suona bene» — il che fallisce non appena la frase usa un pronome meno comune come its o theirs.",
+      "L'errore più comune è scegliere il pronome giusto ma la famiglia sbagliata per il ruolo — usare un possessivo dove serve un personale, o un personale dove serve un riflessivo. I hurt me è sbagliato (soggetto e oggetto sono la stessa persona, quindi serve il riflessivo myself: I hurt myself). Un secondo errore frequente è saltare del tutto la domanda sulla famiglia e indovinare semplicemente la forma che «suona bene» — il che fallisce non appena la frase usa un pronome meno comune come its o theirs.",
       "Prima di scegliere un pronome specifico, individua prima la famiglia: qualcosa compie o riceve un'azione (personale), mostra possesso (possessivo), oppure soggetto e oggetto sono la stessa persona (riflessivo)? Solo una volta chiara la famiglia, la parola esatta — I o me, my o mine, himself o him — diventa una semplice verifica.",
     ],
     de: [
@@ -87,7 +87,7 @@ export const pronounsPossessives: GrammarTopicContent = {
           "Indefinitpronomen (somebody, anything, nowhere) und Demonstrativpronomen (this, that) decken zwei weitere häufige Aufgaben ab — auf eine unbestimmte Person/Sache zu verweisen, oder auf etwas Nahes/Fernes —, jeweils mit einem eigenen Thema.",
         ],
       },
-      "Der häufigste Fehler ist, das richtige Pronomen, aber die falsche Familie für die Aufgabe zu wählen — ein Possessiv zu verwenden, wo ein Personalpronomen gebraucht wird, oder ein Personalpronomen, wo ein Reflexivpronomen nötig ist: I hurt me ist falsch (Subjekt und Objekt sind dieselbe Person, also braucht es das Reflexivpronomen myself: I hurt myself). Ein zweiter häufiger Fehler ist, die Familienfrage ganz zu überspringen und einfach die Form zu raten, die „richtig klingt“ — was scheitert, sobald der Satz ein selteneres Pronomen wie its oder theirs verwendet.",
+      "Der häufigste Fehler ist, das richtige Pronomen, aber die falsche Familie für die Aufgabe zu wählen — ein Possessiv zu verwenden, wo ein Personalpronomen gebraucht wird, oder ein Personalpronomen, wo ein Reflexivpronomen nötig ist. I hurt me ist falsch (Subjekt und Objekt sind dieselbe Person, also braucht es das Reflexivpronomen myself: I hurt myself). Ein zweiter häufiger Fehler ist, die Familienfrage ganz zu überspringen und einfach die Form zu raten, die „richtig klingt“ — was scheitert, sobald der Satz ein selteneres Pronomen wie its oder theirs verwendet.",
       "Bevor du ein bestimmtes Pronomen wählst, identifiziere zuerst die Familie: führt etwas eine Handlung aus oder empfängt sie (personal), zeigt es Besitz (possessiv), oder sind Subjekt und Objekt dieselbe Person (reflexiv)? Erst wenn die Familie klar ist, wird das genaue Wort — I oder me, my oder mine, himself oder him — zu einem einfachen Nachschlagen.",
     ],
     ru: [
@@ -101,7 +101,7 @@ export const pronounsPossessives: GrammarTopicContent = {
           "Неопределённые (somebody, anything, nowhere) и указательные (this, that) местоимения покрывают ещё две распространённые роли — указание на неопределённого человека/предмет или на что-то близкое/далёкое — у каждой своя отдельная тема.",
         ],
       },
-      "Самая частая ошибка — выбрать правильное местоимение, но не ту группу для данной роли: использовать притяжательное там, где нужно личное, или личное там, где нужно возвратное: I hurt me неправильно (подлежащее и дополнение — одно и то же лицо, поэтому нужно возвратное myself: I hurt myself). Вторая частая ошибка — полностью пропустить вопрос о группе и просто угадывать форму, которая «звучит правильно», — это не срабатывает, как только в предложении встречается менее распространённое местоимение вроде its или theirs.",
+      "Самая частая ошибка — выбрать правильное местоимение, но не ту группу для данной роли: использовать притяжательное там, где нужно личное, или личное там, где нужно возвратное. I hurt me неправильно (подлежащее и дополнение — одно и то же лицо, поэтому нужно возвратное myself: I hurt myself). Вторая частая ошибка — полностью пропустить вопрос о группе и просто угадывать форму, которая «звучит правильно», — это не срабатывает, как только в предложении встречается менее распространённое местоимение вроде its или theirs.",
       "Прежде чем выбрать конкретное местоимение, сначала определите группу: что-то выполняет действие или получает его (личное), показывает принадлежность (притяжательное), или подлежащее и дополнение — одно и то же лицо (возвратное)? Только когда группа ясна, точное слово — I или me, my или mine, himself или him — становится простой проверкой.",
     ],
     ar: [
@@ -115,7 +115,7 @@ export const pronounsPossessives: GrammarTopicContent = {
           "تغطي الضمائر غير المحددة (somebody, anything, nowhere) وضمائر الإشارة (this, that) وظيفتين شائعتين أخريين — الإشارة إلى شخص/شيء غير محدد، أو إلى شيء قريب/بعيد — ولكل منهما موضوعه الخاص.",
         ],
       },
-      "أكثر الأخطاء شيوعًا هو اختيار الضمير الصحيح لكن من المجموعة الخاطئة للوظيفة — استخدام ضمير ملكية في موضع يحتاج ضميرًا شخصيًا، أو ضمير شخصي في موضع يحتاج ضميرًا انعكاسيًا: I hurt me خطأ (الفاعل والمفعول به هما نفس الشخص، لذا يحتاج الضمير الانعكاسي myself: I hurt myself). خطأ ثانٍ شائع هو تجاوز سؤال المجموعة كليًا وتخمين الصيغة التي «تبدو صحيحة» — وهو ما يفشل بمجرد أن تستخدم الجملة ضميرًا أقل شيوعًا مثل its أو theirs.",
+      "أكثر الأخطاء شيوعًا هو اختيار الضمير الصحيح لكن من المجموعة الخاطئة للوظيفة — استخدام ضمير ملكية في موضع يحتاج ضميرًا شخصيًا، أو ضمير شخصي في موضع يحتاج ضميرًا انعكاسيًا. I hurt me خطأ (الفاعل والمفعول به هما نفس الشخص، لذا يحتاج الضمير الانعكاسي myself: I hurt myself). خطأ ثانٍ شائع هو تجاوز سؤال المجموعة كليًا وتخمين الصيغة التي «تبدو صحيحة» — وهو ما يفشل بمجرد أن تستخدم الجملة ضميرًا أقل شيوعًا مثل its أو theirs.",
       "قبل اختيار ضمير محدد، حدِّد المجموعة أولًا: هل شيء ما يقوم بفعل أو يستقبله (شخصي)، أم يُظهر ملكية (ملكية)، أم أن الفاعل والمفعول به هما نفس الشخص (انعكاسي)؟ فقط بعد تحديد المجموعة بوضوح تصبح الكلمة الدقيقة — I أم me، my أم mine، himself أم him — مجرد تحقق بسيط.",
     ],
     zh: [
@@ -129,7 +129,7 @@ export const pronounsPossessives: GrammarTopicContent = {
           "不定代词(somebody, anything, nowhere)和指示代词(this, that)涵盖另外两种常见作用——指代不确定的人/事物,或指代近处/远处的事物——每一种都有各自专门的主题。",
         ],
       },
-      "最常见的错误是选对了代词,却选错了适合该作用的类别——在该用人称代词的地方用了物主代词,或者在该用反身代词的地方用了人称代词:I hurt me 是错的(主语和宾语是同一个人,所以需要反身代词 myself:I hurt myself)。第二个常见错误是完全跳过「类别」这一步,直接猜一个「听起来对」的形式——一旦句子用到 its 或 theirs 这类不太常见的代词,这种做法就会失败。",
+      "最常见的错误是选对了代词,却选错了适合该作用的类别——在该用人称代词的地方用了物主代词,或者在该用反身代词的地方用了人称代词。I hurt me 是错的(主语和宾语是同一个人,所以需要反身代词 myself:I hurt myself)。第二个常见错误是完全跳过「类别」这一步,直接猜一个「听起来对」的形式——一旦句子用到 its 或 theirs 这类不太常见的代词,这种做法就会失败。",
       "在选择具体代词之前,先确定类别:是某物发出或承受动作(人称),还是表示所属关系(物主),还是主语和宾语是同一个人(反身)?只有类别清楚之后,具体是哪个词——I 还是 me,my 还是 mine,himself 还是 him——才变成简单的查找。",
     ],
   },
