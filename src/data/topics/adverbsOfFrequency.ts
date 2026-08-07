@@ -7,7 +7,7 @@ export const adverbsOfFrequency: GrammarTopicContent = {
   level: "A2",
   explanations: {
     en: [
-      "Adverbs of frequency (always, usually, often, sometimes, rarely, never, etc.) say how often something happens. Unlike most adverbs, they don't simply go at the end of a sentence — their position depends on what kind of verb they're modifying, and getting this wrong is one of the most common mistakes learners make: I always am tired sounds wrong to a native ear; I am always tired is correct.",
+      "Adverbs of frequency (always, usually, often, sometimes, rarely, never, etc.) say how often something happens. Unlike most adverbs, they don't simply go at the end of a sentence — their position depends on what kind of verb they're modifying, and getting this wrong is one of the most common mistakes learners make. I always am tired sounds wrong to a native ear. I am always tired is correct.",
       {
         intro: "Where adverbs of frequency go:",
         items: [
@@ -21,7 +21,7 @@ export const adverbsOfFrequency: GrammarTopicContent = {
       "Identify the verb first: if it's a form of be, the adverb comes right after it. If it's an auxiliary/modal plus a main verb, the adverb sits between them. If it's a single ordinary verb, the adverb comes right before it. Adverbs like sometimes, often, usually, occasionally, and normally are more flexible and can also open or close a sentence for emphasis.",
     ],
     fr: [
-      "Les adverbes de fréquence (always, usually, often, sometimes, rarely, never, etc.) indiquent à quelle fréquence quelque chose se produit. Contrairement à la plupart des adverbes, ils ne se placent pas simplement en fin de phrase — leur position dépend du type de verbe qu'ils modifient, et se tromper à ce sujet est l'une des erreurs les plus fréquentes chez les apprenants : I always am tired sonne faux pour un anglophone ; I am always tired est correct.",
+      "Les adverbes de fréquence (always, usually, often, sometimes, rarely, never, etc.) indiquent à quelle fréquence quelque chose se produit. Contrairement à la plupart des adverbes, ils ne se placent pas simplement en fin de phrase — leur position dépend du type de verbe qu'ils modifient, et se tromper à ce sujet est l'une des erreurs les plus fréquentes chez les apprenants. I always am tired sonne faux pour un anglophone. I am always tired est correct.",
       {
         intro: "Où placer les adverbes de fréquence :",
         items: [
@@ -35,7 +35,7 @@ export const adverbsOfFrequency: GrammarTopicContent = {
       "Identifiez d'abord le verbe : s'il s'agit d'une forme de be, l'adverbe vient juste après. S'il s'agit d'un auxiliaire/modal suivi d'un verbe principal, l'adverbe se place entre les deux. S'il s'agit d'un seul verbe ordinaire, l'adverbe vient juste avant. Des adverbes comme sometimes, often, usually, occasionally et normally sont plus flexibles et peuvent aussi ouvrir ou clore une phrase pour insister.",
     ],
     es: [
-      "Los adverbios de frecuencia (always, usually, often, sometimes, rarely, never, etc.) indican con qué frecuencia ocurre algo. A diferencia de la mayoría de los adverbios, no se colocan simplemente al final de la frase —su posición depende del tipo de verbo que modifican, y equivocarse en esto es uno de los errores más comunes entre los estudiantes: I always am tired suena mal para un hablante nativo; I am always tired es correcto.",
+      "Los adverbios de frecuencia (always, usually, often, sometimes, rarely, never, etc.) indican con qué frecuencia ocurre algo. A diferencia de la mayoría de los adverbios, no se colocan simplemente al final de la frase —su posición depende del tipo de verbo que modifican, y equivocarse en esto es uno de los errores más comunes entre los estudiantes. I always am tired suena mal para un hablante nativo. I am always tired es correcto.",
       {
         intro: "Dónde van los adverbios de frecuencia:",
         items: [
@@ -49,7 +49,7 @@ export const adverbsOfFrequency: GrammarTopicContent = {
       "Identifica primero el verbo: si es una forma de be, el adverbio va justo después. Si es un auxiliar/modal más un verbo principal, el adverbio se coloca entre ambos. Si es un único verbo ordinario, el adverbio va justo antes. Adverbios como sometimes, often, usually, occasionally y normally son más flexibles y también pueden abrir o cerrar una frase para dar énfasis.",
     ],
     pt: [
-      "Os advérbios de frequência (always, usually, often, sometimes, rarely, never, etc.) indicam com que frequência algo acontece. Ao contrário da maioria dos advérbios, não se colocam simplesmente no fim da frase —a sua posição depende do tipo de verbo que modificam, e errar isto é um dos erros mais comuns entre os estudantes: I always am tired soa mal para um falante nativo; I am always tired está correto.",
+      "Os advérbios de frequência (always, usually, often, sometimes, rarely, never, etc.) indicam com que frequência algo acontece. Ao contrário da maioria dos advérbios, não se colocam simplesmente no fim da frase —a sua posição depende do tipo de verbo que modificam, e errar isto é um dos erros mais comuns entre os estudantes. I always am tired soa mal para um falante nativo. I am always tired está correto.",
       {
         intro: "Onde colocar os advérbios de frequência:",
         items: [
@@ -63,7 +63,7 @@ export const adverbsOfFrequency: GrammarTopicContent = {
       "Identifica primeiro o verbo: se for uma forma de be, o advérbio vem logo a seguir. Se for um auxiliar/modal mais um verbo principal, o advérbio fica entre os dois. Se for um único verbo comum, o advérbio vem logo antes. Advérbios como sometimes, often, usually, occasionally e normally são mais flexíveis e também podem abrir ou fechar uma frase para dar ênfase.",
     ],
     it: [
-      "Gli avverbi di frequenza (always, usually, often, sometimes, rarely, never, ecc.) indicano quanto spesso accade qualcosa. A differenza della maggior parte degli avverbi, non si mettono semplicemente alla fine della frase —la loro posizione dipende dal tipo di verbo che modificano, e sbagliare questo è uno degli errori più comuni tra chi impara la lingua: I always am tired suona sbagliato per un madrelingua; I am always tired è corretto.",
+      "Gli avverbi di frequenza (always, usually, often, sometimes, rarely, never, ecc.) indicano quanto spesso accade qualcosa. A differenza della maggior parte degli avverbi, non si mettono semplicemente alla fine della frase —la loro posizione dipende dal tipo di verbo che modificano, e sbagliare questo è uno degli errori più comuni tra chi impara la lingua. I always am tired suona sbagliato per un madrelingua. I am always tired è corretto.",
       {
         intro: "Dove vanno gli avverbi di frequenza:",
         items: [
@@ -77,7 +77,7 @@ export const adverbsOfFrequency: GrammarTopicContent = {
       "Individua prima il verbo: se è una forma di be, l'avverbio viene subito dopo. Se è un ausiliare/modale più un verbo principale, l'avverbio si colloca tra i due. Se è un singolo verbo ordinario, l'avverbio viene subito prima. Avverbi come sometimes, often, usually, occasionally e normally sono più flessibili e possono anche aprire o chiudere una frase per dare enfasi.",
     ],
     de: [
-      "Häufigkeitsadverbien (always, usually, often, sometimes, rarely, never usw.) geben an, wie oft etwas geschieht. Anders als die meisten Adverbien stehen sie nicht einfach am Satzende — ihre Position hängt davon ab, welche Art von Verb sie begleiten, und dies falsch zu machen ist einer der häufigsten Fehler von Lernenden: I always am tired klingt für Muttersprachler falsch; I am always tired ist richtig.",
+      "Häufigkeitsadverbien (always, usually, often, sometimes, rarely, never usw.) geben an, wie oft etwas geschieht. Anders als die meisten Adverbien stehen sie nicht einfach am Satzende — ihre Position hängt davon ab, welche Art von Verb sie begleiten, und dies falsch zu machen ist einer der häufigsten Fehler von Lernenden. I always am tired klingt für Muttersprachler falsch. I am always tired ist richtig.",
       {
         intro: "Wo Häufigkeitsadverbien stehen:",
         items: [
@@ -91,7 +91,7 @@ export const adverbsOfFrequency: GrammarTopicContent = {
       "Bestimme zuerst das Verb: Handelt es sich um eine Form von be, steht das Adverb direkt danach. Handelt es sich um ein Hilfs-/Modalverb plus Hauptverb, steht das Adverb dazwischen. Handelt es sich um ein einzelnes gewöhnliches Verb, steht das Adverb direkt davor. Adverbien wie sometimes, often, usually, occasionally und normally sind flexibler und können zur Betonung auch am Satzanfang oder -ende stehen.",
     ],
     ru: [
-      "Наречия частотности (always, usually, often, sometimes, rarely, never и т.д.) показывают, как часто что-то происходит. В отличие от большинства наречий, они не просто ставятся в конце предложения — их позиция зависит от того, какой тип глагола они определяют, и ошибка в этом — одна из самых распространённых у изучающих язык: I always am tired звучит неправильно для носителя языка; I am always tired — правильно.",
+      "Наречия частотности (always, usually, often, sometimes, rarely, never и т.д.) показывают, как часто что-то происходит. В отличие от большинства наречий, они не просто ставятся в конце предложения — их позиция зависит от того, какой тип глагола они определяют, и ошибка в этом — одна из самых распространённых у изучающих язык. I always am tired звучит неправильно для носителя языка. I am always tired — правильно.",
       {
         intro: "Куда ставить наречия частотности:",
         items: [
@@ -105,7 +105,7 @@ export const adverbsOfFrequency: GrammarTopicContent = {
       "Сначала определите глагол: если это форма be, наречие идёт сразу после неё. Если это вспомогательный/модальный глагол плюс основной глагол, наречие располагается между ними. Если это единственный обычный глагол, наречие идёт прямо перед ним. Наречия вроде sometimes, often, usually, occasionally и normally более гибкие и могут также открывать или закрывать предложение для акцента.",
     ],
     ar: [
-      "تُبيّن ظروف التكرار (always, usually, often, sometimes, rarely, never، إلخ) مدى تكرار حدوث شيء ما. وخلافًا لمعظم الظروف، لا توضع ببساطة في نهاية الجملة — يعتمد موضعها على نوع الفعل الذي تُعدّله، والخطأ في ذلك من أكثر الأخطاء شيوعًا لدى المتعلمين: تبدو I always am tired خاطئة بالنسبة لمتحدث أصلي؛ وI am always tired صحيحة.",
+      "تُبيّن ظروف التكرار (always, usually, often, sometimes, rarely, never، إلخ) مدى تكرار حدوث شيء ما. وخلافًا لمعظم الظروف، لا توضع ببساطة في نهاية الجملة — يعتمد موضعها على نوع الفعل الذي تُعدّله، والخطأ في ذلك من أكثر الأخطاء شيوعًا لدى المتعلمين. تبدو I always am tired خاطئة بالنسبة لمتحدث أصلي. وI am always tired صحيحة.",
       {
         intro: "أين توضع ظروف التكرار:",
         items: [
@@ -119,7 +119,7 @@ export const adverbsOfFrequency: GrammarTopicContent = {
       "حدد الفعل أولاً: إذا كان صيغة من be، يأتي الظرف مباشرة بعده. إذا كان فعلاً مساعدًا/وجوبيًا مع فعل رئيسي، يوضع الظرف بينهما. إذا كان فعلاً عاديًا واحدًا، يأتي الظرف مباشرة قبله. ظروف مثل sometimes, often, usually, occasionally وnormally أكثر مرونة ويمكن أن تفتتح الجملة أو تختمها أيضًا للتأكيد.",
     ],
     zh: [
-      "频度副词(always, usually, often, sometimes, rarely, never 等)表示某事发生的频率。与大多数副词不同,它们不是简单地放在句末——它们的位置取决于所修饰动词的类型,而搞错这一点是学习者最常见的错误之一:I always am tired 对母语者来说听起来是错的;I am always tired 才是正确的。",
+      "频度副词(always, usually, often, sometimes, rarely, never 等)表示某事发生的频率。与大多数副词不同,它们不是简单地放在句末——它们的位置取决于所修饰动词的类型,而搞错这一点是学习者最常见的错误之一。I always am tired 对母语者来说听起来是错的。I am always tired 才是正确的。",
       {
         intro: "频度副词的位置:",
         items: [
