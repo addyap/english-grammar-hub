@@ -12,7 +12,7 @@ export const makeVsDo: GrammarTopicContent = {
         intro: "Most of the choice comes down to memorizing fixed expressions rather than applying a rule, but these groups help:",
         items: [
           "make — for creating something: make a cake, make a plan, make a decision, make an appointment, make a mistake, make money, make a phone call, make progress, make an effort, make a mess, make friends, make noise.",
-          "do — for activities, jobs, and tasks in general (often ones you'd describe with 'something', 'anything', 'nothing'): do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly (on a test).",
+          "do — for activities, jobs, and tasks in general: do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly (on a test). These are often the ones you'd describe with 'something', 'anything', 'nothing'.",
           "do is also the general-purpose verb for unspecified activity: What are you doing this weekend? I'm not doing anything special — never make here, since nothing is being produced.",
           "A few fixed expressions break the pattern entirely and simply have to be learned as they are: make the bed (not do), do your hair (not make), make up your mind.",
         ],
@@ -26,7 +26,7 @@ export const makeVsDo: GrammarTopicContent = {
         intro: "La plupart du choix repose sur la mémorisation d'expressions figées plutôt que sur une règle, mais ces groupes aident :",
         items: [
           "make — pour créer quelque chose : make a cake, make a plan, make a decision, make an appointment, make a mistake, make money, make a phone call, make progress, make an effort, make a mess, make friends, make noise.",
-          "do — pour les activités, les corvées et les tâches en général (souvent celles qu'on décrirait avec « quelque chose », « quoi que ce soit », « rien ») : do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly (à un examen).",
+          "do — pour les activités, les corvées et les tâches en général : do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly (à un examen). Ce sont souvent celles qu'on décrirait avec « quelque chose », « quoi que ce soit », « rien ».",
           "do est aussi le verbe à tout faire pour une activité non précisée : What are you doing this weekend? I'm not doing anything special — jamais make ici, puisque rien n'est produit.",
           "Quelques expressions figées échappent totalement au schéma et doivent simplement être apprises telles quelles : make the bed (pas do), do your hair (pas make), make up your mind.",
         ],
@@ -40,7 +40,7 @@ export const makeVsDo: GrammarTopicContent = {
         intro: "La mayor parte de la elección se reduce a memorizar expresiones fijas más que a aplicar una regla, pero estos grupos ayudan:",
         items: [
           "make —para crear algo: make a cake, make a plan, make a decision, make an appointment, make a mistake, make money, make a phone call, make progress, make an effort, make a mess, make friends, make noise.",
-          "do —para actividades, tareas y trabajos en general (a menudo las que describirías con «algo», «cualquier cosa», «nada»): do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly (en un examen).",
+          "do —para actividades, tareas y trabajos en general: do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly (en un examen). Suelen ser las que describirías con «algo», «cualquier cosa», «nada».",
           "do también es el verbo general para una actividad sin especificar: What are you doing this weekend? I'm not doing anything special —nunca make aquí, ya que no se produce nada.",
           "Algunas expresiones fijas rompen el patrón por completo y simplemente hay que aprenderlas tal cual: make the bed (no do), do your hair (no make), make up your mind.",
         ],
@@ -54,7 +54,7 @@ export const makeVsDo: GrammarTopicContent = {
         intro: "A maior parte da escolha resume-se a memorizar expressões fixas mais do que a aplicar uma regra, mas estes grupos ajudam:",
         items: [
           "make —para criar algo: make a cake, make a plan, make a decision, make an appointment, make a mistake, make money, make a phone call, make progress, make an effort, make a mess, make friends, make noise.",
-          "do —para atividades, tarefas e trabalhos em geral (muitas vezes as que descreverias com «algo», «qualquer coisa», «nada»): do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly (num exame).",
+          "do —para atividades, tarefas e trabalhos em geral: do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly (num exame). São muitas vezes as que descreverias com «algo», «qualquer coisa», «nada».",
           "do é também o verbo geral para uma atividade não especificada: What are you doing this weekend? I'm not doing anything special —nunca make aqui, já que nada é produzido.",
           "Algumas expressões fixas fogem completamente ao padrão e têm simplesmente de ser aprendidas tal como são: make the bed (não do), do your hair (não make), make up your mind.",
         ],
@@ -68,7 +68,7 @@ export const makeVsDo: GrammarTopicContent = {
         intro: "Gran parte della scelta si riduce a memorizzare espressioni fisse più che ad applicare una regola, ma questi gruppi aiutano:",
         items: [
           "make — per creare qualcosa: make a cake, make a plan, make a decision, make an appointment, make a mistake, make money, make a phone call, make progress, make an effort, make a mess, make friends, make noise.",
-          "do — per attività, faccende e compiti in generale (spesso quelli che descriveresti con «qualcosa», «qualsiasi cosa», «niente»): do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly (a un esame).",
+          "do — per attività, faccende e compiti in generale: do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly (a un esame). Sono spesso quelli che descriveresti con «qualcosa», «qualsiasi cosa», «niente».",
           "do è anche il verbo generico per un'attività non specificata: What are you doing this weekend? I'm not doing anything special — mai make qui, dato che non si produce nulla.",
           "Alcune espressioni fisse rompono completamente lo schema e vanno semplicemente imparate così come sono: make the bed (non do), do your hair (non make), make up your mind.",
         ],
@@ -82,7 +82,7 @@ export const makeVsDo: GrammarTopicContent = {
         intro: "Der größte Teil der Wahl läuft eher auf das Auswendiglernen fester Ausdrücke hinaus als auf eine Regel, aber diese Gruppen helfen:",
         items: [
           "make — um etwas zu erschaffen: make a cake, make a plan, make a decision, make an appointment, make a mistake, make money, make a phone call, make progress, make an effort, make a mess, make friends, make noise.",
-          "do — für Tätigkeiten, Aufgaben und Pflichten im Allgemeinen (oft solche, die man mit „etwas“, „irgendetwas“, „nichts“ beschreiben würde): do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly (bei einer Prüfung).",
+          "do — für Tätigkeiten, Aufgaben und Pflichten im Allgemeinen: do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly (bei einer Prüfung). Es sind oft solche, die man mit „etwas“, „irgendetwas“, „nichts“ beschreiben würde.",
           "do ist außerdem das Allzweckverb für eine unbestimmte Tätigkeit: What are you doing this weekend? I'm not doing anything special — hier niemals make, da nichts hergestellt wird.",
           "Ein paar feste Ausdrücke durchbrechen das Muster völlig und müssen einfach so gelernt werden, wie sie sind: make the bed (nicht do), do your hair (nicht make), make up your mind.",
         ],
@@ -96,7 +96,7 @@ export const makeVsDo: GrammarTopicContent = {
         intro: "Большая часть выбора сводится к запоминанию устойчивых выражений, а не к применению правила, но эти группы помогают:",
         items: [
           "make — для создания чего-либо: make a cake, make a plan, make a decision, make an appointment, make a mistake, make money, make a phone call, make progress, make an effort, make a mess, make friends, make noise.",
-          "do — для деятельности, работы и задач в общем смысле (часто тех, что можно описать словами «что-то», «что-нибудь», «ничего»): do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly (на экзамене).",
+          "do — для деятельности, работы и задач в общем смысле: do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly (на экзамене). Часто это те, что можно описать словами «что-то», «что-нибудь», «ничего».",
           "do также является универсальным глаголом для неопределённой деятельности: What are you doing this weekend? I'm not doing anything special — здесь никогда не make, поскольку ничего не производится.",
           "Несколько устойчивых выражений полностью нарушают схему, и их просто нужно запомнить как есть: make the bed (не do), do your hair (не make), make up your mind.",
         ],
@@ -110,7 +110,7 @@ export const makeVsDo: GrammarTopicContent = {
         intro: "معظم الاختيار يعتمد على حفظ تعبيرات ثابتة أكثر من تطبيق قاعدة، لكن هذه المجموعات تساعد:",
         items: [
           "make — لصنع شيء ما: make a cake وmake a plan وmake a decision وmake an appointment وmake a mistake وmake money وmake a phone call وmake progress وmake an effort وmake a mess وmake friends وmake noise.",
-          "do — للأنشطة والمهام والواجبات بشكل عام (غالبًا ما تصفها بـ«شيء ما» أو«أي شيء» أو«لا شيء»): do the shopping وdo the dishes/washing up وdo homework وdo a favor وdo business وdo exercise وdo your best وdo the cleaning وdo nothing وdo well/badly (في امتحان).",
+          "do — للأنشطة والمهام والواجبات بشكل عام: do the shopping وdo the dishes/washing up وdo homework وdo a favor وdo business وdo exercise وdo your best وdo the cleaning وdo nothing وdo well/badly (في امتحان). وهي غالبًا ما تصفها بـ«شيء ما» أو«أي شيء» أو«لا شيء».",
           "تُستخدم do أيضًا كفعل عام لنشاط غير محدد: What are you doing this weekend? I'm not doing anything special — لا تُستخدم make أبدًا هنا، لأنه لا يُنتَج شيء.",
           "بعض التعبيرات الثابتة تخرج تمامًا عن هذا النمط ويجب حفظها كما هي: make the bed (لا do)، وdo your hair (لا make)، وmake up your mind.",
         ],
@@ -124,7 +124,7 @@ export const makeVsDo: GrammarTopicContent = {
         intro: "大部分的选择靠的是记住固定搭配,而不是套用一条规则,不过以下这几组有帮助:",
         items: [
           "make——用于创造某物:make a cake, make a plan, make a decision, make an appointment, make a mistake, make money, make a phone call, make progress, make an effort, make a mess, make friends, make noise。",
-          "do——用于泛指的活动、家务和任务(常常是可以用“某事”“任何事”“什么都不”来描述的那种):do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly(考试)。",
+          "do——用于泛指的活动、家务和任务:do the shopping, do the dishes/washing up, do homework, do a favor, do business, do exercise, do your best, do the cleaning, do nothing, do well/badly(考试)。这些常常是可以用“某事”“任何事”“什么都不”来描述的那种。",
           "do 也是表示不确定活动的万能动词:What are you doing this weekend? I'm not doing anything special——这里绝不用 make,因为什么都没有被制造出来。",
           "有几个固定搭配完全打破了这个规律,只能照原样记住:make the bed(不是 do),do your hair(不是 make),make up your mind。",
         ],

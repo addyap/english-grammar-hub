@@ -12,7 +12,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
         intro: "How to choose in, on, or at with transport:",
         items: [
           "in + a car, a taxi: We drove in a taxi to the airport; She got in the car and left. These are small, private vehicles you climb into and sit inside with limited space.",
-          "on + larger public vehicles (a bus, a train, a plane, a ship, the underground/subway) and vehicles you sit astride (a bike, a motorbike, a horse): I read a book on the train; He was on the bus when it happened; She goes to work on a bicycle.",
+          "on + larger public vehicles (a bus, a train, a plane, a ship, the underground/subway) and vehicles you sit astride (a bike, a motorbike, a horse). I read a book on the train; He was on the bus when it happened; She goes to work on a bicycle.",
           "get in/out of a car (small vehicle) vs get on/off a bus, train, or plane (larger vehicle) — the verb changes to match the preposition: Get in the car, please vs Get on the bus before it leaves.",
           "at marks a transport-related location, not the vehicle: We waited at the bus stop; They met at the station — at is for the place, on/in is for being inside the vehicle itself.",
         ],
@@ -26,7 +26,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
         intro: "Comment choisir entre in, on et at avec les transports :",
         items: [
           "in + a car, a taxi : We drove in a taxi to the airport ; She got in the car and left. Ce sont des véhicules petits et privés dans lesquels on monte et où l'on s'assoit avec peu d'espace.",
-          "on + les véhicules publics plus grands (a bus, a train, a plane, a ship, the underground/subway) et les véhicules que l'on enfourche (a bike, a motorbike, a horse) : I read a book on the train ; He was on the bus when it happened ; She goes to work on a bicycle.",
+          "on + les véhicules publics plus grands (a bus, a train, a plane, a ship, the underground/subway) et les véhicules que l'on enfourche (a bike, a motorbike, a horse). I read a book on the train ; He was on the bus when it happened ; She goes to work on a bicycle.",
           "get in/out of a car (petit véhicule) contre get on/off a bus, train, ou plane (véhicule plus grand) — le verbe change pour correspondre à la préposition : Get in the car, please contre Get on the bus before it leaves.",
           "at marque un lieu lié au transport, et non le véhicule : We waited at the bus stop ; They met at the station — at s'emploie pour le lieu, on/in pour le fait d'être à l'intérieur du véhicule lui-même.",
         ],
@@ -40,7 +40,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
         intro: "Cómo elegir entre in, on y at con el transporte:",
         items: [
           "in + a car, a taxi: We drove in a taxi to the airport; She got in the car and left. Son vehículos pequeños y privados en los que te montas y te sientas con espacio limitado.",
-          "on + vehículos públicos más grandes (a bus, a train, a plane, a ship, the underground/subway) y vehículos que se montan a horcajadas (a bike, a motorbike, a horse): I read a book on the train; He was on the bus when it happened; She goes to work on a bicycle.",
+          "on + vehículos públicos más grandes (a bus, a train, a plane, a ship, the underground/subway) y vehículos que se montan a horcajadas (a bike, a motorbike, a horse). I read a book on the train; He was on the bus when it happened; She goes to work on a bicycle.",
           "get in/out of a car (vehículo pequeño) frente a get on/off a bus, train, o plane (vehículo más grande) —el verbo cambia para coincidir con la preposición: Get in the car, please frente a Get on the bus before it leaves.",
           "at marca un lugar relacionado con el transporte, no el vehículo: We waited at the bus stop; They met at the station —at se usa para el lugar, on/in para estar dentro del vehículo en sí.",
         ],
@@ -54,7 +54,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
         intro: "Como escolher entre in, on e at com o transporte:",
         items: [
           "in + a car, a taxi: We drove in a taxi to the airport; She got in the car and left. São veículos pequenos e privados nos quais entras e te sentas com espaço limitado.",
-          "on + veículos públicos maiores (a bus, a train, a plane, a ship, the underground/subway) e veículos que se montam (a bike, a motorbike, a horse): I read a book on the train; He was on the bus when it happened; She goes to work on a bicycle.",
+          "on + veículos públicos maiores (a bus, a train, a plane, a ship, the underground/subway) e veículos que se montam (a bike, a motorbike, a horse). I read a book on the train; He was on the bus when it happened; She goes to work on a bicycle.",
           "get in/out of a car (veículo pequeno) versus get on/off a bus, train, ou plane (veículo maior) —o verbo muda para corresponder à preposição: Get in the car, please versus Get on the bus before it leaves.",
           "at assinala um local relacionado com o transporte, não o veículo: We waited at the bus stop; They met at the station —at usa-se para o local, on/in para estar dentro do próprio veículo.",
         ],
@@ -68,7 +68,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
         intro: "Come scegliere tra in, on e at con i mezzi di trasporto:",
         items: [
           "in + a car, a taxi: We drove in a taxi to the airport; She got in the car and left. Sono veicoli piccoli e privati in cui si sale e ci si siede con spazio limitato.",
-          "on + veicoli pubblici più grandi (a bus, a train, a plane, a ship, the underground/subway) e veicoli che si cavalcano (a bike, a motorbike, a horse): I read a book on the train; He was on the bus when it happened; She goes to work on a bicycle.",
+          "on + veicoli pubblici più grandi (a bus, a train, a plane, a ship, the underground/subway) e veicoli che si cavalcano (a bike, a motorbike, a horse). I read a book on the train; He was on the bus when it happened; She goes to work on a bicycle.",
           "get in/out of a car (veicolo piccolo) contro get on/off a bus, train, o plane (veicolo più grande) — il verbo cambia per corrispondere alla preposizione: Get in the car, please contro Get on the bus before it leaves.",
           "at indica un luogo legato al trasporto, non il veicolo: We waited at the bus stop; They met at the station — at si usa per il luogo, on/in per essere all'interno del veicolo stesso.",
         ],
@@ -82,7 +82,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
         intro: "So wählt man zwischen in, on und at bei Verkehrsmitteln:",
         items: [
           "in + a car, a taxi: We drove in a taxi to the airport; She got in the car and left. Das sind kleine, private Fahrzeuge, in die man einsteigt und mit begrenztem Platz sitzt.",
-          "on + größere öffentliche Verkehrsmittel (a bus, a train, a plane, a ship, the underground/subway) und Fahrzeuge, die man rittlings besteigt (a bike, a motorbike, a horse): I read a book on the train; He was on the bus when it happened; She goes to work on a bicycle.",
+          "on + größere öffentliche Verkehrsmittel (a bus, a train, a plane, a ship, the underground/subway) und Fahrzeuge, die man rittlings besteigt (a bike, a motorbike, a horse). I read a book on the train; He was on the bus when it happened; She goes to work on a bicycle.",
           "get in/out of a car (kleines Fahrzeug) gegenüber get on/off a bus, train oder plane (größeres Fahrzeug) — das Verb ändert sich passend zur Präposition: Get in the car, please gegenüber Get on the bus before it leaves.",
           "at bezeichnet einen mit dem Verkehr verbundenen Ort, nicht das Fahrzeug: We waited at the bus stop; They met at the station — at gilt für den Ort, on/in für das Innere des Fahrzeugs selbst.",
         ],
@@ -96,7 +96,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
         intro: "Как выбирать между in, on и at с транспортом:",
         items: [
           "in + a car, a taxi: We drove in a taxi to the airport; She got in the car and left. Это маленькие, частные транспортные средства, в которые вы садитесь и сидите с ограниченным пространством.",
-          "on + более крупные общественные транспортные средства (a bus, a train, a plane, a ship, the underground/subway) и транспорт, который 'оседлывают' (a bike, a motorbike, a horse): I read a book on the train; He was on the bus when it happened; She goes to work on a bicycle.",
+          "on + более крупные общественные транспортные средства (a bus, a train, a plane, a ship, the underground/subway) и транспорт, который 'оседлывают' (a bike, a motorbike, a horse). I read a book on the train; He was on the bus when it happened; She goes to work on a bicycle.",
           "get in/out of a car (маленький транспорт) в отличие от get on/off a bus, train или plane (более крупный транспорт) — глагол меняется в соответствии с предлогом: Get in the car, please в отличие от Get on the bus before it leaves.",
           "at обозначает место, связанное с транспортом, а не сам транспорт: We waited at the bus stop; They met at the station — at используется для места, on/in — для нахождения внутри самого транспортного средства.",
         ],
@@ -110,7 +110,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
         intro: "كيفية الاختيار بين in وon وat مع وسائل النقل:",
         items: [
           "in + a car, a taxi: We drove in a taxi to the airport؛ She got in the car and left. هذه مركبات صغيرة وخاصة تدخل إليها وتجلس بداخلها بمساحة محدودة.",
-          "on + وسائل النقل العامة الأكبر (a bus, a train, a plane, a ship, the underground/subway) والمركبات التي تُمتطى (a bike, a motorbike, a horse): I read a book on the train؛ He was on the bus when it happened؛ She goes to work on a bicycle.",
+          "on + وسائل النقل العامة الأكبر (a bus, a train, a plane, a ship, the underground/subway) والمركبات التي تُمتطى (a bike, a motorbike, a horse). I read a book on the train؛ He was on the bus when it happened؛ She goes to work on a bicycle.",
           "get in/out of a car (مركبة صغيرة) مقابل get on/off a bus, train, أو plane (مركبة أكبر) — يتغير الفعل ليتوافق مع حرف الجر: Get in the car, please مقابل Get on the bus before it leaves.",
           "تشير at إلى مكان مرتبط بالنقل، لا المركبة: We waited at the bus stop؛ They met at the station — تُستخدم at للمكان، وon/in للتواجد داخل المركبة نفسها.",
         ],
@@ -124,7 +124,7 @@ export const prepositionsOfTransport: GrammarTopicContent = {
         intro: "如何在 in、on 和 at 之间为交通工具做选择:",
         items: [
           "in + a car, a taxi:We drove in a taxi to the airport;She got in the car and left。这些是你钻进去坐、空间有限的小型私人交通工具。",
-          "on + 较大的公共交通工具(a bus, a train, a plane, a ship, the underground/subway)以及骑乘型交通工具(a bike, a motorbike, a horse):I read a book on the train;He was on the bus when it happened;She goes to work on a bicycle。",
+          "on + 较大的公共交通工具(a bus, a train, a plane, a ship, the underground/subway)以及骑乘型交通工具(a bike, a motorbike, a horse)。I read a book on the train;He was on the bus when it happened;She goes to work on a bicycle。",
           "get in/out of a car(小型交通工具)对比 get on/off a bus, train 或 plane(较大的交通工具)——动词会随介词变化:Get in the car, please 对比 Get on the bus before it leaves。",
           "at 标示与交通相关的地点,而不是交通工具本身:We waited at the bus stop;They met at the station——at 用于地点,on/in 用于身处交通工具内部。",
         ],
