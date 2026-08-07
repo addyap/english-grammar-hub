@@ -7,7 +7,7 @@ export const prepositionsOfTime: GrammarTopicContent = {
   level: "A1",
   explanations: {
     en: [
-      "Use at for precise times and for a few fixed expressions treated as one single occasion rather than a period: at 6 o'clock, at night, at the weekend (UK), at Christmas — even though a weekend or Christmas lasts more than a moment, English treats the whole occasion as one point in time.",
+      "Use at for precise times and for a few fixed expressions treated as one single occasion rather than a period: at 6 o'clock, at night, at the weekend (UK), at Christmas. Even though a weekend or Christmas lasts more than a moment, English treats the whole occasion as one point in time.",
       "Use in for longer periods: in July, in 2024, in the morning, in winter.",
       "Use on for days and dates: on Monday, on 3 July, on my birthday.",
       "Some time expressions take no preposition at all: next/last/this + time word (next week, last month, this morning), every + time word (every day), and standalone words like today, tomorrow, yesterday, tonight: I'll call you next week, not I'll call you in next week.",
@@ -18,7 +18,7 @@ export const prepositionsOfTime: GrammarTopicContent = {
       },
     ],
     fr: [
-      "On utilise at pour les heures précises et pour quelques expressions fixes traitées comme une seule occasion plutôt qu'une période : at 6 o'clock, at night, at the weekend (UK), at Christmas — même si un week-end ou Noël dure plus d'un instant, l'anglais traite toute l'occasion comme un seul point dans le temps.",
+      "On utilise at pour les heures précises et pour quelques expressions fixes traitées comme une seule occasion plutôt qu'une période : at 6 o'clock, at night, at the weekend (UK), at Christmas. Même si un week-end ou Noël dure plus d'un instant, l'anglais traite toute l'occasion comme un seul point dans le temps.",
       "On utilise in pour les périodes plus longues : in July, in 2024, in the morning, in winter.",
       "On utilise on pour les jours et les dates : on Monday, on 3 July, on my birthday.",
       "Certaines expressions de temps ne prennent aucune préposition : next/last/this + mot de temps (next week, last month, this morning), every + mot de temps (every day), et des mots autonomes comme today, tomorrow, yesterday, tonight : I'll call you next week, et non I'll call you in next week.",
@@ -29,7 +29,7 @@ export const prepositionsOfTime: GrammarTopicContent = {
       },
     ],
     es: [
-      "Se usa at para horas precisas y para algunas expresiones fijas tratadas como una sola ocasión en lugar de un período: at 6 o'clock, at night, at the weekend (UK), at Christmas — aunque un fin de semana o la Navidad duren más de un instante, el inglés trata toda la ocasión como un solo punto en el tiempo.",
+      "Se usa at para horas precisas y para algunas expresiones fijas tratadas como una sola ocasión en lugar de un período: at 6 o'clock, at night, at the weekend (UK), at Christmas. Aunque un fin de semana o la Navidad duren más de un instante, el inglés trata toda la ocasión como un solo punto en el tiempo.",
       "Se usa in para períodos más largos: in July, in 2024, in the morning, in winter.",
       "Se usa on para días y fechas: on Monday, on 3 July, on my birthday.",
       "Algunas expresiones de tiempo no llevan ninguna preposición: next/last/this + palabra de tiempo (next week, last month, this morning), every + palabra de tiempo (every day), y palabras independientes como today, tomorrow, yesterday, tonight: I'll call you next week, no I'll call you in next week.",
@@ -40,7 +40,7 @@ export const prepositionsOfTime: GrammarTopicContent = {
       },
     ],
     pt: [
-      "Usa-se at para horas precisas e para algumas expressões fixas tratadas como uma única ocasião em vez de um período: at 6 o'clock, at night, at the weekend (UK), at Christmas — embora um fim de semana ou o Natal durem mais do que um instante, o inglês trata toda a ocasião como um único ponto no tempo.",
+      "Usa-se at para horas precisas e para algumas expressões fixas tratadas como uma única ocasião em vez de um período: at 6 o'clock, at night, at the weekend (UK), at Christmas. Embora um fim de semana ou o Natal durem mais do que um instante, o inglês trata toda a ocasião como um único ponto no tempo.",
       "Usa-se in para períodos mais longos: in July, in 2024, in the morning, in winter.",
       "Usa-se on para dias e datas: on Monday, on 3 July, on my birthday.",
       "Algumas expressões de tempo não levam preposição nenhuma: next/last/this + palavra de tempo (next week, last month, this morning), every + palavra de tempo (every day), e palavras isoladas como today, tomorrow, yesterday, tonight: I'll call you next week, e não I'll call you in next week.",
@@ -51,7 +51,7 @@ export const prepositionsOfTime: GrammarTopicContent = {
       },
     ],
     it: [
-      "Si usa at per orari precisi e per alcune espressioni fisse trattate come un'unica occasione anziché un periodo: at 6 o'clock, at night, at the weekend (UK), at Christmas — anche se un weekend o il Natale durano più di un istante, l'inglese tratta l'intera occasione come un unico punto nel tempo.",
+      "Si usa at per orari precisi e per alcune espressioni fisse trattate come un'unica occasione anziché un periodo: at 6 o'clock, at night, at the weekend (UK), at Christmas. Anche se un weekend o il Natale durano più di un istante, l'inglese tratta l'intera occasione come un unico punto nel tempo.",
       "Si usa in per periodi più lunghi: in July, in 2024, in the morning, in winter.",
       "Si usa on per giorni e date: on Monday, on 3 July, on my birthday.",
       "Alcune espressioni di tempo non prendono nessuna preposizione: next/last/this + parola di tempo (next week, last month, this morning), every + parola di tempo (every day), e parole autonome come today, tomorrow, yesterday, tonight: I'll call you next week, non I'll call you in next week.",
@@ -62,7 +62,7 @@ export const prepositionsOfTime: GrammarTopicContent = {
       },
     ],
     de: [
-      "Man benutzt at für genaue Uhrzeiten und für einige feste Ausdrücke, die als ein einziger Anlass statt als Zeitraum behandelt werden: at 6 o'clock, at night, at the weekend (UK), at Christmas — auch wenn ein Wochenende oder Weihnachten länger als einen Moment dauert, behandelt das Englische den ganzen Anlass als einen einzigen Zeitpunkt.",
+      "Man benutzt at für genaue Uhrzeiten und für einige feste Ausdrücke, die als ein einziger Anlass statt als Zeitraum behandelt werden: at 6 o'clock, at night, at the weekend (UK), at Christmas. Auch wenn ein Wochenende oder Weihnachten länger als einen Moment dauert, behandelt das Englische den ganzen Anlass als einen einzigen Zeitpunkt.",
       "Man benutzt in für längere Zeiträume: in July, in 2024, in the morning, in winter.",
       "Man benutzt on für Tage und Daten: on Monday, on 3 July, on my birthday.",
       "Manche Zeitausdrücke stehen ganz ohne Präposition: next/last/this + Zeitwort (next week, last month, this morning), every + Zeitwort (every day), und eigenständige Wörter wie today, tomorrow, yesterday, tonight: I'll call you next week, nicht I'll call you in next week.",
@@ -73,7 +73,7 @@ export const prepositionsOfTime: GrammarTopicContent = {
       },
     ],
     ru: [
-      "Предлог at используется для точного времени и для нескольких устойчивых выражений, которые рассматриваются как единый повод, а не период: at 6 o'clock, at night, at the weekend (UK), at Christmas — хотя выходные или Рождество длятся дольше одного момента, английский язык рассматривает весь повод как одну точку во времени.",
+      "Предлог at используется для точного времени и для нескольких устойчивых выражений, которые рассматриваются как единый повод, а не период: at 6 o'clock, at night, at the weekend (UK), at Christmas. Хотя выходные или Рождество длятся дольше одного момента, английский язык рассматривает весь повод как одну точку во времени.",
       "Предлог in используется для более длительных периодов: in July, in 2024, in the morning, in winter.",
       "Предлог on используется для дней недели и дат: on Monday, on 3 July, on my birthday.",
       "Некоторые временные выражения вообще не требуют предлога: next/last/this + слово времени (next week, last month, this morning), every + слово времени (every day), и самостоятельные слова вроде today, tomorrow, yesterday, tonight: I'll call you next week, а не I'll call you in next week.",
@@ -84,7 +84,7 @@ export const prepositionsOfTime: GrammarTopicContent = {
       },
     ],
     ar: [
-      "تُستخدم at مع الأوقات الدقيقة ومع بعض التعبيرات الثابتة التي تُعامَل كمناسبة واحدة وليست فترة: at 6 o'clock، at night، at the weekend (UK)، at Christmas — فرغم أن عطلة نهاية الأسبوع أو عيد الميلاد يستغرقان أكثر من لحظة، تُعامِل الإنجليزية المناسبة كلها كنقطة زمنية واحدة.",
+      "تُستخدم at مع الأوقات الدقيقة ومع بعض التعبيرات الثابتة التي تُعامَل كمناسبة واحدة وليست فترة: at 6 o'clock، at night، at the weekend (UK)، at Christmas. فرغم أن عطلة نهاية الأسبوع أو عيد الميلاد يستغرقان أكثر من لحظة، تُعامِل الإنجليزية المناسبة كلها كنقطة زمنية واحدة.",
       "تُستخدم in مع الفترات الأطول: in July، in 2024، in the morning، in winter.",
       "تُستخدم on مع الأيام والتواريخ: on Monday، on 3 July، on my birthday.",
       "بعض التعبيرات الزمنية لا تحتاج إلى أي حرف جر إطلاقًا: next/last/this + كلمة زمنية (next week، last month، this morning)، وevery + كلمة زمنية (every day)، وكلمات مستقلة مثل today، tomorrow، yesterday، tonight: I'll call you next week، وليس I'll call you in next week.",
@@ -95,7 +95,7 @@ export const prepositionsOfTime: GrammarTopicContent = {
       },
     ],
     zh: [
-      "at 用于精确的时间点,也用于一些被当作单一场合而非一段时期的固定搭配:at 6 o'clock、at night、at the weekend(英式)、at Christmas——尽管周末或圣诞节持续不止一个瞬间,英语仍把整个场合当作时间轴上的一个点。",
+      "at 用于精确的时间点,也用于一些被当作单一场合而非一段时期的固定搭配:at 6 o'clock、at night、at the weekend(英式)、at Christmas。尽管周末或圣诞节持续不止一个瞬间,英语仍把整个场合当作时间轴上的一个点。",
       "in 用于较长的时间段:in July、in 2024、in the morning、in winter。",
       "on 用于星期和日期:on Monday、on 3 July、on my birthday。",
       "有些时间表达完全不需要介词:next/last/this + 时间词(next week、last month、this morning),every + 时间词(every day),以及独立的词如 today、tomorrow、yesterday、tonight:应该说 I'll call you next week,而不是 I'll call you in next week。",

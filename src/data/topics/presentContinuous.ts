@@ -19,7 +19,7 @@ export const presentContinuous: GrammarTopicContent = {
         ],
       },
       "Am, is and are are forms of the auxiliary verb be. They must always be there, even though some languages drop the equivalent: I am working, not I working.",
-      "The most common mistake once learners are comfortable with -ing is overusing it with stative verbs — like, want, know, believe, understand, need — which are almost never used in the continuous, even to talk about now: I'm liking this song is wrong, it must be I like this song.",
+      "The most common mistake once learners are comfortable with -ing is overusing it with stative verbs — like, want, know, believe, understand, need — which are almost never used in the continuous, even to talk about now. I'm liking this song is wrong; it must be I like this song.",
       "Typical time words: now, right now, at the moment, these days, currently.",
     ],
     fr: [
@@ -35,7 +35,7 @@ export const presentContinuous: GrammarTopicContent = {
         ],
       },
       "Am, is et are sont des formes de l'auxiliaire be. Ils doivent toujours être présents, même si certaines langues omettent l'équivalent : I am working, et non I working.",
-      "L'erreur la plus fréquente, une fois à l'aise avec le -ing, est de l'utiliser avec les verbes d'état — like, want, know, believe, understand, need — qui ne s'emploient presque jamais au continu, même pour parler du présent immédiat : I'm liking this song est incorrect, il faut dire I like this song.",
+      "L'erreur la plus fréquente, une fois à l'aise avec le -ing, est de l'utiliser avec les verbes d'état — like, want, know, believe, understand, need — qui ne s'emploient presque jamais au continu, même pour parler du présent immédiat. I'm liking this song est incorrect ; il faut dire I like this song.",
       "Marqueurs de temps typiques : now, right now, at the moment, these days, currently.",
     ],
     es: [
@@ -51,7 +51,7 @@ export const presentContinuous: GrammarTopicContent = {
         ],
       },
       "Am, is y are son formas del verbo auxiliar be. Siempre deben estar presentes, aunque otros idiomas omitan el equivalente: I am working, no I working.",
-      "El error más común, una vez que el alumno se siente cómodo con el -ing, es usarlo con verbos de estado — like, want, know, believe, understand, need — que casi nunca se usan en continuo, ni siquiera para hablar del momento presente: I'm liking this song es incorrecto, debe ser I like this song.",
+      "El error más común, una vez que el alumno se siente cómodo con el -ing, es usarlo con verbos de estado — like, want, know, believe, understand, need — que casi nunca se usan en continuo, ni siquiera para hablar del momento presente. I'm liking this song es incorrecto; debe ser I like this song.",
       "Marcadores de tiempo típicos: now, right now, at the moment, these days, currently.",
     ],
     pt: [
@@ -67,7 +67,7 @@ export const presentContinuous: GrammarTopicContent = {
         ],
       },
       "Am, is e are são formas do verbo auxiliar be. Devem estar sempre presentes, mesmo que outras línguas omitam o equivalente: I am working, e não I working.",
-      "O erro mais comum, quando o aluno já está confortável com o -ing, é usá-lo com verbos de estado — like, want, know, believe, understand, need — que quase nunca são usados no contínuo, mesmo para falar do momento presente: I'm liking this song está errado, o correto é I like this song.",
+      "O erro mais comum, quando o aluno já está confortável com o -ing, é usá-lo com verbos de estado — like, want, know, believe, understand, need — que quase nunca são usados no contínuo, mesmo para falar do momento presente. I'm liking this song está errado; o correto é I like this song.",
       "Marcadores de tempo típicos: now, right now, at the moment, these days, currently.",
     ],
     it: [
@@ -83,7 +83,7 @@ export const presentContinuous: GrammarTopicContent = {
         ],
       },
       "Am, is e are sono forme del verbo ausiliare be. Devono essere sempre presenti, anche se altre lingue omettono l'equivalente: I am working, non I working.",
-      "L'errore più comune, una volta acquisita familiarità con il -ing, è usarlo con i verbi di stato — like, want, know, believe, understand, need — che non si usano quasi mai al continuous, nemmeno per parlare del momento presente: I'm liking this song è sbagliato, deve essere I like this song.",
+      "L'errore più comune, una volta acquisita familiarità con il -ing, è usarlo con i verbi di stato — like, want, know, believe, understand, need — che non si usano quasi mai al continuous, nemmeno per parlare del momento presente. I'm liking this song è sbagliato; deve essere I like this song.",
       "Indicatori di tempo tipici: now, right now, at the moment, these days, currently.",
     ],
     de: [
@@ -99,7 +99,7 @@ export const presentContinuous: GrammarTopicContent = {
         ],
       },
       "Am, is und are sind Formen des Hilfsverbs be. Sie müssen immer stehen, auch wenn andere Sprachen das Äquivalent weglassen: I am working, nicht I working.",
-      "Der häufigste Fehler, sobald man sich mit -ing sicher fühlt, ist es mit Zustandsverben zu verwenden — like, want, know, believe, understand, need —, die fast nie im Continuous stehen, selbst wenn man über den Moment spricht: I'm liking this song ist falsch, richtig ist I like this song.",
+      "Der häufigste Fehler, sobald man sich mit -ing sicher fühlt, ist es mit Zustandsverben zu verwenden — like, want, know, believe, understand, need —, die fast nie im Continuous stehen, selbst wenn man über den Moment spricht. I'm liking this song ist falsch; richtig ist I like this song.",
       "Typische Zeitangaben: now, right now, at the moment, these days, currently.",
     ],
     ru: [
@@ -115,7 +115,7 @@ export const presentContinuous: GrammarTopicContent = {
         ],
       },
       "Am, is и are — это формы вспомогательного глагола be. Они должны присутствовать всегда, даже если в некоторых языках эквивалент опускается: I am working, а не I working.",
-      "Самая частая ошибка, когда учащийся уже уверенно использует -ing, — применять его с глаголами состояния — like, want, know, believe, understand, need — которые почти никогда не употребляются в Continuous, даже когда речь идёт о настоящем моменте: I'm liking this song неправильно, нужно I like this song.",
+      "Самая частая ошибка, когда учащийся уже уверенно использует -ing, — применять его с глаголами состояния — like, want, know, believe, understand, need — которые почти никогда не употребляются в Continuous, даже когда речь идёт о настоящем моменте. I'm liking this song неправильно; нужно I like this song.",
       "Типичные слова-маркеры: now, right now, at the moment, these days, currently.",
     ],
     ar: [
@@ -131,7 +131,7 @@ export const presentContinuous: GrammarTopicContent = {
         ],
       },
       "تُعد am و is و are صيغًا للفعل المساعد be، ويجب أن تكون موجودة دائمًا، حتى لو كانت بعض اللغات تحذف ما يقابلها: I am working، وليس I working.",
-      "أكثر الأخطاء شيوعًا بعد أن يعتاد المتعلم على -ing هو استخدامها مع أفعال الحالة — like, want, know, believe, understand, need — التي لا تُستخدم تقريبًا أبدًا في صيغة المستمر، حتى عند الحديث عن اللحظة الحالية: I'm liking this song خطأ، والصحيح I like this song.",
+      "أكثر الأخطاء شيوعًا بعد أن يعتاد المتعلم على -ing هو استخدامها مع أفعال الحالة — like, want, know, believe, understand, need — التي لا تُستخدم تقريبًا أبدًا في صيغة المستمر، حتى عند الحديث عن اللحظة الحالية. I'm liking this song خطأ؛ والصحيح I like this song.",
       "كلمات زمنية شائعة: now، right now، at the moment، these days، currently.",
     ],
     zh: [
@@ -147,7 +147,7 @@ export const presentContinuous: GrammarTopicContent = {
         ],
       },
       "am、is 和 are 是助动词 be 的变化形式,必须始终保留,即使有些语言会省略对应的部分:I am working,而不是 I working。",
-      "当学习者习惯使用 -ing 之后,最常见的错误是把它用在状态动词上——like、want、know、believe、understand、need——这些动词几乎从不用于进行时,即使是在说现在这一刻:I'm liking this song 是错的,应该说 I like this song。",
+      "当学习者习惯使用 -ing 之后,最常见的错误是把它用在状态动词上——like、want、know、believe、understand、need——这些动词几乎从不用于进行时,即使是在说现在这一刻。I'm liking this song 是错的,应该说 I like this song。",
       "常见时间状语:now、right now、at the moment、these days、currently。",
     ],
   },
