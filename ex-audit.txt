@@ -1,0 +1,2112 @@
+
+##### another-vs-other-vs-the-other (B1)
+ -- Ex1: Another, Other, or The Other?
+  1. I don't like this shirt. Can you show me ___ one?
+     ANS: another   OPTS: another / other / the other
+     WHY: One more/different shirt from an unlimited set of shirts takes another + singular noun.
+  2. This coffee is cold. Could I have ___ cup, please?
+     ANS: another   OPTS: another / other / others
+     WHY: another + singular countable noun for one more from an open set.
+  3. I have two pens; one is blue and ___ is red.
+     ANS: the other   OPTS: the other / another / other
+     WHY: The specific remaining one out of exactly two takes the other + singular noun.
+  4. There are five rooms upstairs. Two are bedrooms and ___ rooms are offices.
+     ANS: the other   OPTS: the other / another / others
+     WHY: The specific remaining items from a known, limited group take the other + plural noun.
+  5. I need to hear ___ opinions before I decide anything.
+     ANS: other   OPTS: other / another / the other
+     WHY: More of the same general kind (plural, open set) takes other, not another.
+  6. This restaurant is full. Let's try ___ one down the street.
+     ANS: another   OPTS: another / other / the other
+     WHY: A different one from an unlimited set of restaurants takes another.
+  7. She's not home right now — she's at ___ friend's house.
+     ANS: another   OPTS: another / other / the other
+     WHY: another + singular noun for one (different) out of many possible friends.
+  8. Of the two roads, one leads to the beach and ___ leads to the mountains.
+     ANS: the other   OPTS: the other / another / other
+     WHY: The specific remaining one out of exactly two takes the other.
+  9. We don't have enough chairs — we need ___ chair for the extra guest.
+     ANS: another   OPTS: another / other / the other
+     WHY: One more, from an unlimited supply of chairs, takes another.
+  10. I couldn't find any milk, so I bought some ___ groceries instead.
+     ANS: other   OPTS: other / another / the other
+     WHY: other + plural noun for more of the same general kind, open set.
+ -- Ex2: Others, The Others & Mixed Practice
+  1. Some students prefer studying alone; ___ prefer studying in groups.
+     ANS: others   OPTS: others / the others / another
+     WHY: A general statement about students in general (an open, unlimited set) uses others, not the others.
+  2. I invited ten guests. Two couldn't come, but ___ all showed up.
+     ANS: the others   OPTS: the others / others / another
+     WHY: A pronoun for the specific remaining items from a known group of ten uses the others.
+  3. One of my sisters is a doctor; ___ is a teacher.
+     ANS: the other   OPTS: the other / other / another
+     WHY: The specific remaining one out of exactly two takes the other.
+  4. Some tourists like quiet beaches; ___ prefer busy, lively ones.
+     ANS: others   OPTS: others / the others / another
+     WHY: A pronoun for an open, unlimited set of people uses others.
+  5. I tried on three jackets. I liked one, but ___ two didn't fit.
+     ANS: the other   OPTS: the other / other / another
+     WHY: The specific remaining items from a known group of three take the other + plural noun.
+  6. This plan didn't work, so we need to think of ___ solution.
+     ANS: another   OPTS: another / other / the other
+     WHY: A different one from an unlimited set of possible solutions takes another.
+  7. Half the team voted yes, and ___ voted no.
+     ANS: the others   OPTS: the others / others / another
+     WHY: A pronoun for the specific remaining half of a known, limited team uses the others.
+  8. Could you give me ___ information about the course before I apply?
+     ANS: other   OPTS: other / another / the other
+     WHY: other + uncountable noun for more of the same general kind, open set.
+  9. I only found one of my shoes. Have you seen ___ one?
+     ANS: the other   OPTS: the other / another / other
+     WHY: The specific remaining item out of exactly two (a pair) takes the other.
+  10. Some people learn best by reading; ___ learn best by doing.
+     ANS: others   OPTS: others / the others / another
+     WHY: A pronoun for an open, unlimited group uses others, not the others.
+
+##### future-time-clauses (B1)
+ -- Ex1: Time Clause or Future Will?
+  1. I'll call you as soon as I ___ (arrive) at the airport.
+     ANS: arrive   OPTS: arrive / will arrive / arrived
+     WHY: the time clause after as soon as uses a present tense, never will, even though it's about the future.
+  2. Before you ___ (leave), please turn off the lights.
+     ANS: leave   OPTS: leave / will leave / left
+     WHY: before + present tense for a future time clause; will never goes here.
+  3. Tonight, we ___ (go) out for dinner when my parents arrive.
+     ANS: will go   OPTS: will go / go / went
+     WHY: this is the main clause stating the future plan; 'tonight' confirms a specific future event, not a habit.
+  4. I won't leave until she ___ (call) me back.
+     ANS: calls   OPTS: calls / will call / called
+     WHY: until + present tense (3rd person -s) in the time clause; will never goes here.
+  5. By the time we ___ (get) to the cinema, the film will have started.
+     ANS: get   OPTS: get / will get / got
+     WHY: by the time + present tense; the main clause (will have started) carries the future meaning instead.
+  6. As soon as the rain ___ (stop), we'll go for a walk.
+     ANS: stops   OPTS: stops / will stop / stopped
+     WHY: as soon as + present tense in the time clause.
+  7. After I ___ (finish) my homework, I'm going to watch a movie.
+     ANS: finish   OPTS: finish / will finish / finished
+     WHY: after + present tense; 'finished' would wrongly suggest it already happened.
+  8. When she ___ (get) here, we can start the meeting.
+     ANS: gets   OPTS: gets / will get / got
+     WHY: when + present tense (3rd person -s) in the time clause.
+  9. I'll have dinner ready by the time you ___ (get) home.
+     ANS: get   OPTS: get / will get / got
+     WHY: by the time + present tense in the time clause.
+  10. She won't be happy until you ___ (apologize).
+     ANS: apologize   OPTS: apologize / will apologize / apologized
+     WHY: until + present tense in the time clause.
+ -- Ex2: Mixed Practice
+  1. While you ___ (cook), I'll set the table.
+     ANS: cook   OPTS: cook / will cook / cooked
+     WHY: while + present tense in the time clause; will never goes here.
+  2. We'll start the presentation as soon as everyone ___ (arrive).
+     ANS: arrives   OPTS: arrives / will arrive / arrived
+     WHY: as soon as + present tense (3rd person -s).
+  3. I'm going to wait here until the bus ___ (come).
+     ANS: comes   OPTS: comes / will come / came
+     WHY: until + present tense in the time clause.
+  4. You can borrow my car after I ___ (get) back from the airport.
+     ANS: get   OPTS: get / will get / got
+     WHY: after + present tense in the time clause.
+  5. The kids will be so excited when they ___ (see) the surprise.
+     ANS: see   OPTS: see / will see / saw
+     WHY: when + present tense in the time clause; the main clause (will be excited) already carries the future meaning.
+  6. Before the guests ___ (arrive), we need to clean the house.
+     ANS: arrive   OPTS: arrive / will arrive / arrived
+     WHY: before + present tense in the time clause.
+  7. As soon as I ___ (hear) the news, I'll let you know.
+     ANS: hear   OPTS: hear / will hear / heard
+     WHY: as soon as + present tense in the time clause.
+  8. I won't relax until the exam ___ (be) over.
+     ANS: is   OPTS: is / will be / was
+     WHY: until + present tense (be → is) in the time clause.
+  9. By the time the movie ___ (start), we'll already be in our seats.
+     ANS: starts   OPTS: starts / will start / started
+     WHY: by the time + present tense (3rd person -s) in the time clause.
+  10. When you ___ (need) help, just ask me.
+     ANS: need   OPTS: need / will need / needed
+     WHY: when + present tense in the time clause, even for a general 'whenever' meaning.
+
+##### make-vs-do (A2)
+ -- Ex1: Make or Do?
+  1. She ___ (make/do) a big mistake when she signed that contract.
+     ANS: made   OPTS: made / did / make
+     WHY: made a mistake is a fixed expression; did a mistake is wrong.
+  2. Can you ___ (make/do) me a favor?
+     ANS: do   OPTS: do / make / doing
+     WHY: do someone a favor is a fixed expression; make a favor is wrong.
+  3. I need to ___ (make/do) my homework before dinner.
+     ANS: do   OPTS: do / make / doing
+     WHY: do homework is a fixed expression; make homework is wrong.
+  4. They're going to ___ (make/do) a big decision about the company's future.
+     ANS: make   OPTS: make / do / making
+     WHY: make a decision is a fixed expression; do a decision is wrong.
+  5. Please ___ (make/do) your bed before you leave for school.
+     ANS: make   OPTS: make / do / making
+     WHY: make the bed is one of the fixed exceptions worth memorizing on its own.
+  6. She spends an hour every morning ___ (make/do) her hair.
+     ANS: doing   OPTS: doing / making / made
+     WHY: do your hair is one of the fixed exceptions worth memorizing on its own.
+  7. We ___ (make/do) a lot of progress on the project yesterday.
+     ANS: made   OPTS: made / did / make
+     WHY: make progress is a fixed expression; do progress is wrong.
+  8. He never ___ (make/do) his best in exams — he just doesn't try.
+     ANS: does   OPTS: does / makes / doing
+     WHY: do your best is a fixed expression; make your best is wrong.
+  9. I'm going to ___ (make/do) an appointment with the dentist tomorrow.
+     ANS: make   OPTS: make / do / making
+     WHY: make an appointment is a fixed expression; do an appointment is wrong.
+  10. The construction workers ___ (make/do) so much noise every morning.
+     ANS: make   OPTS: make / do / making
+     WHY: make noise is a fixed expression; do noise is wrong.
+ -- Ex2: Mixed Practice
+  1. He ___ (make/do) a lot of money from his online business.
+     ANS: makes   OPTS: makes / does / doing
+     WHY: make money is a fixed expression.
+  2. I ___ (make/do) some exercise every morning before work.
+     ANS: do   OPTS: do / make / doing
+     WHY: do exercise is a fixed expression.
+  3. The children ___ (make/do) a huge mess in the kitchen while I was out.
+     ANS: made   OPTS: made / did / make
+     WHY: make a mess is a fixed expression.
+  4. She ___ (make/do) a real effort to learn the language before moving abroad.
+     ANS: made   OPTS: made / did / make
+     WHY: make an effort is a fixed expression.
+  5. We need to ___ (make/do) the cleaning before the guests arrive.
+     ANS: do   OPTS: do / make / doing
+     WHY: do the cleaning is a fixed expression.
+  6. I have nothing to ___ (make/do) this afternoon — want to meet up?
+     ANS: do   OPTS: do / make / doing
+     WHY: do nothing/something/anything all use do, never make.
+  7. He ___ (make/do) very well on his exams last year.
+     ANS: did   OPTS: did / made / doing
+     WHY: do well/badly (on a test) is a fixed expression; make well is wrong.
+  8. They ___ (make/do) friends quickly wherever they travel.
+     ANS: make   OPTS: make / do / made
+     WHY: make friends is a fixed expression.
+  9. Could you ___ (make/do) a phone call to confirm the reservation?
+     ANS: make   OPTS: make / do / making
+     WHY: make a phone call is a fixed expression.
+  10. Our company ___ (make/do) business with clients all over the world.
+     ANS: does   OPTS: does / makes / doing
+     WHY: do business is a fixed expression.
+
+##### as-if-as-though (B2)
+ -- Ex1: As If / As Though: Plausible or Hypothetical?
+  1. He doesn't know anything about cars, but he talks as if he ___ (know) everything.
+     ANS: knew   OPTS: knew / knows / will know
+     WHY: the sentence already says he doesn't know — that falsity requires the hypothetical past, not the present or will.
+  2. I can hear something outside — it sounds as if it ___ (rain).
+     ANS: is raining   OPTS: is raining / rained / will rain
+     WHY: a plausible, maybe-true sensory judgment takes the present tense after as if.
+  3. She's actually terrified of flying, but she boards the plane as if she ___ (feel) totally relaxed.
+     ANS: felt   OPTS: felt / feels / will feel
+     WHY: 'actually terrified' establishes the comparison is false, so the hypothetical past is required.
+  4. Something smells as if it ___ (burn) in the kitchen.
+     ANS: is burning   OPTS: is burning / burned / had burned
+     WHY: a plausible, maybe-true sensory judgment takes the present tense after as if.
+  5. He's the newest person on the team, but he talks as if he ___ (be) the most experienced person in the room.
+     ANS: were   OPTS: were / is / will be
+     WHY: 'the newest person' directly contradicts being 'the most experienced', so the hypothetical past (were) is needed.
+  6. The kids are wide awake, but they're behaving as if they ___ (be) exhausted.
+     ANS: were   OPTS: were / are / will be
+     WHY: 'wide awake' contradicts 'exhausted', so the hypothetical past (were) is needed.
+  7. You look as if you ___ (need) a coffee.
+     ANS: need   OPTS: need / needed / will need
+     WHY: nothing in the sentence marks this as false, so the plausible present tense is correct.
+  8. She doesn't even like sports, but she talks as if she ___ (know) every football rule.
+     ANS: knew   OPTS: knew / knows / will know
+     WHY: 'doesn't even like sports' establishes the comparison is false, requiring the hypothetical past.
+  9. It's boiling in here — it feels as if the heating ___ (be) stuck on full blast.
+     ANS: is   OPTS: is / was / will be
+     WHY: a plausible, maybe-true sensory judgment takes the present tense after as if.
+  10. He's broke, but he spends money as if he ___ (have) unlimited funds.
+     ANS: had   OPTS: had / has / will have
+     WHY: 'he's broke' establishes the comparison is false, requiring the hypothetical past.
+ -- Ex2: Mixed Practice
+  1. She looked as if she ___ (run) a marathon, though she'd only walked from the car.
+     ANS: had run   OPTS: had run / ran / runs
+     WHY: 'though she'd only walked' places the false event earlier than the looking, so past perfect is needed.
+  2. He seemed confused when he walked in, as if he ___ (never/hear) the news before that moment.
+     ANS: had never heard   OPTS: had never heard / never heard / doesn't hear
+     WHY: 'before that moment' anchors an earlier point than 'seemed', requiring past perfect.
+  3. The room smelled as if someone ___ (cook) there earlier that morning.
+     ANS: had cooked   OPTS: had cooked / cooked / was cooking
+     WHY: 'earlier that morning' marks a point before the smelling, requiring past perfect.
+  4. She's not injured, but she's walking as if she ___ (hurt) herself yesterday.
+     ANS: had hurt   OPTS: had hurt / hurt / hurts
+     WHY: 'yesterday' places the hypothetical injury before the present walking, requiring past perfect.
+  5. That guitar sounds as if it ___ (need) new strings.
+     ANS: needs   OPTS: needs / needed / will need
+     WHY: a plausible, maybe-true sensory judgment takes the present tense after as if.
+  6. He's calm now, but earlier he was shouting as if the house ___ (catch) fire.
+     ANS: had caught   OPTS: had caught / caught / catches
+     WHY: the hypothetical fire is set before the past shouting, requiring past perfect.
+  7. You sound as if you ___ (have) a cold — is your nose blocked?
+     ANS: have   OPTS: have / had / will have
+     WHY: a plausible, maybe-true sensory judgment takes the present tense after as if.
+  8. He wasn't even there, but he described the accident as if he ___ (see) it happen.
+     ANS: had seen   OPTS: had seen / saw / sees
+     WHY: 'wasn't even there' places the false seeing before the describing, requiring past perfect.
+  9. This soup tastes as if it ___ (need) more salt.
+     ANS: needs   OPTS: needs / needed / will need
+     WHY: a plausible, maybe-true sensory judgment takes the present tense after as if.
+  10. She's never even been to Japan, but she talks about it as if she ___ (visit) it many times.
+     ANS: had visited   OPTS: had visited / visited / visits
+     WHY: 'never even been' establishes the visits as false and earlier than the talking, requiring past perfect.
+
+##### remember-forget-stop-try-ing-vs-to (B2)
+ -- Ex1: Remember & Forget: -ing or To?
+  1. I clearly remember ___ (lock) the door before we left — I can picture doing it.
+     ANS: locking   OPTS: locking / to lock / lock
+     WHY: 'I can picture doing it' marks this as a memory of a completed action.
+  2. Please remember ___ (buy) milk on your way home — we're completely out.
+     ANS: to buy   OPTS: to buy / buying / buy
+     WHY: 'we're completely out' marks this as an upcoming duty, not yet done.
+  3. I'll never forget ___ (see) the pyramids for the first time — it was unforgettable.
+     ANS: seeing   OPTS: seeing / to see / see
+     WHY: 'for the first time... unforgettable' marks this as a memory of a past event.
+  4. He forgot ___ (send) the report, so his boss never received it.
+     ANS: to send   OPTS: to send / sending / send
+     WHY: 'never received it' shows the action was never done — a failed obligation.
+  5. Do you remember ___ (meet) at that conference two years ago?
+     ANS: meeting   OPTS: meeting / to meet / meet
+     WHY: 'two years ago' marks this as a memory of something already done.
+  6. Don't forget ___ (call) the dentist tomorrow to confirm your appointment.
+     ANS: to call   OPTS: to call / calling / call
+     WHY: 'tomorrow' marks this as an upcoming, not-yet-done duty.
+  7. I remember ___ (turn) off the stove — I checked it right before we left.
+     ANS: turning   OPTS: turning / to turn / turn
+     WHY: 'I checked it right before we left' marks this as a memory of a completed action.
+  8. She forgot ___ (bring) her umbrella, so she got soaked in the rain.
+     ANS: to bring   OPTS: to bring / bringing / bring
+     WHY: 'got soaked in the rain' shows the action was never done — a failed obligation.
+  9. I remember ___ (visit) this town as a child — everything looks so different now.
+     ANS: visiting   OPTS: visiting / to visit / visit
+     WHY: 'as a child... looks different now' marks this as a memory of the past.
+  10. Please remember ___ (turn) off the lights before you go to bed tonight.
+     ANS: to turn   OPTS: to turn / turning / turn
+     WHY: 'before you go to bed tonight' marks this as an upcoming reminder, not yet done.
+ -- Ex2: Stop & Try, Plus Mixed Practice
+  1. He stopped ___ (smoke) five years ago and hasn't touched a cigarette since.
+     ANS: smoking   OPTS: smoking / to smoke / smoke
+     WHY: 'hasn't touched a cigarette since' shows the activity itself ended.
+  2. On the drive home, we stopped ___ (buy) some petrol, then carried on.
+     ANS: to buy   OPTS: to buy / buying / buy
+     WHY: 'then carried on' shows this was a pause for a new purpose, not the end of the drive.
+  3. My computer keeps freezing — try ___ (restart) it and see if that fixes it.
+     ANS: restarting   OPTS: restarting / to restart / restart
+     WHY: 'see if that fixes it' marks this as an experiment or method, not an effort.
+  4. I tried ___ (open) the jar for ten minutes, but the lid just wouldn't budge.
+     ANS: to open   OPTS: to open / opening / open
+     WHY: 'for ten minutes... wouldn't budge' marks this as a genuine, difficult effort.
+  5. The doctor told him to stop ___ (eat) sugar completely for the sake of his health.
+     ANS: eating   OPTS: eating / to eat / eat
+     WHY: 'completely' shows the activity itself is meant to end.
+  6. While jogging, she stopped ___ (tie) her shoelace, then kept running.
+     ANS: to tie   OPTS: to tie / tying / tie
+     WHY: 'then kept running' shows this was a pause for a new purpose, not the end of the jog.
+  7. If the printer jams again, try ___ (turn) it off and on.
+     ANS: turning   OPTS: turning / to turn / turn
+     WHY: trying a method/solution to see if it works takes -ing after try.
+  8. He tried ___ (lift) the sofa on his own, but it was far too heavy for one person.
+     ANS: to lift   OPTS: to lift / lifting / lift
+     WHY: 'far too heavy for one person' marks this as a genuine, difficult effort.
+  9. I remember ___ (leave) my keys on the kitchen table — I can still picture them there.
+     ANS: leaving   OPTS: leaving / to leave / leave
+     WHY: 'I can still picture them there' marks this as a memory of a completed action.
+  10. She forgot ___ (tell) him about the meeting, so he missed it completely.
+     ANS: to tell   OPTS: to tell / telling / tell
+     WHY: 'missed it completely' shows the action was never done — a failed obligation.
+
+##### ability-permission-modals (B1)
+ -- Ex1: Ability: General Past vs One-Time Success
+  1. When I was a child, I ___ (can/climb) trees easily.
+     ANS: could climb   OPTS: could climb / was able to climb / managed to climb
+     WHY: General/repeated past ability, signalled by 'when I was a child' — could.
+  2. Despite the flat tyre, she ___ (be able to/finish) the marathon.
+     ANS: was able to finish   OPTS: was able to finish / could finish / can finish
+     WHY: A single specific achievement despite difficulty — was able to, not could.
+  3. She ___ (can/speak) three languages by the time she was ten.
+     ANS: could speak   OPTS: could speak / was able to speak / managed to speak
+     WHY: A skill built up over time (repeated/general ability) — could.
+  4. After three attempts, he finally ___ (manage to/open) the jar.
+     ANS: managed to open   OPTS: managed to open / could open / can open
+     WHY: One specific successful event, marked by 'finally' and 'after three attempts' — managed to.
+  5. In those days, we ___ (can/leave) our doors unlocked.
+     ANS: could leave   OPTS: could leave / were able to leave / managed to leave
+     WHY: A general, habitual past situation ('in those days') — could.
+  6. I ___ (not/can/find) my keys yesterday.
+     ANS: couldn't find   OPTS: couldn't find / wasn't able to find / didn't manage to find
+     WHY: A one-time past failure/negative — could works fine here; the could-restriction only applies to one-time positive achievements.
+  7. Somehow, the team ___ (manage to/win) the match despite being down 2-0.
+     ANS: managed to win   OPTS: managed to win / could win / can win
+     WHY: One specific event with an effort/difficulty marker ('somehow', 'despite') — managed to.
+  8. Once I finish this course, I ___ (will be able to/teach) English professionally.
+     ANS: will be able to teach   OPTS: will be able to teach / could teach / can teach
+     WHY: Future ability — will be able to.
+  9. Every summer at my grandparents' house, I ___ (can/swim) in the lake all day.
+     ANS: could swim   OPTS: could swim / was able to swim / managed to swim
+     WHY: A repeated, habitual past ability ('every summer') — could.
+  10. Yesterday's exam was hard, but she ___ (be able to/pass) it.
+     ANS: was able to pass   OPTS: was able to pass / could pass / can pass
+     WHY: One specific past success (a single exam) — was able to, not could.
+ -- Ex2: Permission: Can, Could & May
+  1. ___ I borrow a pen from you? (asking a close friend)
+     ANS: Can   OPTS: Can / May / Must
+     WHY: Informal permission between friends — can fits naturally; may would sound stiff here.
+  2. ___ I leave early today? (asking your manager, fairly politely)
+     ANS: Could   OPTS: Could / Can't / Should
+     WHY: A more polite, slightly formal request for permission to a manager — could.
+  3. In a formal letter to your professor: ___ I request an extension on the deadline?
+     ANS: May   OPTS: May / Can / Could
+     WHY: The most formal, polite way to ask for permission in writing — may.
+  4. The teacher said, "You ___ leave now, class is over."
+     ANS: may   OPTS: may / must / should
+     WHY: may is also used to formally grant permission.
+  5. ___ I come in? — Yes, you may. (formal office setting)
+     ANS: May   OPTS: May / Must / Should
+     WHY: May I...? is the classic formal request for permission, and 'you may' formally grants it.
+  6. ___ I use your phone for a second? (to a close friend)
+     ANS: Can   OPTS: Can / May / Must
+     WHY: Everyday informal permission request between friends — can, not the stiffer may.
+  7. ___ we open the window? It's quite warm in here. (polite, to colleagues)
+     ANS: Could   OPTS: Could / Must / Should
+     WHY: A polite request for permission, more formal than can but less formal than may.
+  8. You ___ sit anywhere you like — there's no assigned seating.
+     ANS: can   OPTS: can / must / should
+     WHY: Informal permission being granted — can.
+  9. The engraved brass plaque at the entrance reads: 'Visitors ___ not touch or photograph the exhibits without prior written permission.'
+     ANS: may   OPTS: may / can / should
+     WHY: Formal written permission rule (prohibition) — the legalistic phrase 'without prior written permission' anchors the formal register of 'may not'; 'can not' would clash with that register.
+  10. ___ I ask you a personal question? (polite, slightly formal, to someone you don't know well)
+     ANS: May   OPTS: May / Must / Should
+     WHY: A polite, formal way to ask permission before a sensitive question — may.
+
+##### academic-hedging (C2)
+ -- Ex1: Hedging Structures
+  1. It ___ that the strategy failed to achieve its goals.
+     ANS: could be argued   OPTS: could be argued / could argue / could be argued for
+     WHY: impersonal passive it could be argued that... — could argue lacks the passive, and could be argued for cannot be followed directly by that.
+  2. It ___ that early intervention improves outcomes.
+     ANS: has been suggested   OPTS: has been suggested / has suggested / has been suggesting
+     WHY: impersonal passive it has been suggested that... — has suggested needs a specific agent, and has been suggesting (progressive passive) is not the fixed hedging form.
+  3. There ___ a tendency for prices to rise in summer.
+     ANS: is   OPTS: is / are / have
+     WHY: there is a tendency agrees with the singular noun tendency, regardless of what follows for.
+  4. There appears to be a tendency ___ smaller firms to grow faster.
+     ANS: for   OPTS: for / of / that
+     WHY: the fixed pattern is tendency for + noun/pronoun + to-infinitive, not tendency of or tendency that.
+  5. It ___ that the results support the theory.
+     ANS: is widely believed   OPTS: is widely believed / widely believes / is widely believing
+     WHY: impersonal passive it is widely believed that... — widely believes needs an agent, and is widely believing is ungrammatical.
+  6. This would ___ to support the theory.
+     ANS: appear   OPTS: appear / appears / appearing
+     WHY: modal + base form: would appear to, not would appears to or would appearing to.
+  7. The results seem ___ a correlation between the variables.
+     ANS: to suggest   OPTS: to suggest / suggest / suggesting
+     WHY: seem is followed by a to-infinitive (seem to suggest), not a bare infinitive or a gerund.
+  8. ___, the sample size was too small to draw firm conclusions.
+     ANS: Arguably   OPTS: Arguably / Argue / Argument
+     WHY: a sentence-initial tentative adverb (arguably) is needed here, not a verb or a noun.
+  9. There ___ to be a link between diet and concentration levels.
+     ANS: appears   OPTS: appears / appear / appearing
+     WHY: there appears to be agrees with the singular existential there and uses the correct verb form, not the plural appear or the non-finite appearing.
+  10. It ___ that the reform will reduce costs in the long term.
+     ANS: could be argued   OPTS: could be argued / could be argue / could argued
+     WHY: the fixed passive form is could be argued — could be argue and could argued are both ungrammatical.
+ -- Ex2: Hedging vs Absolute Claims
+  1. It is ___ that the theory is flawed — the evidence is far from conclusive.
+     ANS: arguable   OPTS: arguable / definitely arguable / undoubtedly arguable
+     WHY: arguable already signals uncertainty, so combining it with definitely or undoubtedly creates a contradiction with the far from conclusive evidence.
+  2. The data ___ that sales will increase next quarter, though the trend is not yet certain.
+     ANS: suggest   OPTS: suggest / prove / definitely prove
+     WHY: suggest is an appropriately hedged reporting verb for evidence described as not yet certain; prove and definitely prove overclaim.
+  3. The findings ___ that the treatment may be effective, but further trials are needed.
+     ANS: indicate   OPTS: indicate / prove / show conclusively
+     WHY: indicate hedges the claim appropriately; prove and show conclusively contradict the admission that further trials are needed.
+  4. It ___ that the reform will reduce costs, although this has not been confirmed.
+     ANS: has been suggested   OPTS: has been suggested / has been proven / is definitely true
+     WHY: has been suggested matches a claim explicitly described as not confirmed; has been proven and is definitely true contradict that.
+  5. There ___ a tendency for younger employees to change jobs more often.
+     ANS: is   OPTS: is / are / have been
+     WHY: there is a tendency agrees with the singular noun tendency.
+  6. This would ___ to support the theory, although alternative explanations remain possible.
+     ANS: appear   OPTS: appear / definitely prove / certainly show
+     WHY: modal + appear keeps the claim tentative, matching alternative explanations remain possible; definitely prove and certainly show assert certainty and contradict it.
+  7. It is ___ unlikely that the effect is due to chance alone, though this cannot be proven.
+     ANS: arguably   OPTS: arguably / definitely / undoubtedly
+     WHY: arguably keeps the claim tentative, matching though this cannot be proven; definitely and undoubtedly are absolute and contradict that.
+  8. The results ___ suggest a correlation, but the sample size limits how far this can be generalised.
+     ANS: seem to   OPTS: seem to / definitely / undoubtedly
+     WHY: seem to hedges the claim, consistent with the limitation noted afterward; definitely and undoubtedly are absolute and clash with it.
+  9. It could be argued that the campaign was successful, ___ than proven beyond doubt.
+     ANS: rather   OPTS: rather / definitely / certainly
+     WHY: rather than proven beyond doubt signals a hedge that matches could be argued; definitely and certainly would contradict the tentative claim just made.
+  10. The evidence ___ a link between the two variables, although a causal relationship has not been established.
+     ANS: suggests   OPTS: suggests / proves / definitely establishes
+     WHY: suggests matches although a causal relationship has not been established; proves and definitely establishes contradict that admission.
+
+##### comparatives-superlatives (A2)
+ -- Ex1: Comparatives & Superlatives
+  1. This bag is ___ (cheap) than that one.
+     ANS: cheaper   OPTS: cheaper / more cheap / cheapest
+     WHY: Short adjective: add -er for the comparative.
+  2. She is the ___ (happy) person I know.
+     ANS: happiest   OPTS: happiest / most happy / happier
+     WHY: Short adjective ending in -y: change y to i and add -est.
+  3. This film is ___ (interesting) than the last one.
+     ANS: more interesting   OPTS: more interesting / interestinger / most interesting
+     WHY: Long adjective: use more, not -er.
+  4. He's the ___ (good) singer in the band.
+     ANS: best   OPTS: best / goodest / most good
+     WHY: good is irregular: good → better → best.
+  5. Today is ___ (bad) than yesterday.
+     ANS: worse   OPTS: worse / badder / more bad
+     WHY: bad is irregular: bad → worse → worst.
+  6. She's as tall ___ her brother.
+     ANS: as   OPTS: as / than / like
+     WHY: Equality uses as...as, not than.
+  7. This is ___ (expensive) hotel in the city.
+     ANS: the most expensive   OPTS: the most expensive / the expensivest / more expensive
+     WHY: Long adjective: use most for the superlative, with the.
+  8. My house is ___ (big) than yours.
+     ANS: bigger   OPTS: bigger / more big / biggest
+     WHY: Short adjective (one syllable, doubled consonant): add -er.
+  9. This is ___ (far) I've ever travelled.
+     ANS: the furthest   OPTS: the furthest / the farer / most far
+     WHY: far is irregular: far → further/farther → furthest/farthest.
+  10. He runs ___ (fast) than his brother.
+     ANS: faster   OPTS: faster / more fast / fastest
+     WHY: Short adjective: add -er for the comparative.
+ -- Ex2: Equality, Irregulars & More Practice
+  1. This road is ___ (dangerous) than that one.
+     ANS: more dangerous   OPTS: more dangerous / dangerouser / most dangerous
+     WHY: Long adjective: use more, not -er, for the comparative.
+  2. He has ___ (little) time than I do this week.
+     ANS: less   OPTS: less / littler / least
+     WHY: little is irregular: little → less → least; than signals the comparative, not the superlative.
+  3. Of all the students, she has ___ (much) experience.
+     ANS: the most   OPTS: the most / more / mostest
+     WHY: "Of all the students" (a group of more than two) signals the superlative: much → more → the most.
+  4. This test isn't ___ (difficult) as the last one.
+     ANS: as   OPTS: as / than / more
+     WHY: Negative equality: not as...as, never not as...than.
+  5. My car is ___ (fast) than yours, but not as fast as his.
+     ANS: faster   OPTS: faster / fastest / more fast
+     WHY: Short adjective: add -er; than confirms it's a comparative, not a superlative.
+  6. This is by far ___ (funny) film I've ever seen.
+     ANS: the funniest   OPTS: the funniest / funnier / more funny
+     WHY: "By far" + "I've ever seen" signals the superlative; funny is a short adjective ending in -y.
+  7. She's got ___ (many) books than anyone else in the class.
+     ANS: more   OPTS: more / most / manier
+     WHY: many is irregular: many → more → most; than signals the comparative.
+  8. This restaurant is ___ (good) than the one we went to last week.
+     ANS: better   OPTS: better / gooder / best
+     WHY: good is irregular: good → better → best; than signals the comparative.
+  9. He's ___ (tall) as his father now.
+     ANS: as   OPTS: as / than / more
+     WHY: Equality: as tall as, never than tall than or more tall as.
+  10. This was ___ (bad) mistake the company has ever made.
+     ANS: the worst   OPTS: the worst / worse / more bad
+     WHY: "...the company has ever made" signals the superlative; bad is irregular: bad → worse → worst.
+
+##### exclamative-sentences (A2)
+ -- Ex1: What or How?
+  1. ___ a beautiful day it is!
+     ANS: What   OPTS: What / How / Which
+     WHY: singular countable noun (day) follows → What + a + adjective + noun.
+  2. ___ kind you are!
+     ANS: How   OPTS: How / What / Which
+     WHY: adjective alone, no noun, follows → How + adjective.
+  3. ___ lovely flowers!
+     ANS: What   OPTS: What / How / Which
+     WHY: plural noun (flowers) follows → What, no article needed.
+  4. ___ quickly she runs!
+     ANS: How   OPTS: How / What / Which
+     WHY: adverb follows → How + adverb.
+  5. ___ terrible weather!
+     ANS: What   OPTS: What / How / Which
+     WHY: uncountable noun (weather) follows → What, no article needed.
+  6. ___ an amazing goal he scored!
+     ANS: What   OPTS: What / How / Which
+     WHY: singular countable noun (goal) follows → What + an + adjective + noun.
+  7. ___ interesting that is!
+     ANS: How   OPTS: How / What / Which
+     WHY: adjective alone, no noun, follows → How + adjective.
+  8. ___ well he sings!
+     ANS: How   OPTS: How / What / Which
+     WHY: adverb follows → How + adverb.
+  9. ___ a nightmare that was!
+     ANS: What   OPTS: What / How / Which
+     WHY: singular countable noun (nightmare) follows → What + a + adjective + noun.
+  10. ___ delicious this soup is!
+     ANS: How   OPTS: How / What / Which
+     WHY: adjective alone, no noun, follows → How + adjective.
+ -- Ex2: Word Order & Articles
+  1. What a day ___!
+     ANS: it is   OPTS: it is / is it / it does
+     WHY: exclamatives keep statement word order — subject before verb, never inverted like a question.
+  2. How lovely ___!
+     ANS: you are   OPTS: you are / are you / you do
+     WHY: statement word order — subject before verb, not inverted.
+  3. What ___ flowers!
+     ANS: lovely   OPTS: lovely / a lovely / an lovely
+     WHY: flowers is plural, so no article (a/an) is used after What.
+  4. What ___ day it is!
+     ANS: a beautiful   OPTS: a beautiful / beautiful / an beautiful
+     WHY: day is singular countable, so What needs a + adjective before it.
+  5. What ___ weather!
+     ANS: terrible   OPTS: terrible / a terrible / an terrible
+     WHY: weather is uncountable, so no article is used after What.
+  6. How kind ___!
+     ANS: she is   OPTS: she is / is she / she does
+     WHY: statement word order — subject before verb, not inverted like a question.
+  7. What ___ goal he scored!
+     ANS: an amazing   OPTS: an amazing / a amazing / amazing
+     WHY: goal is singular countable and starts with a vowel sound, so What needs an + adjective.
+  8. How quickly ___!
+     ANS: she runs   OPTS: she runs / does she run / runs she
+     WHY: statement word order after How + adverb, never inverted.
+  9. What ___ ideas they have!
+     ANS: brilliant   OPTS: brilliant / a brilliant / an brilliant
+     WHY: ideas is plural, so no article is used after What.
+  10. How well ___!
+     ANS: he sings   OPTS: he sings / does he sing / sings he
+     WHY: statement word order after How + adverb, never inverted.
+
+##### imperatives (A1)
+ -- Ex1: Affirmative & Negative Imperatives
+  1. ___ the door, please. (close)
+     ANS: Close   OPTS: Close / Closes / You close
+     WHY: Affirmative imperative = bare base form, no subject: Close the door.
+  2. ___ late for the meeting. (be)
+     ANS: Don't be   OPTS: Don't be / Not be / Don't are
+     WHY: Negative imperative = Don't + base verb: Don't be late.
+  3. ___ down and relax for a minute. (sit)
+     ANS: Sit   OPTS: Sit / Sits / You sit
+     WHY: Affirmative imperative uses the bare base form: Sit down.
+  4. ___ that — it's still wet paint! (touch)
+     ANS: Don't touch   OPTS: Don't touch / Touch not / Doesn't touch
+     WHY: Negative imperative always places don't before the base verb: Don't touch that.
+  5. ___ careful on the stairs, they're icy. (be)
+     ANS: Be   OPTS: Be / Are / Is
+     WHY: With be, the imperative uses the base form be directly, not are or is.
+  6. ___ quiet — the baby is sleeping. (be)
+     ANS: Be   OPTS: Be / You are / Being
+     WHY: Affirmative imperative = base form be, with no subject stated.
+  7. ___ your homework before dinner. (finish)
+     ANS: Finish   OPTS: Finish / Finished / You finish
+     WHY: Affirmative imperative = bare base form, no subject.
+  8. ___ the window open all night, it gets cold. (leave)
+     ANS: Don't leave   OPTS: Don't leave / Leave not / Doesn't leave
+     WHY: Negative imperative = Don't + base verb; the negation never follows the verb.
+  9. Please ___ your seatbelt before we start. (fasten)
+     ANS: fasten   OPTS: fasten / fastens / fastened
+     WHY: Please softens the tone but the verb stays in the bare base form: Please fasten your seatbelt.
+  10. ___ come in, I insist! (Choose the emphatic form.)
+     ANS: Do   OPTS: Do / Does / Did
+     WHY: Adding do before the base verb makes the imperative emphatic: Do come in!
+ -- Ex2: Let's & Common Mistakes
+  1. ___ go to the beach this afternoon. (let's)
+     ANS: Let's   OPTS: Let's / Let / We let's
+     WHY: Let's + base verb makes a suggestion that includes the speaker: Let's go to the beach.
+  2. ___ argue about this, it's not worth it. (let's not)
+     ANS: Let's not   OPTS: Let's not / Don't let's / Let's don't
+     WHY: The negative of let's is let's not + base verb: Let's not argue about this.
+  3. ___ the door before you leave. (Choose the correct instruction.)
+     ANS: Close   OPTS: Close / You close / Closes
+     WHY: The natural imperative drops the subject entirely: Close the door, not You close the door.
+  4. ___ the deadline — send it in by Friday. (Choose the correct instruction.)
+     ANS: Don't miss   OPTS: Don't miss / Miss not / Not miss
+     WHY: Negative imperatives put don't before the base verb, never not after the verb.
+  5. ___ start the meeting without her. (let's)
+     ANS: Let's   OPTS: Let's / Let / Lets
+     WHY: Let's + base verb includes the speaker in the suggestion: Let's start the meeting.
+  6. ___ worry, everything will be fine. (don't)
+     ANS: Don't   OPTS: Don't / Not / Doesn't
+     WHY: Negative imperative = Don't + base verb: Don't worry.
+  7. ___ me your name and address. (tell)
+     ANS: Tell   OPTS: Tell / Tells / You tell
+     WHY: Affirmative imperative = bare base form, no subject.
+  8. ___ take the last train, it leaves in ten minutes. (let's)
+     ANS: Let's   OPTS: Let's / We let's / Let's we
+     WHY: Let's + base verb makes a suggestion including the speaker: Let's take the last train.
+  9. ___ forget to lock the door when you leave. (don't)
+     ANS: Don't   OPTS: Don't / Not / No
+     WHY: Negative imperative = Don't + base verb: Don't forget.
+  10. ___ silly, of course I'll help you. (don't be)
+     ANS: Don't be   OPTS: Don't be / Be not / Don't are
+     WHY: Negative imperative with be = Don't be + base form: Don't be silly.
+
+##### must-vs-have-to (B1)
+ -- Ex1: Must or Have To?
+  1. I ___ (go) to the dentist yesterday — my tooth was killing me.
+     ANS: had to go   OPTS: had to go / must go / musted go
+     WHY: past obligation — must has no past form, so had to is required.
+  2. Company policy says all visitors ___ (sign) in at reception.
+     ANS: have to sign   OPTS: have to sign / must sign / musted sign
+     WHY: explicit external rule (company policy) — have to.
+  3. I really ___ (call) her back — it's been bothering me all day.
+     ANS: must call   OPTS: must call / have to call / had to call
+     WHY: explicit personal feeling/urgency ('it's been bothering me') — must.
+  4. When I was a child, we ___ (wear) a uniform to school.
+     ANS: had to wear   OPTS: had to wear / must wear / musted wear
+     WHY: explicit past-time marker (when I was a child) — must has no past form, so had to.
+  5. In a casual conversation with a friend: Do you ___ (work) this weekend?
+     ANS: have to work   OPTS: have to work / must work / had to work
+     WHY: natural everyday question form is do/does + have to, not Must...?
+  6. My visa requires that I ___ (leave) the country before it expires.
+     ANS: have to leave   OPTS: have to leave / must leave / musted leave
+     WHY: explicit external rule (the visa requires) — have to.
+  7. Last week we ___ (finish) the project early because the client moved the deadline.
+     ANS: had to finish   OPTS: had to finish / must finish / musted finish
+     WHY: explicit past-time marker (last week) — must has no past form, so had to.
+  8. I insist that I ___ (apologize) to her myself — it matters to me.
+     ANS: must apologize   OPTS: must apologize / have to apologize / had to apologize
+     WHY: explicit personal insistence ('I insist... it matters to me') — must.
+  9. The law requires that all drivers ___ (carry) valid insurance.
+     ANS: have to carry   OPTS: have to carry / must carry / musted carry
+     WHY: explicit external rule (the law requires) — have to.
+  10. In a casual chat with a colleague, you'd naturally ask: 'Do you ___ (submit) the report by Friday?'
+     ANS: have to submit   OPTS: have to submit / must submit / had to submit
+     WHY: natural everyday question form is do/does + have to, not Must...?
+ -- Ex2: Mixed Practice
+  1. We ___ (wait) two hours at the airport yesterday because of the delay.
+     ANS: had to wait   OPTS: had to wait / must wait / musted wait
+     WHY: explicit past-time marker (yesterday) — must has no past form, so had to.
+  2. You'll ___ (submit) the form by Friday, or your application won't be considered.
+     ANS: have to submit   OPTS: have to submit / must submit / musted submit
+     WHY: future obligation uses will have to, not a future form of must.
+  3. Company policy says employees ___ (complete) the training before they start work.
+     ANS: have to complete   OPTS: have to complete / must complete / musted complete
+     WHY: explicit external rule (company policy) — have to.
+  4. I feel like I really ___ (tell) him the truth — I can't keep this secret any longer.
+     ANS: must tell   OPTS: must tell / have to tell / had to tell
+     WHY: explicit personal feeling/urgency — must.
+  5. When she was a student, she ___ (work) every weekend to pay her rent.
+     ANS: had to work   OPTS: had to work / must work / musted work
+     WHY: explicit past-time marker (when she was a student) — must has no past form, so had to.
+  6. In an easygoing chat between friends, it's more natural to ask 'Do you ___ (leave) already?' than 'Must you leave already?'
+     ANS: have to leave   OPTS: have to leave / must leave / had to leave
+     WHY: natural everyday question form is do/does + have to, not Must...?
+  7. The airline's rules mean all passengers ___ (check) in two hours before departure.
+     ANS: have to check   OPTS: have to check / must check / musted check
+     WHY: explicit external rule (the airline's rules) — have to.
+  8. Two years ago, we ___ (pay) a huge fine because we missed the tax deadline.
+     ANS: had to pay   OPTS: had to pay / must pay / musted pay
+     WHY: explicit past-time marker (two years ago) — must has no past form, so had to.
+  9. I insist that we ___ (thank) her properly — it really matters to me.
+     ANS: must thank   OPTS: must thank / have to thank / had to thank
+     WHY: explicit personal insistence — must.
+  10. Hospital regulations state that all staff ___ (wear) an ID badge at all times.
+     ANS: have to wear   OPTS: have to wear / must wear / musted wear
+     WHY: explicit external rule (hospital regulations) — have to.
+
+##### narrative-tenses (B1)
+ -- Ex1: Sequencing the Story
+  1. She opened the door, ___ (walk) in, and sat down.
+     ANS: walked   OPTS: walked / had walked / was walking
+     WHY: a simple sequence of main events, one after another — past simple for all of them.
+  2. While she ___ (walk) home, it started to rain.
+     ANS: was walking   OPTS: was walking / walked / had walked
+     WHY: while + past continuous for the background action interrupted by the main event 'started'.
+  3. By the time she arrived, the meeting ___ (already/finish).
+     ANS: had already finished   OPTS: had already finished / already finished / was already finishing
+     WHY: by the time + already signals an earlier, out-of-sequence event → past perfect.
+  4. She was exhausted because she ___ (work) all night.
+     ANS: had been working   OPTS: had been working / was working / worked
+     WHY: because explains a past state through an action that had been ongoing up to that earlier point → past perfect continuous.
+  5. When I arrived, the film ___ (already/start).
+     ANS: had already started   OPTS: had already started / already started / was already starting
+     WHY: already + when together mark the film's start as earlier than my arrival → past perfect.
+  6. He woke up, ___ (get) dressed, and left for work.
+     ANS: got   OPTS: got / had got / was getting
+     WHY: three events told in order with no signal word — a plain sequence uses past simple throughout.
+  7. As he ___ (cook) dinner, the smoke alarm went off.
+     ANS: was cooking   OPTS: was cooking / cooked / had cooked
+     WHY: as introduces the background action interrupted by the main event 'went off' → past continuous.
+  8. By the time the guests arrived, she ___ (just/finish) cleaning the house.
+     ANS: had just finished   OPTS: had just finished / just finished / was just finishing
+     WHY: by the time + just mark the cleaning as complete before the guests' arrival → past perfect.
+  9. He was out of breath because he ___ (run) for the bus.
+     ANS: had been running   OPTS: had been running / was running / ran
+     WHY: because explains a state via an ongoing earlier action → past perfect continuous.
+  10. She picked up the phone, ___ (dial) the number, and waited.
+     ANS: dialed   OPTS: dialed / had dialed / was dialing
+     WHY: a plain sequence of one-after-another events, no signal word → past simple.
+ -- Ex2: Choosing the Right Layer
+  1. Before the party started, they ___ (already/decorate) the whole room.
+     ANS: had already decorated   OPTS: had already decorated / already decorated / were already decorating
+     WHY: before + already mark the decorating as complete earlier than the party starting → past perfect.
+  2. While the children ___ (play) in the garden, their mother was reading inside.
+     ANS: were playing   OPTS: were playing / played / had played
+     WHY: while sets up a background action happening at the same time as another action → past continuous.
+  3. He opened his laptop, ___ (check) his email, and closed it again.
+     ANS: checked   OPTS: checked / had checked / was checking
+     WHY: three events told in the order they happened, no signal word → past simple throughout.
+  4. She was nervous before the interview because she ___ (not/sleep) well the night before.
+     ANS: hadn't slept   OPTS: hadn't slept / wasn't sleeping / didn't sleep
+     WHY: because explains her state through a prior, earlier event → past perfect.
+  5. By the time the ambulance got there, the situation ___ (already/calm) down.
+     ANS: had already calmed   OPTS: had already calmed / already calmed / was already calming
+     WHY: by the time + already signal an event completed earlier, out of sequence → past perfect.
+  6. As she ___ (drive) to the office, she noticed the traffic was heavier than usual.
+     ANS: was driving   OPTS: was driving / drove / had driven
+     WHY: as introduces a background action in progress when the noticing happened → past continuous.
+  7. He was out of practice because he ___ (not/play) tennis for years.
+     ANS: hadn't been playing   OPTS: hadn't been playing / wasn't playing / didn't play
+     WHY: because explains a state via an action that had been ongoing (or absent) up to that earlier point → past perfect continuous.
+  8. She grabbed her keys, ___ (lock) the door, and ran to catch the bus.
+     ANS: locked   OPTS: locked / had locked / was locking
+     WHY: these are simply the next steps in the main sequence, in order → past simple, not past perfect.
+  9. Just before the lights went out, everyone ___ (already/leave) the building.
+     ANS: had already left   OPTS: had already left / already left / were already leaving
+     WHY: just before + already mark leaving as complete earlier than the lights going out → past perfect.
+  10. While the waiter ___ (take) their order, the manager walked over to say hello.
+     ANS: was taking   OPTS: was taking / took / had taken
+     WHY: while + a background action interrupted by the main event 'walked over' → past continuous.
+
+##### nominalization (C2)
+ -- Ex1: Nominalization: Verb to Noun
+  1. The committee's ___ (decide) to postpone the meeting surprised everyone.
+     ANS: decision   OPTS: decision / decide / decided
+     WHY: nominalization — a noun is needed after the possessive; 'decision' is the noun form of decide, while 'decide' and 'decided' are verb forms and cannot be the head of a noun phrase here.
+  2. The company's ___ (fail) to meet its targets disappointed investors.
+     ANS: failure   OPTS: failure / fail / failed
+     WHY: nominalization — 'failure' is the noun form of fail; 'fail' and 'failed' are verb forms and cannot follow a possessive as the head noun.
+  3. The government's ___ (reduce) of taxes led to higher spending.
+     ANS: reduction   OPTS: reduction / reduce / reduced
+     WHY: nominalization — 'reduction' is the noun form of reduce, required here as the head noun followed by of + the original object (taxes).
+  4. Our early ___ (arrive) at the airport gave us time to relax.
+     ANS: arrival   OPTS: arrival / arrive / arrived
+     WHY: nominalization — 'arrival' is the noun form of arrive; a verb form cannot follow the adjective 'early' as the head noun.
+  5. The team's steady ___ (improve) impressed the manager.
+     ANS: improvement   OPTS: improvement / improve / improved
+     WHY: nominalization — 'improvement' is the noun form of improve; the slot after the possessive and adjective requires a noun, not a verb form.
+  6. The official ___ (announce) of the results is expected tomorrow.
+     ANS: announcement   OPTS: announcement / announce / announced
+     WHY: nominalization — 'announcement' is the noun form of announce, needed as the subject of the sentence.
+  7. Their final ___ (agree) on the contract took months.
+     ANS: agreement   OPTS: agreement / agree / agreed
+     WHY: nominalization — 'agreement' is the noun form of agree; only a noun can follow the possessive and adjective here.
+  8. The rapid ___ (develop) of the vaccine saved thousands of lives.
+     ANS: development   OPTS: development / develop / developed
+     WHY: nominalization — 'development' is the noun form of develop, required as the subject of the sentence.
+  9. Foreign ___ (invest) in the region has increased sharply.
+     ANS: investment   OPTS: investment / invest / invested
+     WHY: nominalization — 'investment' is the noun form of invest; the sentence subject must be a noun, not a verb form.
+  10. Her greatest ___ (achieve) was winning the award at 25.
+     ANS: achievement   OPTS: achievement / achieve / achieved
+     WHY: nominalization — 'achievement' is the noun form of achieve, needed after the possessive and superlative adjective.
+ -- Ex2: Nominalization: Clauses into Noun Phrases
+  1. Because the government reduced taxes, growth increased. → The government's ___ (reduce) of taxes led to increased growth.
+     ANS: reduction   OPTS: reduction / reduce / reduced
+     WHY: the finite clause 'the government reduced taxes' is rewritten as a noun phrase; 'reduction' is the required noun form, reconnected to taxes with of.
+  2. The sudden ___ (conclude) of the trial surprised everyone.
+     ANS: conclusion   OPTS: conclusion / conclude / concluded
+     WHY: nominalization — 'conclusion' is the noun form of conclude, needed as the subject after the adjective 'sudden'.
+  3. The factory's ___ (produce) of cars doubled last year.
+     ANS: production   OPTS: production / produce / produced
+     WHY: nominalization — 'production' is the noun form of produce, required as the head noun after the possessive.
+  4. The committee's ___ (propose) was rejected.
+     ANS: proposal   OPTS: proposal / propose / proposed
+     WHY: nominalization — 'proposal' is the noun form of propose; the sentence subject after the possessive must be a noun.
+  5. Urgent cost ___ (reduce) is necessary this quarter.
+     ANS: reduction   OPTS: reduction / reduce / reduced
+     WHY: nominalization used as subject — 'reduction' foregrounds the process itself, matching the formal style of 'Urgent cost reduction is necessary' rather than the direct 'We must reduce costs urgently'.
+  6. The company's swift ___ (respond) to the complaint restored customer trust.
+     ANS: response   OPTS: response / respond / responded
+     WHY: nominalization — 'response' is the noun form of respond, required as the head noun after the possessive and adjective.
+  7. The government's ___ (contribute) to the fund was significant.
+     ANS: contribution   OPTS: contribution / contribute / contributed
+     WHY: nominalization — 'contribution' is the noun form of contribute, needed as the subject after the possessive.
+  8. The reduction ___ costs was welcomed by shareholders.
+     ANS: of   OPTS: of / for / with
+     WHY: a nominalized noun reconnects to its original object with of — 'the reduction of costs', not 'for' or 'with'; dropping or misusing this preposition is a common nominalization mistake.
+  9. The translation ___ the novel took three years.
+     ANS: of   OPTS: of / from / by
+     WHY: the nominalized noun 'translation' links to its object with of — 'the translation of the novel'.
+  10. The expansion ___ the business required new investment.
+     ANS: of   OPTS: of / in / at
+     WHY: the nominalized noun 'expansion' links to its object with of — 'the expansion of the business'.
+
+##### noun-verb-forming-suffixes (B2)
+ -- Ex1: Noun- and Verb-Forming Suffixes: Choose the Right Form
+  1. Her ___ (happy) was obvious to everyone at the party.
+     ANS: happiness   OPTS: happiness / happity / happiment
+     WHY: -ness = adjective → noun, the quality of being happy.
+  2. He treated everyone with great ___ (kind).
+     ANS: kindness   OPTS: kindness / kindity / kindment
+     WHY: -ness = adjective → noun, the quality of being kind.
+  3. The sky began to ___ (dark) before the storm.
+     ANS: darken   OPTS: darken / darkify / darkise
+     WHY: -en = adjective → verb, to make something more that quality.
+  4. The company invested heavily in ___ (develop).
+     ANS: development   OPTS: development / developness / developity
+     WHY: -ment = verb → noun, a result or process.
+  5. After hours of talks, they finally reached an ___ (agree).
+     ANS: agreement   OPTS: agreement / agreeness / agreetion
+     WHY: -ment = verb → noun, a result or process.
+  6. It was a difficult ___ (decide) to make.
+     ANS: decision   OPTS: decision / decidement / decideness
+     WHY: -sion = verb → noun, an action or process.
+  7. There's a small ___ (possible) that it will rain later.
+     ANS: possibility   OPTS: possibility / possibleness / possiblement
+     WHY: -ity = adjective → noun, often for -able/-al adjectives.
+  8. My sister is a ___ (teach) at the local school.
+     ANS: teacher   OPTS: teacher / teachment / teachion
+     WHY: -er = verb → noun, the person who does the action.
+  9. The new software will ___ (simple) the whole process.
+     ANS: simplify   OPTS: simplify / simpleness / simplication
+     WHY: -ify = adjective → verb, to make something that quality.
+  10. The government plans to ___ (modern) the transport system.
+     ANS: modernise   OPTS: modernise / modernness / modernment
+     WHY: -ise = adjective → verb, to make something have that quality (British spelling; American English uses -ize).
+ -- Ex2: Mixed Practice
+  1. Workers plan to ___ (wide) the road next year.
+     ANS: widen   OPTS: widen / widify / wideness
+     WHY: -en = adjective → verb, to make something more that quality.
+  2. The march was part of a larger political ___ (move).
+     ANS: movement   OPTS: movement / moveness / movetion
+     WHY: -ment = verb → noun, a result or process.
+  3. She gave us useful ___ (inform) about the trip.
+     ANS: information   OPTS: information / informness / informment
+     WHY: -tion = verb → noun, an action or process.
+  4. He gave a clear ___ (explain) of the rules.
+     ANS: explanation   OPTS: explanation / explainment / explainness
+     WHY: -tion = verb → noun, an action or process.
+  5. Her ___ (able) to speak three languages impressed the interviewer.
+     ANS: ability   OPTS: ability / ableness / ablement
+     WHY: -ity = adjective → noun, a quality.
+  6. Swimming is her favourite ___ (active).
+     ANS: activity   OPTS: activity / activeness / activement
+     WHY: -ity = adjective → noun, a quality.
+  7. He became a famous ___ (act) after that film.
+     ANS: actor   OPTS: actor / actment / action
+     WHY: -or = verb → noun, the person who does the action.
+  8. She's a talented ___ (write) who has published five novels.
+     ANS: writer   OPTS: writer / writion / writment
+     WHY: -er = verb → noun, the person who does the action.
+  9. Scientists ___ (class) animals into different groups.
+     ANS: classify   OPTS: classify / classness / classion
+     WHY: -ify = noun → verb, to put into a category.
+  10. The city council plans to ___ (beauty) the park.
+     ANS: beautify   OPTS: beautify / beautyness / beautyment
+     WHY: -ify = noun → verb, to make something have that quality.
+
+##### order-of-adjectives (A2)
+ -- Ex1: Order of Adjectives
+  1. They have a ___ (old, lovely) house.
+     ANS: lovely old   OPTS: lovely old / old lovely / oldly lovely
+     WHY: Adjective order: opinion (lovely) before age (old).
+  2. This is a ___ (French, small) café.
+     ANS: small French   OPTS: small French / French small / smally French
+     WHY: Adjective order: size (small) before origin (French).
+  3. She bought a ___ (leather, black) jacket.
+     ANS: black leather   OPTS: black leather / leather black / blackly leather
+     WHY: Adjective order: colour (black) before material (leather).
+  4. He owns a ___ (old, red) sports car.
+     ANS: old red   OPTS: old red / red old / oldly red
+     WHY: Adjective order: age (old) before colour (red).
+  5. It's a ___ (round, wooden) table.
+     ANS: round wooden   OPTS: round wooden / wooden round / roundly wooden
+     WHY: Adjective order: shape (round) before material (wooden).
+  6. I met a ___ (young, Japanese) student.
+     ANS: young Japanese   OPTS: young Japanese / Japanese young / youngly Japanese
+     WHY: Adjective order: age (young) before origin (Japanese).
+  7. That's a ___ (big, ugly) building.
+     ANS: ugly big   OPTS: ugly big / big ugly / uglily big
+     WHY: Adjective order: opinion (ugly) before size (big).
+  8. We stayed in a ___ (small, cozy) cabin.
+     ANS: cozy small   OPTS: cozy small / small cozy / cozily small
+     WHY: Adjective order: opinion (cozy) before size (small).
+  9. She wore a ___ (silk, red) scarf.
+     ANS: red silk   OPTS: red silk / silk red / redly silk
+     WHY: Adjective order: colour (red) before material (silk).
+  10. It was a ___ (huge, ancient) castle.
+     ANS: huge ancient   OPTS: huge ancient / ancient huge / hugely ancient
+     WHY: Adjective order: size (huge) before age (ancient).
+ -- Ex2: Same-Category Adjectives & Mixed Practice
+  1. She painted the fence ___ (red, white).
+     ANS: red and white   OPTS: red and white / red white / white red
+     WHY: Two colours are the same category, so they need and between them.
+  2. It's a ___ (cheap, cheerful) café.
+     ANS: cheap and cheerful   OPTS: cheap and cheerful / cheap cheerful / cheerful cheap
+     WHY: Two opinion words are the same category, so they need and between them.
+  3. He bought a ___ (big, modern) house.
+     ANS: big modern   OPTS: big modern / modern big / big and modern
+     WHY: Different categories (size, age) stack in order without and.
+  4. That was a ___ (funny, clever) joke.
+     ANS: funny and clever   OPTS: funny and clever / funny clever / clever funny
+     WHY: Two opinion words are the same category, so they need and between them.
+  5. I need a ___ (plastic, small) container.
+     ANS: small plastic   OPTS: small plastic / plastic small / small and plastic
+     WHY: Different categories (size, material) stack in order without and.
+  6. She has a ___ (green, beautiful) garden.
+     ANS: beautiful green   OPTS: beautiful green / green beautiful / beautiful and green
+     WHY: Different categories (opinion, colour) stack in order without and.
+  7. This is a ___ (silver, elegant) necklace.
+     ANS: elegant silver   OPTS: elegant silver / silver elegant / elegant and silver
+     WHY: Different categories (opinion, material) stack in order without and.
+  8. The room was painted ___ (blue, yellow).
+     ANS: blue and yellow   OPTS: blue and yellow / blue yellow / yellow blue
+     WHY: Two colours are the same category, so they need and between them.
+  9. We saw a ___ (tall, ancient) tower.
+     ANS: tall ancient   OPTS: tall ancient / ancient tall / tall and ancient
+     WHY: Different categories (size, age) stack in order without and.
+  10. It was a ___ (black, white) cat.
+     ANS: black and white   OPTS: black and white / black white / white black
+     WHY: Two colours are the same category, so they need and between them.
+
+##### passive-perfect-continuous-future (B2)
+ -- Ex1: Perfect & Continuous Passive
+  1. The decision ___ (already/make).
+     ANS: has already been made   OPTS: has already been made / has already made / was already been made
+     WHY: Present perfect passive: has + been + past participle — been cannot be dropped.
+  2. Have you ___ (inform) about the changes?
+     ANS: been informed   OPTS: been informed / informed / being informed
+     WHY: After Have you, the passive needs been + past participle: Have you been informed?
+  3. By the time she checked, the report ___ (already/submit).
+     ANS: had already been submitted   OPTS: had already been submitted / had already submitted / was already been submitted
+     WHY: Past perfect passive: had + been + past participle, cued by by the time + a past reference point.
+  4. The room ___ (clean) right now.
+     ANS: is being cleaned   OPTS: is being cleaned / is cleaned / was being cleaned
+     WHY: Right now needs the continuous passive: is + being + past participle, not the general is cleaned.
+  5. The bridge ___ (repair) when the storm hit.
+     ANS: was being repaired   OPTS: was being repaired / was repaired / is being repaired
+     WHY: An action in progress at a past moment needs the past continuous passive: was + being + past participle.
+  6. The building ___ (construct) while we were on holiday.
+     ANS: was being constructed   OPTS: was being constructed / was constructed / is being constructed
+     WHY: While signals an action in progress in the past: was + being + past participle.
+  7. This road ___ (resurface) at the moment, so please use the other one.
+     ANS: is being resurfaced   OPTS: is being resurfaced / is resurfaced / was being resurfaced
+     WHY: At the moment signals the present continuous passive: is + being + past participle.
+  8. The results ___ (just/announce).
+     ANS: have just been announced   OPTS: have just been announced / have just announced / was just been announced
+     WHY: Just cues the present perfect passive: have + just + been + past participle.
+  9. She ___ (never/tell) the whole truth, as far as I know.
+     ANS: has never been told   OPTS: has never been told / has never told / was never been told
+     WHY: Never with present relevance needs the present perfect passive: has + been + past participle.
+  10. The invitations ___ (already/send) by the time we arrived.
+     ANS: had already been sent   OPTS: had already been sent / had already sent / were already been sent
+     WHY: By the time + a past event needs the past perfect passive: had + been + past participle.
+ -- Ex2: Future & Mixed Passive
+  1. The results ___ (announce) tomorrow.
+     ANS: will be announced   OPTS: will be announced / will announced / will announce
+     WHY: Tomorrow cues the future passive: will + be + past participle.
+  2. By next year, the building ___ (complete).
+     ANS: will have been completed   OPTS: will have been completed / will have completed / will be completed
+     WHY: By next year cues the future perfect passive: will + have + been + past participle.
+  3. The new bridge ___ (open) next month.
+     ANS: will be opened   OPTS: will be opened / will opened / will open
+     WHY: Next month cues the simple future passive: will + be + past participle.
+  4. The documents ___ (sign) by Friday.
+     ANS: will have been signed   OPTS: will have been signed / will have signed / will be signed
+     WHY: By Friday (a deadline) cues the future perfect passive, not the simple future: will + have + been + past participle.
+  5. The car ___ (fix) while you wait, if you leave it here now.
+     ANS: will be fixed   OPTS: will be fixed / will fixed / will fix
+     WHY: A future promise needs the simple future passive: will + be + past participle.
+  6. The exam results ___ (post) online next week.
+     ANS: will be posted   OPTS: will be posted / will posted / will post
+     WHY: Next week cues the future passive: will + be + past participle.
+  7. The kitchen ___ (renovate) at the moment — sorry for the mess.
+     ANS: is being renovated   OPTS: is being renovated / is renovated / was being renovated
+     WHY: At the moment cues the present continuous passive: is + being + past participle.
+  8. The letter ___ (write) by the time you get home.
+     ANS: will have been written   OPTS: will have been written / will have written / will be written
+     WHY: By the time + a future event cues the future perfect passive: will + have + been + past participle.
+  9. The proposal ___ (already/review) by the committee.
+     ANS: has already been reviewed   OPTS: has already been reviewed / has already reviewed / was already been reviewed
+     WHY: Already with present relevance cues the present perfect passive: has + been + past participle.
+  10. The patients ___ (examine) one by one right now.
+     ANS: are being examined   OPTS: are being examined / are examined / were being examined
+     WHY: Right now with a plural subject cues the present continuous passive: are + being + past participle.
+
+##### perception-verbs-object-infinitive (B2)
+ -- Ex1: Complete Action or In Progress?
+  1. I saw him ___ (cross) the street and reach the other side safely.
+     ANS: cross   OPTS: cross / crossing / to cross
+     WHY: The completion marker 'and reach the other side safely' shows the whole action was witnessed from start to finish — bare infinitive.
+  2. I saw him ___ (cross) the street, but I looked away before he got to the other side.
+     ANS: crossing   OPTS: crossing / cross / to cross
+     WHY: 'Looked away before he got to the other side' shows only part of the action was seen — -ing.
+  3. We watched the plane ___ (take) off and climb steadily into the sky.
+     ANS: take   OPTS: take / taking / to take
+     WHY: 'Climb steadily into the sky' shows the whole takeoff was watched from start to finish — bare infinitive.
+  4. We watched the plane ___ (take) off, but a truck blocked our view before it left the ground.
+     ANS: taking   OPTS: taking / take / to take
+     WHY: The view was blocked partway through, so only part of the action was seen — -ing.
+  5. I heard her ___ (sing) the whole song from start to finish.
+     ANS: sing   OPTS: sing / singing / to sing
+     WHY: 'The whole song from start to finish' is an explicit completion marker — bare infinitive.
+  6. I heard her ___ (sing) as I walked past the open window.
+     ANS: singing   OPTS: singing / sing / to sing
+     WHY: 'As I walked past' shows a brief, partial encounter with an ongoing action — -ing.
+  7. I felt the ground ___ (shake) and then everything went completely still.
+     ANS: shake   OPTS: shake / shaking / to shake
+     WHY: 'And then everything went completely still' marks a clear endpoint — bare infinitive.
+  8. I felt the ground ___ (shake) beneath me as the tremor continued.
+     ANS: shaking   OPTS: shaking / shake / to shake
+     WHY: 'As the tremor continued' shows the action was still ongoing, not finished — -ing.
+  9. She noticed the thief ___ (break) into the car, but she didn't see how it started.
+     ANS: breaking   OPTS: breaking / break / to break
+     WHY: 'Didn't see how it started' shows she only caught part of the action — -ing.
+  10. She noticed the thief ___ (break) into the car from the very first attempt until he drove off.
+     ANS: break   OPTS: break / breaking / to break
+     WHY: 'From the very first attempt until he drove off' marks the whole action, start to finish — bare infinitive.
+ -- Ex2: More Practice with Perception Verbs
+  1. I listened to him ___ (play) the entire piece, from the opening note to the last chord.
+     ANS: play   OPTS: play / playing / to play
+     WHY: 'From the opening note to the last chord' is a completion marker — bare infinitive after listen to.
+  2. I listened to him ___ (play) the piano when the phone rang and I had to look away.
+     ANS: playing   OPTS: playing / play / to play
+     WHY: 'When the phone rang and I had to look away' shows an interruption mid-action — -ing.
+  3. They watched the sun ___ (set) completely, until it disappeared below the horizon.
+     ANS: set   OPTS: set / setting / to set
+     WHY: 'Until it disappeared below the horizon' marks the complete action — bare infinitive.
+  4. They watched the sun ___ (set) just as they arrived at the beach.
+     ANS: setting   OPTS: setting / set / to set
+     WHY: 'Just as they arrived' shows they caught the sunset already in progress — -ing.
+  5. I saw him ___ (cross) the street safely, from the moment he stepped off the curb to the moment he reached the pavement.
+     ANS: cross   OPTS: cross / to cross / crossing
+     WHY: Perception verbs take a bare infinitive after an object, not a to-infinitive, and the full path 'from the moment he stepped off the curb to the moment he reached the pavement' confirms the whole action was seen.
+  6. He heard the door ___ (open) slowly and creak all the way until it hit the wall.
+     ANS: open   OPTS: open / opening / to open
+     WHY: 'Creak all the way until it hit the wall' is a completion marker showing the whole action — bare infinitive.
+  7. He heard the door ___ (open) just as he was falling asleep, and drifted off again before anything else happened.
+     ANS: opening   OPTS: opening / open / to open
+     WHY: 'Just as he was falling asleep' and drifting off again shows only a brief, partial perception — -ing.
+  8. I noticed her ___ (walk) into the room and sit down at her desk.
+     ANS: walk   OPTS: walk / walking / to walk
+     WHY: 'And sit down at her desk' shows the complete entrance was witnessed from start to finish — bare infinitive.
+  9. I noticed her ___ (walk) toward the door, but I turned back to my screen before she reached it.
+     ANS: walking   OPTS: walking / walk / to walk
+     WHY: 'Before she reached it' shows the action was left unfinished from the observer's point of view — -ing.
+  10. We heard the alarm ___ (ring) continuously in the background as we worked, never once stopping to check what it meant.
+     ANS: ringing   OPTS: ringing / ring / to ring
+     WHY: 'Continuously ... as we worked' describes ongoing background action with no stated endpoint — -ing.
+
+##### personal-possessive-pronouns (A1)
+ -- Ex1: Subject, Object & Possessive
+  1. ___ (she) called me yesterday.
+     ANS: She   OPTS: She / Her / Hers
+     WHY: Subject pronoun: it performs the verb's action.
+  2. I gave the book to ___ (he).
+     ANS: him   OPTS: him / he / his
+     WHY: Object pronoun after a preposition (to).
+  3. This is ___ (I) car.
+     ANS: my   OPTS: my / mine / me
+     WHY: Possessive determiner before a noun (car).
+  4. This car is ___ (I).
+     ANS: mine   OPTS: mine / my / me
+     WHY: Possessive pronoun standing alone, no noun after it.
+  5. The dog wagged ___ (it) tail.
+     ANS: its   OPTS: its / it's / it
+     WHY: Possessive its (no apostrophe) — it's means it is/it has.
+  6. Can you help ___ (we) with this?
+     ANS: us   OPTS: us / we / our
+     WHY: Object pronoun receiving the action (help).
+  7. Is this bag ___ (you)?
+     ANS: yours   OPTS: yours / your / you
+     WHY: Possessive pronoun standing alone — no noun follows.
+  8. ___ (they) house is near the beach.
+     ANS: Their   OPTS: Their / Theirs / Them
+     WHY: Possessive determiner before a noun (house).
+  9. Between you and ___ (I), I think she's right.
+     ANS: me   OPTS: me / I / myself
+     WHY: Object pronoun after a preposition (between) — never I.
+  10. That's not my umbrella — it's ___ (she).
+     ANS: hers   OPTS: hers / her / she's
+     WHY: Possessive pronoun standing alone, no noun after it.
+ -- Ex2: Mixed Practice
+  1. ___ (they) are my best friends.
+     ANS: They   OPTS: They / Them / Their
+     WHY: Subject pronoun: it performs the verb's action (are).
+  2. Please give the message to ___ (I).
+     ANS: me   OPTS: me / I / my
+     WHY: Object pronoun after a preposition (to).
+  3. Is this pen ___ (you)?
+     ANS: yours   OPTS: yours / your / you
+     WHY: Possessive pronoun standing alone — no noun follows.
+  4. ___ (we) are going to the cinema tonight.
+     ANS: We   OPTS: We / Us / Our
+     WHY: Subject pronoun: it performs the verb's action (are going).
+  5. The children lost ___ (they) toys at the park.
+     ANS: their   OPTS: their / theirs / them
+     WHY: Possessive determiner before a noun (toys).
+  6. Can I borrow ___ (you) car this weekend?
+     ANS: your   OPTS: your / yours / you
+     WHY: Possessive determiner before a noun (car).
+  7. She invited ___ (I) to her party.
+     ANS: me   OPTS: me / I / my
+     WHY: Object pronoun receiving the action (invited).
+  8. This isn't our house — ___ is next door.
+     ANS: ours   OPTS: ours / our / us
+     WHY: Possessive pronoun standing alone, no noun after it.
+  9. ___ (he) is my brother.
+     ANS: He   OPTS: He / Him / His
+     WHY: Subject pronoun: it performs the verb's action (is).
+  10. The dog buried ___ (it) bone in the garden.
+     ANS: its   OPTS: its / it's / it
+     WHY: Possessive its (no apostrophe) before a noun (bone) — it's means it is/it has.
+
+##### question-tags (B1)
+ -- Ex1: Building the Tag
+  1. You're coming to the party, ___?
+     ANS: aren't you   OPTS: aren't you / don't you / isn't it
+     WHY: Positive statement → negative tag, matching the auxiliary are.
+  2. She doesn't like spicy food, ___?
+     ANS: does she   OPTS: does she / doesn't she / is she
+     WHY: Negative statement → positive tag, matching the auxiliary does.
+  3. We've met before, ___?
+     ANS: haven't we   OPTS: haven't we / don't we / aren't we
+     WHY: Positive statement with have → negative tag haven't we.
+  4. He can drive, ___?
+     ANS: can't he   OPTS: can't he / does he / doesn't he
+     WHY: The tag reuses the statement's own modal (can), not do/does.
+  5. They aren't ready yet, ___?
+     ANS: are they   OPTS: are they / aren't they / don't they
+     WHY: Negative statement → positive tag, matching the auxiliary are.
+  6. You didn't call her, ___?
+     ANS: did you   OPTS: did you / didn't you / do you
+     WHY: Negative statement with didn't → positive tag did you.
+  7. She's a doctor, ___?
+     ANS: isn't she   OPTS: isn't she / doesn't she / is she
+     WHY: Positive statement with be → negative tag isn't she.
+  8. I'm late, ___?
+     ANS: aren't I   OPTS: aren't I / amn't I / am I
+     WHY: I am has the irregular tag aren't I, not amn't I.
+  9. He won't be there, ___?
+     ANS: will he   OPTS: will he / won't he / does he
+     WHY: Negative statement with won't → positive tag will he.
+  10. They live in Paris, ___?
+     ANS: don't they   OPTS: don't they / doesn't they / aren't they
+     WHY: No auxiliary in the statement (plain present simple), so the tag borrows don't.
+ -- Ex2: Mixed Practice
+  1. You haven't seen my keys, ___?
+     ANS: have you   OPTS: have you / haven't you / don't you
+     WHY: Negative statement → positive tag, matching the auxiliary have.
+  2. She's your sister, ___?
+     ANS: isn't she   OPTS: isn't she / doesn't she / hasn't she
+     WHY: Positive statement with be → negative tag isn't she.
+  3. He's finished his homework, ___?
+     ANS: hasn't he   OPTS: hasn't he / doesn't he / isn't he
+     WHY: The tag reuses the statement's own auxiliary (has), not does.
+  4. She wasn't at the meeting, ___?
+     ANS: was she   OPTS: was she / wasn't she / is she
+     WHY: Negative statement → positive tag, matching the past tense of be.
+  5. You can swim, ___?
+     ANS: can't you   OPTS: can't you / do you / don't you
+     WHY: The tag reuses the statement's own modal (can), not do.
+  6. They didn't win the match, ___?
+     ANS: did they   OPTS: did they / didn't they / do they
+     WHY: Negative statement with didn't → positive tag did they.
+  7. We should leave now, ___?
+     ANS: shouldn't we   OPTS: shouldn't we / should we / do we
+     WHY: The tag reuses the statement's own modal (should), not do.
+  8. He doesn't smoke, ___?
+     ANS: does he   OPTS: does he / doesn't he / is he
+     WHY: Negative statement → positive tag, matching the auxiliary does.
+  9. This isn't your first time, ___?
+     ANS: is it   OPTS: is it / isn't it / does it
+     WHY: Negative statement → positive tag, matching the auxiliary is.
+  10. You'll help me, ___?
+     ANS: won't you   OPTS: won't you / will you / don't you
+     WHY: Positive statement with will → negative tag won't you.
+
+##### result-connectors (B2)
+ -- Ex1: Therefore, Consequently & As a Result
+  1. The evidence was inconclusive. ___, the case was dismissed.
+     ANS: Therefore   OPTS: Therefore / So / As a result of
+     WHY: Therefore starts a new sentence after a full stop and takes a comma right after it — so only appears mid-sentence after a comma, and as a result of needs a noun, not a clause.
+  2. It rained, ___ we stayed home.
+     ANS: so   OPTS: so / therefore / consequently
+     WHY: so joins two clauses in one sentence with just a comma before it — therefore/consequently need a full stop or semicolon before them, not just a comma.
+  3. The flight was delayed by six hours; ___, many passengers missed their connections.
+     ANS: consequently   OPTS: consequently / so / as a result of
+     WHY: consequently follows a semicolon and takes its own comma — so can't follow a semicolon like this, and as a result of would need a noun after it, not a full clause.
+  4. ___ the delay, we missed our connection.
+     ANS: As a result of   OPTS: As a result of / As a result / Therefore
+     WHY: As a result of is a preposition followed directly by a noun (the delay) — As a result and Therefore both need a full clause after their comma, not a bare noun phrase before it like this.
+  5. The company cut costs. ___, profits improved.
+     ANS: As a result   OPTS: As a result / As a result of / So
+     WHY: As a result (no of) is a connector starting a new sentence, just like Therefore — As a result of needs a noun/gerund directly after it, and So can't start a new sentence like this.
+  6. It rained; ___, we stayed home.
+     ANS: therefore   OPTS: therefore / so / as a result of
+     WHY: therefore fits correctly after a semicolon — so can't follow a semicolon like this, and as a result of would need a noun after it, not a full clause.
+  7. ___ cutting costs, profits improved.
+     ANS: As a result of   OPTS: As a result of / As a result / Therefore
+     WHY: As a result of is followed directly by a gerund (cutting costs) — As a result and Therefore both need a comma and then a full clause, not a gerund phrase like this.
+  8. The report found no evidence of fraud; ___, the investigation was closed.
+     ANS: thus   OPTS: thus / so / as a result of
+     WHY: thus follows a semicolon and takes its own comma, introducing a summarizing conclusion — so can't follow a semicolon like this, and as a result of needs a noun, not a clause.
+  9. She studied all night. ___, she passed the exam easily.
+     ANS: Consequently   OPTS: Consequently / As a result of / So
+     WHY: Consequently starts a new sentence after a full stop and takes a comma after it — As a result of needs a noun/gerund directly after it, and So can't start a new sentence like this.
+  10. It was raining, ___ we stayed home.
+     ANS: so   OPTS: so / therefore / hence
+     WHY: so is the only one of these that can follow a simple comma mid-sentence — therefore and hence both need a full stop or semicolon before them.
+ -- Ex2: Punctuation & Preposition vs Connector
+  1. It rained. ___, we stayed home.
+     ANS: Therefore   OPTS: Therefore / As a result of / So
+     WHY: Therefore correctly starts a new sentence after a full stop and takes a comma after it — As a result of needs a noun/gerund, not a full clause, and So can't start a new sentence like this.
+  2. The bridge was closed; ___, traffic was diverted.
+     ANS: as a result   OPTS: as a result / as a result of / so
+     WHY: as a result (no of) follows a semicolon and takes a comma after it, just like therefore — as a result of would need a noun directly after it, not a comma and clause, and so can't follow a semicolon like this.
+  3. ___ the storm, the flight was cancelled.
+     ANS: As a result of   OPTS: As a result of / As a result / Consequently
+     WHY: As a result of is a preposition taking a noun (the storm) directly — As a result and Consequently both need a comma and then a full clause, not a noun phrase before the comma like this.
+  4. He was late, ___ he missed the meeting.
+     ANS: so   OPTS: so / therefore / consequently
+     WHY: A single comma joining two full clauses only works with so — therefore and consequently would create a comma splice here.
+  5. He was late; ___, he missed the meeting.
+     ANS: therefore   OPTS: therefore / so / as a result of
+     WHY: therefore correctly follows a semicolon and takes its own comma — so doesn't normally follow a semicolon this way, and as a result of would need a noun, not a clause.
+  6. ___ losing the contract, the firm laid off staff.
+     ANS: As a result of   OPTS: As a result of / As a result / Hence
+     WHY: As a result of is followed directly by a gerund (losing the contract) — As a result and Hence both need a comma and then a full clause, not a gerund phrase before the comma like this.
+  7. Sales fell sharply. ___, the store closed early.
+     ANS: Consequently   OPTS: Consequently / As a result of / So
+     WHY: Consequently correctly starts a new sentence after a full stop and takes a comma after it — As a result of needs a noun/gerund, not a full clause, and So can't start a new sentence like this.
+  8. The measurements were wrong, ___ we had to redo them.
+     ANS: so   OPTS: so / hence / consequently
+     WHY: A comma joining two full clauses mid-sentence only works with so — hence and consequently would each create a comma splice here.
+  9. The measurements were wrong. ___, we had to redo them.
+     ANS: Hence   OPTS: Hence / So / As a result of
+     WHY: Hence correctly starts a new sentence after a full stop and takes a comma after it — So can't start a new sentence like this, and As a result of needs a noun/gerund, not a full clause.
+  10. ___ heavy demand, tickets sold out within minutes.
+     ANS: As a result of   OPTS: As a result of / As a result / Therefore
+     WHY: As a result of is a preposition taking a noun (heavy demand) directly — As a result and Therefore both need a comma and then a full clause, not a bare noun phrase before it like this.
+
+##### stative-verbs (A2)
+ -- Ex1: Recognizing Stative Verbs
+  1. I ___ (know) the answer to that question.
+     ANS: know   OPTS: know / am knowing / knowed
+     WHY: know is a stative verb (cognition) — it never takes the continuous form.
+  2. She ___ (not/believe) in coincidences.
+     ANS: doesn't believe   OPTS: doesn't believe / isn't believing / don't believe
+     WHY: believe is stative — use the simple present with doesn't, not the continuous.
+  3. This cake ___ (taste) amazing.
+     ANS: tastes   OPTS: tastes / is tasting / taste
+     WHY: taste describing a quality of the cake is stative, not an action someone is performing.
+  4. That old bike ___ (belong) to my neighbour.
+     ANS: belongs   OPTS: belongs / is belonging / belong
+     WHY: belong is a possession verb — always simple, never continuous.
+  5. I ___ (not/understand) this sentence at all.
+     ANS: don't understand   OPTS: don't understand / am not understanding / doesn't understand
+     WHY: understand is stative (cognition) — simple present, not continuous.
+  6. He ___ (want) a new phone for his birthday.
+     ANS: wants   OPTS: wants / is wanting / want
+     WHY: want is a stative verb (preference) — third person singular takes -s, not -ing.
+  7. This suitcase ___ (weigh) more than twenty kilos.
+     ANS: weighs   OPTS: weighs / is weighing / weigh
+     WHY: weigh describing a fixed property of the suitcase is stative.
+  8. The film ___ (seem) really boring so far.
+     ANS: seems   OPTS: seems / is seeming / seem
+     WHY: seem is stative — it describes an impression, not an action.
+  9. ___ this box (contain) the old photos?
+     ANS: Does   OPTS: Does / Is / Did
+     WHY: contain is stative, so questions use do/does, not the continuous be + -ing.
+  10. I ___ (prefer) tea to coffee.
+     ANS: prefer   OPTS: prefer / am preferring / prefers
+     WHY: prefer is a stative verb (preference) — I takes the base form, not -ing.
+ -- Ex2: Have, Think & See: Stative or Dynamic?
+  1. I ___ (have) two brothers and a sister.
+     ANS: have   OPTS: have / am having / has
+     WHY: have meaning 'own/possess' (family relationships) is stative — simple form.
+  2. We ___ (have) dinner right now — can I call you back?
+     ANS: are having   OPTS: are having / have / has
+     WHY: 'right now' plus a meal noun signals the dynamic meaning of have (= eat), so the continuous is correct.
+  3. They ___ (have) a big house near the beach.
+     ANS: have   OPTS: have / are having / has
+     WHY: have meaning possession (a house they own) is stative — simple form.
+  4. She ___ (think) this restaurant is excellent.
+     ANS: thinks   OPTS: thinks / is thinking / think
+     WHY: think followed by an opinion clause ('this restaurant is excellent') is stative — simple form.
+  5. I ___ (think) about buying a new car.
+     ANS: am thinking   OPTS: am thinking / think / thinks
+     WHY: think about + gerund signals the dynamic meaning 'consider', so the continuous is correct.
+  6. He ___ (think) that the plan will work.
+     ANS: thinks   OPTS: thinks / is thinking / think
+     WHY: think introducing a belief ('that the plan will work') is stative — simple form.
+  7. I ___ (see) the mountains from my window.
+     ANS: see   OPTS: see / am seeing / sees
+     WHY: see meaning visual perception is stative — simple form.
+  8. ___ you (see) anyone at the moment?
+     ANS: Are   OPTS: Are / Do / Did
+     WHY: 'seeing anyone' plus 'at the moment' signals the dynamic meaning 'dating', so the continuous (Are you seeing) is correct.
+  9. They ___ (have) a barbecue in the garden right now.
+     ANS: are having   OPTS: are having / have / has
+     WHY: 'right now' plus an event noun signals the dynamic meaning of have (= hosting/doing), so the continuous is correct.
+  10. I ___ (see) my dentist twice a year for a check-up.
+     ANS: see   OPTS: see / am seeing / sees
+     WHY: 'twice a year' marks a regular habit, so the simple present is correct even though see here means 'consult'.
+
+##### subject-verb-agreement (B1)
+ -- Ex1: Compound Subjects: And, Or, Nor
+  1. The singer and the dancer ___ (be) ready for the show.
+     ANS: are   OPTS: are / is / be
+     WHY: and joins two subjects into a compound subject, which takes a plural verb.
+  2. Neither the teacher nor the students ___ (be) ready.
+     ANS: are   OPTS: are / is / be
+     WHY: The verb agrees with the nearer subject, students (plural).
+  3. Neither the students nor the teacher ___ (be) ready.
+     ANS: is   OPTS: is / are / be
+     WHY: The verb agrees with the nearer subject, teacher (singular).
+  4. Either you or he ___ (be) responsible for this.
+     ANS: is   OPTS: is / are / be
+     WHY: The verb agrees with the nearer subject, he (singular).
+  5. Either he or you ___ (be) responsible for this.
+     ANS: are   OPTS: are / is / be
+     WHY: The verb agrees with the nearer subject, you, which always takes are.
+  6. Neither the manager nor the employees ___ (be) satisfied with the decision.
+     ANS: are   OPTS: are / is / be
+     WHY: The verb agrees with the nearer subject, employees (plural).
+  7. Neither the employees nor the manager ___ (be) satisfied with the decision.
+     ANS: is   OPTS: is / are / be
+     WHY: The verb agrees with the nearer subject, manager (singular).
+  8. The doctor and the nurse ___ (arrive) at nine every morning.
+     ANS: arrive   OPTS: arrive / arrives / arriving
+     WHY: and joins two subjects into a compound subject, which takes a plural verb (no -s).
+  9. Either my brother or my parents ___ (be) staying with us this weekend.
+     ANS: are   OPTS: are / is / be
+     WHY: The verb agrees with the nearer subject, parents (plural).
+  10. Neither the players nor the coach ___ (want) to cancel the match.
+     ANS: wants   OPTS: wants / want / wanting
+     WHY: The verb agrees with the nearer subject, coach (singular).
+ -- Ex2: A Number Of, The Number Of & Indefinite Pronouns
+  1. A number of people ___ (be) waiting outside.
+     ANS: are   OPTS: are / is / be
+     WHY: a number of behaves like many and takes a plural verb.
+  2. The number of unemployed people ___ (be) rising.
+     ANS: is   OPTS: is / are / be
+     WHY: the number of refers to the count itself, a single quantity, and takes a singular verb.
+  3. A number of students ___ (complain) about the new schedule.
+     ANS: complain   OPTS: complain / complains / complaining
+     WHY: a number of + plural noun takes a plural verb (no -s).
+  4. The number of complaints ___ (increase) every year.
+     ANS: increases   OPTS: increases / increase / increasing
+     WHY: the number of + plural noun takes a singular verb (-s ending).
+  5. Everybody ___ (be) here already.
+     ANS: is   OPTS: is / are / be
+     WHY: Indefinite pronouns like everybody always take a singular verb.
+  6. Nobody ___ (know) the answer to that question.
+     ANS: knows   OPTS: knows / know / knowing
+     WHY: Indefinite pronouns like nobody always take a singular verb.
+  7. Everything ___ (seem) fine so far.
+     ANS: seems   OPTS: seems / seem / seeming
+     WHY: Indefinite pronouns like everything always take a singular verb.
+  8. Somebody ___ (be) knocking at the door.
+     ANS: is   OPTS: is / are / be
+     WHY: Indefinite pronouns like somebody always take a singular verb.
+  9. A number of the workers ___ (plan) to go on strike.
+     ANS: plan   OPTS: plan / plans / planning
+     WHY: a number of + plural noun takes a plural verb (no -s).
+  10. The number of visitors to the museum ___ (fall) sharply last year.
+     ANS: fell   OPTS: fell / fall / falls
+     WHY: the number of + plural noun takes a singular verb, here the singular past tense fell.
+
+##### telling-time-dates-numbers (A2)
+ -- Ex1: Telling Time
+  1. It's 3:15. In words: It's ___ three.
+     ANS: quarter past   OPTS: quarter past / a quarter past / quarter to
+     WHY: 15 minutes past the hour is quarter past (never "a quarter past").
+  2. It's 3:30. In words: It's ___ three.
+     ANS: half past   OPTS: half past / a half past / half to
+     WHY: :30 is always half past (never "a half past").
+  3. It's 3:45. In words: It's ___ four.
+     ANS: quarter to   OPTS: quarter to / a quarter to / quarter past
+     WHY: 45 minutes is 15 minutes before the next hour, so quarter to four.
+  4. It's 3:40. In words: It's ___ four.
+     ANS: twenty to   OPTS: twenty to / twenty past / forty past
+     WHY: 40 minutes past 3 is 20 minutes before 4, so twenty to four, not forty past three.
+  5. It's 3:10. In words: It's ___ three.
+     ANS: ten past   OPTS: ten past / ten to / a ten past
+     WHY: Minutes 1-30 use past: ten past three.
+  6. It's 3:00 exactly. In words: It's three ___.
+     ANS: o'clock   OPTS: o'clock / o'clock past / fifteen o'clock
+     WHY: o'clock is only used for exact hours, with no minutes.
+  7. It's 3:20. In words: It's ___ three.
+     ANS: twenty past   OPTS: twenty past / twenty to / a twenty past
+     WHY: 20 is in the 1-30 range, so twenty past three.
+  8. It's 3:50. In words: It's ___ four.
+     ANS: ten to   OPTS: ten to / ten past / fifty past
+     WHY: 50 minutes past 3 is 10 minutes before 4: ten to four.
+  9. It's 3:30. The correct way to say it is: It's ___.
+     ANS: half past three   OPTS: half past three / a half past three / half three past
+     WHY: half past needs no "a": half past three.
+  10. It's 3:45. The correct way to say it is: It's ___.
+     ANS: quarter to four   OPTS: quarter to four / a quarter to four / quarter past four
+     WHY: 45 minutes means quarter to the next hour: quarter to four.
+ -- Ex2: Dates & Ordinal Numbers
+  1. 3 May, spoken in British style: I was born ___.
+     ANS: on the third of May   OPTS: on the third of May / on May the 3 / in 3 May
+     WHY: British spoken dates use on the + ordinal + of + month.
+  2. May 3, spoken in American style: My birthday is ___.
+     ANS: May third   OPTS: May third / the third of May / May the 3
+     WHY: American spoken dates use month + ordinal, with no "the ... of".
+  3. 1990, spoken as a year: She was born in ___.
+     ANS: nineteen ninety   OPTS: nineteen ninety / ninety nineteen / nineteen-nine-zero
+     WHY: Years are split into two two-digit pairs, in order: 1990 = nineteen ninety, not the reversed ninety nineteen.
+  4. 2005, spoken as a year: He was born in ___.
+     ANS: two thousand and five   OPTS: two thousand and five / twenty zero five / two thousand-five hundred
+     WHY: Years just after 2000 are usually said as one number: two thousand (and) five.
+  5. the 1990s, spoken as a decade: She grew up in ___.
+     ANS: the nineteen-nineties   OPTS: the nineteen-nineties / the nineteen-ninety / the nineteens-ninety
+     WHY: Decades add -s to the split year: the 1990s = the nineteen-nineties.
+  6. four, as an ordinal: We live on the ___ floor.
+     ANS: fourth   OPTS: fourth / fourteenth / four
+     WHY: Regular ordinal: just add -th to the cardinal, four → fourth.
+  7. twenty-one, as an ordinal: He came ___ in the race.
+     ANS: twenty-first   OPTS: twenty-first / twenty-oneth / twenty-firsth
+     WHY: In compound numbers, only the last word takes the irregular ordinal ending: twenty-first.
+  8. I have ___ brothers. (two)
+     ANS: two   OPTS: two / second / twoth
+     WHY: Counting how many needs a cardinal number: two brothers.
+  9. This is the ___ time I've called you. (three)
+     ANS: third   OPTS: third / three / threeth
+     WHY: Marking position or order (which time) needs an ordinal: the third time.
+  10. 12 June, spoken in British style: The meeting is ___.
+     ANS: on the twelfth of June   OPTS: on the twelfth of June / on June the 12 / in 12 June
+     WHY: British spoken dates use on the + ordinal + of + month, never "on June the 12" or "in 12 June".
+
+##### two-object-verbs (B1)
+ -- Ex1: To or For? Choosing the Right Preposition
+  1. He sent the documents ___ his lawyer immediately.
+     ANS: to   OPTS: to / for / with
+     WHY: send is a to-verb (transfer) — the documents go to the lawyer.
+  2. She bought a new bike ___ her son for his birthday.
+     ANS: for   OPTS: for / to / at
+     WHY: buy is a for-verb (benefit), not transfer — it needs for.
+  3. He cooked a special meal ___ his parents.
+     ANS: for   OPTS: for / to / with
+     WHY: cook is a for-verb — the meal is made for their benefit.
+  4. The teacher showed the results ___ the whole class.
+     ANS: to   OPTS: to / for / from
+     WHY: show is a to-verb — the results are shown to the class.
+  5. I made a birthday cake ___ my sister.
+     ANS: for   OPTS: for / to / with
+     WHY: make is a for-verb, not a to-verb.
+  6. She lent her umbrella ___ a stranger at the bus stop.
+     ANS: to   OPTS: to / for / with
+     WHY: lend is a to-verb — the umbrella is handed over to the stranger.
+  7. He wrote a long letter ___ his grandmother every month.
+     ANS: to   OPTS: to / for / of
+     WHY: write is a to-verb — the letter is sent to her.
+  8. They found a reliable babysitter ___ their neighbors.
+     ANS: for   OPTS: for / to / with
+     WHY: find is a for-verb — the action benefits the neighbors.
+  9. The company promised a full refund ___ every customer.
+     ANS: to   OPTS: to / for / of
+     WHY: promise is a to-verb — something is promised to the customer.
+  10. He got some fresh coffee ___ his colleagues before the meeting.
+     ANS: for   OPTS: for / to / at
+     WHY: get is a for-verb, not a to-verb.
+ -- Ex2: Pronouns: It and Them
+  1. Can you pass ___? I can't reach it from here.
+     ANS: it to me   OPTS: it to me / me it / to me it
+     WHY: the direct object is a pronoun (it), so use Pattern 2 with to instead of Pattern 1.
+  2. She showed ___ right before the ceremony.
+     ANS: them to us   OPTS: them to us / us them / to us them
+     WHY: them is a pronoun — Pattern 2 with to is the natural choice.
+  3. He sent ___ the moment he got home.
+     ANS: it to her   OPTS: it to her / her it / to her it
+     WHY: with a pronoun direct object (it), Pattern 2 with to sounds natural, not Pattern 1.
+  4. Could you pass ___ across the table?
+     ANS: it to him   OPTS: it to him / him it / to him it
+     WHY: it is a pronoun, so the natural order is Pattern 2 with to.
+  5. This book was fantastic — I'm going to buy ___ for my brother too.
+     ANS: it for him   OPTS: it for him / him it / for him it
+     WHY: buy is a for-verb, and with a pronoun direct object (it) the natural order is Pattern 2: buy it for him.
+  6. The kids wanted a cake, so I made ___ myself.
+     ANS: it for them   OPTS: it for them / them it / for them it
+     WHY: make is a for-verb, and with a pronoun direct object the natural order is Pattern 2: made it for them.
+  7. He needed the notes urgently, so I lent ___ before the exam.
+     ANS: them to him   OPTS: them to him / him them / to him them
+     WHY: them is a pronoun, so Pattern 2 with to is the natural choice, not Pattern 1.
+  8. The children were curious, so the guide read ___ during the tour.
+     ANS: it to them   OPTS: it to them / them it / to them it
+     WHY: it is a pronoun — Pattern 2 with to sounds natural here.
+  9. My boss needed the figures, so I brought ___ personally.
+     ANS: them to him   OPTS: them to him / him them / to him them
+     WHY: with a pronoun direct object (them), Pattern 2 with to is the natural choice.
+  10. My manager was waiting for the email, so I wrote ___ straightaway.
+     ANS: it to her   OPTS: it to her / her it / to her it
+     WHY: it is a pronoun, so Pattern 2 with to is preferred over Pattern 1.
+
+##### active-passive-style-choice (B2)
+ -- Ex1: Context Clues: Choosing Active or Passive
+  1. Lab report: ___ to 100°C for exactly ten minutes.
+     ANS: The mixture was heated   OPTS: The mixture was heated / I heated the mixture / The mixture was heat
+     WHY: Lab reports describe procedures impersonally, so the passive The mixture was heated fits; naming I as the researcher breaks that genre convention, and was heat is missing the past participle (heated).
+  2. Casual email to a friend, explaining what you personally organised: ___ the tickets yesterday, so we're all set for Saturday!
+     ANS: I booked   OPTS: I booked / The tickets were booked / Was booked the tickets
+     WHY: The context explicitly says you are explaining what you personally organised, so naming yourself (I booked) is required; the passive omits you, and was booked the tickets is not a grammatical clause.
+  3. News headline: ___ this morning; police have not yet identified any suspects.
+     ANS: A downtown bank was robbed   OPTS: A downtown bank was robbed / Two masked men robbed a downtown bank / A downtown bank robbed
+     WHY: The headline explicitly states that police have not identified any suspects, so naming two masked men contradicts that; A downtown bank robbed is incomplete, since a bank cannot itself commit a robbery.
+  4. News report: ___ the stolen vehicle three miles from the scene; the police spokesperson explicitly credited Officers Smith and Diaz for the recovery.
+     ANS: Officers Smith and Diaz recovered   OPTS: Officers Smith and Diaz recovered / The stolen vehicle was recovered / Recovered the stolen vehicle
+     WHY: The sentence explicitly says the spokesperson credited these officers by name, so the passive that omits them contradicts that; recovered the stolen vehicle has no subject.
+  5. Annual report, which explicitly blames the finance team for a $2 million overspend: ___ the budget for three consecutive quarters.
+     ANS: The finance team exceeded   OPTS: The finance team exceeded / The budget was exceeded / Exceeded the budget
+     WHY: The context explicitly attributes the overspend to the finance team, so leaving them out with the passive contradicts that; exceeded the budget has no subject.
+  6. User manual: ___ automatically once the door is closed, so you don't need to press anything.
+     ANS: The wash cycle is started   OPTS: The wash cycle is started / You start the wash cycle / The wash cycle started
+     WHY: The manual explicitly says you don't need to press anything, ruling out naming you as the agent; The wash cycle started is in the past tense, which clashes with the present tense of once the door is closed.
+  7. Politician's statement avoiding naming anyone responsible: ___ during the handling of the crisis, and lessons will be learned.
+     ANS: Mistakes were made   OPTS: Mistakes were made / We made mistakes / Mistakes was made
+     WHY: The context explicitly requires avoiding naming anyone responsible, so We made mistakes contradicts that; Mistakes was made is a subject-verb agreement error, since mistakes is plural.
+  8. Continue the paragraph, keeping the same subject as the topic: The proposal was submitted in March. ___ two months later, after several rounds of review.
+     ANS: It was approved   OPTS: It was approved / The board approved it / It approve
+     WHY: The instruction explicitly says to keep the same subject as the topic (it), so switching to The board breaks that continuity; It approve is not a correct verb form.
+  9. Museum plaque, which exists specifically to credit the artist: This portrait ___ in 1887.
+     ANS: was painted by Vincent van Gogh   OPTS: was painted by Vincent van Gogh / was painted / painted Vincent van Gogh
+     WHY: The plaque explicitly exists to credit the artist, so the passive without a by-agent omits that purpose; painted Vincent van Gogh reverses the roles, making the portrait the one doing the painting.
+  10. Ancient artifact: This vase ___ over 2,000 years ago, though its maker has never been identified.
+     ANS: was made   OPTS: was made / A skilled craftsman made / was make
+     WHY: The sentence explicitly says the maker has never been identified, so naming a skilled craftsman contradicts that; was make is missing the correct past participle (made).
+ -- Ex2: Worked Comparisons & Avoiding Overuse
+  1. Report full of passive verbs where readers have lost track of who did what: The data were collected. The results were analysed. Conclusions ___ , clearly identifying the research team's own recommendations.
+     ANS: were then drawn by the research team   OPTS: were then drawn by the research team / were then drawn / drawn by the research team were
+     WHY: The sentence explicitly requires identifying the research team's own recommendations, so leaving them out contradicts that instruction; drawn by the research team were is not correctly ordered.
+  2. Internal memo following the company's active-voice style guide: ___ the deadline to next Friday.
+     ANS: We moved   OPTS: We moved / The deadline was moved / Moved the deadline
+     WHY: The memo explicitly follows an active-voice style guide, so the passive The deadline was moved contradicts that; Moved the deadline has no subject.
+  3. Text message to a friend (not a lab report): ___ the cake for twenty minutes and it's ready!
+     ANS: I baked   OPTS: I baked / The cake was baked / Baked the cake
+     WHY: The sentence explicitly says this is a text message, not a lab report, so the impersonal lab-style passive is out of place; Baked the cake has no subject.
+  4. Scientific abstract, following standard methods-section convention: Blood samples ___ from each participant at baseline and after six weeks.
+     ANS: were collected   OPTS: were collected / We collected / were collect
+     WHY: The abstract explicitly follows standard methods-section convention, which favours the impersonal passive over We collected; were collect is missing the correct past participle (collected).
+  5. Sincere public apology that explicitly names those responsible, rather than sounding evasive: ___ , and the leadership team takes full responsibility.
+     ANS: Our engineers introduced the bug   OPTS: Our engineers introduced the bug / A bug was introduced / Introduced the bug our engineers
+     WHY: The context explicitly requires naming those responsible rather than sounding evasive, so the passive that hides them contradicts that; Introduced the bug our engineers is not correctly ordered.
+  6. Maintaining the same subject across the paragraph for cohesion: The novel was published in 1899. ___ within its first year, and reprinted twice by 1901.
+     ANS: It was praised by critics   OPTS: It was praised by critics / Critics praised it / It praised by critics
+     WHY: The instruction explicitly requires maintaining the same subject (it) for cohesion, so switching to Critics breaks that chain; It praised by critics is missing was.
+  7. Legal contract clause that must explicitly name the responsible party: ___ all necessary repairs within 30 days of notice.
+     ANS: The landlord shall complete   OPTS: The landlord shall complete / All necessary repairs shall be completed / Shall complete all necessary repairs the landlord
+     WHY: The clause explicitly must name the responsible party, so the passive that omits the landlord contradicts that requirement; the third option is not correctly ordered.
+  8. General narrative writing, where the writer is known, relevant, and mentioned nowhere else in the sentence — no reason to hide them: ___ the letter and sealed it before leaving the house.
+     ANS: She wrote   OPTS: She wrote / The letter was written / Wrote the letter she
+     WHY: The context explicitly states there is no reason to hide the known, relevant agent, so the passive is unjustified here; Wrote the letter she is not correctly ordered.
+  9. Original overused-passive paragraph needing one active verb restored for clarity: The venue was booked. The invitations were sent. ___ the catering, so guests will know who to thank.
+     ANS: Maria organised   OPTS: Maria organised / The catering was organised / Organised the catering Maria
+     WHY: The sentence explicitly requires guests to know who to thank, so the passive that hides the organiser contradicts that; Organised the catering Maria is not correctly ordered.
+  10. Style guide instructing writers to prefer the shorter, more direct option whenever both are equally accurate: ___ the proposal on Tuesday.
+     ANS: The committee approved   OPTS: The committee approved / The proposal was approved by the committee / Approved the committee the proposal
+     WHY: The style guide explicitly instructs preferring the shorter, more direct option, and the passive version here is longer with no added meaning; the third option is not correctly ordered.
+
+##### formal-informal-register (B2)
+ -- Ex1: Choosing the Right Register
+  1. In a formal business email, write: We need to ___ the cause of the delay.
+     ANS: discover   OPTS: discover / find out / discovering
+     WHY: a formal business email requires the Latinate discover rather than the phrasal verb find out; discovering is not a finite verb form after need to.
+  2. In a chat with a friend, write: Let's ___ the trip until next weekend.
+     ANS: put off   OPTS: put off / postpone / put off with
+     WHY: a casual chat with a friend calls for the informal phrasal verb put off rather than the formal postpone; put off with is not a correct form of the phrasal verb.
+  3. In an official letter of complaint, write: Please ___ us as soon as possible.
+     ANS: contact   OPTS: contact / get in touch with / get in touched
+     WHY: an official letter of complaint calls for the formal contact rather than the informal get in touch with; get in touched is not a grammatical form.
+  4. In a text to a friend, write: I'll ___ when I land.
+     ANS: get in touch   OPTS: get in touch / contact / get in touched
+     WHY: a text to a friend calls for the informal get in touch, which can stand without an object; contact is formal and normally needs a direct object (contact you), so it does not fit here; get in touched is not a grammatical form.
+  5. In an academic essay, write: The study identifies ___ problems with the current model.
+     ANS: numerous   OPTS: numerous / a lot of / numerously
+     WHY: an academic essay calls for the formal numerous rather than the informal a lot of; numerously is an adverb and cannot modify a noun like problems.
+  6. In a casual conversation, write: There are ___ people waiting outside.
+     ANS: a lot of   OPTS: a lot of / numerous / a lot
+     WHY: a casual conversation calls for the informal a lot of rather than the formal numerous; a lot alone (without of) cannot directly modify the plural noun people in this position.
+  7. In a formal report, write: The programme is designed for ___ aged five to eleven.
+     ANS: children   OPTS: children / kids / childs
+     WHY: a formal report calls for children rather than the informal kids; childs is not the correct plural of child.
+  8. In a message to your little brother, write: The ___ loved the trip.
+     ANS: kids   OPTS: kids / children / kid's
+     WHY: an informal message to a family member calls for kids rather than the formal children; kid's is a possessive form, not a plural.
+  9. In a formal email, write: I am writing to ___ a refund.
+     ANS: request   OPTS: request / ask for / requesting
+     WHY: a formal email calls for request rather than the informal ask for; requesting is not a correct form after the to-infinitive to.
+  10. In a conversation with a friend, write: Can I ___ a refund?
+     ANS: ask for   OPTS: ask for / request / asked for
+     WHY: a conversation with a friend calls for the informal ask for rather than the formal request; asked for is past tense and does not fit after the modal can.
+ -- Ex2: Formal and Informal Requests
+  1. In a formal letter, write: I ___ pleased to accept the position.
+     ANS: am   OPTS: am / 'm / is
+     WHY: a formal letter avoids the contraction 'm and uses the full form am; is does not agree with the subject I.
+  2. In a text to a friend, write: I ___ so excited for the trip!
+     ANS: 'm   OPTS: 'm / am / is
+     WHY: an informal text naturally uses the contraction 'm rather than the full form am; is does not agree with the subject I.
+  3. In an official announcement, write: The meeting ___ not be rescheduled.
+     ANS: will   OPTS: will / won't / wont
+     WHY: an official announcement avoids the contraction won't and uses the full form will not, split here around not; won't already contains not, so it cannot be plugged into the gap without creating a double negative; wont (without an apostrophe) is not a correctly spelled word.
+  4. In a chat with a friend, write: The meeting ___ happen tomorrow after all.
+     ANS: won't   OPTS: won't / will not / wont
+     WHY: an informal chat naturally uses the contraction won't; will not is the fully spelled-out formal form, and wont (without an apostrophe) is misspelled.
+  5. In a formal announcement, write: Staff members should ___ their manager of any absence.
+     ANS: inform   OPTS: inform / tell / informing
+     WHY: a formal announcement calls for inform rather than the informal tell; informing is not a base form and cannot follow should.
+  6. In a note to a colleague you know well, write: Can you ___ Sarah I'll be late?
+     ANS: tell   OPTS: tell / inform / told
+     WHY: an informal note to a colleague you know well calls for tell rather than the formal inform; told is past tense and cannot follow the modal can.
+  7. In a formal invitation, write: Guests should ___ by 7 p.m.
+     ANS: arrive   OPTS: arrive / show up / arriving
+     WHY: a formal invitation calls for arrive rather than the informal show up; arriving is not a base form and cannot follow should.
+  8. In a text to friends, write: What time are you going to ___?
+     ANS: show up   OPTS: show up / arrive / showed up
+     WHY: a text to friends calls for the informal show up rather than the formal arrive; showed up is past tense and cannot follow the infinitive to.
+  9. In an academic essay, write: The results of the experiment ___ carefully recorded.
+     ANS: were   OPTS: were / was / have
+     WHY: the passive were carefully recorded agrees with the plural subject the results; was does not agree with a plural subject, and have alone cannot form the passive without been.
+  10. In a casual conversation, write: Someone ___ my phone in the classroom.
+     ANS: found   OPTS: found / was found / has been found
+     WHY: casual, direct speech uses the active voice found with an explicit agent (someone); was found and has been found are passive forms and cannot correctly take my phone as an object here, and they remove the agent, which fits a more formal register, not this casual context.
+
+##### future-perfect-continuous (B2)
+ -- Ex1: Form & Duration
+  1. By next June, I ___ (work) here for five years.
+     ANS: will have been working   OPTS: will have been working / will work / am working
+     WHY: 'By next June' + a duration still in progress up to that point → future perfect continuous.
+  2. She ___ (not/study) here for a year by September.
+     ANS: won't have been studying   OPTS: won't have been studying / won't study / isn't studying
+     WHY: she → won't have been + verb-ing.
+  3. ___ you have been waiting long by the time the train arrives?
+     ANS: Will   OPTS: Will / Have / Do
+     WHY: questions invert will and the subject: Will you have been waiting?
+  4. By next year, they ___ (live) in Berlin for a decade.
+     ANS: will have been living   OPTS: will have been living / will live / are living
+     WHY: duration continuing up to a future point → future perfect continuous.
+  5. He ___ (not/sleep) for 24 hours by the time he lands.
+     ANS: won't have been sleeping   OPTS: won't have been sleeping / won't sleep / isn't sleeping
+     WHY: he → won't have been + verb-ing.
+  6. By the time we retire, we ___ (pay) into this pension for forty years.
+     ANS: will have been paying   OPTS: will have been paying / will pay / are paying
+     WHY: duration up to a future point → future perfect continuous.
+  7. ___ she have been teaching for twenty years by next term?
+     ANS: Will   OPTS: Will / Has / Does
+     WHY: questions invert will and the subject: Will she have been teaching?
+  8. By midnight, I ___ (drive) for ten straight hours.
+     ANS: will have been driving   OPTS: will have been driving / will drive / am driving
+     WHY: duration up to a future point → future perfect continuous.
+  9. They ___ (not/rehearse) long enough by opening night.
+     ANS: won't have been rehearsing   OPTS: won't have been rehearsing / won't rehearse / aren't rehearsing
+     WHY: they → won't have been + verb-ing.
+  10. How long ___ (you/wait) by the time the doctor calls you in?
+     ANS: will you have been waiting   OPTS: will you have been waiting / will you wait / are you waiting
+     WHY: asking about a duration continuing up to a future point → future perfect continuous.
+ -- Ex2: Future Perfect Continuous vs Future Perfect Simple
+  1. By 6pm, I ___ (finish) the report.
+     ANS: will have finished   OPTS: will have finished / will have been finishing / will finish
+     WHY: finishing the report is a specific completed result, not an ongoing stretch of time → future perfect simple.
+  2. By 6pm, I ___ (work) on the report for three hours.
+     ANS: will have been working   OPTS: will have been working / will have worked / will work
+     WHY: 'for three hours' with no countable result — the emphasis is on the ongoing process → future perfect continuous.
+  3. By the time the plane lands, we ___ (fly) for eleven hours.
+     ANS: will have been flying   OPTS: will have been flying / will have flown / will fly
+     WHY: 'for eleven hours' emphasises the duration of the flight, not a countable result → future perfect continuous.
+  4. By the time the plane lands, we ___ (cross) three time zones.
+     ANS: will have crossed   OPTS: will have crossed / will have been crossing / will cross
+     WHY: 'three time zones' is a specific completed count, not an ongoing stretch → future perfect simple.
+  5. By next year, she ___ (know) him for a decade.
+     ANS: will have known   OPTS: will have known / will have been knowing / will know
+     WHY: know is a stative verb — never continuous, even for duration.
+  6. Her eyes will be red because by midnight she ___ (cry).
+     ANS: will have been crying   OPTS: will have been crying / will have cried / will cry
+     WHY: the ongoing activity, not a single finished event, explains the future visible result.
+  7. By the end of the month, they ___ (build) the new wing of the hospital.
+     ANS: will have built   OPTS: will have built / will have been building / will build
+     WHY: 'the new wing' is a specific completed structure — a result, not a duration → future perfect simple.
+  8. By the end of the month, they ___ (build) non-stop for six weeks.
+     ANS: will have been building   OPTS: will have been building / will have built / will build
+     WHY: 'non-stop for six weeks' stresses the continuous span of work, not a finished object → future perfect continuous.
+  9. By December, we ___ (already/finish) the entire project.
+     ANS: will have already finished   OPTS: will have already finished / will have already been finishing / will already finish
+     WHY: already + a completed whole → future perfect simple, not continuous.
+  10. How long ___ (you/wait) by the time your name is called?
+     ANS: will you have been waiting   OPTS: will you have been waiting / will you have waited / will you wait
+     WHY: asking about a duration in progress up to a future point → future perfect continuous.
+
+##### irregular-plurals-latin-greek (B2)
+ -- Ex1: Forming Latin & Greek Plurals
+  1. The greenhouse display had a dozen spiny ___. (cactus)
+     ANS: cacti   OPTS: cacti / cactuss / cactae
+     WHY: -us → -i: cactus → cacti.
+  2. After the rain, several ___ appeared on the log. (fungus)
+     ANS: fungi   OPTS: fungi / funguss / fungie
+     WHY: -us → -i: fungus → fungi.
+  3. The biologist examined the ___ of ten different cells. (nucleus)
+     ANS: nuclei   OPTS: nuclei / nucleuss / nucleae
+     WHY: -us → -i: nucleus → nuclei.
+  4. The government has faced two major ___ this year. (crisis)
+     ANS: crises   OPTS: crises / crisises / crisies
+     WHY: -is → -es: crisis → crises (the last syllable is pronounced /iːz/, like 'trees').
+  5. The report includes three separate ___ of the data. (analysis)
+     ANS: analyses   OPTS: analyses / analysises / analysies
+     WHY: -is → -es: analysis → analyses.
+  6. Both PhD ___ were published last month. (thesis)
+     ANS: theses   OPTS: theses / thesises / thesies
+     WHY: -is → -es: thesis → theses.
+  7. Astronomers recorded two unusual ___ last night. (phenomenon)
+     ANS: phenomena   OPTS: phenomena / phenomenons / phenomenon
+     WHY: -on → -a: phenomenon → phenomena. 'Phenomenons' exists only for remarkable people, not events like these, and 'phenomenon' alone is singular.
+  8. The judges applied five clear ___ to every entry. (criterion)
+     ANS: criteria   OPTS: criteria / criterions / criterion
+     WHY: -on → -a: criterion → criteria; 'criterions' is not standard English, and 'criterion' is singular.
+  9. The professor updated all three course ___ before term started. (syllabus)
+     ANS: syllabi   OPTS: syllabi / syllabuss / syllabusses
+     WHY: -us → -i: syllabus → syllabi is the classical academic form (syllabuses also exists in everyday English).
+  10. The pond was full of tiny insect ___. (larva)
+     ANS: larvae   OPTS: larvae / larvaes / larvai
+     WHY: -a → -ae: larva → larvae.
+ -- Ex2: Common Mistakes, Register & Meaning
+  1. In this formal scientific report, the data ___ still under review. (be)
+     ANS: are   OPTS: are / is / was
+     WHY: 'Data' is the plural of 'datum'. This sentence explicitly names a formal scientific report, where 'the data are' is the expected academic form (informally, 'the data is' is also common, but not here).
+  2. The university opened two new ___ this year. (campus)
+     ANS: campuses   OPTS: campuses / campi / campuss
+     WHY: campus looks like cactus or fungus, but it's an ordinary anglicized noun — it just adds -s: campuses, never campi.
+  3. In this formal botany paper, the greenhouse contains several rare ___. (cactus)
+     ANS: cacti   OPTS: cacti / cactuses / cactus
+     WHY: cactuses is common in everyday speech, but this sentence explicitly names a formal botany paper, where the classical plural cacti is expected.
+  4. In this formal academic essay, the professor described three unexplained ___. (phenomenon)
+     ANS: phenomena   OPTS: phenomena / phenomenons / phenomenon
+     WHY: phenomenons over-regularizes an already-classical plural; the formal academic essay named here calls for phenomena, and 'phenomenon' alone can't follow 'three'.
+  5. Only one ___ really matters for this job. (criterion)
+     ANS: criterion   OPTS: criterion / criteria / criterias
+     WHY: criteria is already plural. Since the sentence says 'only one', the singular criterion is required.
+  6. Social ___ have changed the way news spreads. (medium)
+     ANS: media   OPTS: media / mediums / medias
+     WHY: For communication channels like newspapers, TV and social platforms, the plural is media. 'Mediums' is reserved for people who claim to contact spirits.
+  7. The séance featured three well-known ___. (medium)
+     ANS: mediums   OPTS: mediums / media / medias
+     WHY: For people who claim to communicate with spirits — explicitly the séance context here — the plural is mediums; media is reserved for communication channels.
+  8. The team needs to run one more ___ before the deadline. (analysis)
+     ANS: analysis   OPTS: analysis / analyses / analysises
+     WHY: analyses is already plural. Since the sentence says 'one more', the singular analysis is required.
+  9. The doctor treated three different ___ this month. (virus)
+     ANS: viruses   OPTS: viruses / viri / virus
+     WHY: virus looks like cactus or fungus, but it takes a regular English plural — viruses, never viri.
+  10. The pond samples contained several types of ___. (alga)
+     ANS: algae   OPTS: algae / algas / algaes
+     WHY: -a → -ae: alga → algae.
+
+##### non-finite-verbs-overview (B1)
+ -- Ex1: Identifying Gerunds, Infinitives & Participles
+  1. In 'Swimming is my favourite sport,' the word 'swimming' is a(n) ___.
+     ANS: gerund   OPTS: gerund / present participle / infinitive
+     WHY: It is the subject of the sentence, a role only a noun-like gerund can fill; it isn't spelled 'to swimming' (no infinitive), and a present participle would need to modify a noun or open a clause, not act as the subject itself.
+  2. In 'The swimming pool is closed,' the word 'swimming' is a(n) ___.
+     ANS: present participle   OPTS: present participle / gerund / infinitive
+     WHY: It modifies the noun 'pool' like an adjective (a pool for swimming), which is the job of a present participle; a gerund would need to function as a noun itself, not describe one.
+  3. In 'Swimming across the lake, she felt free,' the word 'swimming' opens a(n) ___ clause.
+     ANS: participle   OPTS: participle / noun / adverb
+     WHY: The -ing form has no subject of its own before the comma, which rules out a full adverb clause (that needs its own subject and a conjunction like 'while'); it isn't a noun clause either, since it doesn't function as a subject or object — it's a reduced participle clause.
+  4. In 'I want to swim,' the phrase 'to swim' is a(n) ___.
+     ANS: infinitive   OPTS: infinitive / gerund / present participle
+     WHY: 'to' plus the base verb is the infinitive form; it isn't spelled with -ing, which rules out both the gerund and the present participle.
+  5. In 'I saw him swim across the lake,' the word 'swim' is a(n) ___.
+     ANS: bare infinitive   OPTS: bare infinitive / gerund / past participle
+     WHY: After a perception verb plus an object (saw him), English uses the infinitive without 'to' — it isn't -ing (so not a gerund), and it isn't the irregular past participle form 'swum'.
+  6. In 'The broken vase lay on the floor,' the word 'broken' is a(n) ___.
+     ANS: past participle   OPTS: past participle / present participle / gerund
+     WHY: 'broken' is the irregular past participle used as an adjective; it isn't spelled with -ing, which rules out the present participle and the gerund.
+  7. In 'I enjoy swimming in the sea,' the word 'swimming' is the ___ of the verb 'enjoy'.
+     ANS: gerund object   OPTS: gerund object / infinitive object / present participle
+     WHY: enjoy is always followed by a gerund object, not an infinitive; and here 'swimming' is the object of 'enjoy', not an adjective describing a noun, which rules out the present participle.
+  8. In 'He left without saying goodbye,' the word 'saying' is a(n) ___ after the preposition 'without'.
+     ANS: gerund   OPTS: gerund / infinitive / present participle
+     WHY: As the object of the preposition 'without', 'saying' functions as a noun (a gerund), not an adjective — which rules out the present participle — and prepositions are never followed by a to-infinitive.
+  9. In 'Her singing improved a lot this year,' the word 'singing' is a(n) ___ modified by the possessive 'her'.
+     ANS: gerund   OPTS: gerund / present participle / infinitive
+     WHY: Only a gerund behaves like a noun and can be modified by a possessive such as 'her'; a present participle is adjectival and never takes a possessive.
+  10. In 'Feeling tired, she went to bed early,' the phrase 'Feeling tired' opens a(n) ___ clause.
+     ANS: participle   OPTS: participle / independent / noun
+     WHY: 'Feeling tired' has no subject of its own before 'she went to bed' and cannot stand alone, which rules out an independent clause; it isn't functioning as a subject or object either, which rules out a noun clause.
+ -- Ex2: Choosing the Right Non-Finite Form
+  1. I admit ___ (make) a mistake.
+     ANS: making   OPTS: making / to make / make
+     WHY: admit is always followed by a gerund, never a to-infinitive or bare infinitive.
+  2. They refused ___ (pay) the fine.
+     ANS: to pay   OPTS: to pay / paying / pay
+     WHY: refuse is always followed by a to-infinitive, never a gerund or bare infinitive.
+  3. I heard her ___ (sing) the whole song.
+     ANS: sing   OPTS: sing / to sing / sings
+     WHY: After a perception verb plus an object (heard her), English uses the bare infinitive without to; 'sings' is a finite form and can't follow an object like this.
+  4. The teacher let us ___ (leave) early.
+     ANS: leave   OPTS: leave / to leave / leaving
+     WHY: let + object is always followed by the bare infinitive, never to or -ing.
+  5. I'm looking forward to ___ (see) you.
+     ANS: seeing   OPTS: seeing / see / to see
+     WHY: Prepositions take a gerund, even when the preposition is the word to itself — look forward to seeing, not to see.
+  6. She's used to ___ (get up) early.
+     ANS: getting up   OPTS: getting up / get up / to get up
+     WHY: be used to is preposition to + gerund, meaning accustomed to a habit; the 's (is) rules out the unrelated pattern used to + base verb, which describes a past habit and needs no is.
+  7. The film was really ___ (bore).
+     ANS: boring   OPTS: boring / bored / bore
+     WHY: The film causes the feeling, so the present participle boring is used as the adjective; bored would describe a person who feels bored, and bore is not an adjective form.
+  8. I was ___ (bore) during the meeting.
+     ANS: bored   OPTS: bored / boring / bore
+     WHY: The person experiences the feeling, so the past participle bored is used; boring would describe something that causes boredom, and bore is not an adjective form.
+  9. There's no point ___ (argue) about it.
+     ANS: arguing   OPTS: arguing / to argue / argue
+     WHY: The fixed expression there's no point is always followed by a gerund, not a to-infinitive or bare infinitive.
+  10. ___ (Live) alone, she learned to enjoy her own company.
+     ANS: Living   OPTS: Living / Lived / To live
+     WHY: A participle clause describing an ongoing state uses the present participle Living (= Because she lived alone); the past participle Lived doesn't fit an intransitive verb like live used this way, and To live would signal purpose, not reason.
+
+##### numbers-fractions-percentages (B1)
+ -- Ex1: Fractions & Percentages
+  1. 2/3 of the students passed the exam. In words: ___ of the students passed the exam.
+     ANS: Two thirds   OPTS: Two thirds / Two third / Two-thirds's
+     WHY: The numerator (two) is more than one, so the ordinal denominator must be plural: two thirds, not two third.
+  2. 3/4 of the pizza was eaten. In words: ___ was eaten.
+     ANS: Three quarters   OPTS: Three quarters / Three quarter / A three quarters
+     WHY: With a numerator greater than one, the denominator takes -s: three quarters. Adding "a" before a plural cardinal + ordinal combination is wrong.
+  3. 1/4 of a litre remains. In words: ___ of a litre remains.
+     ANS: A quarter   OPTS: A quarter / Quarter / The quarter
+     WHY: A fraction with numerator one used as a noun needs the indefinite article: a quarter — not bare "quarter", and not "the quarter", which would wrongly suggest one specific, already-known quarter.
+  4. I bought ___ kilo of cheese. (1/2)
+     ANS: half a   OPTS: half a / a half of / a half
+     WHY: half combines directly with a noun using half + a + noun (half a kilo), with no "of" before the bare indefinite noun phrase.
+  5. The film lasted ___ hours. (1 1/2)
+     ANS: one and a half   OPTS: one and a half / one and half / a one and half
+     WHY: Mixed numbers use cardinal + "and" + the fraction, and the fraction still needs its own article: one and a half, never one and half without "a".
+  6. 25 ___ of students walk to school.
+     ANS: percent   OPTS: percent / percents / percentage
+     WHY: percent is invariable and follows a number directly; it never takes -s, and percentage (the general noun for the concept) isn't used directly after a number like this.
+  7. In British English, 50% is often written as 50 ___.
+     ANS: per cent   OPTS: per cent / percent / procent
+     WHY: British English commonly splits it into two words, per cent, while American English writes it as one word, percent — the sentence specifies British English.
+  8. Sixty percent ___ the population owns a car.
+     ANS: of   OPTS: of / from / percent of
+     WHY: Percent + of + the group is the standard structure; "percent" is already given once in the sentence, so repeating it in the gap would be redundant and ungrammatical.
+  9. The meeting lasted ___ of an hour. (3/4)
+     ANS: three quarters   OPTS: three quarters / three quarter / the three quarters
+     WHY: The numerator three (more than one) requires the plural denominator quarters; general fraction expressions of time don't take "the".
+  10. ___ my friends live abroad. (1/2)
+     ANS: Half of   OPTS: Half of / Half / A half of
+     WHY: Before a possessive determiner + noun (my friends), half needs "of": half of my friends. Only before a bare indefinite noun does half attach directly without "of" (half a kilo).
+ -- Ex2: Large Numbers & Phone Numbers
+  1. There were exactly 300 people at the concert. In words: There were ___ people at the concert.
+     ANS: three hundred   OPTS: three hundred / three hundreds / three hundred of
+     WHY: Right after a specific number ("exactly 300"), hundred stays singular with no -s and no of: three hundred people.
+  2. ___ of people attended the festival, though nobody counted exactly. (hundreds)
+     ANS: Hundreds   OPTS: Hundreds / Hundred / Three hundreds
+     WHY: "Though nobody counted exactly" signals a vague quantity, which needs the plural + of form: hundreds of people, not the singular hundred or a specific number combined with -s.
+  3. She has sold ___ of copies of her book since it came out. (thousands)
+     ANS: thousands   OPTS: thousands / thousand / a thousands
+     WHY: Followed by "of copies", the vague-quantity plural form is required: thousands of copies, not the singular thousand or the ungrammatical a thousands.
+  4. The painting sold for exactly ___ dollars. (2,000,000)
+     ANS: two million   OPTS: two million / two millions / two million of
+     WHY: "Exactly" signals a specific number, so million stays singular with no -s and no of directly before the noun: two million dollars.
+  5. 254, spoken in British style: In words, that's ___.
+     ANS: two hundred and fifty-four   OPTS: two hundred and fifty-four / two hundred fifty-four / two fifty four hundred
+     WHY: British English usually adds "and" before the tens/units in a compound number, as the sentence specifies; the American form drops it, and the third option puts the words in an impossible order.
+  6. 254, spoken in American style: In words, that's ___.
+     ANS: two hundred fifty-four   OPTS: two hundred fifty-four / two hundred and fifty-four / two-fifty-four hundred
+     WHY: American English often drops "and" before the tens/units, as the sentence specifies; the British form keeps it, and the third option is not a real way to say the number.
+  7. My number is 7392. On the phone, I say it as ___.
+     ANS: seven three nine two   OPTS: seven three nine two / seven thousand three hundred and ninety-two / seven-three-nine-two hundred
+     WHY: Phone numbers are read digit by digit, not as one large number, so seven thousand three hundred and ninety-two is wrong here even though it's the correct way to read 7392 as a quantity.
+  8. In British English phone numbers, 0 is usually read as ___, not as the word zero.
+     ANS: oh   OPTS: oh / zero / ten
+     WHY: "Not as the word zero" explicitly rules out zero itself; British English commonly uses oh for 0 in phone numbers instead, and ten has nothing to do with the digit 0.
+  9. In British English, when a phone number has two identical digits in a row, like 33, it is often read as ___ three, not three three.
+     ANS: double   OPTS: double / two / second
+     WHY: "Not three three" rules out simply repeating the digit; double three is the idiom for a repeated digit, while two three or second three would mean something different.
+  10. Nearly ___ of a million people live in the city. (3/4)
+     ANS: three quarters   OPTS: three quarters / three quarter / three-quarters's
+     WHY: The numerator three (more than one) requires the plural denominator quarters, combined here with a large number: three quarters of a million.
+
+##### parts-of-speech-overview (A1)
+ -- Ex1: Identify the Part of Speech
+  1. The teacher smiled. "Teacher" is a/an ___.
+     ANS: noun   OPTS: noun / verb / adjective
+     WHY: "Teacher" names a person (the subject of the sentence) — a noun; "smiled" is already the verb, and there is no noun here for "teacher" to describe, so it can't be an adjective.
+  2. The teacher smiled. "Smiled" is a/an ___.
+     ANS: verb   OPTS: verb / noun / adjective
+     WHY: "Smiled" shows the action the subject (teacher) does — a verb; "teacher" already fills the noun/subject slot, and "smiled" doesn't describe a noun, so it isn't an adjective.
+  3. She has a happy dog. "Happy" is a/an ___.
+     ANS: adjective   OPTS: adjective / adverb / noun
+     WHY: "Happy" sits between the article "a" and the noun "dog", describing it — an adjective. It can't be an adverb because it modifies a noun, not a verb, and "dog" already fills the noun slot.
+  4. She smiled happily. "Happily" is a/an ___.
+     ANS: adverb   OPTS: adverb / adjective / noun
+     WHY: "Happily" describes the verb "smiled" (how she smiled) — an adverb. It can't be an adjective because there is no noun after it to describe.
+  5. Maria is tired, so she is going home. "She" is a/an ___.
+     ANS: pronoun   OPTS: pronoun / noun / adjective
+     WHY: "She" replaces the noun "Maria" instead of repeating it — a pronoun.
+  6. The keys are on the table. "On" is a/an ___.
+     ANS: preposition   OPTS: preposition / verb / conjunction
+     WHY: "On" shows where the keys are in relation to the table — a preposition. "Are" is already the verb, and "on" doesn't join two clauses, so it isn't a conjunction.
+  7. I like tea and coffee. "And" is a/an ___.
+     ANS: conjunction   OPTS: conjunction / preposition / pronoun
+     WHY: "And" joins two nouns, "tea" and "coffee" — a conjunction. It shows no place or time relationship, so it isn't a preposition, and it doesn't replace a noun, so it isn't a pronoun.
+  8. Wow! That is a beautiful painting. "Wow" is a/an ___.
+     ANS: interjection   OPTS: interjection / adjective / noun
+     WHY: "Wow" stands alone and expresses a reaction — an interjection. It doesn't describe the noun "painting", so it isn't an adjective, and it doesn't name anything, so it isn't a noun.
+  9. Happiness is important. "Happiness" is a/an ___.
+     ANS: noun   OPTS: noun / adjective / verb
+     WHY: "Happiness" is the subject of the sentence, naming an idea — a noun. "Is" is already the verb, and "important" already fills the adjective slot.
+  10. The soup is hot. "Is" is a/an ___.
+     ANS: verb   OPTS: verb / adjective / noun
+     WHY: "Is" links the subject "soup" to the description "hot" — a verb (a form of be). "Hot" already fills the adjective slot, and "soup" already fills the noun slot.
+ -- Ex2: Same Word, Different Job & Adjective vs Adverb
+  1. I run every day. "Run" is a/an ___.
+     ANS: verb   OPTS: verb / noun / adjective
+     WHY: "Run" follows the subject "I" and shows a repeated action — a verb. There is no article before it, so it isn't a noun here.
+  2. I went for a run. "Run" is a/an ___.
+     ANS: noun   OPTS: noun / verb / adjective
+     WHY: "Run" follows the article "a" — a thing you go for, so a noun. "Went" is already the sentence's verb.
+  3. Please light the candle. "Light" is a/an ___.
+     ANS: verb   OPTS: verb / noun / adjective
+     WHY: "Light" takes a direct object, "the candle" — a verb meaning to set something burning. There is no article before it, so it isn't a noun.
+  4. This bag is very light. "Light" is a/an ___.
+     ANS: adjective   OPTS: adjective / verb / noun
+     WHY: "Light" follows "is very" and describes the bag's weight — an adjective; "very" only modifies adjectives and adverbs, and "is" is already the sentence's verb.
+  5. They watch the news every evening. "Watch" is a/an ___.
+     ANS: verb   OPTS: verb / noun / adjective
+     WHY: "Watch" follows the subject "they" and takes an object, "the news" — a verb. There is no article before it, so it isn't a noun.
+  6. She wears a watch on her wrist. "Watch" is a/an ___.
+     ANS: noun   OPTS: noun / verb / adjective
+     WHY: "Watch" follows the article "a" — a thing worn on the wrist, so a noun. "Wears" is already the sentence's verb.
+  7. She sings ___. (beautiful / beautifully)
+     ANS: beautifully   OPTS: beautifully / beautiful / beauty
+     WHY: "Sings" is a verb, and verbs are described by adverbs, not adjectives — "beautifully", not "beautiful" (an adjective) or "beauty" (a noun).
+  8. He drives ___. (careful / carefully)
+     ANS: carefully   OPTS: carefully / careful / care
+     WHY: "Drives" is a verb, so it needs the adverb "carefully", not the adjective "careful" or the noun "care".
+  9. This is a ___ car. (quick / quickly)
+     ANS: quick   OPTS: quick / quickly / quickness
+     WHY: "Car" is a noun, and nouns are described by adjectives, not adverbs — "a quick car", not "quickly" (an adverb) or "quickness" (a noun).
+  10. She is a friendly neighbour. "Friendly" is a/an ___.
+     ANS: adjective   OPTS: adjective / adverb / noun
+     WHY: "Friendly" sits between the article "a" and the noun "neighbour", describing it — an adjective, even though it ends in -ly like many adverbs; "neighbour" already fills the noun slot, so "friendly" can't be that either.
+
+##### sentence-structure-clauses (B1)
+ -- Ex1: Clause Types & Sentence Types
+  1. In 'She smiled because she was happy,' the part 'because she was happy' is a(n) ___ clause.
+     ANS: dependent   OPTS: dependent / independent / noun
+     WHY: It has a subject and verb but starts with because, so it cannot stand alone — it is dependent (specifically an adverb clause here).
+  2. Classify: 'The rain stopped.' This is a(n) ___ sentence.
+     ANS: simple   OPTS: simple / compound / complex
+     WHY: One independent clause and nothing else — a simple sentence.
+  3. Classify: 'The rain stopped, and the sun came out.' This is a(n) ___ sentence.
+     ANS: compound   OPTS: compound / simple / complex
+     WHY: Two independent clauses (each could stand alone) joined by the coordinating conjunction and — a compound sentence.
+  4. Classify: 'The rain stopped after the storm passed.' This is a(n) ___ sentence.
+     ANS: complex   OPTS: complex / compound / simple
+     WHY: One independent clause (the rain stopped) plus one dependent clause (after the storm passed) — a complex sentence.
+  5. Classify: 'The rain stopped after the storm passed, and the sun came out.' This is a(n) ___ sentence.
+     ANS: compound-complex   OPTS: compound-complex / compound / complex
+     WHY: Two independent clauses (the rain stopped / the sun came out) joined by and, plus one dependent clause (after the storm passed) — compound-complex.
+  6. In 'the man who called is my uncle,' the clause 'who called' functions as a(n) ___ clause.
+     ANS: adjective   OPTS: adjective / noun / adverb
+     WHY: It describes the noun 'man', so it is an adjective (relative) clause.
+  7. In 'I know that she left,' the clause 'that she left' functions as a(n) ___ clause.
+     ANS: noun   OPTS: noun / adjective / adverb
+     WHY: It acts as the object of 'know', like a noun would (compare: I know the answer).
+  8. Classify: 'Because it was raining, we stayed inside.' This is a(n) ___ sentence.
+     ANS: complex   OPTS: complex / compound / simple
+     WHY: One dependent clause (because it was raining) plus one independent clause (we stayed inside) — complex, even though the dependent clause comes first.
+  9. Classify: 'The rain stopped; the sun came out.' This is a(n) ___ sentence.
+     ANS: compound   OPTS: compound / simple / complex
+     WHY: Two independent clauses joined by a semicolon (no conjunction needed) — still a compound sentence.
+  10. In 'the man standing there,' the phrase 'standing there' is a reduced form of the clause ___.
+     ANS: who is standing there   OPTS: who is standing there / who stands there is / that stood there was
+     WHY: A reduced clause drops the relative pronoun and be: who is standing there → standing there.
+ -- Ex2: Fixing Comma Splices, Fragments & Run-Ons
+  1. Fix the comma splice: 'The rain stopped, the sun came out.' → 'The rain stopped, ___ the sun came out.'
+     ANS: and   OPTS: and / the / so was
+     WHY: A comma alone cannot join two independent clauses; adding the coordinating conjunction and fixes the comma splice.
+  2. Identify the error in: 'Because she was tired. She went home.' This is a(n) ___.
+     ANS: sentence fragment   OPTS: sentence fragment / comma splice / run-on sentence
+     WHY: 'Because she was tired' has a subject and verb but starts with because, so punctuating it as a full sentence with a period makes it an incomplete fragment.
+  3. Identify the error in: 'The rain stopped the sun came out.' This is a(n) ___.
+     ANS: run-on sentence   OPTS: run-on sentence / sentence fragment / correct as written
+     WHY: Two independent clauses are joined with no punctuation and no conjunction at all — a run-on sentence.
+  4. Fix the fragment: 'Because she was tired. She went home.' → 'She went home ___ she was tired.'
+     ANS: because   OPTS: because / so / and
+     WHY: Joining the dependent clause to the independent clause with because fixes the fragment; no period is needed between them.
+  5. Identify the error in: 'I like coffee, she prefers tea.' This is a(n) ___.
+     ANS: comma splice   OPTS: comma splice / sentence fragment / run-on sentence
+     WHY: Two independent clauses (I like coffee / she prefers tea) are joined by only a comma, with no conjunction — a comma splice.
+  6. Fix the run-on: 'The rain stopped the sun came out.' → 'The rain stopped___ the sun came out.'
+     ANS: ;    OPTS: ;  / , so / . because
+     WHY: A semicolon correctly joins two independent clauses with no conjunction needed; a comma alone (without so, and, etc.) would still be a splice.
+  7. Identify the error in: 'Although he studied hard. He failed the test.' This is a(n) ___.
+     ANS: sentence fragment   OPTS: sentence fragment / comma splice / run-on sentence
+     WHY: 'Although he studied hard' is a dependent clause punctuated as if it were complete — a fragment, not a full sentence.
+  8. Fix the comma splice correctly: 'She was tired, she went to bed early.' → 'She was tired, ___ she went to bed early.'
+     ANS: so   OPTS: so / she / tired
+     WHY: Adding the coordinating conjunction so after the comma turns the comma splice into a correct compound sentence.
+  9. Choose the correctly punctuated compound sentence: ___
+     ANS: It was cold, but we went out anyway.   OPTS: It was cold, but we went out anyway. / It was cold, we went out anyway. / It was cold we went out anyway.
+     WHY: A comma plus the coordinating conjunction but correctly joins two independent clauses; the other options are a comma splice and a run-on.
+  10. Choose the correctly punctuated complex sentence: ___
+     ANS: Although it was cold, we went out.   OPTS: Although it was cold, we went out. / Although it was cold. We went out. / It was cold, although we went out.
+     WHY: The dependent clause (although it was cold) comes first and is followed by a comma, then the independent clause — the standard complex-sentence pattern; the second option wrongly punctuates the dependent clause as its own sentence.
+
+##### spelling-rules-suffixes (A2)
+ -- Ex1: Doubling & Silent -e
+  1. He is ___ (run) to catch the bus.
+     ANS: running   OPTS: running / runing / runnning
+     WHY: run has a single stressed vowel + consonant, so the n doubles before -ing: run → running.
+  2. She ___ (stop) suddenly in the middle of the road.
+     ANS: stopped   OPTS: stopped / stoped / stopeed
+     WHY: stop doubles the p before -ed: stop → stopped.
+  3. He is ___ (visit) his grandmother this week.
+     ANS: visiting   OPTS: visiting / visitting / visitteing
+     WHY: visit is stressed on the first syllable, so the t does not double: visit → visiting.
+  4. They ___ (prefer) tea to coffee.
+     ANS: preferred   OPTS: preferred / prefered / preferrred
+     WHY: prefer is stressed on the final syllable, so the r doubles before -ed: prefer → preferred.
+  5. I'm ___ (make) a cake for the party.
+     ANS: making   OPTS: making / makeing / makking
+     WHY: make drops the silent -e before a vowel suffix: make → making.
+  6. Her smile gave everyone a ___ (hope) feeling.
+     ANS: hopeful   OPTS: hopeful / hopful / hopeing
+     WHY: Before a consonant suffix (-ful), the silent -e stays: hope → hopeful.
+  7. The scratch on the table was barely ___ (notice).
+     ANS: noticeable   OPTS: noticeable / noticable / noticeible
+     WHY: The -e stays after the soft c so the c keeps its /s/ sound: notice → noticeable.
+  8. She ___ (carry) the boxes upstairs by herself.
+     ANS: carried   OPTS: carried / carryed / carrys
+     WHY: Consonant + y changes to i before -ed: carry → carried.
+  9. He is ___ (carry) a heavy bag.
+     ANS: carrying   OPTS: carrying / carring / carriing
+     WHY: y never changes before -ing, even after a consonant: carry → carrying.
+  10. She ___ (watch) the news every evening.
+     ANS: watches   OPTS: watches / watchs / watchies
+     WHY: watch ends in the sibilant -ch, so add -es instead of -s: watch → watches.
+ -- Ex2: y, -es & Mixed Practice
+  1. This bag is ___ (big) than that one.
+     ANS: bigger   OPTS: bigger / biger / biggest
+     WHY: big has a single stressed vowel + consonant, so the g doubles before -er: big → bigger.
+  2. I am ___ (help) my sister with her homework.
+     ANS: helping   OPTS: helping / helpping / helpeing
+     WHY: help ends in two consonants, so nothing doubles: help → helping.
+  3. We are ___ (hope) for good weather tomorrow.
+     ANS: hoping   OPTS: hoping / hopeing / hopping
+     WHY: hope drops the silent -e before -ing: hope → hoping (hopping, with two p's, means jumping, from hop).
+  4. Climbing the mountain alone was a ___ (courage) thing to do.
+     ANS: courageous   OPTS: courageous / couragous / courageious
+     WHY: The -e stays after the soft g so the g keeps its /dʒ/ sound: courage → courageous.
+  5. He ___ (play) football every weekend.
+     ANS: plays   OPTS: plays / playes / plaies
+     WHY: A vowel + y just adds -s, with no spelling change: play → plays.
+  6. She is the ___ (happy) person I know.
+     ANS: happiest   OPTS: happiest / happyest / happiess
+     WHY: Consonant + y changes to i before -est: happy → happiest.
+  7. There are two ___ (box) on the table.
+     ANS: boxes   OPTS: boxes / boxs / boxies
+     WHY: box ends in the sibilant -x, so add -es instead of -s: box → boxes.
+  8. The nurse looked after six ___ (baby) in the ward.
+     ANS: babies   OPTS: babies / babys / babyes
+     WHY: Consonant + y changes to -ies: baby → babies.
+  9. In British English, the past tense of travel is ___ (travel).
+     ANS: travelled   OPTS: travelled / traveled / travellled
+     WHY: British English doubles a final -l even though the stress isn't on the last syllable: travel → travelled (American English uses traveled).
+  10. The judges ___ (refer) the case to a higher court.
+     ANS: referred   OPTS: referred / refered / referrred
+     WHY: refer is stressed on the final syllable, so the r doubles before -ed: refer → referred.

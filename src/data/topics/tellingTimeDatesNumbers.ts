@@ -156,16 +156,16 @@ export const tellingTimeDatesNumbers: GrammarTopicContent = {
     {
       title: "Telling Time",
       questions: [
-        { sentence: "It's 3:15. In words: It's ___ three.", answer: "quarter past", options: ["quarter past", "a quarter past", "quarter to"], explanation: "15 minutes past the hour is quarter past (never \"a quarter past\")." },
+        { sentence: "It's 3:15. In words: It's ___ three.", answer: "quarter past", options: ["quarter past", "quarter to", "half past"], explanation: "Minutes 1-30 count up from the hour with past, so 3:15 is quarter past three (a quarter past three is equally correct — the article is optional with quarter)." },
         { sentence: "It's 3:30. In words: It's ___ three.", answer: "half past", options: ["half past", "a half past", "half to"], explanation: ":30 is always half past (never \"a half past\")." },
-        { sentence: "It's 3:45. In words: It's ___ four.", answer: "quarter to", options: ["quarter to", "a quarter to", "quarter past"], explanation: "45 minutes is 15 minutes before the next hour, so quarter to four." },
+        { sentence: "It's 3:45. In words: It's ___ four.", answer: "quarter to", options: ["quarter to", "quarter past", "half past"], explanation: "45 minutes is 15 minutes before the NEXT hour, so it counts down to four with to: quarter to four (a quarter to four is equally correct)." },
         { sentence: "It's 3:40. In words: It's ___ four.", answer: "twenty to", options: ["twenty to", "twenty past", "forty past"], explanation: "40 minutes past 3 is 20 minutes before 4, so twenty to four, not forty past three." },
         { sentence: "It's 3:10. In words: It's ___ three.", answer: "ten past", options: ["ten past", "ten to", "a ten past"], explanation: "Minutes 1-30 use past: ten past three." },
         { sentence: "It's 3:00 exactly. In words: It's three ___.", answer: "o'clock", options: ["o'clock", "o'clock past", "fifteen o'clock"], explanation: "o'clock is only used for exact hours, with no minutes." },
         { sentence: "It's 3:20. In words: It's ___ three.", answer: "twenty past", options: ["twenty past", "twenty to", "a twenty past"], explanation: "20 is in the 1-30 range, so twenty past three." },
         { sentence: "It's 3:50. In words: It's ___ four.", answer: "ten to", options: ["ten to", "ten past", "fifty past"], explanation: "50 minutes past 3 is 10 minutes before 4: ten to four." },
         { sentence: "It's 3:30. The correct way to say it is: It's ___.", answer: "half past three", options: ["half past three", "a half past three", "half three past"], explanation: "half past needs no \"a\": half past three." },
-        { sentence: "It's 3:45. The correct way to say it is: It's ___.", answer: "quarter to four", options: ["quarter to four", "a quarter to four", "quarter past four"], explanation: "45 minutes means quarter to the next hour: quarter to four." },
+        { sentence: "It's 3:45. The correct way to say it is: It's ___.", answer: "quarter to four", options: ["quarter to four", "quarter past four", "quarter to three"], explanation: "45 minutes counts down to the NEXT hour: quarter to four, not quarter past four (that is 4:15) and not quarter to three (that is 2:45)." },
       ],
     },
     {
