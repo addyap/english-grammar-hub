@@ -8,7 +8,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
   explanations: {
     en: [
       "Use will for a decision made right at the moment of speaking, a prediction based on opinion or general belief with no evidence, a promise, or an offer: I'll help you with that (spontaneous offer); I think it'll rain this weekend (opinion). Use going to for a plan or intention already decided before speaking, or a prediction based on visible evidence right now: I'm going to visit my parents next week (already planned); look at those clouds — it's going to rain (evidence you can see).",
-      "Form: will + base verb — will is a modal, so it never changes for any subject and never uses do: she will come, not she wills come; won't for the negative. Going to: am/is/are + going to + base verb, so the be-verb still agrees with the subject: I'm going to leave; he's going to call; negatives add not to be (I'm not going to leave); questions invert be and the subject (is he going to call?).",
+      "Form: will + base verb — will is a modal, so it never changes for any subject and never uses do: she will come, not she wills come; won't for the negative. Going to: am/is/are + going to + base verb, so the be-verb still agrees with the subject: I'm going to leave; he's going to call. Negatives add not to be (I'm not going to leave). Questions invert be and the subject (is he going to call?).",
       {
         intro: "Will vs going to, side by side:",
         items: [
@@ -23,7 +23,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
     ],
     fr: [
       "Employez will pour une décision prise à l'instant même où l'on parle, une prédiction fondée sur une opinion ou une croyance générale sans preuve, une promesse ou une offre : I'll help you with that (offre spontanée) ; I think it'll rain this weekend (opinion). Employez going to pour un projet ou une intention déjà décidés avant de parler, ou une prédiction fondée sur une preuve visible en ce moment : I'm going to visit my parents next week (déjà prévu) ; look at those clouds — it's going to rain (preuve visible).",
-      "Formation : will + verbe de base — will est un modal, il ne change donc jamais selon le sujet et n'emploie jamais do : she will come, et non she wills come ; won't à la forme négative. Going to : am/is/are + going to + verbe de base, où be s'accorde toujours avec le sujet : I'm going to leave ; he's going to call ; à la forme négative, not se place après be (I'm not going to leave) ; à la forme interrogative, on inverse be et le sujet (is he going to call ?).",
+      "Formation : will + verbe de base — will est un modal, il ne change donc jamais selon le sujet et n'emploie jamais do : she will come, et non she wills come ; won't à la forme négative. Going to : am/is/are + going to + verbe de base, où be s'accorde toujours avec le sujet : I'm going to leave ; he's going to call. À la forme négative, not se place après be (I'm not going to leave). À la forme interrogative, on inverse be et le sujet (is he going to call ?).",
       {
         intro: "Will et going to, côte à côte :",
         items: [
@@ -38,7 +38,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
     ],
     es: [
       "Usa will para una decisión tomada justo en el momento de hablar, una predicción basada en una opinión o creencia general sin pruebas, una promesa o un ofrecimiento: I'll help you with that (oferta espontánea); I think it'll rain this weekend (opinión). Usa going to para un plan o intención ya decidido antes de hablar, o una predicción basada en pruebas visibles ahora mismo: I'm going to visit my parents next week (ya planeado); look at those clouds — it's going to rain (prueba visible).",
-      "Forma: will + verbo base — will es un modal, así que nunca cambia según el sujeto ni usa do: she will come, no she wills come; won't en negativo. Going to: am/is/are + going to + verbo base, donde be sigue concordando con el sujeto: I'm going to leave; he's going to call; en negativo, not se coloca tras be (I'm not going to leave); en preguntas se invierten be y el sujeto (is he going to call?).",
+      "Forma: will + verbo base — will es un modal, así que nunca cambia según el sujeto ni usa do: she will come, no she wills come; won't en negativo. Going to: am/is/are + going to + verbo base, donde be sigue concordando con el sujeto: I'm going to leave; he's going to call. En negativo, not se coloca tras be (I'm not going to leave). En preguntas se invierten be y el sujeto (is he going to call?).",
       {
         intro: "Will y going to, uno junto al otro:",
         items: [
@@ -53,7 +53,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
     ],
     pt: [
       "Usa will para uma decisão tomada exatamente no momento de falar, uma previsão baseada numa opinião ou crença geral sem provas, uma promessa ou um oferecimento: I'll help you with that (oferta espontânea); I think it'll rain this weekend (opinião). Usa going to para um plano ou intenção já decididos antes de falar, ou uma previsão baseada em provas visíveis agora mesmo: I'm going to visit my parents next week (já planeado); look at those clouds — it's going to rain (prova visível).",
-      "Forma: will + verbo base — will é um modal, por isso nunca muda consoante o sujeito nem usa do: she will come, e não she wills come; won't na negativa. Going to: am/is/are + going to + verbo base, em que be continua a concordar com o sujeito: I'm going to leave; he's going to call; na negativa, not fica depois de be (I'm not going to leave); nas perguntas invertem-se be e o sujeito (is he going to call?).",
+      "Forma: will + verbo base — will é um modal, por isso nunca muda consoante o sujeito nem usa do: she will come, e não she wills come; won't na negativa. Going to: am/is/are + going to + verbo base, em que be continua a concordar com o sujeito: I'm going to leave; he's going to call. Na negativa, not fica depois de be (I'm not going to leave). Nas perguntas invertem-se be e o sujeito (is he going to call?).",
       {
         intro: "Will e going to, lado a lado:",
         items: [
@@ -68,7 +68,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
     ],
     it: [
       "Usa will per una decisione presa proprio nel momento in cui si parla, una previsione basata su un'opinione o convinzione generale senza prove, una promessa o un'offerta: I'll help you with that (offerta spontanea); I think it'll rain this weekend (opinione). Usa going to per un piano o un'intenzione già decisi prima di parlare, o una previsione basata su prove visibili in questo momento: I'm going to visit my parents next week (già programmato); look at those clouds — it's going to rain (prova visibile).",
-      "Forma: will + verbo base — will è un modale, quindi non cambia mai in base al soggetto e non usa mai do: she will come, non she wills come; won't al negativo. Going to: am/is/are + going to + verbo base, dove be concorda comunque con il soggetto: I'm going to leave; he's going to call; al negativo, not si mette dopo be (I'm not going to leave); nelle domande si invertono be e il soggetto (is he going to call?).",
+      "Forma: will + verbo base — will è un modale, quindi non cambia mai in base al soggetto e non usa mai do: she will come, non she wills come; won't al negativo. Going to: am/is/are + going to + verbo base, dove be concorda comunque con il soggetto: I'm going to leave; he's going to call. Al negativo, not si mette dopo be (I'm not going to leave). Nelle domande si invertono be e il soggetto (is he going to call?).",
       {
         intro: "Will e going to, a confronto:",
         items: [
@@ -83,7 +83,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
     ],
     de: [
       "Benutze will für eine Entscheidung, die genau im Moment des Sprechens getroffen wird, für eine Vorhersage aufgrund einer Meinung oder allgemeinen Überzeugung ohne Beweis, für ein Versprechen oder ein Angebot: I'll help you with that (spontanes Angebot); I think it'll rain this weekend (Meinung). Benutze going to für einen Plan oder eine Absicht, die schon vor dem Sprechen feststand, oder für eine Vorhersage aufgrund sichtbarer Beweise gerade jetzt: I'm going to visit my parents next week (bereits geplant); look at those clouds — it's going to rain (sichtbarer Beweis).",
-      "Form: will + Grundform — will ist ein Modalverb, ändert sich also nie je nach Subjekt und benutzt nie do: she will come, nicht she wills come; won't in der Verneinung. Going to: am/is/are + going to + Grundform, wobei be weiterhin mit dem Subjekt übereinstimmt: I'm going to leave; he's going to call; bei der Verneinung steht not nach be (I'm not going to leave); bei Fragen werden be und das Subjekt vertauscht (is he going to call?).",
+      "Form: will + Grundform — will ist ein Modalverb, ändert sich also nie je nach Subjekt und benutzt nie do: she will come, nicht she wills come; won't in der Verneinung. Going to: am/is/are + going to + Grundform, wobei be weiterhin mit dem Subjekt übereinstimmt: I'm going to leave; he's going to call. Bei der Verneinung steht not nach be (I'm not going to leave). Bei Fragen werden be und das Subjekt vertauscht (is he going to call?).",
       {
         intro: "Will und going to im Vergleich:",
         items: [
@@ -98,7 +98,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
     ],
     ru: [
       "Используйте will для решения, принятого прямо в момент речи, для предсказания на основе мнения или общего убеждения без доказательств, для обещания или предложения помощи: I'll help you with that (спонтанное предложение); I think it'll rain this weekend (мнение). Используйте going to для плана или намерения, уже решённого до момента речи, или для предсказания на основе видимых прямо сейчас доказательств: I'm going to visit my parents next week (уже запланировано); look at those clouds — it's going to rain (видимое доказательство).",
-      "Форма: will + базовая форма глагола — will является модальным глаголом, поэтому никогда не меняется в зависимости от подлежащего и никогда не использует do: she will come, а не she wills come; won't в отрицании. Going to: am/is/are + going to + базовая форма, где be по-прежнему согласуется с подлежащим: I'm going to leave; he's going to call; в отрицании not ставится после be (I'm not going to leave); в вопросах местами меняются be и подлежащее (is he going to call?).",
+      "Форма: will + базовая форма глагола — will является модальным глаголом, поэтому никогда не меняется в зависимости от подлежащего и никогда не использует do: she will come, а не she wills come; won't в отрицании. Going to: am/is/are + going to + базовая форма, где be по-прежнему согласуется с подлежащим: I'm going to leave; he's going to call. В отрицании not ставится после be (I'm not going to leave). В вопросах местами меняются be и подлежащее (is he going to call?).",
       {
         intro: "Will и going to бок о бок:",
         items: [
@@ -113,7 +113,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
     ],
     ar: [
       "استخدم will لقرار يُتخذ في لحظة الحديث نفسها، أو لتنبؤ مبني على رأي أو اعتقاد عام دون دليل، أو لوعد أو عرض: I'll help you with that (عرض عفوي)؛ I think it'll rain this weekend (رأي). استخدم going to لخطة أو نية تم تحديدها بالفعل قبل الحديث، أو لتنبؤ مبني على دليل مرئي الآن: I'm going to visit my parents next week (مخطط له مسبقًا)؛ look at those clouds — it's going to rain (دليل مرئي).",
-      "الصيغة: will + الفعل الأساسي — will فعل ناقص، لذا لا يتغيّر أبدًا حسب الفاعل ولا يستخدم do أبدًا: she will come، وليس she wills come؛ won't في النفي. going to: am/is/are + going to + الفعل الأساسي، حيث يظل الفعل be متوافقًا مع الفاعل: I'm going to leave؛ he's going to call؛ في النفي توضع not بعد be (I'm not going to leave)؛ وفي السؤال يتبادل be والفاعل مكانيهما (is he going to call؟).",
+      "الصيغة: will + الفعل الأساسي — will فعل ناقص، لذا لا يتغيّر أبدًا حسب الفاعل ولا يستخدم do أبدًا: she will come، وليس she wills come؛ won't في النفي. going to: am/is/are + going to + الفعل الأساسي، حيث يظل الفعل be متوافقًا مع الفاعل: I'm going to leave؛ he's going to call. في النفي توضع not بعد be (I'm not going to leave). وفي السؤال يتبادل be والفاعل مكانيهما (is he going to call؟).",
       {
         intro: "will وgoing to جنبًا إلى جنب:",
         items: [
@@ -128,7 +128,7 @@ export const futureWillGoingTo: GrammarTopicContent = {
     ],
     zh: [
       "will 用于说话那一刻当场做出的决定、基于观点或普遍看法而没有证据的预测,以及承诺或提议:I'll help you with that(临时的主动提议);I think it'll rain this weekend(个人看法)。going to 用于说话之前就已经决定好的计划或打算,或基于此刻可见证据的预测:I'm going to visit my parents next week(已经计划好了);look at those clouds — it's going to rain(看得见的证据)。",
-      "构成:will + 动词原形——will 是情态动词,因此从不随主语变化,也从不用 do:she will come,而不是 she wills come;否定式用 won't。going to:am/is/are + going to + 动词原形,其中 be 动词仍要与主语保持一致:I'm going to leave;he's going to call;否定式把 not 放在 be 后面(I'm not going to leave);疑问句中 be 与主语互换位置(is he going to call?)。",
+      "构成:will + 动词原形——will 是情态动词,因此从不随主语变化,也从不用 do:she will come,而不是 she wills come;否定式用 won't。going to:am/is/are + going to + 动词原形,其中 be 动词仍要与主语保持一致:I'm going to leave;he's going to call。否定式把 not 放在 be 后面(I'm not going to leave)。疑问句中 be 与主语互换位置(is he going to call?)。",
       {
         intro: "will 与 going to 对比:",
         items: [
