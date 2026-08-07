@@ -15,7 +15,7 @@ export const adjectivesAdverbs: GrammarTopicContent = {
           "Adverbs of manner normally go after the verb, or after the verb + object, never splitting them: She sings beautifully; She plays the piano beautifully (not She sings beautifully the song).",
         ],
       },
-      "The most common mistake is using an adjective where an adverb belongs, especially with good/well: good is always the adjective (a good singer), well is the adverb (she sings well) — she sings good is wrong. A second frequent error is treating an adjective that happens to end in -ly, like friendly, lovely, silly, or lonely, as if it were an adverb — she smiled friendly is wrong, because friendly is only ever an adjective; say she gave a friendly smile or she smiled in a friendly way instead.",
+      "The most common mistake is using an adjective where an adverb belongs, especially with good/well: good is always the adjective (a good singer), well is the adverb (she sings well) — she sings good is wrong. A second frequent error is treating an adjective that happens to end in -ly, like friendly, lovely, silly, or lonely, as if it were an adverb — she smiled friendly is wrong, because friendly is only ever an adjective. Say she gave a friendly smile or she smiled in a friendly way instead.",
       "Look at what's being described: a noun needs an adjective, a verb/adjective/other adverb needs an adverb. A word ending in -ly isn't automatically an adverb — check whether it's actually one of the -ly adjectives (friendly, lovely, silly, lonely, elderly) describing a noun, or a genuine adverb (quickly, carefully) modifying an action.",
     ],
     fr: [
@@ -27,7 +27,7 @@ export const adjectivesAdverbs: GrammarTopicContent = {
           "Les adverbes de manière se placent normalement après le verbe, ou après le verbe + complément, sans jamais les séparer : She sings beautifully ; She plays the piano beautifully (et non She sings beautifully the song).",
         ],
       },
-      "L'erreur la plus fréquente est d'employer un adjectif là où il faut un adverbe, en particulier avec good/well : good est toujours l'adjectif (a good singer), well est l'adverbe (she sings well) — she sings good est incorrect. Une deuxième erreur fréquente est de traiter comme un adverbe un adjectif qui se termine par -ly, comme friendly, lovely, silly ou lonely — she smiled friendly est incorrect, car friendly n'est jamais qu'un adjectif ; dites plutôt she gave a friendly smile ou she smiled in a friendly way.",
+      "L'erreur la plus fréquente est d'employer un adjectif là où il faut un adverbe, en particulier avec good/well : good est toujours l'adjectif (a good singer), well est l'adverbe (she sings well) — she sings good est incorrect. Une deuxième erreur fréquente est de traiter comme un adverbe un adjectif qui se termine par -ly, comme friendly, lovely, silly ou lonely — she smiled friendly est incorrect, car friendly n'est jamais qu'un adjectif. Dites plutôt she gave a friendly smile ou she smiled in a friendly way.",
       "Regardez ce qui est décrit : un nom a besoin d'un adjectif, un verbe/adjectif/autre adverbe a besoin d'un adverbe. Un mot qui se termine par -ly n'est pas automatiquement un adverbe — vérifiez s'il s'agit en fait de l'un de ces adjectifs en -ly (friendly, lovely, silly, lonely, elderly) décrivant un nom, ou d'un véritable adverbe (quickly, carefully) modifiant une action.",
     ],
     es: [
@@ -39,7 +39,7 @@ export const adjectivesAdverbs: GrammarTopicContent = {
           "Los adverbios de modo suelen ir después del verbo, o después del verbo + objeto, sin separarlos nunca: She sings beautifully; She plays the piano beautifully (no She sings beautifully the song).",
         ],
       },
-      "El error más común es usar un adjetivo donde corresponde un adverbio, especialmente con good/well: good siempre es el adjetivo (a good singer), well es el adverbio (she sings well) —she sings good es incorrecto. Un segundo error frecuente es tratar como adverbio un adjetivo que termina en -ly, como friendly, lovely, silly o lonely —she smiled friendly es incorrecto, porque friendly es solo un adjetivo; di mejor she gave a friendly smile o she smiled in a friendly way.",
+      "El error más común es usar un adjetivo donde corresponde un adverbio, especialmente con good/well: good siempre es el adjetivo (a good singer), well es el adverbio (she sings well) —she sings good es incorrecto. Un segundo error frecuente es tratar como adverbio un adjetivo que termina en -ly, como friendly, lovely, silly o lonely —she smiled friendly es incorrecto, porque friendly es solo un adjetivo. Di mejor she gave a friendly smile o she smiled in a friendly way.",
       "Fíjate en qué se está describiendo: un sustantivo necesita un adjetivo, un verbo/adjetivo/otro adverbio necesita un adverbio. Una palabra terminada en -ly no es automáticamente un adverbio —comprueba si en realidad es uno de esos adjetivos en -ly (friendly, lovely, silly, lonely, elderly) que describe un sustantivo, o un adverbio auténtico (quickly, carefully) que modifica una acción.",
     ],
     pt: [
@@ -51,7 +51,7 @@ export const adjectivesAdverbs: GrammarTopicContent = {
           "Os advérbios de modo costumam vir depois do verbo, ou depois do verbo + objeto, sem nunca os separar: She sings beautifully; She plays the piano beautifully (e não She sings beautifully the song).",
         ],
       },
-      "O erro mais comum é usar um adjetivo onde é preciso um advérbio, especialmente com good/well: good é sempre o adjetivo (a good singer), well é o advérbio (she sings well) — she sings good está errado. Um segundo erro frequente é tratar como advérbio um adjetivo que termina em -ly, como friendly, lovely, silly ou lonely — she smiled friendly está errado, porque friendly é sempre um adjetivo; diz antes she gave a friendly smile ou she smiled in a friendly way.",
+      "O erro mais comum é usar um adjetivo onde é preciso um advérbio, especialmente com good/well: good é sempre o adjetivo (a good singer), well é o advérbio (she sings well) — she sings good está errado. Um segundo erro frequente é tratar como advérbio um adjetivo que termina em -ly, como friendly, lovely, silly ou lonely — she smiled friendly está errado, porque friendly é sempre um adjetivo. Diz antes she gave a friendly smile ou she smiled in a friendly way.",
       "Repara no que está a ser descrito: um substantivo precisa de um adjetivo, um verbo/adjetivo/outro advérbio precisa de um advérbio. Uma palavra terminada em -ly não é automaticamente um advérbio — verifica se é na verdade um desses adjetivos em -ly (friendly, lovely, silly, lonely, elderly) a descrever um substantivo, ou um advérbio genuíno (quickly, carefully) a modificar uma ação.",
     ],
     it: [
@@ -63,7 +63,7 @@ export const adjectivesAdverbs: GrammarTopicContent = {
           "Gli avverbi di modo si mettono di norma dopo il verbo, o dopo verbo + oggetto, senza mai separarli: She sings beautifully; She plays the piano beautifully (non She sings beautifully the song).",
         ],
       },
-      "L'errore più comune è usare un aggettivo al posto di un avverbio, specialmente con good/well: good è sempre l'aggettivo (a good singer), well è l'avverbio (she sings well) — she sings good è sbagliato. Un secondo errore frequente è trattare come avverbio un aggettivo che finisce in -ly, come friendly, lovely, silly o lonely — she smiled friendly è sbagliato, perché friendly è solo un aggettivo; di' piuttosto she gave a friendly smile o she smiled in a friendly way.",
+      "L'errore più comune è usare un aggettivo al posto di un avverbio, specialmente con good/well: good è sempre l'aggettivo (a good singer), well è l'avverbio (she sings well) — she sings good è sbagliato. Un secondo errore frequente è trattare come avverbio un aggettivo che finisce in -ly, come friendly, lovely, silly o lonely — she smiled friendly è sbagliato, perché friendly è solo un aggettivo. Di' piuttosto she gave a friendly smile o she smiled in a friendly way.",
       "Guarda cosa viene descritto: un nome ha bisogno di un aggettivo, un verbo/aggettivo/altro avverbio ha bisogno di un avverbio. Una parola che finisce in -ly non è automaticamente un avverbio — controlla se si tratta in realtà di uno di quegli aggettivi in -ly (friendly, lovely, silly, lonely, elderly) che descrivono un nome, oppure di un vero avverbio (quickly, carefully) che modifica un'azione.",
     ],
     de: [
@@ -75,7 +75,7 @@ export const adjectivesAdverbs: GrammarTopicContent = {
           "Adverbien der Art und Weise stehen normalerweise nach dem Verb oder nach Verb + Objekt, ohne sie je zu trennen: She sings beautifully; She plays the piano beautifully (nicht She sings beautifully the song).",
         ],
       },
-      "Der häufigste Fehler ist, ein Adjektiv zu verwenden, wo ein Adverb gebraucht wird, besonders bei good/well: good ist immer das Adjektiv (a good singer), well das Adverb (she sings well) — she sings good ist falsch. Ein zweiter häufiger Fehler ist, ein Adjektiv, das zufällig auf -ly endet, wie friendly, lovely, silly oder lonely, wie ein Adverb zu behandeln — she smiled friendly ist falsch, denn friendly ist immer nur ein Adjektiv; sage stattdessen she gave a friendly smile oder she smiled in a friendly way.",
+      "Der häufigste Fehler ist, ein Adjektiv zu verwenden, wo ein Adverb gebraucht wird, besonders bei good/well: good ist immer das Adjektiv (a good singer), well das Adverb (she sings well) — she sings good ist falsch. Ein zweiter häufiger Fehler ist, ein Adjektiv, das zufällig auf -ly endet, wie friendly, lovely, silly oder lonely, wie ein Adverb zu behandeln — she smiled friendly ist falsch, denn friendly ist immer nur ein Adjektiv. Sage stattdessen she gave a friendly smile oder she smiled in a friendly way.",
       "Schau, was beschrieben wird: ein Nomen braucht ein Adjektiv, ein Verb/Adjektiv/anderes Adverb braucht ein Adverb. Ein Wort, das auf -ly endet, ist nicht automatisch ein Adverb — prüfe, ob es sich tatsächlich um eines dieser -ly-Adjektive (friendly, lovely, silly, lonely, elderly) handelt, das ein Nomen beschreibt, oder um ein echtes Adverb (quickly, carefully), das eine Handlung modifiziert.",
     ],
     ru: [
@@ -87,7 +87,7 @@ export const adjectivesAdverbs: GrammarTopicContent = {
           "Наречия образа действия обычно стоят после глагола или после глагола и дополнения, никогда не разделяя их: She sings beautifully; She plays the piano beautifully (а не She sings beautifully the song).",
         ],
       },
-      "Самая частая ошибка — использовать прилагательное там, где нужно наречие, особенно с good/well: good — всегда прилагательное (a good singer), well — наречие (she sings well) — she sings good неправильно. Вторая частая ошибка — принимать за наречие прилагательное, которое просто оканчивается на -ly, например friendly, lovely, silly или lonely: she smiled friendly неправильно, потому что friendly — всегда только прилагательное; лучше сказать she gave a friendly smile или she smiled in a friendly way.",
+      "Самая частая ошибка — использовать прилагательное там, где нужно наречие, особенно с good/well: good — всегда прилагательное (a good singer), well — наречие (she sings well) — she sings good неправильно. Вторая частая ошибка — принимать за наречие прилагательное, которое просто оканчивается на -ly, например friendly, lovely, silly или lonely: she smiled friendly неправильно, потому что friendly — всегда только прилагательное. Лучше сказать she gave a friendly smile или she smiled in a friendly way.",
       "Смотрите, что описывается: существительному нужно прилагательное, глаголу/прилагательному/другому наречию нужно наречие. Слово, оканчивающееся на -ly, не обязательно является наречием — проверьте, не является ли оно на самом деле одним из таких прилагательных на -ly (friendly, lovely, silly, lonely, elderly), описывающим существительное, или это настоящее наречие (quickly, carefully), изменяющее действие.",
     ],
     ar: [
@@ -99,7 +99,7 @@ export const adjectivesAdverbs: GrammarTopicContent = {
           "تأتي ظروف الطريقة عادةً بعد الفعل، أو بعد الفعل والمفعول به، دون أن تفصل بينهما أبدًا: She sings beautifully؛ She plays the piano beautifully (وليس She sings beautifully the song).",
         ],
       },
-      "أكثر الأخطاء شيوعًا هو استخدام صفة في موضع يحتاج إلى ظرف، خصوصًا مع good/well: good هي دائمًا الصفة (a good singer)، وwell هي الظرف (she sings well) — she sings good خطأ. خطأ ثانٍ شائع هو معاملة صفة تنتهي بالمصادفة بـ -ly، مثل friendly أو lovely أو silly أو lonely، وكأنها ظرف — فجملة she smiled friendly خاطئة، لأن friendly لا تكون إلا صفة؛ بل يجب أن تقول she gave a friendly smile أو she smiled in a friendly way.",
+      "أكثر الأخطاء شيوعًا هو استخدام صفة في موضع يحتاج إلى ظرف، خصوصًا مع good/well: good هي دائمًا الصفة (a good singer)، وwell هي الظرف (she sings well) — she sings good خطأ. خطأ ثانٍ شائع هو معاملة صفة تنتهي بالمصادفة بـ -ly، مثل friendly أو lovely أو silly أو lonely، وكأنها ظرف — فجملة she smiled friendly خاطئة، لأن friendly لا تكون إلا صفة. بل يجب أن تقول she gave a friendly smile أو she smiled in a friendly way.",
       "انظر إلى ما يُوصَف: الاسم يحتاج إلى صفة، والفعل/الصفة/الظرف الآخر يحتاج إلى ظرف. ولا تعني نهاية -ly تلقائيًا أن الكلمة ظرف — تحقّق مما إذا كانت في الواقع أحد الصفات المنتهية بـ -ly (friendly، lovely، silly، lonely، elderly) التي تصف اسمًا، أم ظرفًا حقيقيًا (quickly، carefully) يصف فعلاً.",
     ],
     zh: [
@@ -111,7 +111,7 @@ export const adjectivesAdverbs: GrammarTopicContent = {
           "方式副词通常放在动词之后,或动词加宾语之后,绝不把两者拆开:She sings beautifully;She plays the piano beautifully(而不是 She sings beautifully the song)。",
         ],
       },
-      "最常见的错误是该用副词的地方用了形容词,尤其是 good/well:good 永远是形容词(a good singer),well 才是副词(she sings well)——she sings good 是错的。第二个常见错误是把恰好以 -ly 结尾的形容词(如 friendly、lovely、silly、lonely)当成副词——she smiled friendly 是错的,因为 friendly 永远只是形容词;应该说 she gave a friendly smile 或 she smiled in a friendly way。",
+      "最常见的错误是该用副词的地方用了形容词,尤其是 good/well:good 永远是形容词(a good singer),well 才是副词(she sings well)——she sings good 是错的。第二个常见错误是把恰好以 -ly 结尾的形容词(如 friendly、lovely、silly、lonely)当成副词——she smiled friendly 是错的,因为 friendly 永远只是形容词。应该说 she gave a friendly smile 或 she smiled in a friendly way。",
       "看清楚被描述的是什么:名词需要形容词,动词/形容词/另一个副词需要副词。以 -ly 结尾的词不一定就是副词——要检查它是不是实际上是这类以 -ly 结尾的形容词之一(friendly、lovely、silly、lonely、elderly)在修饰名词,还是真正修饰动作的副词(quickly、carefully)。",
     ],
   },

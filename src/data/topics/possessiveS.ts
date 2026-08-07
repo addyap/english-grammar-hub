@@ -18,7 +18,7 @@ export const possessiveS: GrammarTopicContent = {
         ],
       },
       "For things (not people, animals, organizations, or time expressions), of is usually more natural than 's: the roof of the house, the color of the car — not the house's roof, though this is loosening in casual and journalistic English. 's stays standard for time expressions: today's date, a week's notice.",
-      "The most common mistake is writing it's for the possessive: the dog wagged it's tail is wrong — it's always means it is or it has (a contraction), never possession; the possessive of it is its, with no apostrophe at all: the dog wagged its tail. A second common mistake is writing its' — that form doesn't exist in English.",
+      "The most common mistake is writing it's for the possessive: the dog wagged it's tail is wrong — it's always means it is or it has (a contraction), never possession. The possessive of it is its, with no apostrophe at all: the dog wagged its tail. A second common mistake is writing its' — that form doesn't exist in English.",
       "Quick check: can you rephrase it as 'belongs to X' with a person, animal, or organization? → possessive 's. Is the noun already plural and ending in -s? → apostrophe only, no extra s. Could you expand it to it is or it has? → it's, a contraction — never the possessive, which is always its with no apostrophe.",
     ],
     fr: [
@@ -33,7 +33,7 @@ export const possessiveS: GrammarTopicContent = {
         ],
       },
       "Pour les choses (pas les personnes, les animaux, les organisations ni les expressions de temps), of est généralement plus naturel que 's : the roof of the house, the color of the car — et non the house's roof, bien que cela se relâche dans l'anglais familier et journalistique. 's reste la norme pour les expressions de temps : today's date, a week's notice.",
-      "L'erreur la plus fréquente consiste à écrire it's pour le possessif : the dog wagged it's tail est incorrect — it's signifie toujours it is ou it has (une contraction), jamais la possession ; le possessif de it est its, sans aucune apostrophe : the dog wagged its tail. Une deuxième erreur fréquente consiste à écrire its' — cette forme n'existe pas en anglais.",
+      "L'erreur la plus fréquente consiste à écrire it's pour le possessif : the dog wagged it's tail est incorrect — it's signifie toujours it is ou it has (une contraction), jamais la possession. Le possessif de it est its, sans aucune apostrophe : the dog wagged its tail. Une deuxième erreur fréquente consiste à écrire its' — cette forme n'existe pas en anglais.",
       "Vérification rapide : pouvez-vous le reformuler par « appartient à X » avec une personne, un animal ou une organisation ? → 's possessif. Le nom est-il déjà au pluriel et se termine-t-il par -s ? → apostrophe seule, sans s supplémentaire. Pourriez-vous le développer en it is ou it has ? → it's, une contraction — jamais le possessif, qui s'écrit toujours its sans apostrophe.",
     ],
     es: [
@@ -48,7 +48,7 @@ export const possessiveS: GrammarTopicContent = {
         ],
       },
       "Para las cosas (no personas, animales, organizaciones ni expresiones de tiempo), of suele ser más natural que 's: the roof of the house, the color of the car — no the house's roof, aunque esto se relaja en el inglés informal y periodístico. 's sigue siendo estándar para expresiones de tiempo: today's date, a week's notice.",
-      "El error más común es escribir it's para el posesivo: the dog wagged it's tail es incorrecto — it's siempre significa it is o it has (una contracción), nunca posesión; el posesivo de it es its, sin ningún apóstrofo: the dog wagged its tail. Un segundo error común es escribir its' — esa forma no existe en inglés.",
+      "El error más común es escribir it's para el posesivo: the dog wagged it's tail es incorrecto — it's siempre significa it is o it has (una contracción), nunca posesión. El posesivo de it es its, sin ningún apóstrofo: the dog wagged its tail. Un segundo error común es escribir its' — esa forma no existe en inglés.",
       "Comprobación rápida: ¿puedes reformularlo como «pertenece a X» con una persona, animal u organización? → 's posesivo. ¿El sustantivo ya está en plural y termina en -s? → solo apóstrofo, sin s adicional. ¿Podrías expandirlo a it is o it has? → it's, una contracción — nunca el posesivo, que siempre se escribe its sin apóstrofo.",
     ],
     pt: [
@@ -63,7 +63,7 @@ export const possessiveS: GrammarTopicContent = {
         ],
       },
       "Para coisas (não pessoas, animais, organizações ou expressões de tempo), of costuma ser mais natural do que 's: the roof of the house, the color of the car — e não the house's roof, embora isto esteja a relaxar-se no inglês informal e jornalístico. 's continua a ser padrão em expressões de tempo: today's date, a week's notice.",
-      "O erro mais comum é escrever it's para o possessivo: the dog wagged it's tail está errado — it's significa sempre it is ou it has (uma contração), nunca posse; o possessivo de it é its, sem qualquer apóstrofo: the dog wagged its tail. Um segundo erro comum é escrever its' — essa forma não existe em inglês.",
+      "O erro mais comum é escrever it's para o possessivo: the dog wagged it's tail está errado — it's significa sempre it is ou it has (uma contração), nunca posse. O possessivo de it é its, sem qualquer apóstrofo: the dog wagged its tail. Um segundo erro comum é escrever its' — essa forma não existe em inglês.",
       "Verificação rápida: consegues reformulá-lo como «pertence a X» com uma pessoa, animal ou organização? → 's possessivo. O substantivo já está no plural e termina em -s? → só apóstrofo, sem s extra. Poderias expandi-lo para it is ou it has? → it's, uma contração — nunca o possessivo, que se escreve sempre its sem apóstrofo.",
     ],
     it: [
@@ -78,7 +78,7 @@ export const possessiveS: GrammarTopicContent = {
         ],
       },
       "Per le cose (non persone, animali, organizzazioni o espressioni di tempo), of è di solito più naturale di 's: the roof of the house, the color of the car — non the house's roof, anche se questo si sta allentando nell'inglese informale e giornalistico. 's resta standard per le espressioni di tempo: today's date, a week's notice.",
-      "L'errore più comune è scrivere it's per il possessivo: the dog wagged it's tail è sbagliato — it's significa sempre it is o it has (una contrazione), mai possesso; il possessivo di it è its, senza alcun apostrofo: the dog wagged its tail. Un secondo errore comune è scrivere its' — questa forma non esiste in inglese.",
+      "L'errore più comune è scrivere it's per il possessivo: the dog wagged it's tail è sbagliato — it's significa sempre it is o it has (una contrazione), mai possesso. Il possessivo di it è its, senza alcun apostrofo: the dog wagged its tail. Un secondo errore comune è scrivere its' — questa forma non esiste in inglese.",
       "Verifica rapida: puoi riformularlo come 'appartiene a X' con una persona, un animale o un'organizzazione? → 's possessivo. Il nome è già plurale e finisce in -s? → solo apostrofo, senza s in più. Potresti espanderlo in it is o it has? → it's, una contrazione — mai il possessivo, che si scrive sempre its senza apostrofo.",
     ],
     de: [
@@ -93,7 +93,7 @@ export const possessiveS: GrammarTopicContent = {
         ],
       },
       "Bei Dingen (nicht Personen, Tieren, Organisationen oder Zeitausdrücken) ist of meist natürlicher als 's: the roof of the house, the color of the car — nicht the house's roof, auch wenn sich das im lockeren und journalistischen Englisch aufweicht. 's bleibt Standard bei Zeitausdrücken: today's date, a week's notice.",
-      "Der häufigste Fehler ist, it's für den Possessiv zu schreiben: the dog wagged it's tail ist falsch — it's bedeutet immer it is oder it has (eine Kurzform), nie Besitz; der Possessiv von it ist its, ganz ohne Apostroph: the dog wagged its tail. Ein zweiter häufiger Fehler ist, its' zu schreiben — diese Form gibt es im Englischen nicht.",
+      "Der häufigste Fehler ist, it's für den Possessiv zu schreiben: the dog wagged it's tail ist falsch — it's bedeutet immer it is oder it has (eine Kurzform), nie Besitz. Der Possessiv von it ist its, ganz ohne Apostroph: the dog wagged its tail. Ein zweiter häufiger Fehler ist, its' zu schreiben — diese Form gibt es im Englischen nicht.",
       "Schnelltest: Lässt es sich als „gehört zu X“ umformulieren, mit einer Person, einem Tier oder einer Organisation? → possessives 's. Steht das Nomen schon im Plural und endet auf -s? → nur Apostroph, kein zusätzliches s. Ließe es sich zu it is oder it has erweitern? → it's, eine Kurzform — nie der Possessiv, der immer its ohne Apostroph geschrieben wird.",
     ],
     ru: [
@@ -108,7 +108,7 @@ export const possessiveS: GrammarTopicContent = {
         ],
       },
       "Для вещей (не людей, животных, организаций или временных выражений) of обычно звучит естественнее, чем 's: the roof of the house, the color of the car — а не the house's roof, хотя в неформальном и журналистском английском это правило смягчается. 's остаётся стандартом для временных выражений: today's date, a week's notice.",
-      "Самая частая ошибка — писать it's вместо притяжательной формы: the dog wagged it's tail неправильно — it's всегда означает it is или it has (сокращение), а не притяжательность; притяжательная форма it — это its, вообще без апострофа: the dog wagged its tail. Вторая частая ошибка — писать its' — такой формы в английском не существует.",
+      "Самая частая ошибка — писать it's вместо притяжательной формы: the dog wagged it's tail неправильно — it's всегда означает it is или it has (сокращение), а не притяжательность. Притяжательная форма it — это its, вообще без апострофа: the dog wagged its tail. Вторая частая ошибка — писать its' — такой формы в английском не существует.",
       "Быстрая проверка: можно ли перефразировать как «принадлежит X» с человеком, животным или организацией? → притяжательный 's. Существительное уже во множественном числе и оканчивается на -s? → только апостроф, без лишнего s. Можно ли развернуть это как it is или it has? → it's, сокращение — никогда не притяжательная форма, которая всегда пишется its без апострофа.",
     ],
     ar: [
@@ -123,7 +123,7 @@ export const possessiveS: GrammarTopicContent = {
         ],
       },
       "بالنسبة للأشياء (وليس الأشخاص أو الحيوانات أو المؤسسات أو التعبيرات الزمنية)، عادةً ما تكون of أكثر طبيعية من 's: the roof of the house، the color of the car — وليس the house's roof، رغم أن هذه القاعدة تتراخى في الإنجليزية غير الرسمية والصحفية. تبقى 's هي المعيار في التعبيرات الزمنية: today's date، a week's notice.",
-      "أكثر الأخطاء شيوعًا هو كتابة it's بدلًا من صيغة الملكية: the dog wagged it's tail خطأ — فـ it's تعني دائمًا it is أو it has (اختصار)، وليست ملكية أبدًا؛ صيغة ملكية it هي its، دون أي فاصلة عليا: the dog wagged its tail. والخطأ الشائع الثاني هو كتابة its' — فهذه الصيغة غير موجودة في الإنجليزية.",
+      "أكثر الأخطاء شيوعًا هو كتابة it's بدلًا من صيغة الملكية: the dog wagged it's tail خطأ — فـ it's تعني دائمًا it is أو it has (اختصار)، وليست ملكية أبدًا. صيغة ملكية it هي its، دون أي فاصلة عليا: the dog wagged its tail. والخطأ الشائع الثاني هو كتابة its' — فهذه الصيغة غير موجودة في الإنجليزية.",
       "تحقق سريع: هل يمكن إعادة صياغتها كـ «تخص X» مع شخص أو حيوان أو مؤسسة؟ → 's للملكية. هل الاسم بالفعل جمع وينتهي بـ -s؟ → فاصلة عليا فقط، دون s إضافية. هل يمكن توسيعها إلى it is أو it has؟ → it's، وهي اختصار — وليست الملكية أبدًا، التي تُكتب دائمًا its دون فاصلة عليا.",
     ],
     zh: [
@@ -138,7 +138,7 @@ export const possessiveS: GrammarTopicContent = {
         ],
       },
       "对于物品(不是人、动物、组织或时间表达),of 通常比 's 更自然:the roof of the house、the color of the car——而不是 the house's roof,不过在非正式和新闻英语中这一规则正在放宽。's 在时间表达中仍然是标准用法:today's date、a week's notice。",
-      "最常见的错误是把 it's 当作所有格来写:the dog wagged it's tail 是错的——it's 永远表示 it is 或 it has(缩略形式),从不表示所有格;it 的所有格是 its,完全不带撇号:the dog wagged its tail。第二个常见错误是写成 its'——这种形式在英语中并不存在。",
+      "最常见的错误是把 it's 当作所有格来写:the dog wagged it's tail 是错的——it's 永远表示 it is 或 it has(缩略形式),从不表示所有格。it 的所有格是 its,完全不带撇号:the dog wagged its tail。第二个常见错误是写成 its'——这种形式在英语中并不存在。",
       "快速判断:能不能改写成「属于 X」,而 X 是人、动物或组织?→ 所有格 's。这个名词是不是已经是复数并以 -s 结尾?→ 只加撇号,不加多余的 s。能不能展开成 it is 或 it has?→ it's,是缩略形式——绝不是所有格,所有格永远写作 its,不带撇号。",
     ],
   },
