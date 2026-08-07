@@ -18,7 +18,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
         ],
       },
       "The most common mistake is combining both comparative markers on the same adjective — more taller and most beautifullest are both wrong; pick one pattern, the -er/-est ending or more/most, never both. A second frequent error is using than with an equality structure — as tall than his brother is wrong; than only ever follows a true comparative (-er or more), while equality only ever uses as...as.",
-      "Look for -er or -est attached directly to a short adjective, more or most in front of a longer one, than signalling exactly two things being measured against each other, as...as (or not as...as) for equality or inequality, and the before every superlative — a superlative always singles out one specific item from a larger group.",
+      "Look for -er or -est attached directly to a short adjective, more or most in front of a longer one, than signalling exactly two things being measured against each other, as...as (or not as...as) for equality or inequality, and the before every superlative. A superlative always singles out one specific item from a larger group.",
     ],
     fr: [
       "Utilisez un comparatif pour dire qu'une chose a plus (ou moins) d'une qualité qu'une autre chose unique — This bag is cheaper than that one. Utilisez un superlatif pour dire que quelque chose a le plus (ou le moins) d'une qualité au sein d'un groupe de trois éléments ou plus — This is the cheapest bag in the shop. Un comparatif mesure toujours exactement deux éléments l'un par rapport à l'autre avec than ; un superlatif prend toujours the, car il désigne un élément précis qui l'emporte sur tous les autres de son groupe.",
@@ -32,7 +32,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
         ],
       },
       "L'erreur la plus fréquente est de cumuler les deux marqueurs de comparatif sur le même adjectif — more taller et most beautifullest sont tous deux incorrects ; choisissez un seul schéma, la terminaison -er/-est ou more/most, jamais les deux. Une deuxième erreur fréquente est d'employer than avec une structure d'égalité — as tall than his brother est incorrect ; than ne suit jamais qu'un véritable comparatif (-er ou more), tandis que l'égalité n'emploie que as...as.",
-      "Repérez -er ou -est directement accolé à un adjectif court, more ou most devant un adjectif plus long, than signalant que exactement deux éléments sont mesurés l'un par rapport à l'autre, as...as (ou not as...as) pour l'égalité ou l'inégalité, et the devant chaque superlatif — un superlatif désigne toujours un élément précis au sein d'un groupe plus large.",
+      "Repérez -er ou -est directement accolé à un adjectif court, more ou most devant un adjectif plus long, than signalant que exactement deux éléments sont mesurés l'un par rapport à l'autre, as...as (ou not as...as) pour l'égalité ou l'inégalité, et the devant chaque superlatif. Un superlatif désigne toujours un élément précis au sein d'un groupe plus large.",
     ],
     es: [
       "Usa un comparativo para decir que algo tiene más (o menos) de una cualidad que otra cosa concreta — This bag is cheaper than that one. Usa un superlativo para decir que algo tiene la mayor (o menor) cantidad de una cualidad dentro de un grupo de tres o más — This is the cheapest bag in the shop. Un comparativo siempre mide exactamente dos cosas entre sí con than; un superlativo siempre lleva the, porque señala un elemento concreto que supera a todos los demás de su grupo.",
@@ -46,7 +46,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
         ],
       },
       "El error más frecuente es combinar los dos marcadores de comparativo en el mismo adjetivo —more taller y most beautifullest son ambos incorrectos; elige un solo patrón, la terminación -er/-est o more/most, nunca los dos. Un segundo error frecuente es usar than con una estructura de igualdad —as tall than his brother es incorrecto; than solo sigue a un comparativo real (-er o more), mientras que la igualdad solo usa as...as.",
-      "Fíjate en -er o -est unido directamente a un adjetivo corto, more o most delante de uno más largo, than que indica que se están midiendo exactamente dos cosas entre sí, as...as (o not as...as) para la igualdad o la desigualdad, y the delante de cada superlativo —un superlativo siempre señala un elemento concreto dentro de un grupo más amplio.",
+      "Fíjate en -er o -est unido directamente a un adjetivo corto, more o most delante de uno más largo, than que indica que se están midiendo exactamente dos cosas entre sí, as...as (o not as...as) para la igualdad o la desigualdad, y the delante de cada superlativo. Un superlativo siempre señala un elemento concreto dentro de un grupo más amplio.",
     ],
     pt: [
       "Usa um comparativo para dizer que algo tem mais (ou menos) de uma qualidade do que outra coisa concreta — This bag is cheaper than that one. Usa um superlativo para dizer que algo tem a maior (ou menor) quantidade de uma qualidade dentro de um grupo de três ou mais — This is the cheapest bag in the shop. Um comparativo mede sempre exatamente duas coisas entre si com than; um superlativo leva sempre the, porque assinala um elemento concreto que supera todos os outros do seu grupo.",
@@ -60,7 +60,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
         ],
       },
       "O erro mais comum é combinar os dois marcadores de comparativo no mesmo adjetivo —more taller e most beautifullest estão ambos errados; escolhe um só padrão, a terminação -er/-est ou more/most, nunca os dois. Um segundo erro frequente é usar than com uma estrutura de igualdade —as tall than his brother está errado; than só se segue a um comparativo verdadeiro (-er ou more), enquanto a igualdade só usa as...as.",
-      "Repara em -er ou -est diretamente ligado a um adjetivo curto, more ou most antes de um mais longo, than a assinalar que estão a ser medidas exatamente duas coisas entre si, as...as (ou not as...as) para a igualdade ou desigualdade, e the antes de cada superlativo —um superlativo assinala sempre um elemento concreto dentro de um grupo mais alargado.",
+      "Repara em -er ou -est diretamente ligado a um adjetivo curto, more ou most antes de um mais longo, than a assinalar que estão a ser medidas exatamente duas coisas entre si, as...as (ou not as...as) para a igualdade ou desigualdade, e the antes de cada superlativo. Um superlativo assinala sempre um elemento concreto dentro de um grupo mais alargado.",
     ],
     it: [
       "Usa un comparativo per dire che una cosa ha più (o meno) di una qualità rispetto a un'altra cosa specifica — This bag is cheaper than that one. Usa un superlativo per dire che qualcosa ha la maggiore (o minore) quantità di una qualità all'interno di un gruppo di tre o più elementi — This is the cheapest bag in the shop. Un comparativo misura sempre esattamente due cose l'una rispetto all'altra con than; un superlativo prende sempre the, perché indica un elemento specifico che supera tutti gli altri del suo gruppo.",
@@ -74,7 +74,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
         ],
       },
       "L'errore più comune è combinare entrambi i marcatori di comparativo sullo stesso aggettivo — more taller e most beautifullest sono entrambi sbagliati; scegli un solo schema, la terminazione -er/-est oppure more/most, mai entrambi. Un secondo errore frequente è usare than con una struttura di uguaglianza — as tall than his brother è sbagliato; than segue solo un vero comparativo (-er o more), mentre l'uguaglianza usa solo as...as.",
-      "Cerca -er o -est attaccato direttamente a un aggettivo breve, more o most davanti a uno più lungo, than che segnala che si stanno confrontando esattamente due cose, as...as (o not as...as) per l'uguaglianza o la disuguaglianza, e the prima di ogni superlativo — un superlativo indica sempre un elemento specifico all'interno di un gruppo più ampio.",
+      "Cerca -er o -est attaccato direttamente a un aggettivo breve, more o most davanti a uno più lungo, than che segnala che si stanno confrontando esattamente due cose, as...as (o not as...as) per l'uguaglianza o la disuguaglianza, e the prima di ogni superlativo. Un superlativo indica sempre un elemento specifico all'interno di un gruppo più ampio.",
     ],
     de: [
       "Verwende einen Komparativ, um zu sagen, dass etwas mehr (oder weniger) von einer Eigenschaft hat als eine andere bestimmte Sache — This bag is cheaper than that one. Verwende einen Superlativ, um zu sagen, dass etwas die meiste (oder wenigste) Eigenschaft innerhalb einer Gruppe von drei oder mehr hat — This is the cheapest bag in the shop. Ein Komparativ misst immer genau zwei Dinge gegeneinander mit than; ein Superlativ steht immer mit the, weil er auf ein bestimmtes Element verweist, das alle anderen in seiner Gruppe übertrifft.",
@@ -88,7 +88,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
         ],
       },
       "Der häufigste Fehler ist, beide Komparativ-Markierungen am selben Adjektiv zu kombinieren — more taller und most beautifullest sind beide falsch; wähle nur ein Muster, entweder die Endung -er/-est oder more/most, niemals beide. Ein zweiter häufiger Fehler ist, than mit einer Gleichheitsstruktur zu verwenden — as tall than his brother ist falsch; than folgt nur auf einen echten Komparativ (-er oder more), während Gleichheit nur as...as verwendet.",
-      "Achte auf -er oder -est direkt an einem kurzen Adjektiv, more oder most vor einem längeren, than als Signal dafür, dass genau zwei Dinge gegeneinander gemessen werden, as...as (oder not as...as) für Gleichheit oder Ungleichheit, und the vor jedem Superlativ — ein Superlativ verweist immer auf ein bestimmtes Element innerhalb einer größeren Gruppe.",
+      "Achte auf -er oder -est direkt an einem kurzen Adjektiv, more oder most vor einem längeren, than als Signal dafür, dass genau zwei Dinge gegeneinander gemessen werden, as...as (oder not as...as) für Gleichheit oder Ungleichheit, und the vor jedem Superlativ. Ein Superlativ verweist immer auf ein bestimmtes Element innerhalb einer größeren Gruppe.",
     ],
     ru: [
       "Используйте сравнительную степень, чтобы сказать, что у чего-то больше (или меньше) качества, чем у другой конкретной вещи — This bag is cheaper than that one. Используйте превосходную степень, чтобы сказать, что у чего-то больше всего (или меньше всего) качества в группе из трёх и более — This is the cheapest bag in the shop. Сравнительная степень всегда сопоставляет ровно два предмета с помощью than; превосходная степень всегда требует the, поскольку указывает на один конкретный элемент, превосходящий все остальные в своей группе.",
@@ -102,7 +102,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
         ],
       },
       "Самая частая ошибка — сочетать оба маркера сравнительной степени на одном и том же прилагательном: more taller и most beautifullest оба варианта неправильны; выбирайте только одну схему — окончание -er/-est или more/most, но никогда обе сразу. Вторая частая ошибка — использовать than со структурой равенства: as tall than his brother неправильно; than следует только за настоящей сравнительной степенью (-er или more), а равенство использует только as...as.",
-      "Обратите внимание на -er или -est, присоединённые напрямую к короткому прилагательному, на more или most перед более длинным, на than, сигнализирующее, что сравниваются ровно два предмета, на as...as (или not as...as) для равенства или неравенства, и на the перед каждой превосходной степенью — превосходная степень всегда указывает на один конкретный элемент внутри более крупной группы.",
+      "Обратите внимание на -er или -est, присоединённые напрямую к короткому прилагательному, на more или most перед более длинным, на than, сигнализирующее, что сравниваются ровно два предмета, на as...as (или not as...as) для равенства или неравенства, и на the перед каждой превосходной степенью. Превосходная степень всегда указывает на один конкретный элемент внутри более крупной группы.",
     ],
     ar: [
       "استخدم صيغة المقارنة للقول إن شيئًا ما يملك قدرًا أكبر (أو أقل) من صفة معينة مقارنةً بشيء آخر محدد — This bag is cheaper than that one. استخدم صيغة التفضيل للقول إن شيئًا ما يملك أكبر (أو أقل) قدر من صفة معينة ضمن مجموعة من ثلاثة عناصر أو أكثر — This is the cheapest bag in the shop. تقيس صيغة المقارنة دائمًا شيئين بالتحديد أحدهما بالآخر باستخدام than؛ وتأخذ صيغة التفضيل دائمًا the، لأنها تشير إلى عنصر محدد يتفوق على كل العناصر الأخرى في مجموعته.",
@@ -116,7 +116,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
         ],
       },
       "أكثر الأخطاء شيوعًا هو الجمع بين علامتي المقارنة على الصفة نفسها — more taller وmost beautifullest كلاهما خطأ؛ اختر نمطًا واحدًا فقط، إما نهاية -er/-est أو more/most، ولا تجمع بينهما أبدًا. خطأ ثانٍ شائع هو استخدام than مع تركيب التساوي — as tall than his brother خطأ؛ than لا تأتي إلا بعد صيغة مقارنة حقيقية (-er أو more)، بينما التساوي لا يستخدم إلا as...as.",
-      "ابحث عن -er أو -est ملتصقة مباشرة بصفة قصيرة، وmore أو most قبل صفة أطول، وthan كإشارة إلى أن شيئين بالتحديد يُقاسان أحدهما بالآخر، وas...as (أو not as...as) للتساوي أو عدم التساوي، وthe قبل كل صيغة تفضيل — فصيغة التفضيل تشير دائمًا إلى عنصر محدد داخل مجموعة أكبر.",
+      "ابحث عن -er أو -est ملتصقة مباشرة بصفة قصيرة، وmore أو most قبل صفة أطول، وthan كإشارة إلى أن شيئين بالتحديد يُقاسان أحدهما بالآخر، وas...as (أو not as...as) للتساوي أو عدم التساوي، وthe قبل كل صيغة تفضيل. صيغة التفضيل تشير دائمًا إلى عنصر محدد داخل مجموعة أكبر.",
     ],
     zh: [
       "用比较级来表示某事物比另一个具体事物拥有更多(或更少)的某种特质——This bag is cheaper than that one。用最高级来表示某事物在三个或更多的一组事物中拥有最多(或最少)的某种特质——This is the cheapest bag in the shop。比较级总是用 than 来对比恰好两件事物;最高级前面总是加 the,因为它指向一组事物中胜过所有其他成员的那个具体对象。",
@@ -130,7 +130,7 @@ export const comparativesSuperlatives: GrammarTopicContent = {
         ],
       },
       "最常见的错误是在同一个形容词上同时使用两种比较级标记——more taller 和 most beautifullest 都是错的;只能选一种模式,要么用 -er/-est 词尾,要么用 more/most,绝不能两者同时使用。第二个常见错误是在表示相等的结构中使用 than——as tall than his brother 是错的;than 只能跟在真正的比较级(-er 或 more)后面,而表示相等只能用 as...as。",
-      "留意直接加在短形容词后面的 -er 或 -est、长形容词前面的 more 或 most、表示恰好在比较两件事物的 than、表示相等或不相等的 as...as(或 not as...as),以及每个最高级前面的 the——最高级总是从一个更大的群体中挑出一个具体的对象。",
+      "留意直接加在短形容词后面的 -er 或 -est、长形容词前面的 more 或 most、表示恰好在比较两件事物的 than、表示相等或不相等的 as...as(或 not as...as),以及每个最高级前面的 the。最高级总是从一个更大的群体中挑出一个具体的对象。",
     ],
   },
   paragraphKinds: ["use", "form", "mistake", "markers"],
