@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "validate": "tsx scripts/validate.ts",
+    "readability": "tsx scripts/readability.ts --scope=all && tsx scripts/readability.ts --levels=B1,B2,C1,C2 --max=70 --scope=all",
     "sitemap": "tsx scripts/generate-sitemap.ts",
     "build": "tsx scripts/validate.ts && tsx scripts/generate-sitemap.ts && tsc -b && vite build",
     "lint": "oxlint",
