@@ -17,7 +17,7 @@ export const zeroArticle: GrammarTopicContent = {
           "next/last + time word: next week, last year (no 'the' needed, unlike 'the following week')",
         ],
       },
-      "The most common mistake is adding the to a general plural/uncountable statement, especially for speakers whose language uses a definite article for generic meaning: many Romance languages say the equivalent of 'the cats are independent animals' to mean cats in general, but English drops the article there — cats are independent animals, not the cats are independent animals; the same applies to abstract or mass nouns: love is powerful, not the love is powerful.",
+      "The most common mistake is adding the to a general plural or uncountable statement. This is especially tempting for speakers whose language uses a definite article for generic meaning: many Romance languages say the equivalent of 'the cats are independent animals' to mean cats in general, but English drops the article there — cats are independent animals, not the cats are independent animals. The same applies to abstract or mass nouns: love is powerful, not the love is powerful.",
       "Quick check: talking about a whole category or general truth with a plural or uncountable noun → zero article. Talking about one specific, already-identified example → the. Talking about one example from many, first mention, singular countable → a/an.",
     ],
     fr: [
@@ -31,7 +31,7 @@ export const zeroArticle: GrammarTopicContent = {
           "next/last + mot de temps : next week, last year (pas besoin de « the », contrairement à the following week)",
         ],
       },
-      "L'erreur la plus fréquente consiste à ajouter the à une déclaration générale au pluriel ou indénombrable, surtout pour les locuteurs dont la langue emploie un article défini pour le sens générique : de nombreuses langues romanes disent l'équivalent de « les chats sont des animaux indépendants » pour parler des chats en général, mais l'anglais supprime l'article dans ce cas — cats are independent animals, et non the cats are independent animals ; la même règle s'applique aux noms abstraits ou indénombrables : love is powerful, et non the love is powerful.",
+      "L'erreur la plus fréquente consiste à ajouter the à une déclaration générale au pluriel ou indénombrable. C'est particulièrement tentant pour les locuteurs dont la langue emploie un article défini pour le sens générique : de nombreuses langues romanes disent l'équivalent de « les chats sont des animaux indépendants » pour parler des chats en général, mais l'anglais supprime l'article dans ce cas — cats are independent animals, et non the cats are independent animals. La même règle s'applique aux noms abstraits ou indénombrables : love is powerful, et non the love is powerful.",
       "Vérification rapide : parler de toute une catégorie ou d'une vérité générale avec un nom pluriel ou indénombrable → zero article. Parler d'un exemple précis et déjà identifié → the. Parler d'un exemple parmi d'autres, première mention, dénombrable singulier → a/an.",
     ],
     es: [
@@ -45,7 +45,7 @@ export const zeroArticle: GrammarTopicContent = {
           "next/last + palabra de tiempo: next week, last year (no hace falta «the», a diferencia de the following week)",
         ],
       },
-      "El error más común es añadir the a una afirmación general en plural o incontable, sobre todo en hablantes cuyo idioma usa un artículo definido para el sentido genérico: muchas lenguas romances dicen el equivalente de «los gatos son animales independientes» para hablar de los gatos en general, pero el inglés omite el artículo ahí — cats are independent animals, no the cats are independent animals; lo mismo pasa con nombres abstractos o incontables: love is powerful, no the love is powerful.",
+      "El error más común es añadir the a una afirmación general en plural o incontable. Resulta especialmente tentador para hablantes cuyo idioma usa un artículo definido para el sentido genérico: muchas lenguas romances dicen el equivalente de «los gatos son animales independientes» para hablar de los gatos en general, pero el inglés omite el artículo ahí — cats are independent animals, no the cats are independent animals. Lo mismo pasa con nombres abstractos o incontables: love is powerful, no the love is powerful.",
       "Comprobación rápida: hablar de toda una categoría o una verdad general con un sustantivo plural o incontable → zero article. Hablar de un ejemplo concreto y ya identificado → the. Hablar de un ejemplo entre varios, primera mención, contable singular → a/an.",
     ],
     pt: [
@@ -59,7 +59,7 @@ export const zeroArticle: GrammarTopicContent = {
           "next/last + palavra de tempo: next week, last year (não é preciso «the», ao contrário de the following week)",
         ],
       },
-      "O erro mais comum é acrescentar the a uma afirmação geral no plural ou incontável, sobretudo em falantes cuja língua usa um artigo definido para o sentido genérico: muitas línguas românicas dizem o equivalente a «os gatos são animais independentes» para falar de gatos em geral, mas o inglês retira o artigo aí — cats are independent animals, e não the cats are independent animals; o mesmo se aplica a nomes abstratos ou incontáveis: love is powerful, e não the love is powerful.",
+      "O erro mais comum é acrescentar the a uma afirmação geral no plural ou incontável. É especialmente tentador para falantes cuja língua usa um artigo definido para o sentido genérico: muitas línguas românicas dizem o equivalente a «os gatos são animais independentes» para falar de gatos em geral, mas o inglês retira o artigo aí — cats are independent animals, e não the cats are independent animals. O mesmo se aplica a nomes abstratos ou incontáveis: love is powerful, e não the love is powerful.",
       "Verificação rápida: falar de toda uma categoria ou de uma verdade geral com um substantivo plural ou incontável → zero article. Falar de um exemplo específico e já identificado → the. Falar de um exemplo entre vários, primeira menção, contável singular → a/an.",
     ],
     it: [
@@ -73,7 +73,7 @@ export const zeroArticle: GrammarTopicContent = {
           "next/last + parola di tempo: next week, last year (non serve «the», a differenza di the following week)",
         ],
       },
-      "L'errore più comune è aggiungere the a un'affermazione generale al plurale o non numerabile, soprattutto per chi parla lingue che usano un articolo determinativo per il senso generico: molte lingue romanze dicono l'equivalente di «i gatti sono animali indipendenti» per parlare dei gatti in generale, ma l'inglese omette l'articolo in quel caso — cats are independent animals, non the cats are independent animals; lo stesso vale per nomi astratti o non numerabili: love is powerful, non the love is powerful.",
+      "L'errore più comune è aggiungere the a un'affermazione generale al plurale o non numerabile. È particolarmente allettante per chi parla lingue che usano un articolo determinativo per il senso generico: molte lingue romanze dicono l'equivalente di «i gatti sono animali indipendenti» per parlare dei gatti in generale, ma l'inglese omette l'articolo in quel caso — cats are independent animals, non the cats are independent animals. Lo stesso vale per nomi astratti o non numerabili: love is powerful, non the love is powerful.",
       "Verifica rapida: parlare di un'intera categoria o di una verità generale con un nome plurale o non numerabile → zero article. Parlare di un esempio specifico e già identificato → the. Parlare di un esempio tra tanti, prima menzione, numerabile singolare → a/an.",
     ],
     de: [
@@ -87,7 +87,7 @@ export const zeroArticle: GrammarTopicContent = {
           "next/last + Zeitwort: next week, last year (kein „the“ nötig, anders als bei the following week)",
         ],
       },
-      "Der häufigste Fehler ist, the zu einer allgemeinen Plural- oder nicht zählbaren Aussage hinzuzufügen, besonders bei Sprechern, deren Sprache für generische Bedeutung einen bestimmten Artikel benutzt: Viele romanische Sprachen sagen sinngemäß „die Katzen sind unabhängige Tiere“, um Katzen im Allgemeinen zu meinen, aber im Englischen entfällt dort der Artikel — cats are independent animals, nicht the cats are independent animals; dasselbe gilt für abstrakte oder nicht zählbare Nomen: love is powerful, nicht the love is powerful.",
+      "Der häufigste Fehler ist, the zu einer allgemeinen Plural- oder nicht zählbaren Aussage hinzuzufügen. Besonders naheliegend ist das für Sprecher, deren Sprache für generische Bedeutung einen bestimmten Artikel benutzt: Viele romanische Sprachen sagen sinngemäß „die Katzen sind unabhängige Tiere“, um Katzen im Allgemeinen zu meinen, aber im Englischen entfällt dort der Artikel — cats are independent animals, nicht the cats are independent animals. Dasselbe gilt für abstrakte oder nicht zählbare Nomen: love is powerful, nicht the love is powerful.",
       "Schnelltest: Sprichst du über eine ganze Kategorie oder eine allgemeine Wahrheit mit einem Plural- oder nicht zählbaren Nomen → Zero Article. Sprichst du über ein bestimmtes, bereits identifiziertes Beispiel → the. Sprichst du über ein Beispiel unter vielen, erste Erwähnung, zählbarer Singular → a/an.",
     ],
     ru: [
@@ -101,7 +101,7 @@ export const zeroArticle: GrammarTopicContent = {
           "next/last + слово времени: next week, last year (артикль the не нужен, в отличие от the following week)",
         ],
       },
-      "Самая частая ошибка — добавлять the к общему утверждению во множественном числе или с неисчисляемым существительным, особенно у носителей языков, где для общего значения используется определённый артикль: во многих романских языках говорят нечто вроде «кошки — независимые животные» с определённым артиклем, но в английском в этом случае артикль опускается — cats are independent animals, а не the cats are independent animals; то же касается абстрактных или неисчисляемых существительных: love is powerful, а не the love is powerful.",
+      "Самая частая ошибка — добавлять the к общему утверждению во множественном числе или с неисчисляемым существительным. Особенно легко на это сбиться носителям языков, где для общего значения используется определённый артикль: во многих романских языках говорят нечто вроде «кошки — независимые животные» с определённым артиклем, но в английском в этом случае артикль опускается — cats are independent animals, а не the cats are independent animals. То же касается абстрактных или неисчисляемых существительных: love is powerful, а не the love is powerful.",
       "Быстрая проверка: говорите о целой категории или общей истине с существительным во множественном числе или неисчисляемым → нулевой артикль. Говорите о конкретном, уже определённом примере → the. Говорите об одном примере среди многих, первое упоминание, исчисляемое единственное число → a/an.",
     ],
     ar: [
@@ -115,7 +115,7 @@ export const zeroArticle: GrammarTopicContent = {
           "next/last + كلمة زمنية: next week، last year (لا حاجة إلى «the»، خلافًا لـ the following week)",
         ],
       },
-      "أكثر الأخطاء شيوعًا هو إضافة the إلى عبارة عامة بصيغة الجمع أو غير المعدود، خصوصًا لدى المتحدثين الذين تستخدم لغتهم أداة تعريف للمعنى العام: تقول لغات رومانسية كثيرة ما يعادل «القطط حيوانات مستقلة» بأداة التعريف للحديث عن القطط عمومًا، لكن الإنجليزية تحذف الأداة هنا — cats are independent animals، وليس the cats are independent animals؛ وينطبق الأمر نفسه على الأسماء المجردة أو غير المعدودة: love is powerful، وليس the love is powerful.",
+      "أكثر الأخطاء شيوعًا هو إضافة the إلى عبارة عامة بصيغة الجمع أو غير المعدود. وهذا مغرٍ بوجه خاص لدى المتحدثين الذين تستخدم لغتهم أداة تعريف للمعنى العام: تقول لغات رومانسية كثيرة ما يعادل «القطط حيوانات مستقلة» بأداة التعريف للحديث عن القطط عمومًا، لكن الإنجليزية تحذف الأداة هنا — cats are independent animals، وليس the cats are independent animals. وينطبق الأمر نفسه على الأسماء المجردة أو غير المعدودة: love is powerful، وليس the love is powerful.",
       "تحقق سريع: الحديث عن فئة كاملة أو حقيقة عامة باسم جمع أو غير معدود → zero article. الحديث عن مثال محدد ومعروف بالفعل → the. الحديث عن مثال واحد من بين كثيرين، ذكر أول، مفرد معدود → a/an.",
     ],
     zh: [
@@ -129,7 +129,7 @@ export const zeroArticle: GrammarTopicContent = {
           "next/last + 时间词:next week、last year(不需要「the」,这一点和 the following week 不同)",
         ],
       },
-      "最常见的错误是在复数或不可数名词的泛指陈述中加上 the,对于母语中泛指意义要用定冠词的学习者尤其常见:许多罗曼语族语言会用相当于「这些猫是独立的动物」的定冠词说法来表达猫这一类别,但英语在这种情况下要去掉冠词——cats are independent animals,而不是 the cats are independent animals;抽象名词或不可数名词也是同样的道理:love is powerful,而不是 the love is powerful。",
+      "最常见的错误是在复数或不可数名词的泛指陈述中加上 the。对于母语中泛指意义要用定冠词的学习者来说,这种错误尤其容易发生:许多罗曼语族语言会用相当于「这些猫是独立的动物」的定冠词说法来表达猫这一类别,但英语在这种情况下要去掉冠词——cats are independent animals,而不是 the cats are independent animals。抽象名词或不可数名词也是同样的道理:love is powerful,而不是 the love is powerful。",
       "快速判断:用复数或不可数名词谈论整个类别或普遍真理 → 零冠词。谈论一个具体的、已经确定的例子 → the。谈论众多例子中的一个、首次提及、单数可数名词 → a/an。",
     ],
   },

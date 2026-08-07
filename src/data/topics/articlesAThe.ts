@@ -18,7 +18,7 @@ export const articlesAThe: GrammarTopicContent = {
           "obvious from the shared situation: pass the salt, please (the salt on this table)",
         ],
       },
-      "The most common mistake is using the with a first mention, or a/an with a plural or uncountable noun: say I saw a dog (first mention), not I saw the dog, unless you've already established which dog; and never say a dogs or a information — a/an only combines with singular countable nouns, never with plurals or uncountables (see 'Zero Article' for what to use instead).",
+      "The most common mistake is using the with a first mention, or a/an with a plural or uncountable noun. Say I saw a dog (first mention), not I saw the dog, unless you've already established which dog. And never say a dogs or a information: a/an only combines with singular countable nouns, never with plurals or uncountables (see 'Zero Article' for what to use instead).",
       "Quick check: if this is the first time the listener hears about it, or it's just one of many → a/an (singular countable only). If you and the listener both already know exactly which one → the. If in doubt, ask: could my listener point to a different one? If yes, use a/an; if no, use the.",
     ],
     fr: [
@@ -33,7 +33,7 @@ export const articlesAThe: GrammarTopicContent = {
           "évident d'après la situation partagée : pass the salt, please (le sel sur cette table)",
         ],
       },
-      "L'erreur la plus fréquente consiste à employer the à la première mention, ou a/an avec un nom pluriel ou indénombrable : dites I saw a dog (première mention), et non I saw the dog, sauf si vous avez déjà établi de quel chien il s'agit ; et ne dites jamais a dogs ni a information — a/an ne s'emploie qu'avec un nom dénombrable singulier, jamais avec un pluriel ou un indénombrable (voir « Zero Article » pour savoir quoi employer à la place).",
+      "L'erreur la plus fréquente consiste à employer the à la première mention, ou a/an avec un nom pluriel ou indénombrable. Dites I saw a dog (première mention), et non I saw the dog, sauf si vous avez déjà établi de quel chien il s'agit. Et ne dites jamais a dogs ni a information : a/an ne s'emploie qu'avec un nom dénombrable singulier, jamais avec un pluriel ou un indénombrable (voir « Zero Article » pour savoir quoi employer à la place).",
       "Vérification rapide : si c'est la première fois que l'auditeur en entend parler, ou s'il s'agit d'un élément parmi d'autres → a/an (dénombrable singulier uniquement). Si vous et votre interlocuteur savez déjà tous les deux exactement de quoi il s'agit → the. En cas de doute, demandez-vous : mon interlocuteur pourrait-il pointer un autre élément différent ? Si oui, employez a/an ; sinon, employez the.",
     ],
     es: [
@@ -48,7 +48,7 @@ export const articlesAThe: GrammarTopicContent = {
           "obvio por la situación compartida: pass the salt, please (la sal de esta mesa)",
         ],
       },
-      "El error más común es usar the en la primera mención, o a/an con un sustantivo plural o incontable: di I saw a dog (primera mención), no I saw the dog, a menos que ya hayas dejado claro de qué perro se trata; y nunca digas a dogs ni a information — a/an solo se combina con sustantivos contables en singular, nunca con plurales o incontables (mira «Zero Article» para saber qué usar en su lugar).",
+      "El error más común es usar the en la primera mención, o a/an con un sustantivo plural o incontable. Di I saw a dog (primera mención), no I saw the dog, a menos que ya hayas dejado claro de qué perro se trata. Y nunca digas a dogs ni a information: a/an solo se combina con sustantivos contables en singular, nunca con plurales o incontables (mira «Zero Article» para saber qué usar en su lugar).",
       "Comprobación rápida: si es la primera vez que el oyente oye hablar de ello, o es solo uno entre varios → a/an (solo contable singular). Si tú y tu interlocutor ya sabéis exactamente cuál es → the. En caso de duda, pregúntate: ¿podría mi interlocutor señalar uno distinto? Si la respuesta es sí, usa a/an; si es no, usa the.",
     ],
     pt: [
@@ -63,7 +63,7 @@ export const articlesAThe: GrammarTopicContent = {
           "óbvio pela situação partilhada: pass the salt, please (o sal desta mesa)",
         ],
       },
-      "O erro mais comum é usar the na primeira menção, ou a/an com um substantivo plural ou incontável: diz-se I saw a dog (primeira menção), e não I saw the dog, a menos que já se tenha estabelecido de que cão se trata; e nunca digas a dogs nem a information — a/an só se combina com substantivos contáveis no singular, nunca com plurais ou incontáveis (vê «Zero Article» para saber o que usar em vez disso).",
+      "O erro mais comum é usar the na primeira menção, ou a/an com um substantivo plural ou incontável. Diz-se I saw a dog (primeira menção), e não I saw the dog, a menos que já se tenha estabelecido de que cão se trata. E nunca digas a dogs nem a information: a/an só se combina com substantivos contáveis no singular, nunca com plurais ou incontáveis (vê «Zero Article» para saber o que usar em vez disso).",
       "Verificação rápida: se é a primeira vez que o ouvinte ouve falar disso, ou é apenas um entre vários → a/an (só contável singular). Se tu e o teu interlocutor já sabem exatamente qual é → the. Em caso de dúvida, pergunta-te: o meu interlocutor poderia apontar para um diferente? Se sim, usa a/an; se não, usa the.",
     ],
     it: [
@@ -78,7 +78,7 @@ export const articlesAThe: GrammarTopicContent = {
           "ovvio dalla situazione condivisa: pass the salt, please (il sale su questo tavolo)",
         ],
       },
-      "L'errore più comune è usare the alla prima menzione, oppure a/an con un nome plurale o non numerabile: di' I saw a dog (prima menzione), non I saw the dog, a meno che tu non abbia già stabilito di quale cane si tratti; e non dire mai a dogs né a information — a/an si combina solo con nomi numerabili singolari, mai con plurali o non numerabili (vedi 'Zero Article' per sapere cosa usare al loro posto).",
+      "L'errore più comune è usare the alla prima menzione, oppure a/an con un nome plurale o non numerabile. Di' I saw a dog (prima menzione), non I saw the dog, a meno che tu non abbia già stabilito di quale cane si tratti. E non dire mai a dogs né a information: a/an si combina solo con nomi numerabili singolari, mai con plurali o non numerabili (vedi 'Zero Article' per sapere cosa usare al loro posto).",
       "Verifica rapida: se è la prima volta che chi ascolta ne sente parlare, oppure è solo uno tra tanti → a/an (solo numerabile singolare). Se tu e il tuo interlocutore sapete già esattamente di quale si tratta → the. In caso di dubbio, chiediti: il mio interlocutore potrebbe indicarne uno diverso? Se sì, usa a/an; se no, usa the.",
     ],
     de: [
@@ -93,7 +93,7 @@ export const articlesAThe: GrammarTopicContent = {
           "aus der gemeinsamen Situation offensichtlich: pass the salt, please (das Salz auf diesem Tisch)",
         ],
       },
-      "Der häufigste Fehler ist, the bei der ersten Erwähnung zu benutzen, oder a/an mit einem Plural- oder nicht zählbaren Nomen: sag I saw a dog (erste Erwähnung), nicht I saw the dog, außer du hast schon festgelegt, um welchen Hund es geht; und sag niemals a dogs oder a information — a/an steht nur bei zählbaren Singular-Nomen, nie bei Plural- oder nicht zählbaren Nomen (siehe „Zero Article“ für die richtige Alternative).",
+      "Der häufigste Fehler ist, the bei der ersten Erwähnung zu benutzen, oder a/an mit einem Plural- oder nicht zählbaren Nomen. Sag I saw a dog (erste Erwähnung), nicht I saw the dog, außer du hast schon festgelegt, um welchen Hund es geht. Und sag niemals a dogs oder a information: a/an steht nur bei zählbaren Singular-Nomen, nie bei Plural- oder nicht zählbaren Nomen (siehe „Zero Article“ für die richtige Alternative).",
       "Schnelltest: Hört der Zuhörer zum ersten Mal davon, oder ist es nur eins von vielen → a/an (nur zählbarer Singular). Wissen du und dein Gesprächspartner schon beide genau, um welches es geht → the. Im Zweifel frag dich: Könnte mein Gesprächspartner auf ein anderes zeigen? Wenn ja, benutze a/an; wenn nein, benutze the.",
     ],
     ru: [
@@ -108,7 +108,7 @@ export const articlesAThe: GrammarTopicContent = {
           "очевидно из общей ситуации: pass the salt, please (соль на этом столе)",
         ],
       },
-      "Самая частая ошибка — использовать the при первом упоминании или a/an с существительным во множественном числе или неисчисляемым: говорите I saw a dog (первое упоминание), а не I saw the dog, если только вы уже не установили, о какой собаке речь; и никогда не говорите a dogs или a information — a/an сочетается только с исчисляемыми существительными в единственном числе, никогда с множественным числом или неисчисляемыми (см. «Zero Article», чтобы узнать, что использовать вместо этого).",
+      "Самая частая ошибка — использовать the при первом упоминании или a/an с существительным во множественном числе или неисчисляемым. Говорите I saw a dog (первое упоминание), а не I saw the dog, если только вы уже не установили, о какой собаке речь. И никогда не говорите a dogs или a information: a/an сочетается только с исчисляемыми существительными в единственном числе, никогда с множественным числом или неисчисляемыми (см. «Zero Article», чтобы узнать, что использовать вместо этого).",
       "Быстрая проверка: если слушатель слышит об этом впервые, или это лишь один из многих → a/an (только исчисляемое единственное число). Если вы и собеседник уже оба точно знаете, о каком именно предмете речь → the. В случае сомнений спросите себя: мог бы мой собеседник указать на другой? Если да — используйте a/an; если нет — the.",
     ],
     ar: [
@@ -123,7 +123,7 @@ export const articlesAThe: GrammarTopicContent = {
           "واضح من الموقف المشترك: pass the salt, please (الملح الموجود على هذه الطاولة)",
         ],
       },
-      "أكثر الأخطاء شيوعًا هو استخدام the عند الذكر الأول، أو استخدام a/an مع اسم جمع أو غير معدود: قل I saw a dog (الذكر الأول)، وليس I saw the dog، إلا إذا كنت قد حددت بالفعل أي كلب تقصد؛ ولا تقل أبدًا a dogs ولا a information — فـ a/an لا تُستخدم إلا مع الأسماء المفردة المعدودة، وليس مع الجمع أو غير المعدود (راجع «Zero Article» لمعرفة ما يُستخدم بدلًا منها).",
+      "أكثر الأخطاء شيوعًا هو استخدام the عند الذكر الأول، أو استخدام a/an مع اسم جمع أو غير معدود. قل I saw a dog (الذكر الأول)، وليس I saw the dog، إلا إذا كنت قد حددت بالفعل أي كلب تقصد. ولا تقل أبدًا a dogs ولا a information: فـ a/an لا تُستخدم إلا مع الأسماء المفردة المعدودة، وليس مع الجمع أو غير المعدود (راجع «Zero Article» لمعرفة ما يُستخدم بدلًا منها).",
       "تحقق سريع: إذا كانت هذه أول مرة يسمع فيها المستمع عن الشيء، أو كان مجرد واحد من كثيرين → a/an (المفرد المعدود فقط). إذا كنتَ أنتَ ومستمعك تعرفان بالفعل تحديدًا أيّهما المقصود → the. وعند الشك، اسأل نفسك: هل يمكن لمستمعي أن يشير إلى واحد مختلف؟ إذا كانت الإجابة نعم، استخدم a/an؛ وإذا كانت لا، استخدم the.",
     ],
     zh: [
@@ -138,7 +138,7 @@ export const articlesAThe: GrammarTopicContent = {
           "从共同的情境中显而易见:pass the salt, please(这张桌子上的盐)",
         ],
       },
-      "最常见的错误是在首次提及时用 the,或者把 a/an 用在复数或不可数名词前:第一次提到要说 I saw a dog,而不是 I saw the dog,除非已经确定了是哪只狗;也绝不要说 a dogs 或 a information——a/an 只能与单数可数名词连用,绝不用于复数或不可数名词(参见「Zero Article」了解应该用什么代替)。",
+      "最常见的错误是在首次提及时用 the,或者把 a/an 用在复数或不可数名词前。第一次提到要说 I saw a dog,而不是 I saw the dog,除非已经确定了是哪只狗。也绝不要说 a dogs 或 a information:a/an 只能与单数可数名词连用,绝不用于复数或不可数名词(参见「Zero Article」了解应该用什么代替)。",
       "快速判断:如果这是听者第一次听说,或者只是众多中的一个 → 用 a/an(仅限单数可数名词)。如果你和听者都已经确切知道是哪一个 → 用 the。如果不确定,可以问自己:我的听者能不能指出另一个不同的来?能的话用 a/an;不能的话用 the。",
     ],
   },
