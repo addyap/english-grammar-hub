@@ -31,7 +31,7 @@ export const riseVsRaiseLieVsLay: GrammarTopicContent = {
           "Il existe aussi un verbe régulier distinct lie, lied, lied, signifiant « dire quelque chose de faux » (He lied about his age) — sans rapport de sens avec lie signifiant « être allongé », bien que la forme de base s'écrive de la même façon.",
         ],
       },
-      "L'erreur la plus fréquente est d'utiliser lay là où lie est nécessaire — I need to go lay down est incorrect car il n'y a pas de complément ; il faut dire I need to go lie down. Une deuxième erreur fréquente est d'utiliser rise là où raise est nécessaire, ou l'inverse — He raised at 6am est incorrect (pas de complément, donc il faudrait rose) ; She rised her hand est incorrect (raise a besoin de la forme irrégulière raised, et le verbe à la base pour cette action transitive est raise, pas rise).",
+      "L'erreur la plus fréquente est d'utiliser lay là où lie est nécessaire — I need to go lay down est incorrect car il n'y a pas de complément ; il faut dire I need to go lie down. Une deuxième erreur fréquente est d'utiliser rise là où raise est nécessaire, ou l'inverse — He raised at 6am est incorrect (pas de complément, donc il faudrait rose) ; She rised her hand est incorrect pour deux raisons : le verbe de cette action transitive est raise, pas rise, et son passé est le régulier raised (la forme rised n'existe pas).",
       "Demandez-vous s'il y a un complément d'objet direct recevant l'action : si quelque chose effectue l'action sur lui-même, sans complément, utilisez rise ou lie ; si le sujet effectue l'action sur autre chose, nommé juste après le verbe, utilisez raise ou lay. Vérifiez aussi le sens : rise/raise concernent un mouvement vers le haut ; lie/lay concernent une position allongée (à ne pas confondre avec le lie sans rapport signifiant « mentir »).",
     ],
     es: [
@@ -45,7 +45,7 @@ export const riseVsRaiseLieVsLay: GrammarTopicContent = {
           "También existe un verbo regular independiente lie, lied, lied, que significa 'decir algo falso' (He lied about his age) —sin relación de significado con lie ('estar tumbado'), aunque la forma base se escriba igual.",
         ],
       },
-      "El error más común es usar lay cuando se necesita lie —I need to go lay down es incorrecto porque no hay complemento; debería ser I need to go lie down. Un segundo error común es usar rise cuando se necesita raise, o viceversa —He raised at 6am es incorrecto (sin complemento, así que debería ser rose); She rised her hand es incorrecto (raise necesita la forma irregular raised, y el verbo base para esta acción transitiva es raise, no rise).",
+      "El error más común es usar lay cuando se necesita lie —I need to go lay down es incorrecto porque no hay complemento; debería ser I need to go lie down. Un segundo error común es usar rise cuando se necesita raise, o viceversa —He raised at 6am es incorrecto (sin complemento, así que debería ser rose); She rised her hand es incorrecto por dos razones: el verbo de esta acción transitiva es raise, no rise, y su pasado es el regular raised (no existe la forma rised).",
       "Pregúntate si hay un complemento directo que recibe la acción: si algo realiza la acción por sí mismo, sin complemento, usa rise o lie; si el sujeto realiza la acción sobre otra cosa, nombrada justo después del verbo, usa raise o lay. Comprueba también el significado: rise/raise tratan de movimiento hacia arriba; lie/lay tratan de una posición horizontal de descanso (no confundir con el lie sin relación que significa 'mentir').",
     ],
     pt: [
@@ -59,7 +59,7 @@ export const riseVsRaiseLieVsLay: GrammarTopicContent = {
           "Existe também um verbo regular independente lie, lied, lied, com o sentido de 'dizer algo falso' (He lied about his age) —sem relação de sentido com lie ('estar deitado'), embora a forma base se escreva da mesma maneira.",
         ],
       },
-      "O erro mais comum é usar lay quando é preciso lie —I need to go lay down está errado porque não há objeto; devia ser I need to go lie down. Um segundo erro comum é usar rise quando é preciso raise, ou vice-versa —He raised at 6am está errado (sem objeto, por isso devia ser rose); She rised her hand está errado (raise precisa da forma irregular raised, e o verbo base para esta ação transitiva é raise, não rise).",
+      "O erro mais comum é usar lay quando é preciso lie —I need to go lay down está errado porque não há objeto; devia ser I need to go lie down. Um segundo erro comum é usar rise quando é preciso raise, ou vice-versa —He raised at 6am está errado (sem objeto, por isso devia ser rose); She rised her hand está errado por duas razões: o verbo desta ação transitiva é raise, não rise, e o seu passado é o regular raised (a forma rised não existe).",
       "Pergunta-te se há um objeto direto a receber a ação: se algo realiza a ação por si só, sem objeto, usa rise ou lie; se o sujeito realiza a ação sobre outra coisa, nomeada logo a seguir ao verbo, usa raise ou lay. Verifica também o sentido: rise/raise dizem respeito a movimento para cima; lie/lay dizem respeito a uma posição deitada de descanso (não confundir com o lie sem relação que significa 'mentir').",
     ],
     it: [
@@ -73,7 +73,7 @@ export const riseVsRaiseLieVsLay: GrammarTopicContent = {
           "Esiste anche un verbo regolare distinto lie, lied, lied, che significa 'dire qualcosa di falso' (He lied about his age) —senza alcuna relazione di significato con lie inteso come 'stare sdraiato', anche se la forma base si scrive allo stesso modo.",
         ],
       },
-      "L'errore più comune è usare lay al posto di lie —I need to go lay down è sbagliato perché non c'è complemento; dovrebbe essere I need to go lie down. Un secondo errore comune è usare rise al posto di raise, o viceversa —He raised at 6am è sbagliato (nessun complemento, quindi dovrebbe essere rose); She rised her hand è sbagliato (raise richiede la forma irregolare raised, e il verbo base per questa azione transitiva è raise, non rise).",
+      "L'errore più comune è usare lay al posto di lie —I need to go lay down è sbagliato perché non c'è complemento; dovrebbe essere I need to go lie down. Un secondo errore comune è usare rise al posto di raise, o viceversa —He raised at 6am è sbagliato (nessun complemento, quindi dovrebbe essere rose); She rised her hand è sbagliato per due motivi: il verbo di questa azione transitiva è raise, non rise, e il suo passato è il regolare raised (la forma rised non esiste).",
       "Chiediti se c'è un complemento oggetto diretto che riceve l'azione: se qualcosa compie l'azione da solo, senza complemento, usa rise o lie; se il soggetto compie l'azione su qualcos'altro, nominato subito dopo il verbo, usa raise o lay. Controlla anche il significato: rise/raise riguardano il movimento verso l'alto; lie/lay riguardano una posizione sdraiata di riposo (da non confondere con l'omonimo lie che significa 'mentire').",
     ],
     de: [
@@ -87,7 +87,7 @@ export const riseVsRaiseLieVsLay: GrammarTopicContent = {
           "Es gibt außerdem ein eigenständiges, regelmäßiges Verb lie, lied, lied, das 'etwas Unwahres sagen' bedeutet (He lied about his age) — inhaltlich völlig unabhängig von lie im Sinne von 'liegen', obwohl die Grundform gleich geschrieben wird.",
         ],
       },
-      "Der häufigste Fehler ist, lay zu verwenden, wo lie gebraucht wird — I need to go lay down ist falsch, weil kein Objekt vorhanden ist; richtig ist I need to go lie down. Ein zweiter häufiger Fehler ist, rise zu verwenden, wo raise gebraucht wird, oder umgekehrt — He raised at 6am ist falsch (kein Objekt, also sollte es rose heißen); She rised her hand ist falsch (raise braucht die unregelmäßige Form raised, und das Grundverb für diese transitive Handlung ist raise, nicht rise).",
+      "Der häufigste Fehler ist, lay zu verwenden, wo lie gebraucht wird — I need to go lay down ist falsch, weil kein Objekt vorhanden ist; richtig ist I need to go lie down. Ein zweiter häufiger Fehler ist, rise zu verwenden, wo raise gebraucht wird, oder umgekehrt — He raised at 6am ist falsch (kein Objekt, also sollte es rose heißen); She rised her hand ist aus zwei Gründen falsch: das Verb für diese transitive Handlung ist raise, nicht rise, und seine Vergangenheitsform ist das regelmäßige raised (die Form rised gibt es nicht).",
       "Frage dich, ob es ein direktes Objekt gibt, das die Handlung empfängt: Führt etwas die Handlung von selbst aus, ohne Objekt, verwende rise oder lie; führt das Subjekt die Handlung an etwas anderem aus, das direkt nach dem Verb genannt wird, verwende raise oder lay. Prüfe auch die Bedeutung: rise/raise betreffen eine Aufwärtsbewegung; lie/lay betreffen eine flache Ruheposition (nicht zu verwechseln mit dem unabhängigen lie, das 'lügen' bedeutet).",
     ],
     ru: [
@@ -101,7 +101,7 @@ export const riseVsRaiseLieVsLay: GrammarTopicContent = {
           "Существует также отдельный правильный глагол lie, lied, lied, означающий 'говорить неправду' (He lied about his age) — по значению совершенно не связанный с lie в значении 'лежать', хотя базовая форма пишется одинаково.",
         ],
       },
-      "Самая частая ошибка — использовать lay там, где нужен lie: I need to go lay down неверно, потому что нет дополнения; правильно I need to go lie down. Вторая частая ошибка — использовать rise там, где нужен raise, или наоборот: He raised at 6am неверно (нет дополнения, значит должно быть rose); She rised her hand неверно (raise требует неправильной формы raised, а базовый глагол для этого переходного действия — raise, а не rise).",
+      "Самая частая ошибка — использовать lay там, где нужен lie: I need to go lay down неверно, потому что нет дополнения; правильно I need to go lie down. Вторая частая ошибка — использовать rise там, где нужен raise, или наоборот: He raised at 6am неверно (нет дополнения, значит должно быть rose); She rised her hand неверно по двум причинам: глагол для этого переходного действия — raise, а не rise, и его прошедшее время — правильное raised (формы rised не существует).",
       "Спросите себя, есть ли прямое дополнение, принимающее действие: если что-то совершает действие само по себе, без дополнения, используйте rise или lie; если подлежащее совершает действие над чем-то другим, названным сразу после глагола, используйте raise или lay. Также проверьте значение: rise/raise связаны с движением вверх; lie/lay связаны с горизонтальным положением покоя (не путать с не связанным по значению lie, означающим «лгать»).",
     ],
     ar: [
@@ -115,7 +115,7 @@ export const riseVsRaiseLieVsLay: GrammarTopicContent = {
           "يوجد أيضًا فعل منتظم منفصل lie, lied, lied، بمعنى 'قول شيء غير صحيح' (He lied about his age) — لا علاقة له بمعنى lie الذي يعني 'الاستلقاء'، رغم أن الصيغة الأساسية تُكتب بنفس الشكل.",
         ],
       },
-      "أكثر الأخطاء شيوعًا هو استخدام lay حيث يلزم lie — I need to go lay down خطأ لأنه لا يوجد مفعول به؛ يجب أن تكون I need to go lie down. وخطأ شائع ثانٍ هو استخدام rise حيث يلزم raise، أو العكس — He raised at 6am خطأ (لا مفعول به، لذا يجب أن تكون rose)؛ She rised her hand خطأ (يحتاج raise إلى الصيغة الشاذة raised، والفعل الأساسي لهذا الفعل المتعدي هو raise، لا rise).",
+      "أكثر الأخطاء شيوعًا هو استخدام lay حيث يلزم lie — I need to go lay down خطأ لأنه لا يوجد مفعول به؛ يجب أن تكون I need to go lie down. وخطأ شائع ثانٍ هو استخدام rise حيث يلزم raise، أو العكس — He raised at 6am خطأ (لا مفعول به، لذا يجب أن تكون rose)؛ She rised her hand خطأ لسببين: الفعل المناسب لهذا الفعل المتعدي هو raise، لا rise، وماضيه هو raised المنتظم (لا توجد صيغة rised).",
       "اسأل نفسك: هل يوجد مفعول به مباشر يستقبل الفعل؟ إذا كان شيء ما يقوم بالفعل من تلقاء نفسه، بلا مفعول به، استخدم rise أو lie؛ وإذا كان الفاعل يقوم بالفعل على شيء آخر، يُذكر مباشرة بعد الفعل، استخدم raise أو lay. تحقق أيضًا من المعنى: تتعلق rise/raise بالحركة إلى الأعلى؛ وتتعلق lie/lay بوضع أفقي مسترخٍ (لا تخلط بينها وبين lie غير المرتبطة التي تعني 'الكذب').",
     ],
     zh: [
@@ -129,7 +129,7 @@ export const riseVsRaiseLieVsLay: GrammarTopicContent = {
           "此外还有一个独立的规则动词 lie, lied, lied,意为“说谎”(He lied about his age)——它与表示“躺”的 lie 在意思上完全无关,尽管原形拼写相同。",
         ],
       },
-      "最常见的错误是在需要用 lie 的地方用了 lay——I need to go lay down 是错误的,因为没有宾语;应该是 I need to go lie down。第二个常见错误是在需要用 raise 的地方用了 rise,或者反过来——He raised at 6am 是错误的(没有宾语,所以应该用 rose);She rised her hand 是错误的(raise 需要不规则形式 raised,而这个及物动作的原形动词是 raise,不是 rise)。",
+      "最常见的错误是在需要用 lie 的地方用了 lay——I need to go lay down 是错误的,因为没有宾语;应该是 I need to go lie down。第二个常见错误是在需要用 raise 的地方用了 rise,或者反过来——He raised at 6am 是错误的(没有宾语,所以应该用 rose);She rised her hand 有两处错误:这个及物动作的动词是 raise,不是 rise,而且它的过去式是规则的 raised(根本没有 rised 这种形式)。",
       "问问自己是否有一个直接宾语在接受这个动作:如果某事物是自己独立完成这个动作,没有宾语,用 rise 或 lie;如果主语是把动作施加在紧跟在动词后面提到的其他事物上,用 raise 或 lay。同时检查意思:rise/raise 关乎向上的移动;lie/lay 关乎平躺休息的姿势(不要与意思无关、表示“说谎”的 lie 混淆)。",
     ],
   },

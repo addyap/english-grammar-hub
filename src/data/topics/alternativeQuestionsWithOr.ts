@@ -26,7 +26,7 @@ export const alternativeQuestionsWithOr: GrammarTopicContent = {
         intro: "Comment se construisent les questions alternatives :",
         items: [
           "auxiliaire/modal + sujet + verbe + option A + or + option B ?, avec le même ordre des mots qu'une question fermée normale, or reliant les choix à la fin : Would you like coffee or tea? Are you coming today or tomorrow? Can I pay by card or in cash?",
-          "À l'oral, l'intonation retombe sur or dans une question alternative (montante puis descendante), contrairement à une question fermée, où l'intonation monte généralement tout à la fin — c'est la principale façon dont les auditeurs distinguent les deux types de questions à l'oral.",
+          "À l'oral, la voix monte sur la première option et descend sur la dernière (tea↗ or coffee↘?), contrairement à une question fermée, où l'intonation monte généralement tout à la fin — c'est ainsi que les auditeurs distinguent les deux types de questions.",
           "Les questions ouvertes (avec wh-) peuvent aussi inclure or, en proposant à l'auditeur des choix précis parmi lesquels choisir dans la réponse : Which do you prefer, tea or coffee? What time should we meet, six or seven?",
           "On peut répondre à une question alternative en donnant simplement l'une des options, une phrase complète, ou « either » (si les deux conviennent) ou « neither » (si aucune n'est souhaitée). Ne répondez jamais par un simple oui ou non : Tea, please / I'd like tea / Either is fine / Neither, thanks.",
         ],
@@ -40,7 +40,7 @@ export const alternativeQuestionsWithOr: GrammarTopicContent = {
         intro: "Cómo se construyen las preguntas alternativas:",
         items: [
           "auxiliar/modal + sujeto + verbo + opción A + or + opción B?, con el mismo orden de palabras que una pregunta de sí/no normal, con or conectando las opciones al final: Would you like coffee or tea? Are you coming today or tomorrow? Can I pay by card or in cash?",
-          "En el habla, la entonación cae en or en una pregunta alternativa (sube y luego baja), a diferencia de una pregunta de sí/no, donde la entonación normalmente sube al final —esta es la principal forma en que los oyentes distinguen los dos tipos de pregunta al hablar.",
+          "En el habla, la voz sube en la primera opción y baja en la última (tea↗ or coffee↘?), a diferencia de una pregunta de sí/no, donde la entonación normalmente sube al final —así es como los oyentes distinguen los dos tipos de pregunta.",
           "Las preguntas con wh- también pueden incluir or, ofreciendo al oyente opciones concretas entre las que elegir en la respuesta: Which do you prefer, tea or coffee? What time should we meet, six or seven?",
           "A una pregunta alternativa se puede responder con solo una de las opciones, una frase completa, o «either» (si ambas son aceptables) o «neither» (si no se quiere ninguna). Nunca respondas con un simple sí o no: Tea, please / I'd like tea / Either is fine / Neither, thanks.",
         ],
@@ -54,7 +54,7 @@ export const alternativeQuestionsWithOr: GrammarTopicContent = {
         intro: "Como se constroem as perguntas alternativas:",
         items: [
           "auxiliar/modal + sujeito + verbo + opção A + or + opção B?, com a mesma ordem de palavras de uma pergunta de sim/não normal, com or a ligar as opções no fim: Would you like coffee or tea? Are you coming today or tomorrow? Can I pay by card or in cash?",
-          "Na fala, a entoação desce em or numa pergunta alternativa (sobe e depois desce), ao contrário de uma pergunta de sim/não, em que a entoação normalmente sobe mesmo no fim —esta é a principal forma como os ouvintes distinguem os dois tipos de pergunta quando faladas em voz alta.",
+          "Na fala, a voz sobe na primeira opção e desce na última (tea↗ or coffee↘?), ao contrário de uma pergunta de sim/não, em que a entoação normalmente sobe mesmo no fim —é assim que os ouvintes distinguem os dois tipos de pergunta.",
           "As perguntas com wh- também podem incluir or, oferecendo ao ouvinte escolhas concretas entre as quais optar na resposta: Which do you prefer, tea or coffee? What time should we meet, six or seven?",
           "Uma pergunta alternativa pode ser respondida com apenas uma das opções, uma frase completa, ou «either» (se ambas forem aceitáveis) ou «neither» (se nenhuma for desejada). Nunca respondas com um simples sim ou não: Tea, please / I'd like tea / Either is fine / Neither, thanks.",
         ],
@@ -68,7 +68,7 @@ export const alternativeQuestionsWithOr: GrammarTopicContent = {
         intro: "Come si costruiscono le domande alternative:",
         items: [
           "ausiliare/modale + soggetto + verbo + opzione A + or + opzione B?, con lo stesso ordine delle parole di una normale domanda sì/no, con or che collega le scelte alla fine: Would you like coffee or tea? Are you coming today or tomorrow? Can I pay by card or in cash?",
-          "Nel parlato, l'intonazione scende su or in una domanda alternativa (sale, poi scende), a differenza di una domanda sì/no, dove l'intonazione di solito sale proprio alla fine — questo è il modo principale in cui gli ascoltatori distinguono i due tipi di domanda quando parlate ad alta voce.",
+          "Nel parlato, la voce sale sulla prima opzione e scende sull'ultima (tea↗ or coffee↘?), a differenza di una domanda sì/no, dove l'intonazione di solito sale proprio alla fine — è così che gli ascoltatori distinguono i due tipi di domanda.",
           "Anche le domande con wh- possono includere or, offrendo all'ascoltatore scelte specifiche tra cui optare nella risposta: Which do you prefer, tea or coffee? What time should we meet, six or seven?",
           "A una domanda alternativa si può rispondere con una sola delle opzioni, una frase completa, oppure «either» (se entrambe vanno bene) o «neither» (se nessuna delle due è desiderata). Non rispondere mai con un semplice sì o no: Tea, please / I'd like tea / Either is fine / Neither, thanks.",
         ],
@@ -82,7 +82,7 @@ export const alternativeQuestionsWithOr: GrammarTopicContent = {
         intro: "So werden Alternativfragen gebildet:",
         items: [
           "Hilfsverb/Modalverb + Subjekt + Verb + Option A + or + Option B?, mit derselben Wortstellung wie eine normale Ja/Nein-Frage, wobei or die Auswahlmöglichkeiten am Ende verbindet: Would you like coffee or tea? Are you coming today or tomorrow? Can I pay by card or in cash?",
-          "Im Gesprochenen fällt die Intonation bei or in einer Alternativfrage (steigt, dann fällt), anders als bei einer Ja/Nein-Frage, wo die Intonation typischerweise ganz am Ende steigt — das ist die Hauptart, wie Zuhörer die beiden Fragetypen beim Sprechen unterscheiden.",
+          "Im Gesprochenen steigt die Stimme bei der ersten Option und fällt bei der letzten (tea↗ or coffee↘?), anders als bei einer Ja/Nein-Frage, wo die Intonation typischerweise ganz am Ende steigt — so unterscheiden Zuhörer die beiden Fragetypen.",
           "wh-Fragen können ebenfalls or enthalten und bieten dem Zuhörer konkrete Wahlmöglichkeiten innerhalb der Antwort: Which do you prefer, tea or coffee? What time should we meet, six or seven?",
           "Eine Alternativfrage kann mit nur einer der Optionen, einem vollständigen Satz oder 'either' (wenn beide akzeptabel sind) oder 'neither' (wenn keine gewünscht ist) beantwortet werden. Antworte nie mit einem einfachen Ja oder Nein: Tea, please / I'd like tea / Either is fine / Neither, thanks.",
         ],
@@ -96,7 +96,7 @@ export const alternativeQuestionsWithOr: GrammarTopicContent = {
         intro: "Как строятся альтернативные вопросы:",
         items: [
           "вспомогательный/модальный глагол + подлежащее + глагол + вариант A + or + вариант B?, с тем же порядком слов, что и в обычном вопросе да/нет, где or соединяет варианты в конце: Would you like coffee or tea? Are you coming today or tomorrow? Can I pay by card or in cash?",
-          "В речи интонация падает на or в альтернативном вопросе (сначала повышается, затем понижается), в отличие от вопроса да/нет, где интонация обычно повышается в самом конце — это главный способ, которым слушатели различают два типа вопросов на слух.",
+          "В речи голос повышается на первом варианте и понижается на последнем (tea↗ or coffee↘?), в отличие от вопроса да/нет, где интонация обычно повышается в самом конце — именно так слушатели различают два типа вопросов.",
           "Специальные вопросы также могут включать or, предлагая слушателю конкретные варианты для выбора в ответе: Which do you prefer, tea or coffee? What time should we meet, six or seven?",
           "На альтернативный вопрос можно ответить лишь одним из вариантов, полным предложением, или словом 'either' (если оба варианта приемлемы), или 'neither' (если ни один не нужен). Никогда не отвечайте простым да или нет: Tea, please / I'd like tea / Either is fine / Neither, thanks.",
         ],
@@ -110,7 +110,7 @@ export const alternativeQuestionsWithOr: GrammarTopicContent = {
         intro: "كيفية بناء الأسئلة البديلة:",
         items: [
           "فعل مساعد/ناقص + فاعل + فعل + خيار أ + or + خيار ب؟، بنفس ترتيب كلمات سؤال نعم/لا العادي، مع ربط or للخيارين في النهاية: Would you like coffee or tea؟ Are you coming today or tomorrow؟ Can I pay by card or in cash؟",
-          "في الكلام، تنخفض النبرة عند or في السؤال البديل (ترتفع ثم تنخفض)، بخلاف سؤال نعم/لا، حيث ترتفع النبرة عادةً في النهاية تمامًا — وهذه هي الطريقة الرئيسية التي يميز بها المستمعون بين نوعي السؤال عند التحدث بصوت مسموع.",
+          "في الكلام، يرتفع الصوت عند الخيار الأول وينخفض عند الأخير (tea↗ or coffee↘?)، بخلاف سؤال نعم/لا، حيث ترتفع النبرة عادةً في النهاية تمامًا — وهكذا يميز المستمعون بين نوعي السؤال.",
           "يمكن أن تتضمن أسئلة أداة الاستفهام أيضًا or، فتُقدّم للمستمع خيارات محددة يختار من بينها في الإجابة: Which do you prefer, tea or coffee؟ What time should we meet, six or seven؟",
           "يمكن الإجابة عن سؤال بديل بواحد فقط من الخيارين، أو بجملة كاملة، أو بـ'either' (إذا كان كلاهما مقبولاً) أو 'neither' (إذا لم يُرَد أيّهما). ولا تُجب أبدًا بنعم أو لا بسيطة: Tea, please / I'd like tea / Either is fine / Neither, thanks.",
         ],
@@ -124,7 +124,7 @@ export const alternativeQuestionsWithOr: GrammarTopicContent = {
         intro: "选择疑问句是如何构成的:",
         items: [
           "助动词/情态动词 + 主语 + 动词 + 选项 A + or + 选项 B?,语序和普通的是/否疑问句相同,由 or 在末尾连接各选项:Would you like coffee or tea? Are you coming today or tomorrow? Can I pay by card or in cash?",
-          "在口语中,选择疑问句的语调在 or 处下降(先升后降),这与是/否疑问句不同,后者的语调通常在句末上升——这是听者在口语中区分这两种问句类型的主要方式。",
+          "在口语中,声音在第一个选项上升,在最后一个选项下降(tea↗ or coffee↘?),这与是/否疑问句不同,后者的语调通常在句末上升——听者正是以此区分这两种问句类型。",
           "带疑问词的问句也可以包含 or,在答案中为听者提供可供选择的具体选项:Which do you prefer, tea or coffee? What time should we meet, six or seven?",
           "对选择疑问句的回答可以只说其中一个选项、一个完整的句子,或者说'either'(如果两个都可以)或'neither'(如果都不想要)。绝不能只用简单的是或否来回答:Tea, please / I'd like tea / Either is fine / Neither, thanks。",
         ],

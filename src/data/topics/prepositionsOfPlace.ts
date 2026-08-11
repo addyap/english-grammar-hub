@@ -27,7 +27,7 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "Une règle utile : on est in dans un véhicule personnel fermé (in a car, in a taxi), mais on dans les transports publics ou à deux roues (on a bus, on a train, on a plane, on a bike, on a motorbike).",
       {
         intro: "Autres expressions fixes :",
-        items: ["at : at work, at school", "in : in bed, in hospital", "on : on the left, on the phone"],
+        items: ["at : at work, at school", "in : in bed, in hospital (brit. ; amér. in the hospital)", "on : on the left, on the phone"],
       },
     ],
     es: [
@@ -39,7 +39,7 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "Un patrón útil: se usa in dentro de un vehículo personal cerrado (in a car, in a taxi), pero on en el transporte público o de dos ruedas (on a bus, on a train, on a plane, on a bike, on a motorbike).",
       {
         intro: "Otras expresiones fijas:",
-        items: ["at: at work, at school", "in: in bed, in hospital", "on: on the left, on the phone"],
+        items: ["at: at work, at school", "in: in bed, in hospital (brit.; amer. in the hospital)", "on: on the left, on the phone"],
       },
     ],
     pt: [
@@ -51,7 +51,7 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "Um padrão útil: usa-se in dentro de um veículo pessoal fechado (in a car, in a taxi), mas on no transporte público ou de duas rodas (on a bus, on a train, on a plane, on a bike, on a motorbike).",
       {
         intro: "Outras expressões fixas:",
-        items: ["at: at work, at school", "in: in bed, in hospital", "on: on the left, on the phone"],
+        items: ["at: at work, at school", "in: in bed, in hospital (brit.; amer. in the hospital)", "on: on the left, on the phone"],
       },
     ],
     it: [
@@ -63,7 +63,7 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "Uno schema utile: si usa in dentro un veicolo personale chiuso (in a car, in a taxi), ma on sui mezzi pubblici o a due ruote (on a bus, on a train, on a plane, on a bike, on a motorbike).",
       {
         intro: "Altre espressioni fisse:",
-        items: ["at: at work, at school", "in: in bed, in hospital", "on: on the left, on the phone"],
+        items: ["at: at work, at school", "in: in bed, in hospital (brit.; amer. in the hospital)", "on: on the left, on the phone"],
       },
     ],
     de: [
@@ -75,7 +75,7 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "Ein nützliches Muster: In einem geschlossenen persönlichen Fahrzeug steht in (in a car, in a taxi), bei öffentlichen oder zweirädrigen Verkehrsmitteln steht on (on a bus, on a train, on a plane, on a bike, on a motorbike).",
       {
         intro: "Weitere feste Ausdrücke:",
-        items: ["at: at work, at school", "in: in bed, in hospital", "on: on the left, on the phone"],
+        items: ["at: at work, at school", "in: in bed, in hospital (brit.; amerik. in the hospital)", "on: on the left, on the phone"],
       },
     ],
     ru: [
@@ -87,7 +87,7 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "Полезная закономерность: в закрытом личном транспорте используется in (in a car, in a taxi), а в общественном или двухколёсном транспорте — on (on a bus, on a train, on a plane, on a bike, on a motorbike).",
       {
         intro: "Другие устойчивые выражения:",
-        items: ["at: at work, at school", "in: in bed, in hospital", "on: on the left, on the phone"],
+        items: ["at: at work, at school", "in: in bed, in hospital (брит.; амер. in the hospital)", "on: on the left, on the phone"],
       },
     ],
     ar: [
@@ -99,7 +99,7 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "قاعدة مفيدة: تُستخدم in داخل مركبة شخصية مغلقة (in a car، in a taxi)، بينما تُستخدم on مع وسائل النقل العامة أو ذات العجلتين (on a bus، on a train، on a plane، on a bike، on a motorbike).",
       {
         intro: "تعبيرات ثابتة أخرى:",
-        items: ["at: at work، at school", "in: in bed، in hospital", "on: on the left، on the phone"],
+        items: ["at: at work، at school", "in: in bed، in hospital (بريطانيًا؛ أمريكيًا in the hospital)", "on: on the left، on the phone"],
       },
     ],
     zh: [
@@ -111,7 +111,7 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "一个有用的规律:在封闭的私人交通工具里用 in(in a car、in a taxi),而公共交通或两轮交通工具用 on(on a bus、on a train、on a plane、on a bike、on a motorbike)。",
       {
         intro: "其他固定搭配:",
-        items: ["at:at work、at school", "in:in bed、in hospital", "on:on the left、on the phone"],
+        items: ["at:at work、at school", "in:in bed、in hospital(英式;美式 in the hospital)", "on:on the left、on the phone"],
       },
     ],
   },
