@@ -1,0 +1,83 @@
+<title>Grammatica — Pedagogy Audit — 10 Aug 2026</title>
+<style>
+  :root{--bg:#f7f7f5;--surface:#fff;--text:#1a1a1a;--muted:#6b6b6b;--border:#e4e4e1;--accent:#2b6cb0;
+    --crit-bg:#fde8e8;--crit-fg:#9b1c1c;--maj-bg:#fef2e2;--maj-fg:#9a5b00;--min-bg:#eef3fb;--min-fg:#1f4e8c;--ok-bg:#e7f6ec;--ok-fg:#1c6b3a;}
+  @media(prefers-color-scheme:dark){:root{--bg:#16171b;--surface:#1e2025;--text:#eceef1;--muted:#9aa0aa;--border:#2c2f36;--accent:#7aa2ff;
+    --crit-bg:#3a1414;--crit-fg:#ff9b9b;--maj-bg:#3a2a0e;--maj-fg:#ffc46b;--min-bg:#122238;--min-fg:#9dc0ff;--ok-bg:#123322;--ok-fg:#7fe3a3;}}
+  :root[data-theme=dark]{--bg:#16171b;--surface:#1e2025;--text:#eceef1;--muted:#9aa0aa;--border:#2c2f36;--accent:#7aa2ff;
+    --crit-bg:#3a1414;--crit-fg:#ff9b9b;--maj-bg:#3a2a0e;--maj-fg:#ffc46b;--min-bg:#122238;--min-fg:#9dc0ff;--ok-bg:#123322;--ok-fg:#7fe3a3;}
+  :root[data-theme=light]{--bg:#f7f7f5;--surface:#fff;--text:#1a1a1a;--muted:#6b6b6b;--border:#e4e4e1;--accent:#2b6cb0;
+    --crit-bg:#fde8e8;--crit-fg:#9b1c1c;--maj-bg:#fef2e2;--maj-fg:#9a5b00;--min-bg:#eef3fb;--min-fg:#1f4e8c;--ok-bg:#e7f6ec;--ok-fg:#1c6b3a;}
+  *{box-sizing:border-box}
+  body{background:var(--bg);color:var(--text);font-family:-apple-system,"Segoe UI",Roboto,sans-serif;line-height:1.55;max-width:880px;margin:0 auto;padding:32px 20px 72px}
+  h1{font-size:1.5rem;margin:0 0 2px}
+  h2{font-size:1.12rem;margin:34px 0 10px;padding-top:14px;border-top:1px solid var(--border)}
+  .meta{color:var(--muted);font-size:.9rem;margin-bottom:18px}
+  .verdict{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:18px 22px;margin:18px 0}
+  .grade{font-size:2rem;font-weight:700;color:var(--accent)}
+  .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:11px;margin:14px 0}
+  .tile{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:13px 15px}
+  .tile .n{font-size:1.35rem;font-weight:700}
+  .tile .l{color:var(--muted);font-size:.8rem;margin-top:2px}
+  table{width:100%;border-collapse:collapse;margin:10px 0 8px;font-size:.9rem}
+  th{text-align:left;color:var(--muted);font-weight:600;font-size:.76rem;text-transform:uppercase;letter-spacing:.03em;padding:6px 9px;border-bottom:2px solid var(--border)}
+  td{padding:9px;border-bottom:1px solid var(--border);vertical-align:top}
+  tr:last-child td{border-bottom:none}
+  .badge{display:inline-block;padding:2px 8px;border-radius:999px;font-size:.72rem;font-weight:700;white-space:nowrap}
+  .b-crit{background:var(--crit-bg);color:var(--crit-fg)} .b-maj{background:var(--maj-bg);color:var(--maj-fg)} .b-min{background:var(--min-bg);color:var(--min-fg)} .b-ok{background:var(--ok-bg);color:var(--ok-fg)}
+  code{font-family:ui-monospace,Menlo,monospace;font-size:.85em;background:var(--surface);border:1px solid var(--border);border-radius:4px;padding:1px 5px}
+  .path{font-family:ui-monospace,Menlo,monospace;font-size:.8rem;color:var(--muted)}
+  ul{margin:6px 0;padding-left:20px} li{margin:4px 0}
+  .callout{background:var(--min-bg);border:1px solid var(--border);border-radius:10px;padding:14px 18px;margin:16px 0}
+  footer{margin-top:44px;padding-top:14px;border-top:1px solid var(--border);color:var(--muted);font-size:.82rem}
+</style>
+
+<h1>Grammatica — Pedagogy Audit</h1>
+<div class="meta">grammatica.antonyaddy.com · 10 August 2026 · <code>/pedagogy-audit</code> · reviewed on Opus 4.8 · deployed (commits 0d35404 + 147a4bd, CI green)</div>
+
+<div class="verdict">
+  <div class="grade">A−</div>
+  <p style="margin:.4rem 0 0">A genuinely strong, well-engineered content base — cleaner than any site audited before it. Across <strong>136 topics (9 languages) and 2,810 exercise questions</strong>, only <strong>2 true errors</strong> surfaced. The rest is a predictable structural pattern: a multiple-choice engine with no accept-list is prone to items where a second option is also defensible, so those had to be <em>rewritten</em>, not patched. All fixes are live; the 8 non-English languages were kept in lockstep with every corrected English paragraph.</p>
+</div>
+
+<div class="tiles">
+  <div class="tile"><div class="n">2</div><div class="l">Critical — fixed</div></div>
+  <div class="tile"><div class="n">~64 + 5</div><div class="l">Exercise items rewritten + drills diversified</div></div>
+  <div class="tile"><div class="n">56</div><div class="l">Translation paragraphs synced (8 langs × 7)</div></div>
+  <div class="tile"><div class="n">2 of ~70</div><div class="l">Findings refuted/downgraded on verification</div></div>
+</div>
+
+<h2>The two critical errors (both fixed)</h2>
+<table>
+<tr><th>Topic</th><th>What was wrong</th></tr>
+<tr><td class="path">nonFiniteVerbsOverview</td><td>An exercise asked what "swimming" is in <em>the swimming pool</em> and keyed <strong>present participle</strong>. It's a <strong>gerund</strong> (a pool <em>for</em> swimming) — the item's own hint gave the gerund test while labelling it a participle. Replaced with a genuine participle item (<em>the barking dog</em>).</td></tr>
+<tr><td class="path">reflexivePronounsEmphasis</td><td>The "common mistake" paragraph illustrated the <em>emphatic</em> reflexive with "I taught myself Spanish" — which is actually a <strong>true reflexive</strong> (the paragraph's own gloss admitted it), teaching the misclassification it warned against. Replaced with "I fixed the car myself" — corrected in all 9 languages.</td></tr>
+</table>
+
+<h2>The dominant pattern: two defensible answers</h2>
+<p>The engine is multiple-choice with a single exact-match key and <strong>no accept-list</strong>. So any item where a distractor is also correct in some register or variety is unwinnable and cannot be patched in data — it must be rewritten. ~64 such items were confirmed and rewritten, including:</p>
+<ul>
+  <li><strong>Genuinely interchangeable forms:</strong> <em>each</em> vs <em>all</em> ("one by one" doesn't exclude "all"); <em>could</em> vs <em>was able to</em> for general past ability; <em>many</em> vs <em>a lot of</em> in affirmatives; opinion-vs-size adjective order ("big ugly" ≈ "ugly big"); optional backshift in reported speech; mandative subjunctive vs British finite ("suggested that we <em>went</em>").</li>
+  <li><strong>AmE/BrE variety keys</strong> — the notable cluster for a global-audience site: <em>at</em> vs <em>on the weekend</em>; present-perfect keys with American "just ate"/"already finished" among the distractors. The site's own <span class="path">britishVsAmerican.ts</span> documents those American forms as correct, so it was penalising exactly what another page teaches. <strong>Made variety-neutral rather than picking a side</strong> — the items now work in every variety.</li>
+  <li><strong>5 single-pattern drills</strong> (get-passive, had-better, past modals, reflexives, shall/will) where all 10–20 items tested one mechanical decision — diversified so they actually teach.</li>
+</ul>
+
+<h2>What verification caught</h2>
+<div class="callout">
+<p style="margin:0"><strong>The findings held; the fixes needed rework.</strong> Three refute-first verifiers confirmed almost every finding (only 2 of ~70 dropped: one mis-cited reason-clause item, one "go in the room" overstatement softened rather than rewritten). But they rejected or rebuilt a large share of the <em>proposed fixes</em> — every one of the 5 single-pattern-drill replacements, and several two-defensible rewrites, would have <strong>reintroduced the very ambiguity they were removing</strong> (e.g. a replacement using "much progress", which is standard formal English; a get-passive item where "got cracked" ≈ "cracked"). On this site the verification layer functioned less as a false-positive filter and more as a <strong>fix-hardening pass</strong> — which is exactly why no replacement shipped on trust.</p>
+</div>
+
+<h2>English explanations — 136 topics, remarkably clean</h2>
+<p>Beyond the one reflexive critical: the "its" standalone-possessive list error (no such form exists), and ~6 minors (a broken example that didn't parse, an intonation description with the fall on the wrong word, a "raised is irregular" slip, an unmarked British "in hospital"). Notably, reviewers specifically hunted the high-damage class of <strong>bogus L1-interference causal claims</strong> — and found <strong>none</strong>. The author's causal explanations (pro-drop, zero-article, 3rd-person -s) are all sound. The reference datasets (150 irregular verbs, 69 false friends across 5 languages, punctuation, linking words) were clean but for one garbled gloss.</p>
+
+<h2>Reported, not fixed (product decisions)</h2>
+<ul>
+  <li><strong>English-only practice surface.</strong> Explanations are 9-language, but exercises and their post-answer feedback are English-only — so a learner reading in Arabic or Chinese hits an all-English practice layer. Translating 2,810 questions × 8 languages (~22k strings) is a project in its own right, not an audit fix.</li>
+  <li><strong>A structural safeguard worth adding:</strong> the engine's lack of an accept-list is the root cause of the whole two-defensible-answers class. An optional <code>accept: string[]</code> field on the question type would let future ambiguous items be handled in data rather than by rewriting.</li>
+  <li>A few near-duplicate questions within topics, and three oversized "mistake" callouts, left as optional polish.</li>
+</ul>
+
+<h2>Method &amp; verification</h2>
+<p>9 parallel reviewers (exercises exhaustive across 6 batches; English explanations across 3, the C1/C2 batch flagged for extra rigour) → all findings written to a manifest file in the repo before any change (resilience — this run survived several session-limit interruptions with zero lost work) → 3 refute-first verifiers, each also validating that every replacement was itself free of the two-defensible-answers defect → repairs → the repo's own gates (<code>validate</code> · <code>readability</code> · <code>lint</code> · <code>build</code>, all green; the readability ceiling caught one over-long rewrite, which was split) → the 8 non-English languages reconciled to the 7 meaning-changing English fixes, index-aligned so the paragraph-count invariant held. CEFR levels were left untouched throughout — they gate a dormant paywall, so any level change was flag-only.</p>
+
+<footer>Generated by <code>/pedagogy-audit</code> · Grammatica · raw findings &amp; verified manifest in <span class="path">audit-reports/</span></footer>
