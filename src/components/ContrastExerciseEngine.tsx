@@ -2,8 +2,13 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { CheckCircle, XCircle, RotateCcw } from "lucide-react";
 import FloatingGrammarReference from "@/components/FloatingGrammarReference";
+import { useUiLanguage } from "@/hooks/useUiLanguage";
 import type { ContrastQuestion } from "@/data/contrastExercises";
-import type { GrammarTopicContent } from "@/data/types";
+import { LANGUAGES, type GrammarTopicContent } from "@/data/types";
+
+/** The learner's explanation in their chosen language, falling back to English. */
+const explanationFor = (q: ContrastQuestion, lang: string): string =>
+  (lang !== "en" && q.explanationI18n?.[lang as keyof typeof q.explanationI18n]) || q.explanation;
 
 interface ContrastExerciseEngineProps {
   title: string;
@@ -39,6 +44,8 @@ const shuffled = <T,>(arr: T[]): T[] => {
  * contrast pairs aren't topics and have no registry entry to match.
  */
 const ContrastExerciseEngine = ({ title, questions, topicA, topicB, storageKey }: ContrastExerciseEngineProps) => {
+  const [lang, setLang] = useUiLanguage();
+  const rtl = LANGUAGES.find((l) => l.code === lang)?.rtl ?? false;
   const [results, setResults] = useState<({ given: string; good: boolean } | undefined)[]>(() =>
     Array(questions.length).fill(undefined)
   );
@@ -106,6 +113,18 @@ const ContrastExerciseEngine = ({ title, questions, topicA, topicB, storageKey }
           </p>
         </div>
         <div className="flex items-center gap-1.5 shrink-0">
+          <label className="sr-only" htmlFor="contrast-explanation-lang">Explanation language</label>
+          <select
+            id="contrast-explanation-lang"
+            value={lang}
+            onChange={(e) => setLang(e.target.value as typeof lang)}
+            className="text-sm rounded-md border border-border bg-background py-1.5 px-2"
+            title="Language of the explanations"
+          >
+            {LANGUAGES.map((l) => (
+              <option key={l.code} value={l.code}>{l.label}</option>
+            ))}
+          </select>
           <FloatingGrammarReference topic={topicA} />
           {topicB && <FloatingGrammarReference topic={topicB} />}
         </div>
@@ -156,7 +175,7 @@ const ContrastExerciseEngine = ({ title, questions, topicA, topicB, storageKey }
                         You answered "{result.given}" — correct answer: <strong>{q.answer}</strong>
                       </p>
                     )}
-                    <p className="text-foreground/80">{q.explanation}</p>
+                    <p className="text-foreground/80" lang={lang} dir={rtl ? "rtl" : "ltr"}>{explanationFor(q, lang)}</p>
                   </div>
                 </div>
               )}

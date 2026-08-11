@@ -1,8 +1,12 @@
+import type { LanguageCode } from "./types";
+
 export interface ContrastQuestion {
   sentence: string;
   answer: string;
   options: string[];
   explanation: string;
+  /** Optional per-language translations of `explanation`; English falls back to `explanation`. */
+  explanationI18n?: Partial<Record<Exclude<LanguageCode, "en">, string>>;
 }
 
 /**

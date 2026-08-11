@@ -1,28 +1,24 @@
-import { useState } from "react";
 import { Link } from "react-router-dom";
 import { BookOpen } from "lucide-react";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import ExplanationParagraphs from "@/components/ExplanationParagraphs";
-import { LANGUAGES, type LanguageCode } from "@/data/types";
+import { useUiLanguage } from "@/hooks/useUiLanguage";
+import { LANGUAGES } from "@/data/types";
 import type { GrammarTopicContent } from "@/data/types";
 
 interface FloatingGrammarReferenceProps {
   topic: GrammarTopicContent;
 }
 
-const detectDefaultLanguage = (topic: GrammarTopicContent): LanguageCode => {
-  if (typeof navigator === "undefined") return "en";
-  const browser = navigator.language.slice(0, 2).toLowerCase();
-  return browser in topic.explanations ? (browser as LanguageCode) : "en";
-};
-
 /**
  * Grammar rule quick-reference that floats over an exercise. Renders inline
  * in the exercise's own header (not viewport-fixed) so it never overlaps
- * answer buttons on narrow viewports.
+ * answer buttons on narrow viewports. Shares one persisted learner language
+ * (useUiLanguage) with the exercise explanations, so the choice made here is
+ * respected everywhere and survives navigation.
  */
 const FloatingGrammarReference = ({ topic }: FloatingGrammarReferenceProps) => {
-  const [lang, setLang] = useState<LanguageCode>(() => detectDefaultLanguage(topic));
+  const [lang, setLang] = useUiLanguage();
   const meta = LANGUAGES.find((l) => l.code === lang)!;
   const paragraphs = topic.explanations[lang] ?? topic.explanations.en;
 

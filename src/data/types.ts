@@ -34,6 +34,12 @@ export interface ExerciseQuestion {
   options: string[];
   /** One-line English explanation of why, shown after answering. */
   explanation: string;
+  /**
+   * Optional per-language translations of `explanation`, shown to learners
+   * reading in their own language. English always falls back to `explanation`.
+   * If present on a question, validate.ts requires all 8 non-English languages.
+   */
+  explanationI18n?: Partial<Record<Exclude<LanguageCode, "en">, string>>;
 }
 
 export interface Exercise {

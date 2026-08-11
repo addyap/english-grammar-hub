@@ -80,6 +80,18 @@ for (const t of topics) {
       if (!Array.isArray(q.options) || q.options.length < 2) fail(`exercise "${exLabel}" Q${qi + 1} needs at least 2 options`);
       else if (!q.options.includes(q.answer)) fail(`exercise "${exLabel}" Q${qi + 1} — answer "${q.answer}" is not among its options [${q.options.join(", ")}]`);
       if (!q.explanation?.trim()) fail(`exercise "${exLabel}" Q${qi + 1} missing explanation`);
+      // explanationI18n is optional, but if present it must be complete: every
+      // non-English language filled in, so no half-translated question ships
+      // (missing languages would silently fall back to English at runtime).
+      if (q.explanationI18n !== undefined) {
+        for (const { code } of LANGUAGES) {
+          if (code === "en") continue;
+          const tr = q.explanationI18n?.[code];
+          if (typeof tr !== "string" || !tr.trim()) {
+            fail(`exercise "${exLabel}" Q${qi + 1} has explanationI18n but is missing/empty for '${code}' (all 8 non-English languages required when present)`);
+          }
+        }
+      }
     });
   });
 }

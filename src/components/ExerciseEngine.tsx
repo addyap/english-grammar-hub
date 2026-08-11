@@ -2,7 +2,8 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { CheckCircle, XCircle, RotateCcw } from "lucide-react";
 import FloatingGrammarReference from "@/components/FloatingGrammarReference";
-import type { Exercise, ExerciseQuestion, GrammarTopicContent } from "@/data/types";
+import { useUiLanguage } from "@/hooks/useUiLanguage";
+import { LANGUAGES, type Exercise, type ExerciseQuestion, type GrammarTopicContent } from "@/data/types";
 
 interface ExerciseEngineProps {
   topic: GrammarTopicContent;
@@ -29,8 +30,14 @@ const shuffled = <T,>(arr: T[]): T[] => {
  * feedback with a one-line "why", a live score, and a best-score kept in
  * localStorage (no account needed).
  */
+/** The learner's explanation in their chosen language, falling back to English. */
+const explanationFor = (q: ExerciseQuestion, lang: string): string =>
+  (lang !== "en" && q.explanationI18n?.[lang as keyof typeof q.explanationI18n]) || q.explanation;
+
 const ExerciseEngine = ({ topic, exercise, storageKey }: ExerciseEngineProps) => {
   const { questions } = exercise;
+  const [lang, setLang] = useUiLanguage();
+  const rtl = LANGUAGES.find((l) => l.code === lang)?.rtl ?? false;
 
   if (import.meta.env.DEV) {
     if (questions.length !== 10) {
@@ -112,7 +119,21 @@ const ExerciseEngine = ({ topic, exercise, storageKey }: ExerciseEngineProps) =>
             {best !== null && <> · Best {best}/{questions.length}</>}
           </p>
         </div>
-        <FloatingGrammarReference topic={topic} />
+        <div className="flex items-center gap-2 shrink-0">
+          <label className="sr-only" htmlFor="exercise-explanation-lang">Explanation language</label>
+          <select
+            id="exercise-explanation-lang"
+            value={lang}
+            onChange={(e) => setLang(e.target.value as typeof lang)}
+            className="text-sm rounded-md border border-border bg-background py-1.5 px-2"
+            title="Language of the explanations"
+          >
+            {LANGUAGES.map((l) => (
+              <option key={l.code} value={l.code}>{l.label}</option>
+            ))}
+          </select>
+          <FloatingGrammarReference topic={topic} />
+        </div>
       </div>
 
       <div className="space-y-4">
@@ -160,7 +181,7 @@ const ExerciseEngine = ({ topic, exercise, storageKey }: ExerciseEngineProps) =>
                         You answered "{result.given}" — correct answer: <strong>{q.answer}</strong>
                       </p>
                     )}
-                    <p className="text-foreground/80">{q.explanation}</p>
+                    <p className="text-foreground/80" lang={lang} dir={rtl ? "rtl" : "ltr"}>{explanationFor(q, lang)}</p>
                   </div>
                 </div>
               )}
