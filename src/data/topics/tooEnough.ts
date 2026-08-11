@@ -156,7 +156,7 @@ export const tooEnough: GrammarTopicContent = {
         { sentence: "She didn't run ___ (quickly) to catch the bus.", answer: "quickly enough", options: ["quickly enough", "enough quickly", "too quickly"], explanation: "enough goes after the adverb: quickly enough." },
         { sentence: "Do we have ___ (chairs) for everyone?", answer: "enough chairs", options: ["enough chairs", "chairs enough", "too chairs"], explanation: "enough goes before a noun: enough chairs." },
         { sentence: "This bag is ___ (heavy) for me.", answer: "too heavy", options: ["too heavy", "heavy too", "enough heavy"], explanation: "too goes before the adjective: too heavy." },
-        { sentence: "The room is ___ (big) for ten people.", answer: "big enough", options: ["big enough", "enough big", "too big"], explanation: "enough goes after the adjective: big enough — the room is sufficient, not a problem." },
+        { sentence: "The room is ___ (big) for everyone to sit down comfortably.", answer: "big enough", options: ["big enough", "enough big", "too big"], explanation: "enough follows the adjective and marks sufficiency (big enough to seat everyone); 'too big' would wrongly signal an excess that prevents sitting, and 'enough big' is the wrong order." },
       ],
     },
     {

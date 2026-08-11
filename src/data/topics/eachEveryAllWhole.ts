@@ -152,11 +152,11 @@ export const eachEveryAllWhole: GrammarTopicContent = {
         { sentence: "___ single person in the room turned to look.", answer: "Every", options: ["Every", "Each", "All"], explanation: "every single is a fixed idiomatic expression for emphasis." },
         { sentence: "___ of us has a different opinion.", answer: "Each", options: ["Each", "Every", "All"], explanation: "every never takes of — only each of/all of." },
         { sentence: "___ window in the building was broken.", answer: "Every", options: ["Every", "Each of", "All of"], explanation: "every directly attaches to a singular noun — no of." },
-        { sentence: "I spoke to ___ of the candidates one by one, starting with the youngest.", answer: "each", options: ["each", "every", "all"], explanation: "each of + plural noun, for a one-by-one process; 'starting with the youngest' confirms individual sequence, not the group as a whole." },
+        { sentence: "___ of the candidates was interviewed separately, starting with the youngest.", answer: "Each", options: ["Each", "Every", "All"], explanation: "each of + plural noun takes a singular verb (was); every never takes of, and all of the candidates would need the plural were." },
         { sentence: "___ single day, without fail, she goes for a run before work.", answer: "Every", options: ["Every", "Each", "All"], explanation: "every single day is a fixed idiomatic expression for an unbroken routine; 'without fail' confirms it." },
         { sentence: "___ of the two answers was correct.", answer: "Each", options: ["Each", "Every", "All of"], explanation: "every never takes of — only each of." },
         { sentence: "___ nation has its own customs.", answer: "Every", options: ["Every", "Each of", "All of"], explanation: "every directly attaches to a singular noun — no of needed." },
-        { sentence: "___ of the six players scored a goal, one after another.", answer: "Each", options: ["Each", "Every", "All"], explanation: "every never takes of — only each of/all of; 'one after another' confirms the individual, sequential reading each fits." },
+        { sentence: "___ of the six players was given a different shirt number.", answer: "Each", options: ["Each", "Every", "All"], explanation: "each of + plural takes a singular verb (was) and a distributive object (a different number); all of would need were, and every never takes of." },
       ],
     },
     {

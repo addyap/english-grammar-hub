@@ -201,15 +201,15 @@ export const abilityPermissionModals: GrammarTopicContent = {
     {
       title: "Ability: General Past vs One-Time Success",
       questions: [
-        { sentence: "When I was a child, I ___ (can/climb) trees easily.", answer: "could climb", options: ["could climb", "was able to climb", "managed to climb"], explanation: "General/repeated past ability, signalled by 'when I was a child' — could." },
+        { sentence: "When I was a child, I ___ (can/climb) trees easily.", answer: "could climb", options: ["could climb", "can climb", "managed to climb"], explanation: "General past ability ('when I was a child') — could; can is present, and managed to (single effortful success) clashes with 'easily'." },
         { sentence: "Despite the flat tyre, she ___ (be able to/finish) the marathon.", answer: "was able to finish", options: ["was able to finish", "could finish", "can finish"], explanation: "A single specific achievement despite difficulty — was able to, not could." },
-        { sentence: "She ___ (can/speak) three languages by the time she was ten.", answer: "could speak", options: ["could speak", "was able to speak", "managed to speak"], explanation: "A skill built up over time (repeated/general ability) — could." },
+        { sentence: "She ___ (can/speak) three languages by the time she was ten.", answer: "could speak", options: ["could speak", "can speak", "managed to speak"], explanation: "A skill built up over time — could; can is present." },
         { sentence: "After three attempts, he finally ___ (manage to/open) the jar.", answer: "managed to open", options: ["managed to open", "could open", "can open"], explanation: "One specific successful event, marked by 'finally' and 'after three attempts' — managed to." },
-        { sentence: "In those days, we ___ (can/leave) our doors unlocked.", answer: "could leave", options: ["could leave", "were able to leave", "managed to leave"], explanation: "A general, habitual past situation ('in those days') — could." },
+        { sentence: "In those days, we ___ (can/leave) our doors unlocked.", answer: "could leave", options: ["could leave", "can leave", "managed to leave"], explanation: "A general, habitual past situation — could; can is present." },
         { sentence: "I ___ (not/can/find) my keys yesterday.", answer: "couldn't find", options: ["couldn't find", "could find", "can't find"], explanation: "could IS allowed for a one-time past failure — the restriction only blocks one-time positive achievements, so couldn't find is fine. The prompt says not, ruling out the positive could find, and yesterday rules out the present can't find." },
         { sentence: "Somehow, the team ___ (manage to/win) the match despite being down 2-0.", answer: "managed to win", options: ["managed to win", "could win", "can win"], explanation: "One specific event with an effort/difficulty marker ('somehow', 'despite') — managed to." },
         { sentence: "Once I finish this course, I ___ (will be able to/teach) English professionally.", answer: "will be able to teach", options: ["will be able to teach", "could teach", "can teach"], explanation: "Future ability — will be able to." },
-        { sentence: "Every summer at my grandparents' house, I ___ (can/swim) in the lake all day.", answer: "could swim", options: ["could swim", "was able to swim", "managed to swim"], explanation: "A repeated, habitual past ability ('every summer') — could." },
+        { sentence: "Every summer at my grandparents' house, I ___ (can/swim) in the lake all day.", answer: "could swim", options: ["could swim", "can swim", "managed to swim"], explanation: "A repeated, habitual past ability ('every summer') — could; can is present." },
         { sentence: "Yesterday's exam was hard, but she ___ (be able to/pass) it.", answer: "was able to pass", options: ["was able to pass", "could pass", "can pass"], explanation: "One specific past success (a single exam) — was able to, not could." },
       ],
     },
@@ -218,7 +218,7 @@ export const abilityPermissionModals: GrammarTopicContent = {
       questions: [
         { sentence: "___ I borrow a pen from you? (asking a close friend)", answer: "Can", options: ["Can", "May", "Must"], explanation: "Informal permission between friends — can fits naturally; may would sound stiff here." },
         { sentence: "___ I leave early today? (asking your manager, fairly politely)", answer: "Could", options: ["Could", "Can't", "Should"], explanation: "A more polite, slightly formal request for permission to a manager — could." },
-        { sentence: "In a formal letter to your professor: ___ I request an extension on the deadline?", answer: "May", options: ["May", "Can", "Could"], explanation: "The most formal, polite way to ask for permission in writing — may." },
+        { sentence: "The professor's reply confirmed the extension: 'You ___ submit the essay up to 48 hours late without penalty.'", answer: "may", options: ["may", "must", "should"], explanation: "may formally grants permission; must (obligation) and should (advice) don't grant anything." },
         { sentence: "The teacher said, \"You ___ leave now, class is over.\"", answer: "may", options: ["may", "must", "should"], explanation: "may is also used to formally grant permission." },
         { sentence: "___ I come in? — Yes, you may. (formal office setting)", answer: "May", options: ["May", "Must", "Should"], explanation: "May I...? is the classic formal request for permission, and 'you may' formally grants it." },
         { sentence: "___ I use your phone for a second? (to a close friend)", answer: "Can", options: ["Can", "May", "Must"], explanation: "Everyday informal permission request between friends — can, not the stiffer may." },

@@ -138,16 +138,16 @@ export const collectiveNouns: GrammarTopicContent = {
     {
       title: "Singular or Plural Agreement",
       questions: [
-        { sentence: "The team ___ (be) playing well this season.", answer: "is", options: ["is", "are", "be"], explanation: "Singular verb when the group is viewed as one unit." },
+        { sentence: "The team ___ (be) the oldest club in the league, founded in 1889.", answer: "is", options: ["is", "are", "be"], explanation: "A fact about the club as one institution → singular is." },
         { sentence: "In British English, the team ___ (be) arguing among themselves.", answer: "are", options: ["are", "is", "be"], explanation: "Plural verb (British style) when the group is viewed as individual members, matching the plural pronoun themselves." },
-        { sentence: "The government ___ (have) announced new plans.", answer: "has", options: ["has", "have", "having"], explanation: "Singular verb when the group is viewed as one unit." },
+        { sentence: "The government ___ (have) a duty to protect its own citizens.", answer: "has", options: ["has", "have", "having"], explanation: "The singular 'its' later in the sentence forces the singular verb has." },
         { sentence: "My family ___ (be) all very different from each other.", answer: "are", options: ["are", "is", "be"], explanation: "Plural verb (British style) when talking about individual family members." },
-        { sentence: "The committee ___ (meet) every Monday.", answer: "meets", options: ["meets", "meet", "meeting"], explanation: "Singular verb — the committee as one regular unit." },
-        { sentence: "The audience ___ (clap) loudly at the end of every show.", answer: "claps", options: ["claps", "clap", "clapping"], explanation: "Singular verb (-s ending) — the group acting together as one unit." },
+        { sentence: "The committee ___ (meet) as one body to reach a single decision.", answer: "meets", options: ["meets", "meet", "meeting"], explanation: "'as one body… a single decision' forces the unit reading → meets." },
+        { sentence: "The audience always ___ (clap) as one at the final bow.", answer: "claps", options: ["claps", "clap", "clapping"], explanation: "'as one' forces the single-unit reading → claps." },
         { sentence: "The staff ___ (be) unhappy about the new policy.", answer: "are", options: ["are", "is", "be"], explanation: "Plural verb (British style) when emphasizing individual staff members' reactions." },
         { sentence: "The class ___ (be) too big — there are 40 students.", answer: "is", options: ["is", "are", "be"], explanation: "Singular verb — the class as one unit with a size." },
         { sentence: "In American English, the team ___ (be) arguing among themselves.", answer: "is", options: ["is", "are", "be"], explanation: "American English strongly prefers the singular verb, even for individual members." },
-        { sentence: "The band ___ (release) a new album next month.", answer: "is releasing", options: ["is releasing", "are releasing", "release"], explanation: "Singular verb — the band as one unit performing an action." },
+        { sentence: "The band ___ (release) its debut album next month.", answer: "is releasing", options: ["is releasing", "are releasing", "release"], explanation: "The singular 'its' forces singular agreement." },
       ],
     },
     {

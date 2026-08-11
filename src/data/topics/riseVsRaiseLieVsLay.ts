@@ -17,7 +17,7 @@ export const riseVsRaiseLieVsLay: GrammarTopicContent = {
           "There's also a separate, regular verb lie, lied, lied, meaning 'to say something untrue' (He lied about his age) — completely unrelated in meaning to lie meaning 'to recline', though spelled the same in the base form.",
         ],
       },
-      "The most common mistake is using lay where lie is needed — I need to go lay down is wrong because there's no object; it should be I need to go lie down. A second common mistake is using rise where raise is needed, or vice versa — He raised at 6am is wrong (no object, so it should be rose); She rised her hand is wrong (raise needs the irregular form raised, and the base verb for this transitive action is raise, not rise).",
+      "The most common mistake is using lay where lie is needed — I need to go lay down is wrong because there's no object; it should be I need to go lie down. A second common mistake is using rise where raise is needed, or vice versa — He raised at 6am is wrong (no object, so it should be rose); She rised her hand is wrong on two counts: the verb for this transitive action is raise, not rise, and its past is the regular raised (there is no form rised).",
       "Ask whether there's a direct object receiving the action: if something is doing the action by itself, with no object, use rise or lie; if the subject is doing the action to something else, named right after the verb, use raise or lay. Also check the meaning: rise/raise are about upward movement; lie/lay are about a flat, resting position (not to be confused with the unrelated lie meaning 'tell an untruth').",
     ],
     fr: [

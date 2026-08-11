@@ -15,7 +15,7 @@ export const prepositionsOfPlace: GrammarTopicContent = {
       "A useful pattern: you're in an enclosed personal vehicle (in a car, in a taxi) but on public or two-wheeled transport (on a bus, on a train, on a plane, on a bike, on a motorbike).",
       {
         intro: "Other fixed expressions:",
-        items: ["at: at work, at school", "in: in bed, in hospital", "on: on the left, on the phone"],
+        items: ["at: at work, at school", "in: in bed, in hospital (UK; US in the hospital)", "on: on the left, on the phone"],
       },
     ],
     fr: [

@@ -38,7 +38,7 @@ export const FALSE_FRIENDS_LISTS: FalseFriendsList[] = [
       { word: "location", explanation: "means 'rental' — not 'a place' (that's emplacement)." },
       { word: "monnaie", explanation: "means 'change/coins' — not 'money' in general (that's argent)." },
       { word: "déception", explanation: "means 'disappointment' — not 'deception' (that's tromperie)." },
-      { word: "ignorer", explanation: "means 'to not know / be unaware of' — not 'to deliberately ignore' (that's the closer sense, but often implies simple unawareness)." },
+      { word: "ignorer", explanation: "means 'to be unaware of / not know' — not 'to deliberately ignore/disregard' (that's ne pas tenir compte de)." },
       { word: "pain", explanation: "means 'bread' — not physical pain (that's douleur)." },
     ],
   },

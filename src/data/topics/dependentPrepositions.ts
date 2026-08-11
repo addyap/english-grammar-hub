@@ -270,7 +270,7 @@ export const dependentPrepositions: GrammarTopicContent = {
         { sentence: "We're proud ___ your results.", answer: "of", options: ["of", "for", "in"], explanation: "proud of is a fixed pair." },
         { sentence: "This restaurant is famous ___ its pizza.", answer: "for", options: ["for", "of", "by"], explanation: "famous for is a fixed pair." },
         { sentence: "Your situation is similar ___ mine.", answer: "to", options: ["to", "with", "of"], explanation: "similar to is a fixed pair." },
-        { sentence: "English is different ___ French in many ways.", answer: "from", options: ["from", "of", "to"], explanation: "different from is a fixed pair, not different of." },
+        { sentence: "She's very keen ___ tennis.", answer: "on", options: ["on", "at", "in"], explanation: "keen on is a fixed pair." },
         { sentence: "She's been married ___ him for ten years.", answer: "to", options: ["to", "with", "for"], explanation: "married to is a fixed pair, not married with." },
         { sentence: "I'm worried ___ the exam tomorrow.", answer: "about", options: ["about", "for", "of"], explanation: "worried about is a fixed pair." },
         { sentence: "He's tired ___ waiting.", answer: "of", options: ["of", "from", "about"], explanation: "tired of is a fixed pair." },

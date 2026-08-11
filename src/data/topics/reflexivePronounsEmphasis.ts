@@ -17,7 +17,7 @@ export const reflexivePronounsEmphasis: GrammarTopicContent = {
           "They can also emphasize a particular person as especially notable or surprising in context: Even the teacher himself didn't know the answer (emphasizing that even the expert didn't know).",
         ],
       },
-      "The most common mistake is confusing emphatic reflexives with true reflexives and assuming both require the pronoun for the sentence to make sense. But emphatic reflexives are optional additions for stress, while true reflexives are essential. Compare I taught myself Spanish (emphatic — I could also just say 'I taught Spanish', though the meaning of self-teaching would be lost) with I hurt myself (true reflexive — dropping myself changes the sentence). A second mistake is placing the emphatic reflexive in a position that makes it look like the object of the verb when it isn't — She saw herself in the mirror is a true reflexive (herself is the object of saw); She herself saw the accident is emphatic (herself just adds stress to she, and accident is the real object).",
+      "The most common mistake is confusing emphatic reflexives with true reflexives and assuming both require the pronoun for the sentence to make sense. But emphatic reflexives are optional additions for stress, while true reflexives are essential. Compare I fixed the car myself (emphatic — dropping myself leaves I fixed the car, still complete and same in meaning, only without the stress that I did it alone) with I hurt myself (true reflexive — dropping myself changes who was hurt). A second mistake is placing the emphatic reflexive in a position that makes it look like the object of the verb when it isn't — She saw herself in the mirror is a true reflexive (herself is the object of saw); She herself saw the accident is emphatic (herself just adds stress to she, and accident is the real object).",
       "Ask whether removing the reflexive pronoun leaves the sentence complete and grammatically fine, just less emphatic — if so, it's the emphatic (intensive) use. If removing it leaves the sentence incomplete or changes who receives the action, it's the basic reflexive use, where subject and object are the same person.",
     ],
     fr: [
@@ -147,16 +147,16 @@ export const reflexivePronounsEmphasis: GrammarTopicContent = {
         { sentence: "The company ___ admitted the mistake publicly.", answer: "itself", options: ["itself", "himself", "themselves"], explanation: "itself agrees with the singular subject the company." },
         { sentence: "Even the president ___ was surprised by the news.", answer: "himself", options: ["himself", "itself", "themselves"], explanation: "himself agrees with the subject the president." },
         { sentence: "They organised the whole event ___.", answer: "themselves", options: ["themselves", "itself", "ourselves"], explanation: "themselves agrees with the plural subject they." },
-        { sentence: "I baked this bread ___ this morning.", answer: "myself", options: ["myself", "yourself", "herself"], explanation: "myself agrees with the subject I." },
+        { sentence: "I knitted this scarf ___, so I know it's real wool.", answer: "myself", options: ["myself", "me", "mine"], explanation: "Emphatic 'myself' stresses no one else did it; 'me' (object) and 'mine' (possessive) don't fit." },
       ],
     },
     {
       title: "Mixed Practice",
       questions: [
         { sentence: "He built this table ___ — it's not from a shop.", answer: "himself", options: ["himself", "herself", "itself"], explanation: "himself agrees with the subject he." },
-        { sentence: "She solved the puzzle ___, without any hints.", answer: "herself", options: ["herself", "himself", "itself"], explanation: "herself agrees with the subject she." },
+        { sentence: "The manager ___ dealt with the complaint, not an assistant.", answer: "herself", options: ["herself", "her", "hers"], explanation: "An emphatic reflexive right after the subject stresses it was the manager in person." },
         { sentence: "We organised the surprise party ___.", answer: "ourselves", options: ["ourselves", "themselves", "yourselves"], explanation: "ourselves agrees with the subject we." },
-        { sentence: "You should try the recipe ___ before judging it.", answer: "yourself", options: ["yourself", "himself", "itself"], explanation: "yourself agrees with the subject you." },
+        { sentence: "You should paint the fence ___ if you want it done properly.", answer: "yourself", options: ["yourself", "you", "yours"], explanation: "'yourself' = without help; the personal/possessive forms don't fit." },
         { sentence: "The company's founder ___ replied to my email.", answer: "himself", options: ["himself", "herself", "itself"], explanation: "himself agrees with the subject the founder." },
         { sentence: "They painted the mural ___ over the weekend.", answer: "themselves", options: ["themselves", "itself", "ourselves"], explanation: "themselves agrees with the plural subject they." },
         { sentence: "I wrote the whole essay ___ the night before it was due.", answer: "myself", options: ["myself", "yourself", "herself"], explanation: "myself agrees with the subject I." },

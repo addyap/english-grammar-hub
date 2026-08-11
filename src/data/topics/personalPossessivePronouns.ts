@@ -14,7 +14,7 @@ export const personalPossessivePronouns: GrammarTopicContent = {
           "Subject pronouns do the action: I, you, he, she, it, we, they — She called me.",
           "Object pronouns receive the action or follow a preposition: me, you, him, her, it, us, them — She called me; I gave it to him.",
           "Possessive determiners come before a noun: my, your, his, her, its, our, their — This is my car.",
-          "Possessive pronouns stand alone, with no noun after them: mine, yours, his, hers, its, ours, theirs — This car is mine (not this car is my).",
+          "Possessive pronouns stand alone, with no noun after them: mine, yours, his, hers, ours, theirs (there is no standalone possessive its) — This car is mine (not this car is my).",
         ],
       },
       "The most common mistake is confusing its (possessive: belonging to it) with it's (it is/it has) — The dog wagged its tail, not it's tail. A second frequent error: using a subject pronoun where an object pronoun belongs, especially after and or a preposition — between you and I is wrong (a preposition needs an object pronoun). It should be between you and me, just as it's obviously me who called, not it's obviously I who called.",

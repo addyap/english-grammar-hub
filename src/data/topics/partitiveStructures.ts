@@ -141,7 +141,7 @@ export const partitiveStructures: GrammarTopicContent = {
         { sentence: "Can I give you a ___ of advice?", answer: "piece", options: ["piece", "loaf", "bar"], explanation: "advice pairs with piece — 'a piece of advice'." },
         { sentence: "I bought two ___ of bread at the bakery.", answer: "loaves", options: ["loaves", "pieces", "bars"], explanation: "bread pairs with loaf — plural is loaves, not breads." },
         { sentence: "She shared some exciting ___ of news with us.", answer: "pieces", options: ["pieces", "loaves", "bars"], explanation: "news pairs with piece — 'pieces of news', never 'newses'." },
-        { sentence: "He unwrapped a ___ of chocolate still in its foil.", answer: "bar", options: ["bar", "piece", "loaf"], explanation: "chocolate (in this solid, whole form) pairs with bar; 'still in its foil' confirms it's unbroken." },
+        { sentence: "She fed a fresh ___ of paper into the printer.", answer: "sheet", options: ["sheet", "loaf", "bar"], explanation: "paper (one flat piece) pairs with sheet — 'a sheet of paper'." },
         { sentence: "We need some new ___ of furniture for the living room.", answer: "pieces", options: ["pieces", "loaves", "bars"], explanation: "furniture pairs with piece — 'pieces of furniture', never 'furnitures'." },
         { sentence: "Could I have a ___ of information about the schedule?", answer: "piece", options: ["piece", "loaf", "bar"], explanation: "information pairs with piece — never 'informations'." },
         { sentence: "There was a ___ of lightning right before the thunder.", answer: "bolt", options: ["bolt", "piece", "loaf"], explanation: "lightning pairs with bolt — 'a bolt of lightning'." },

@@ -12,7 +12,7 @@ export const alternativeQuestionsWithOr: GrammarTopicContent = {
         intro: "How alternative questions are built:",
         items: [
           "auxiliary/modal + subject + verb + option A + or + option B?, using the same word order as a normal yes/no question, with or connecting the choices at the end: Would you like coffee or tea? Are you coming today or tomorrow? Can I pay by card or in cash?",
-          "In speech, the intonation falls on or in an alternative question (rising, then falling), unlike a yes/no question, where the intonation typically rises at the very end — this is the main way listeners tell the two question types apart when spoken aloud.",
+          "In speech, the voice rises on the first option and falls on the last one (tea↗ or coffee↘?), unlike a yes/no question, where the intonation typically rises at the very end — this is how listeners tell the two types apart.",
           "Wh-questions can also include or, offering the listener specific choices to pick from within the answer: Which do you prefer, tea or coffee? What time should we meet, six or seven?",
           "An alternative question can be answered with just one of the options, a full sentence, or 'either' (if both are acceptable) or 'neither' (if neither is wanted). Never answer with a plain yes or no: Tea, please / I'd like tea / Either is fine / Neither, thanks.",
         ],

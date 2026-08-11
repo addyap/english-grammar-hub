@@ -139,7 +139,7 @@ export const shallOffersSuggestions: GrammarTopicContent = {
       title: "Shall or Will?",
       questions: [
         { sentence: "___ I open the window? It's a bit warm in here.", answer: "Shall", options: ["Shall", "Will", "Would"], explanation: "Shall I offers to do something for the listener." },
-        { sentence: "___ you help me with these bags?", answer: "Will", options: ["Will", "Shall", "Does"], explanation: "shall doesn't naturally work with you for offers — use will; 'Does you' is a subject-verb agreement error." },
+        { sentence: "___ you like me to help with those bags?", answer: "Would", options: ["Would", "Shall", "Will"], explanation: "'Would you like me to…' is a polite offer, an alternative to 'Shall I…'." },
         { sentence: "___ we get started with the meeting?", answer: "Shall", options: ["Shall", "Will", "Would"], explanation: "Shall we suggests doing something together." },
         { sentence: "___ he call you back later?", answer: "Will", options: ["Will", "Shall", "Would"], explanation: "shall doesn't naturally work with he for offers — use will." },
         { sentence: "___ I make you a cup of tea?", answer: "Shall", options: ["Shall", "Will", "Would"], explanation: "Shall I offers to do something for the listener." },
@@ -155,7 +155,7 @@ export const shallOffersSuggestions: GrammarTopicContent = {
       questions: [
         { sentence: "___ I turn the music down a bit?", answer: "Shall", options: ["Shall", "Will", "Would"], explanation: "Shall I offers to do something for the listener." },
         { sentence: "___ you be at the office tomorrow?", answer: "Will", options: ["Will", "Shall", "Does"], explanation: "shall doesn't naturally work with you for questions about the future — use will; 'Does you be' is ungrammatical." },
-        { sentence: "___ we order some pizza tonight?", answer: "Shall", options: ["Shall", "Will", "Would"], explanation: "Shall we suggests doing something together." },
+        { sentence: "Let's order some pizza, ___?", answer: "shall we", options: ["shall we", "will we", "don't we"], explanation: "The tag after a 'Let's' suggestion is always 'shall we?'." },
         { sentence: "___ I book the tickets for us?", answer: "Shall", options: ["Shall", "Will", "Would"], explanation: "Shall I offers to do something for the listener." },
         { sentence: "___ it rain later, do you think?", answer: "Will", options: ["Will", "Shall", "Would"], explanation: "shall doesn't naturally work with it for predictions — use will." },
         { sentence: "___ we try that new restaurant this weekend?", answer: "Shall", options: ["Shall", "Will", "Would"], explanation: "Shall we suggests doing something together." },

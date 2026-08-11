@@ -228,12 +228,12 @@ export const reportedSpeech: GrammarTopicContent = {
     {
       title: "Backshift in Statements",
       questions: [
-        { sentence: "'I like tea,' she said. → She said she ___ (like) tea.", answer: "liked", options: ["liked", "likes", "was liking"], explanation: "Present simple backshifts to past simple in reported speech." },
-        { sentence: "'I am working,' he said. → He said he ___ (work).", answer: "was working", options: ["was working", "is working", "worked"], explanation: "Present continuous backshifts to past continuous." },
-        { sentence: "'I saw him,' she said. → She said she ___ (see) him.", answer: "had seen", options: ["had seen", "saw", "has seen"], explanation: "Past simple backshifts to past perfect." },
+        { sentence: "'I like tea,' she said. → She said she ___ (like) tea.", answer: "liked", options: ["liked", "was liking", "had liked"], explanation: "Present simple backshifts to past simple in reported speech." },
+        { sentence: "'I am working,' he said. → He said he ___ (work).", answer: "was working", options: ["was working", "worked", "had been working"], explanation: "Present continuous backshifts to past continuous." },
+        { sentence: "'I saw him,' she said. → She said she ___ (see) him.", answer: "had seen", options: ["had seen", "has seen", "was seeing"], explanation: "Past simple backshifts to past perfect." },
         { sentence: "'I will help you,' he said. → He said he ___ (help) me.", answer: "would help", options: ["would help", "will help", "helped"], explanation: "will backshifts to would." },
-        { sentence: "'I can swim,' she said. → She said she ___ (can/swim).", answer: "could swim", options: ["could swim", "can swim", "would swim"], explanation: "can backshifts to could." },
-        { sentence: "'I must leave now,' he said. → He said he ___ (leave).", answer: "had to leave", options: ["had to leave", "must leave", "musted leave"], explanation: "must backshifts to had to — must has no past form of its own." },
+        { sentence: "'I can swim,' she said. → She said she ___ (can/swim).", answer: "could swim", options: ["could swim", "should swim", "swam"], explanation: "can backshifts to could." },
+        { sentence: "'I must leave now,' he said. → He said he ___ (leave).", answer: "had to leave", options: ["had to leave", "musted leave", "would leave"], explanation: "must backshifts to had to — must has no past form of its own." },
         { sentence: "'I am tired today,' she said. → She said she was tired ___.", answer: "that day", options: ["that day", "today", "this day"], explanation: "today shifts to that day in reported speech." },
         { sentence: "'I'll call you tomorrow,' he said. → He said he would call me ___.", answer: "the next day", options: ["the next day", "tomorrow", "the following today"], explanation: "tomorrow shifts to the next day." },
         { sentence: "'I saw her yesterday,' she said. → She said she had seen her ___.", answer: "the day before", options: ["the day before", "yesterday", "before yesterday"], explanation: "yesterday shifts to the day before." },

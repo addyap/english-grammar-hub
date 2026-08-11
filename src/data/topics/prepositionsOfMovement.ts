@@ -11,7 +11,7 @@ export const prepositionsOfMovement: GrammarTopicContent = {
       "Use into when movement ends inside an enclosed space, and onto when it ends on top of a surface: go into the room, jump onto the table. The opposites are out of (leaving an enclosed space: get out of the car) and off (leaving a surface: get off the bus, fall off the chair).",
       "Use through for movement inside or through an enclosed medium (a tunnel, a forest, a crowd): walk through the tunnel. Use across for movement over a flat, open area, from one side to the other (a road, a river, a field): swim across the river.",
       "Use along for movement that follows a line (a street, a river, a path): walk along the beach. Use past for movement beyond a point: drive past the school. Use towards for movement in a direction, without necessarily arriving: walk towards the exit. Use over for movement above something, often covering an obstacle: jump over the fence, fly over the mountains.",
-      "The most common mistake is confusing the static, no-movement prepositions (in, on, at) with their movement equivalents (into, onto, to): say go into the room, not go in the room, since in describes a fixed position, not an action of entering. Similarly, say I went to Paris, not I went in Paris.",
+      "The most common mistake is confusing the static, no-movement prepositions (in, on, at) with their movement equivalents (into, onto, to). Prefer go into the room over go in the room when you mean the action of entering — both are heard, but into makes the movement explicit; and with destinations say I went to Paris, never I went in Paris.",
       "These prepositions almost always follow a verb of motion: go, walk, run, drive, swim, climb, jump, fly, fall. If the sentence answers Where (to)?, expect a movement preposition, not a static one.",
     ],
     fr: [
@@ -104,7 +104,7 @@ export const prepositionsOfMovement: GrammarTopicContent = {
         { sentence: "They walked ___ the beach for an hour.", answer: "along", options: ["along", "across", "through"], explanation: "Movement following a line = along." },
         { sentence: "He drove ___ the school without stopping.", answer: "past", options: ["past", "along", "to"], explanation: "Movement beyond a point = past." },
         { sentence: "She walked ___ the exit but didn't get there.", answer: "towards", options: ["towards", "to", "past"], explanation: "Movement in a direction, without necessarily arriving = towards; to implies arrival." },
-        { sentence: "The plane flew ___ the mountains.", answer: "over", options: ["over", "across", "through"], explanation: "Movement above something = over." },
+        { sentence: "The striker chipped the ball ___ the goalkeeper and into the net.", answer: "over", options: ["over", "across", "through"], explanation: "Movement above an obstacle (the goalkeeper) = over; across/through can't lift the ball above a person." },
         { sentence: "We drove ___ the forest for two hours.", answer: "through", options: ["through", "across", "along"], explanation: "Movement inside an enclosed area (a forest, a tunnel) = through." },
         { sentence: "He jumped ___ the wall to escape.", answer: "over", options: ["over", "across", "past"], explanation: "Movement above/covering an obstacle = over." },
         { sentence: "I walked ___ the road to reach the shop.", answer: "across", options: ["across", "along", "through"], explanation: "Movement over an open, flat area (a road) = across." },
