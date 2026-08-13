@@ -138,7 +138,7 @@ export const reflexivePronounsEmphasis: GrammarTopicContent = {
     {
       title: "Choose the Right Emphatic Pronoun",
       questions: [
-        { sentence: "I fixed the car ___ — I didn't need any help.", answer: "myself", options: ["myself", "yourself", "himself"], explanation: "myself agrees with the subject I." },
+        { sentence: "I fixed the car ___ — I didn't need any help.", answer: "myself", options: ["myself", "yourself", "himself"], explanation: "myself agrees with the subject I.", explanationI18n: { fr: "myself s’accorde avec le sujet I.", es: "myself concuerda con el sujeto I.", pt: "myself concorda com o sujeito I.", it: "myself concorda con il soggetto I.", de: "myself passt zum Subjekt I.", ru: "myself согласуется с подлежащим I.", ar: "myself يتوافق مع الفاعل I.", zh: "myself 与主语 I 相配。" } },
         { sentence: "She wrote the entire book ___.", answer: "herself", options: ["herself", "himself", "themselves"], explanation: "herself agrees with the subject she." },
         { sentence: "The children made the cake ___, without any help from an adult.", answer: "themselves", options: ["themselves", "itself", "ourselves"], explanation: "themselves agrees with the plural subject the children." },
         { sentence: "He repaired the roof ___ last summer.", answer: "himself", options: ["himself", "herself", "itself"], explanation: "himself agrees with the subject he." },
@@ -159,7 +159,7 @@ export const reflexivePronounsEmphasis: GrammarTopicContent = {
         { sentence: "You should paint the fence ___ if you want it done properly.", answer: "yourself", options: ["yourself", "you", "yours"], explanation: "'yourself' = without help; the personal/possessive forms don't fit." },
         { sentence: "The company's founder ___ replied to my email.", answer: "himself", options: ["himself", "herself", "itself"], explanation: "himself agrees with the subject the founder." },
         { sentence: "They painted the mural ___ over the weekend.", answer: "themselves", options: ["themselves", "itself", "ourselves"], explanation: "themselves agrees with the plural subject they." },
-        { sentence: "I wrote the whole essay ___ the night before it was due.", answer: "myself", options: ["myself", "yourself", "herself"], explanation: "myself agrees with the subject I." },
+        { sentence: "I wrote the whole essay ___ the night before it was due.", answer: "myself", options: ["myself", "yourself", "herself"], explanation: "myself agrees with the subject I.", explanationI18n: { fr: "myself s’accorde avec le sujet I.", es: "myself concuerda con el sujeto I.", pt: "myself concorda com o sujeito I.", it: "myself concorda con il soggetto I.", de: "myself passt zum Subjekt I.", ru: "myself согласуется с подлежащим I.", ar: "myself يتوافق مع الفاعل I.", zh: "myself 与主语 I 相配。" } },
         { sentence: "The queen ___ opened the new hospital.", answer: "herself", options: ["herself", "himself", "itself"], explanation: "herself agrees with the subject the queen." },
         { sentence: "We fixed the leak ___ instead of calling a plumber.", answer: "ourselves", options: ["ourselves", "themselves", "yourselves"], explanation: "ourselves agrees with the subject we." },
         { sentence: "He cooked dinner ___ for the whole family.", answer: "himself", options: ["himself", "herself", "itself"], explanation: "himself agrees with the subject he." },
