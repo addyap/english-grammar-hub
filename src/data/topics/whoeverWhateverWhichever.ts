@@ -138,7 +138,7 @@ export const whoeverWhateverWhichever: GrammarTopicContent = {
     {
       title: "Whoever, Whatever or Whichever?",
       questions: [
-        { sentence: "___ wins the race gets a trophy.", answer: "Whoever", options: ["Whoever", "Whatever", "Whichever"], explanation: "refers to any person — free relative use." },
+        { sentence: "___ wins the race gets a trophy.", answer: "Whoever", options: ["Whoever", "Whatever", "Whichever"], explanation: "refers to any person — free relative use.", explanationI18n: { fr: "renvoie à n'importe quelle personne — emploi en relative libre.", es: "se refiere a cualquier persona — uso de relativa libre.", pt: "refere-se a qualquer pessoa — uso de relativa livre.", it: "si riferisce a qualsiasi persona — uso relativo libero.", de: "bezieht sich auf jede beliebige Person — freie Relativverwendung.", ru: "относится к любому человеку — свободное относительное употребление.", ar: "يشير إلى أي شخص — الاستخدام الموصول الحر.", zh: "指任何人——自由关系从句用法。" } },
         { sentence: "___ you decide, I'll support you.", answer: "Whatever", options: ["Whatever", "Whoever", "Whichever"], explanation: "'no matter what' — concessive use." },
         { sentence: "Take ___ seat you like — there are only three left.", answer: "whichever", options: ["whichever", "whoever", "whatever"], explanation: "choosing from a limited, known set — whichever." },
         { sentence: "___ broke this vase should tell me now.", answer: "Whoever", options: ["Whoever", "Whatever", "Whichever"], explanation: "refers to any person — free relative use." },

@@ -138,9 +138,9 @@ export const someAny: GrammarTopicContent = {
     {
       title: "Some vs Any: Basic Use",
       questions: [
-        { sentence: "I have ___ apples in my bag.", answer: "some", options: ["some", "any"], explanation: "affirmative sentence → some." },
-        { sentence: "I don't have ___ money.", answer: "any", options: ["some", "any"], explanation: "negative sentence → any." },
-        { sentence: "Do you have ___ questions?", answer: "any", options: ["some", "any"], explanation: "an ordinary, open question → any." },
+        { sentence: "I have ___ apples in my bag.", answer: "some", options: ["some", "any"], explanation: "affirmative sentence → some.", explanationI18n: { fr: "phrase affirmative → some.", es: "frase afirmativa → some.", pt: "frase afirmativa → some.", it: "frase affermativa → some.", de: "bejahter Satz → some.", ru: "утвердительное предложение → some.", ar: "جملة مثبتة → some.", zh: "肯定句 → some。" } },
+        { sentence: "I don't have ___ money.", answer: "any", options: ["some", "any"], explanation: "negative sentence → any.", explanationI18n: { fr: "phrase négative → any.", es: "frase negativa → any.", pt: "frase negativa → any.", it: "frase negativa → any.", de: "verneinter Satz → any.", ru: "отрицательное предложение → any.", ar: "جملة منفية → any.", zh: "否定句 → any。" } },
+        { sentence: "Do you have ___ questions?", answer: "any", options: ["some", "any"], explanation: "an ordinary, open question → any.", explanationI18n: { fr: "une question ordinaire et ouverte → any.", es: "una pregunta ordinaria y abierta → any.", pt: "uma pergunta comum e aberta → any.", it: "una domanda ordinaria e aperta → any.", de: "eine gewöhnliche, offene Frage → any.", ru: "обычный открытый вопрос → any.", ar: "سؤال عادي ومفتوح → any.", zh: "普通的开放式问题 → any。" } },
         { sentence: "Would you like ___ coffee?", answer: "some", options: ["some", "any"], explanation: "an offer, expecting yes → some." },
         { sentence: "There isn't ___ milk in the fridge.", answer: "any", options: ["some", "any"], explanation: "negative sentence → any." },
         { sentence: "She bought ___ new shoes yesterday.", answer: "some", options: ["some", "any"], explanation: "affirmative sentence → some." },
