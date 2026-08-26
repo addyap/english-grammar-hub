@@ -33,12 +33,6 @@ export default {
         popover: { DEFAULT: "hsl(var(--popover))", foreground: "hsl(var(--popover-foreground))" },
         card: { DEFAULT: "hsl(var(--card))", foreground: "hsl(var(--card-foreground))" },
         success: { DEFAULT: "hsl(var(--success))", foreground: "hsl(var(--success-foreground))" },
-        /* Hero flag backdrops only — outside the brand palette on purpose. */
-        flag: {
-          red: "hsl(var(--flag-red))",
-          blue: "hsl(var(--flag-blue))",
-          white: "hsl(var(--flag-white))",
-        },
         /* Purely decorative "red pen" accent — see --pen in index.css. */
         pen: "hsl(var(--pen))",
       },
