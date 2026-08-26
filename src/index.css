@@ -168,12 +168,49 @@
 .hero-glow {
   background:
     radial-gradient(
-      42rem 34rem at var(--mx) var(--my),
-      hsl(var(--secondary) / 0.28),
-      hsl(var(--secondary) / 0.08) 34%,
-      transparent 66%
+      16rem 14rem at var(--mx) var(--my),
+      hsl(var(--secondary) / 0.5),
+      transparent 70%
+    ),
+    radial-gradient(
+      46rem 38rem at var(--mx) var(--my),
+      hsl(var(--secondary) / 0.32),
+      hsl(var(--secondary) / 0.1) 34%,
+      transparent 68%
     );
   animation: heroLampOn 1s ease-out both;
+}
+
+/* The lamp's cone — a soft shaft of warm light falling from the top, anchored
+   to the cursor's horizontal position so the whole room lights from where you
+   point. Purely decorative, well away from any text. */
+.hero-beam {
+  background: linear-gradient(
+    177deg,
+    hsl(var(--secondary) / 0.22) 0%,
+    hsl(var(--secondary) / 0.08) 26%,
+    transparent 58%
+  );
+  -webkit-mask-image: radial-gradient(60% 100% at var(--mx) 0%, #000 0%, transparent 72%);
+  mask-image: radial-gradient(60% 100% at var(--mx) 0%, #000 0%, transparent 72%);
+  animation: heroLampOn 1.1s ease-out both;
+}
+
+/* Dust motes rising through the beam — the little bit of magic that sells
+   "lamplit desk at night". Each carries --dx/--dur/--delay from React. */
+.hero-mote {
+  border-radius: 9999px;
+  background: radial-gradient(circle, hsl(var(--secondary) / 0.9), hsl(var(--secondary) / 0));
+  opacity: 0;
+  animation: heroMote var(--dur, 9s) linear var(--delay, 0s) infinite;
+  will-change: transform, opacity;
+}
+@keyframes heroMote {
+  0% { opacity: 0; transform: translateY(20px) translateX(0) scale(0.8); }
+  12% { opacity: var(--lit, 0.6); }
+  50% { transform: translateY(-60px) translateX(var(--dx, 10px)) scale(1); }
+  88% { opacity: var(--lit, 0.6); }
+  100% { opacity: 0; transform: translateY(-140px) translateX(calc(var(--dx, 10px) * -0.6)) scale(0.7); }
 }
 @keyframes heroLampOn {
   0% { opacity: 0; }
@@ -250,13 +287,6 @@
      final word reads clean (not "doesn't is also wrong"). */
   animation: heroPen 0.95s ease-out forwards 1.4s;
 }
-.hero-check {
-  display: inline-block;
-  color: hsl(var(--secondary));
-  opacity: 0;
-  transform: scale(0.3) rotate(-14deg);
-  animation: heroStamp 0.5s cubic-bezier(0.34, 1.56, 0.64, 1) forwards 2s;
-}
 @keyframes heroWrongOut { to { opacity: 0; } }
 @keyframes heroRightIn { from { opacity: 0; } to { opacity: 1; } }
 @keyframes heroPen {
@@ -265,7 +295,6 @@
   100% { transform: scaleX(1) rotate(-1.4deg); opacity: 0; }
 }
 @keyframes heroStamp { to { opacity: 1; transform: scale(1) rotate(0deg); } }
-.hero-panel:hover .hero-check { animation: heroStamp 0.5s ease, heroCheckPulse 0.6s ease 0.1s; }
 @keyframes heroCheckPulse { 50% { transform: scale(1.18) rotate(3deg); } }
 
 /* The cycling native-language reason line. Re-keyed per language in React so
@@ -276,9 +305,102 @@
 .hero-fade-up { animation: heroFadeUp 0.7s ease both; }
 @keyframes heroFadeUp { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; } }
 
+/* ── Premium panel ────────────────────────────────────────────────────────
+   A real notebook page: a soft gradient surface, a warm inner top highlight,
+   a deep lifted shadow, and a gold rim that intensifies when the light (your
+   cursor) is on it. */
+.hero-panel {
+  /* Faint ruled lines over a warm paper gradient — the two backgrounds are
+     stacked here (rather than via .ruled-paper) so the gradient shorthand
+     doesn't wipe out the ruling. */
+  background:
+    repeating-linear-gradient(
+      to bottom,
+      transparent,
+      transparent 27px,
+      hsl(var(--border) / 0.18) 27px,
+      hsl(var(--border) / 0.18) 28px
+    ),
+    linear-gradient(180deg, hsl(var(--card)) 0%, hsl(var(--muted) / 0.55) 100%);
+  box-shadow:
+    0 1px 0 hsl(var(--secondary) / 0.35) inset,
+    0 30px 60px -22px hsl(var(--foreground) / 0.4),
+    0 8px 20px -12px hsl(var(--foreground) / 0.3);
+}
+.hero-panel::before {
+  /* Gold hairline rule across the top, like a headed page. */
+  content: "";
+  position: absolute;
+  left: 1.5rem;
+  right: 1.5rem;
+  top: 0;
+  height: 2px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, transparent, hsl(var(--secondary) / 0.8), transparent);
+}
+.hero-panel::after {
+  /* A turned-up page corner, bottom-right. */
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 26px;
+  height: 26px;
+  border-bottom-right-radius: 0.75rem;
+  background: linear-gradient(135deg, transparent 50%, hsl(var(--secondary) / 0.28) 50%);
+  box-shadow: -1px -1px 2px hsl(var(--foreground) / 0.12);
+}
+.hero-panel:hover {
+  box-shadow:
+    0 1px 0 hsl(var(--secondary) / 0.5) inset,
+    0 34px 70px -22px hsl(var(--foreground) / 0.45),
+    0 0 0 1px hsl(var(--secondary) / 0.35),
+    0 0 40px -6px hsl(var(--secondary) / 0.4);
+}
+
+/* The correction lands as a gold wax-seal check, not a bare tick. */
+.hero-seal {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5em;
+  height: 1.5em;
+  border-radius: 9999px;
+  color: hsl(var(--secondary-foreground));
+  background: radial-gradient(circle at 35% 30%, hsl(var(--secondary)), hsl(var(--secondary) / 0.8));
+  box-shadow: 0 2px 8px -2px hsl(var(--secondary) / 0.7), 0 0 0 3px hsl(var(--secondary) / 0.22);
+  font-size: 0.62em;
+  vertical-align: 0.28em;
+  opacity: 0;
+  transform: scale(0.3) rotate(-16deg);
+  animation: heroStamp 0.55s cubic-bezier(0.34, 1.56, 0.64, 1) forwards 2s;
+}
+.hero-panel:hover .hero-seal { animation: heroStamp 0.5s ease, heroCheckPulse 0.6s ease 0.1s; }
+
+/* Green→gold gradient on the promise keyword. */
+.hero-gradient-text {
+  background: linear-gradient(100deg, hsl(var(--primary)), hsl(var(--secondary)));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* CTA: a slow gold shimmer sweeps across on hover. */
+.hero-cta { position: relative; overflow: hidden; }
+.hero-cta::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(100deg, transparent 30%, hsl(var(--secondary) / 0.55) 50%, transparent 70%);
+  transform: translateX(-120%);
+  transition: transform 0.7s ease;
+}
+.hero-cta:hover::after { transform: translateX(120%); }
+
 @media (prefers-reduced-motion: reduce) {
   .hero-lamp { perspective: none; }
   .hero-panel, .hero-token { transform: none; }
+  .hero-mote { display: none; }
 }
 
 /* Covers the shake/correct-pulse exercise animations and every Radix

@@ -53,6 +53,17 @@ const TOKENS = [
   { t: "does", x: 58, y: 8, depth: 0.8, lit: 0.17, size: "text-xl" },
 ];
 
+// Dust motes rising through the lamp beam — the "lit desk at night" magic.
+const MOTES = Array.from({ length: 16 }, (_, i) => ({
+  x: 12 + ((i * 37) % 76),
+  y: 30 + ((i * 53) % 60),
+  size: 2 + (i % 3),
+  dx: (i % 2 === 0 ? 1 : -1) * (8 + (i % 4) * 6),
+  dur: 8 + (i % 5) * 2.5,
+  delay: (i % 7) * 1.3,
+  lit: 0.3 + (i % 3) * 0.18,
+}));
+
 const HomeHero = ({ languageCount, topicCount, exerciseCount, firstSection }: HomeHeroProps) => {
   const lampRef = useRef<HTMLDivElement>(null);
   const [reasonIndex, setReasonIndex] = useState(0);
@@ -131,11 +142,12 @@ const HomeHero = ({ languageCount, topicCount, exerciseCount, firstSection }: Ho
         } as React.CSSProperties
       }
     >
-      {/* Layer 1 (far): the warm key light + the room vignette. */}
+      {/* Layer 1 (far): the lamp beam, the warm key light, the room vignette. */}
+      <div className="hero-beam pointer-events-none absolute inset-0" style={{ opacity: `calc(1 - var(--exit) * 0.9)` }} />
       <div className="hero-glow pointer-events-none absolute inset-0" style={{ opacity: `calc(1 - var(--exit) * 0.85)` }} />
       <div className="hero-vignette pointer-events-none absolute inset-0" />
 
-      {/* Layer 2 (mid): grammar tokens adrift in the lamplight. */}
+      {/* Layer 2a (mid): grammar tokens adrift in the lamplight. */}
       <div className="pointer-events-none absolute inset-0" aria-hidden="true">
         {TOKENS.map((tok, i) => (
           <span
@@ -156,27 +168,57 @@ const HomeHero = ({ languageCount, topicCount, exerciseCount, firstSection }: Ho
         ))}
       </div>
 
+      {/* Layer 2b (mid): dust motes rising through the beam. */}
+      <div className="pointer-events-none absolute inset-0" aria-hidden="true">
+        {MOTES.map((m, i) => (
+          <span
+            key={i}
+            className="hero-mote absolute"
+            style={
+              {
+                left: `${m.x}%`,
+                top: `${m.y}%`,
+                width: `${m.size}px`,
+                height: `${m.size}px`,
+                "--dx": `${m.dx}px`,
+                "--dur": `${m.dur}s`,
+                "--delay": `${m.delay}s`,
+                "--lit": m.lit,
+              } as React.CSSProperties
+            }
+          />
+        ))}
+      </div>
+
       <ThemeToggle className="absolute top-3 right-3 z-20 sm:top-4 sm:right-4" />
 
       {/* Layer 3 (near): the content, receding on first scroll. */}
       <div
-        className="relative z-10 px-4 py-14 text-center sm:px-6 sm:py-20"
+        className="relative z-10 px-4 py-10 text-center sm:px-6 sm:py-14"
         style={{
           transform: "translateY(calc(var(--exit) * -40px))",
           opacity: "calc(1 - var(--exit))" as string,
         }}
       >
-        <Wordmark size="lg" className="hero-fade-up mb-8" />
+        <Wordmark size="lg" className="hero-fade-up mb-4" />
+
+        <h1
+          className="hero-fade-up mx-auto mb-6 max-w-2xl font-serif text-3xl italic leading-tight text-foreground sm:text-[2.75rem]"
+          style={{ animationDelay: "0.1s" }}
+        >
+          English grammar,
+          <br className="hidden sm:block" /> <span className="hero-gradient-text font-semibold not-italic">in your language</span>
+        </h1>
 
         {/* The floating paper panel — the self-correcting example. */}
         <div
-          className="hero-panel ruled-paper relative mx-auto mb-8 max-w-2xl rounded-xl border border-border bg-card px-6 py-10 shadow-2xl sm:px-10"
+          className="hero-panel relative mx-auto mb-6 max-w-2xl rounded-xl border border-secondary/25 px-6 py-9 sm:px-12"
           style={{ transform: "rotateX(var(--tilt-x)) rotateY(var(--tilt-y)) scale(calc(1 - var(--exit) * 0.06))" }}
         >
-          <p className="mb-4 text-xs font-semibold uppercase tracking-[0.2em] text-muted-foreground">
-            Example
+          <p className="mb-4 inline-flex items-center gap-2 text-[0.7rem] font-semibold uppercase tracking-[0.25em] text-secondary">
+            <span className="h-px w-6 bg-secondary/60" /> Example <span className="h-px w-6 bg-secondary/60" />
           </p>
-          <p className="font-serif text-2xl leading-snug text-foreground sm:text-4xl">
+          <p className="font-serif text-3xl leading-snug text-foreground sm:text-[2.4rem]">
             She{" "}
             <span className="hero-correct">
               {/* Wrong + right stacked so the swap never shifts layout. */}
@@ -187,40 +229,40 @@ const HomeHero = ({ languageCount, topicCount, exerciseCount, firstSection }: Ho
               <span className="sr-only">doesn’t</span>
             </span>{" "}
             like coffee{" "}
-            <span className="hero-check" aria-hidden="true">✓</span>
+            <span className="hero-seal" aria-hidden="true">✓</span>
           </p>
 
-          <div className="mt-6 border-t border-border pt-5">
+          <div className="mt-6 border-t border-secondary/20 pt-4">
             <p
               key={reason.code}
-              className="hero-reason text-base text-muted-foreground sm:text-lg"
+              className="hero-reason flex flex-wrap items-center justify-center gap-x-3 gap-y-1.5 text-base text-muted-foreground sm:text-lg"
               dir={reason.rtl ? "rtl" : "ltr"}
             >
-              <span className="mr-2 rtl:ml-2 rtl:mr-0 inline-block rounded-full bg-accent px-2.5 py-0.5 text-xs font-semibold text-accent-foreground align-middle">
+              <span className="inline-block rounded-full border border-secondary/40 bg-secondary/10 px-3 py-0.5 text-xs font-semibold text-secondary">
                 {reason.label}
               </span>
-              {reason.text}
+              <span>{reason.text}</span>
             </p>
           </div>
         </div>
 
-        <h1 className="hero-fade-up mx-auto mb-2 max-w-xl font-serif text-xl italic text-foreground sm:text-2xl" style={{ animationDelay: "0.15s" }}>
-          English grammar, in your language
-        </h1>
-        <p className="hero-fade-up mx-auto mb-8 max-w-xl text-muted-foreground" style={{ animationDelay: "0.25s" }}>
+        <p className="hero-fade-up mx-auto mb-6 max-w-xl text-muted-foreground" style={{ animationDelay: "0.25s" }}>
           Clear rules explained in French, Spanish, Portuguese, Italian, German, Russian, Arabic and Mandarin
           Chinese, with self-correcting exercises.
         </p>
 
-        <div className="hero-fade-up mb-8 flex justify-center gap-3" style={{ animationDelay: "0.35s" }}>
+        <div className="hero-fade-up mb-6 flex justify-center gap-3" style={{ animationDelay: "0.35s" }}>
           {[
             { n: languageCount, label: "languages" },
             { n: topicCount, label: "topics" },
             { n: exerciseCount, label: "exercises" },
           ].map((s) => (
-            <div key={s.label} className="min-w-[92px] rounded-lg border border-border bg-card px-5 py-3">
+            <div
+              key={s.label}
+              className="min-w-[96px] rounded-xl border border-secondary/25 bg-card/80 px-5 py-3 shadow-sm backdrop-blur-sm transition-transform hover:-translate-y-0.5"
+            >
               <p className="text-2xl font-bold text-secondary">{s.n}</p>
-              <p className="text-xs text-muted-foreground">{s.label}</p>
+              <p className="text-xs uppercase tracking-wide text-muted-foreground">{s.label}</p>
             </div>
           ))}
         </div>
@@ -228,11 +270,11 @@ const HomeHero = ({ languageCount, topicCount, exerciseCount, firstSection }: Ho
         {firstSection && (
           <Link
             to={`/section/${firstSection.slug}`}
-            className="hero-fade-up group inline-flex items-center gap-2 rounded-lg bg-primary px-6 py-3 text-sm font-bold text-primary-foreground shadow-lg transition-all hover:-translate-y-0.5 hover:shadow-[0_10px_30px_-8px_hsl(var(--secondary)/0.7)]"
+            className="hero-cta hero-fade-up group inline-flex items-center gap-2 rounded-xl bg-primary px-7 py-3.5 text-base font-bold text-primary-foreground shadow-[0_10px_30px_-10px_hsl(var(--primary)/0.9)] ring-1 ring-secondary/30 transition-all hover:-translate-y-0.5 hover:shadow-[0_16px_40px_-10px_hsl(var(--secondary)/0.8)]"
             style={{ animationDelay: "0.45s" }}
           >
-            Start with {firstSection.title}
-            <span className="transition-transform group-hover:translate-x-1">→</span>
+            <span className="relative z-10">Start with {firstSection.title}</span>
+            <span className="relative z-10 transition-transform group-hover:translate-x-1">→</span>
           </Link>
         )}
 
