@@ -1,0 +1,191 @@
+<title>Grammatica Pedagogy Audit</title>
+<style>
+  :root{
+    --bg:#f7f7f5; --card:#ffffff; --ink:#1c1b19; --muted:#6b6862; --line:#e4e2dd;
+    --accent:#7a5c3e; --accent-soft:#f0e9e0;
+    --crit:#b3261e; --crit-bg:#fbe9e7; --major:#b26a00; --major-bg:#fdf0dd;
+    --minor:#5a6b3b; --minor-bg:#eef2e3; --ok:#2e7d32; --ok-bg:#e7f3e8;
+  }
+  :root:not([data-theme="light"]){ @media (prefers-color-scheme: dark){
+    :root{}
+  }}
+  @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+    --bg:#171614; --card:#201e1b; --ink:#ece9e3; --muted:#a39e95; --line:#332f2a;
+    --accent:#c79a6d; --accent-soft:#2a241d;
+    --crit:#ff8a80; --crit-bg:#3a1f1c; --major:#e0a75e; --major-bg:#37291593; --major-bg:#332616;
+    --minor:#a7bd7e; --minor-bg:#222a17; --ok:#8bd18f; --ok-bg:#16261a;
+  }}
+  :root[data-theme="dark"]{
+    --bg:#171614; --card:#201e1b; --ink:#ece9e3; --muted:#a39e95; --line:#332f2a;
+    --accent:#c79a6d; --accent-soft:#2a241d;
+    --crit:#ff8a80; --crit-bg:#3a1f1c; --major:#e0a75e; --major-bg:#332616;
+    --minor:#a7bd7e; --minor-bg:#222a17; --ok:#8bd18f; --ok-bg:#16261a;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;}
+  .wrap{max-width:960px;margin:0 auto;padding:40px 22px 80px;}
+  header.hero{border-bottom:2px solid var(--accent);padding-bottom:22px;margin-bottom:30px;}
+  .kicker{letter-spacing:.14em;text-transform:uppercase;font-size:12px;color:var(--accent);font-weight:700;}
+  h1{font-size:30px;margin:.25em 0 .1em;font-weight:750;letter-spacing:-.01em;}
+  h2{font-size:20px;margin:44px 0 14px;padding-bottom:6px;border-bottom:1px solid var(--line);letter-spacing:-.01em;}
+  .sub{color:var(--muted);font-size:14px;}
+  .grade{display:inline-flex;align-items:baseline;gap:10px;margin:18px 0 6px;}
+  .grade b{font-size:44px;line-height:1;color:var(--accent);font-weight:800;}
+  .lead{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px 20px;margin-top:14px;}
+  .stats{display:flex;flex-wrap:wrap;gap:12px;margin:22px 0;}
+  .stat{flex:1 1 130px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;}
+  .stat .n{font-size:26px;font-weight:750;}
+  .stat .l{font-size:12.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;}
+  table{width:100%;border-collapse:collapse;font-size:14px;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;}
+  .scroll{overflow-x:auto;}
+  th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top;}
+  th{background:var(--accent-soft);font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:700;white-space:nowrap;}
+  tr:last-child td{border-bottom:none;}
+  code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12.5px;background:var(--accent-soft);padding:1px 5px;border-radius:5px;}
+  .badge{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;text-transform:uppercase;letter-spacing:.03em;white-space:nowrap;}
+  .b-major{color:var(--major);background:var(--major-bg);}
+  .b-crit{color:var(--crit);background:var(--crit-bg);}
+  .b-fixed{color:var(--ok);background:var(--ok-bg);}
+  .path{color:var(--muted);font-size:12px;white-space:nowrap;}
+  .arrow{color:var(--accent);font-weight:700;}
+  .before{color:var(--muted);text-decoration:line-through;text-decoration-color:var(--crit);}
+  ul.tight{margin:.4em 0;padding-left:1.2em;}
+  ul.tight li{margin:.3em 0;}
+  .two{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+  @media(max-width:640px){.two{grid-template-columns:1fr}}
+  .cov{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:6px 16px;}
+  .barrow{display:flex;align-items:center;gap:10px;margin:9px 0;}
+  .barrow .lvl{width:34px;font-weight:700;font-size:13px;}
+  .bar{flex:1;height:9px;border-radius:5px;background:var(--accent-soft);overflow:hidden;}
+  .bar span{display:block;height:100%;background:var(--accent);}
+  .barrow .c{width:74px;text-align:right;color:var(--muted);font-size:12.5px;}
+  footer{margin-top:50px;color:var(--muted);font-size:13px;border-top:1px solid var(--line);padding-top:16px;}
+  .note{font-size:14px;color:var(--muted);}
+  em.q{color:var(--ink);font-style:normal;}
+</style>
+
+<div class="wrap">
+<header class="hero">
+  <div class="kicker">Pedagogy Audit · Grammatica</div>
+  <h1>Ambiguous-answer sweep — every exercise checked</h1>
+  <div class="sub">grammatica.antonyaddy.com · 31 August 2026 · 136 topics, ~2,825 multiple-choice questions</div>
+  <div class="grade"><b>A</b><span class="sub">Excellent — a tightly-built bank with one recurring, now-fixed weak spot.</span></div>
+  <div class="lead">
+    Every exercise across all 136 topic files and the contrast-drill set was reviewed for one specific defect:
+    a multiple-choice question where <strong>more than one option is genuinely correct</strong>, so a learner picking a
+    right answer is marked wrong. The engine accepts exactly one string (no alternate-answer list), so any such item is a
+    real scoring bug. <strong>20 items</strong> were confirmed and <strong>all 20 fixed</strong> — each stem was disambiguated
+    in a way that reinforces the very point its exercise teaches. No wrong answer keys and no answers-missing-from-options
+    were found anywhere. The overwhelming majority of the bank is clean: distractors are genuine learner errors, not
+    defensible alternatives.
+  </div>
+</header>
+
+<div class="stats">
+  <div class="stat"><div class="n">2,825</div><div class="l">questions reviewed</div></div>
+  <div class="stat"><div class="n">20</div><div class="l">defects confirmed</div></div>
+  <div class="stat"><div class="n">20</div><div class="l">fixed &amp; verified</div></div>
+  <div class="stat"><div class="n">0</div><div class="l">wrong answer keys</div></div>
+  <div class="stat"><div class="n">~0.7%</div><div class="l">defect rate</div></div>
+</div>
+
+<h2>What was wrong — and the single pattern behind it</h2>
+<p>Almost every defect is one thing: <strong>a stem that doesn't pin down the tense/word it's testing</strong>, so a
+distractor is also a correct English sentence. The classic case (the one that started this audit) —
+<em class="q">"He ___ (not/listen) to music."</em> — accepts both the continuous <em class="q">isn't listening</em> and the
+simple <em class="q">doesn't listen</em> because nothing says <em>when</em>. The fix is always to add the missing cue,
+matched to the exercise's own teaching point.</p>
+<p>The heaviest cluster was the <strong>tense-contrast drills</strong> (<code>contrastExercises.ts</code>, 11 of 20): these
+deliberately pit two confusable tenses against each other, and repeatedly offered a <strong>past-simple option that is
+independently grammatical</strong> — e.g. <em class="q">"We finished the entire project"</em> or
+<em class="q">"…have worked since January"</em> are both perfectly correct, not traps.</p>
+
+<h2>Findings — all fixed <span class="badge b-fixed">20 / 20</span></h2>
+<div class="scroll">
+<table>
+  <thead><tr><th>#</th><th>Severity</th><th>Location</th><th>The item &amp; why two answers worked</th><th>Fix (adapted to the exercise)</th></tr></thead>
+  <tbody>
+    <tr><td>1</td><td><span class="badge b-major">Major</span></td><td class="path">presentContinuous.ts</td><td><em class="q">"You ___ (make) a lot of noise!"</em> — habitual <em>make</em> is as valid as <em>are making</em>.</td><td>+ <span class="arrow">"right now"</span></td></tr>
+    <tr><td>2</td><td><span class="badge b-major">Major</span></td><td class="path">presentContinuous.ts</td><td><em class="q">"We ___ (have) a great time on holiday."</em> — habitual <em>have</em> also correct.</td><td>+ <span class="arrow">"at the moment"</span></td></tr>
+    <tr><td>3</td><td><span class="badge b-major">Major</span></td><td class="path">doMainVerbVsAuxiliary.ts</td><td><em class="q">"___ you do all this work by yourself?"</em> — <em>Did</em> and habitual <em>Do</em> both fit.</td><td>+ <span class="arrow">"last night"</span></td></tr>
+    <tr><td>4</td><td><span class="badge b-major">Major</span></td><td class="path">futureContinuous.ts</td><td><em class="q">"I ___ (lie) on a beach tomorrow."</em> — <em>will lie</em> / <em>will be lying</em> both fine with bare "tomorrow".</td><td>+ <span class="arrow">"rather than go hiking"</span> (frames a choice → simple)</td></tr>
+    <tr><td>5</td><td><span class="badge b-major">Major</span></td><td class="path">passivePerfectContinuousFuture.ts</td><td><em class="q">"She ___ (never/tell) the whole truth…"</em> — active <em>has never told</em> is grammatical.</td><td>+ <span class="arrow">"by anyone"</span> (forces the passive)</td></tr>
+    <tr><td>6</td><td><span class="badge b-major">Major</span></td><td class="path">pastContinuous.ts</td><td><em class="q">"The children ___ (play) … all morning."</em> — <em>played all morning</em> also correct.</td><td>→ <span class="arrow">"…when it started to rain"</span> (interruption)</td></tr>
+    <tr><td>7</td><td><span class="badge b-major">Major</span></td><td class="path">phrasalVerbsIntroduction.ts</td><td><em class="q">"You need to ___ the bus…"</em> — <em>get on</em> as valid as <em>get off</em>; no aboard/waiting cue.</td><td>+ <span class="arrow">"We've gone too far —"</span></td></tr>
+    <tr><td>8</td><td><span class="badge b-major">Major</span></td><td class="path">whoeverWhateverWhichever.ts</td><td><em class="q">"___ route you take…"</em> — concessive <em>Whatever</em> equally correct.</td><td>→ <span class="arrow">"___ of the two routes…"</span> (closed set)</td></tr>
+    <tr><td>9</td><td><span class="badge b-major">Major</span></td><td class="path">whoeverWhateverWhichever.ts</td><td><em class="q">"Choose ___ option works best…"</em> — <em>whatever</em> equally correct.</td><td>→ <span class="arrow">"___ of these two options…"</span></td></tr>
+    <tr><td>10–20</td><td><span class="badge b-major">Major</span></td><td class="path">contrastExercises.ts</td><td colspan="2">11 tense-contrast items where a past-simple (or perfect-simple) distractor was independently correct. See breakdown below.</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h3 style="margin-top:26px;font-size:16px;">contrastExercises.ts — the 11</h3>
+<div class="scroll">
+<table>
+  <thead><tr><th>Line</th><th>Stem</th><th>Second valid answer</th><th>Fix</th></tr></thead>
+  <tbody>
+    <tr><td>41</td><td><em class="q">He ___ (work) at a bank.</em></td><td><em>is working</em> (temporary)</td><td>+ "every weekday"</td></tr>
+    <tr><td>80</td><td><em class="q">At 8pm last night, we ___ (watch) a movie.</em></td><td><em>watched</em> (event at 8)</td><td>+ "when the power cut out"</td></tr>
+    <tr><td>97</td><td><em class="q">I ___ (read) that book — it was great.</em></td><td><em>read</em> (past simple)</td><td>swap distractor → <em>am reading</em></td></tr>
+    <tr><td>101</td><td><em class="q">He ___ (paint) the fence — it looks great now.</em></td><td><em>painted</em></td><td>swap distractor → <em>is painting</em></td></tr>
+    <tr><td>104</td><td><em class="q">How long ___ (you/study) English?</em></td><td><em>have you studied</em> (interchangeable)</td><td>replaced with a present-evidence PPC item ("You're out of breath — …?")</td></tr>
+    <tr><td>105</td><td><em class="q">We ___ (finish) the entire project.</em></td><td><em>finished</em></td><td>→ "We ___ (just/finish)…" + reworked options</td></tr>
+    <tr><td>106</td><td><em class="q">We ___ (work) on this project since January.</em></td><td><em>have worked</em> (standard with <em>since</em>)</td><td>swap distractor → <em>are working</em></td></tr>
+    <tr><td>139</td><td><em class="q">She ___ (never/see) snow before she moved to Canada.</em></td><td><em>never saw</em> (before-clause sequences)</td><td>→ "By the time she moved to Canada, …"</td></tr>
+    <tr><td>140</td><td><em class="q">He was tired because he ___ (not/sleep) well.</em></td><td><em>didn't sleep</em></td><td>swap distractor → <em>wasn't sleeping</em></td></tr>
+    <tr><td>143</td><td><em class="q">I ___ (finish) my homework before I watched TV.</em></td><td><em>finished</em></td><td>→ "By the time the film started, …"</td></tr>
+    <tr><td>186</td><td><em class="q">___ is she doing?</em></td><td><em>How</em> (is she doing?)</td><td>+ "with all that flour?" (object cue → What)</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h2>Scorecard</h2>
+<div class="scroll">
+<table>
+  <thead><tr><th>Dimension</th><th>Score</th><th>Note</th></tr></thead>
+  <tbody>
+    <tr><td>Answer-key correctness</td><td><strong>100</strong></td><td>No wrong keys, no answer-missing-from-options across ~2,825 items.</td></tr>
+    <tr><td>Item unambiguity</td><td><strong>92</strong></td><td>20 genuinely two-valid-answer items (all now fixed); concentrated in tense &amp; tense-contrast topics.</td></tr>
+    <tr><td>Distractor quality</td><td><strong>96</strong></td><td>Distractors are overwhelmingly real learner errors (wrong form/agreement), not defensible alternatives.</td></tr>
+    <tr><td>Explanations (9 languages)</td><td><strong>95</strong></td><td>Rule-based and index-aligned; all languages in sync (validator passes). One explanation reworked across all 8 non-English languages.</td></tr>
+    <tr><td>Level appropriateness</td><td><strong>—</strong></td><td>Not the focus of this pass; no level mismatches surfaced incidentally.</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h2>Coverage — every level swept</h2>
+<div class="cov">
+  <div class="barrow"><span class="lvl">A1</span><div class="bar"><span style="width:20%"></span></div><span class="c">28 topics</span></div>
+  <div class="barrow"><span class="lvl">A2</span><div class="bar"><span style="width:47%"></span></div><span class="c">64 topics</span></div>
+  <div class="barrow"><span class="lvl">B1</span><div class="bar"><span style="width:63%"></span></div><span class="c">86 topics</span></div>
+  <div class="barrow"><span class="lvl">B2</span><div class="bar"><span style="width:53%"></span></div><span class="c">72 topics</span></div>
+  <div class="barrow"><span class="lvl">C1</span><div class="bar"><span style="width:13%"></span></div><span class="c">18 topics</span></div>
+  <div class="barrow"><span class="lvl">C2</span><div class="bar"><span style="width:4%"></span></div><span class="c">4 topics</span></div>
+</div>
+<p class="note">All 136 topic files plus <code>contrastExercises.ts</code> were audited item-by-item — no sampling. The defect rate was highest, as expected, in tense and tense-contrast topics, and effectively zero in structural topics (articles, quantifiers, word order, agreement, suffixes, prepositions of place).</p>
+
+<h2>Method</h2>
+<ul class="tight">
+  <li><strong>Scope:</strong> one defect class — items where ≥2 options are genuinely correct, plus any wrong/missing answer key. Explanation wording, translation nuance and level-tuning were out of scope for this pass.</li>
+  <li><strong>Coverage:</strong> 7 parallel reviewers split the 136 files + contrast set into chunks; every question was evaluated (one chunk was re-run after a session-limit interruption).</li>
+  <li><strong>Precision bias:</strong> reviewers were told to flag only defensibly-correct alternates and to log anything doubtful as "borderline" rather than assert it — protecting against false positives.</li>
+  <li><strong>Verification:</strong> every confirmed finding and its proposed rewrite was re-checked (register, British/American variation, and whether the fix reintroduces the ambiguity) before editing.</li>
+  <li><strong>Repair:</strong> because the engine matches one exact answer, each item was <em>rewritten</em> so exactly one option is correct — the stem's new cue reinforces the exercise's teaching point. A resumable manifest was written first.</li>
+  <li><strong>Gates:</strong> <code>validate</code> (structure + all languages in sync), <code>readability</code> (A1/A2 ≤45w, B1+ ≤70w), and full <code>build</code> — all pass.</li>
+</ul>
+
+<h2>Left for a human decision (not auto-changed)</h2>
+<p class="note">A handful of borderline items are register/variety choices rather than clear bugs — worth a look but deliberately not touched:</p>
+<ul class="tight note">
+  <li><strong>American-English present perfect:</strong> a few <em>just/already/yet</em> items reject the AmE past-simple (<em>"I just ate"</em>). Correct for a British-oriented site, but a global-audience call.</li>
+  <li><strong>narrativeTenses.ts</strong> causal group — past perfect intended, simple past defensible; a light rewrite would tighten them.</li>
+  <li><strong>"like + clause"</strong> (likeVsAs), <strong>Never/Seldom inversion</strong> (advancedStructures), <strong>"Neither … is/are"</strong> — all prescriptive teaching targets where the "wrong" option is informally acceptable.</li>
+</ul>
+
+<footer>
+  Grammatica pedagogy audit · 31 August 2026 · 20 defects found &amp; fixed · report generated by the pedagogy-audit skill.
+  Full item-level notes: <code>audit-reports/raw-findings-2026-08-31.md</code> · fixes: <code>audit-reports/repair-manifest-2026-08-31.md</code>.
+</footer>
+</div>
