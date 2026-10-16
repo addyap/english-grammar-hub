@@ -3,13 +3,13 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "/grammatica",
-      "permanent": false
+      "destination": "https://www.antonyaddy.com/grammatica",
+      "permanent": true
     },
     {
       "source": "/:path((?!grammatica(?:/|$)|_vercel/).+)",
-      "destination": "/grammatica/:path",
-      "permanent": false
+      "destination": "https://www.antonyaddy.com/grammatica/:path",
+      "permanent": true
     }
   ],
   "rewrites": [
