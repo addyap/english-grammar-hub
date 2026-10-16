@@ -1,15 +1,12 @@
 import { Link } from "react-router-dom";
 import { PUNCTUATION_RULES } from "@/data/punctuation";
 import { useSeo } from "@/hooks/useSeo";
+import { STATIC_PAGES } from "@/lib/pageMeta";
 import { buildBreadcrumbJsonLd } from "@/lib/seo";
-
-const PAGE_DESCRIPTION =
-  "A quick reference for English punctuation — commas, semicolons, colons, apostrophes, quotation marks, dashes, and end marks — with examples.";
 
 const PunctuationPage = () => {
   useSeo({
-    title: "Punctuation Guide",
-    description: PAGE_DESCRIPTION,
+    ...STATIC_PAGES["/punctuation"],
     path: "/punctuation",
     jsonLd: buildBreadcrumbJsonLd([
       { name: "Home", path: "/" },

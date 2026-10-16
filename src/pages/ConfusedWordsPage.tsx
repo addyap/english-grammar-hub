@@ -3,15 +3,12 @@ import { Link } from "react-router-dom";
 import { Search } from "lucide-react";
 import { CONFUSED_WORD_GROUPS } from "@/data/confusedWords";
 import { useSeo } from "@/hooks/useSeo";
+import { STATIC_PAGES } from "@/lib/pageMeta";
 import { buildBreadcrumbJsonLd } from "@/lib/seo";
-
-const PAGE_DESCRIPTION =
-  "Commonly confused English words — its/it's, affect/effect, then/than, and more — with a one-line rule for telling them apart.";
 
 const ConfusedWordsPage = () => {
   useSeo({
-    title: "Commonly Confused Words",
-    description: PAGE_DESCRIPTION,
+    ...STATIC_PAGES["/confused-words"],
     path: "/confused-words",
     jsonLd: buildBreadcrumbJsonLd([
       { name: "Home", path: "/" },

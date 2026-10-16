@@ -9,6 +9,11 @@ import type { ExplanationParagraph } from "../data/types";
 export const SITE_URL = "https://grammatica.antonyaddy.com";
 export const SITE_NAME = "Grammatica";
 
+/** The <title> for a page: "Page | Grammatica", or just the site name. */
+export function formatTitle(title: string): string {
+  return title === SITE_NAME ? title : `${title} | ${SITE_NAME}`;
+}
+
 /** Collapses whitespace and truncates at a word boundary — keeps meta descriptions from cutting off mid-word or carrying newlines from source prose. */
 export function toMetaDescription(text: string, maxLength = 155): string {
   const clean = text.replace(/\s+/g, " ").trim();
