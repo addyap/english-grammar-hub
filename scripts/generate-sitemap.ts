@@ -11,7 +11,7 @@ import path from "node:path";
 import { topics } from "../src/data/topics";
 import { sections } from "../src/data/sections";
 import { CONTRAST_PAIRS } from "../src/data/contrastExercises";
-import { SITE_URL } from "../src/lib/seo";
+import { pageUrl } from "../src/lib/seo";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -41,7 +41,7 @@ const urls: UrlEntry[] = [
 const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls
-  .map((u) => `  <url>\n    <loc>${SITE_URL}${u.loc}</loc>\n    <priority>${u.priority.toFixed(1)}</priority>\n  </url>`)
+  .map((u) => `  <url>\n    <loc>${pageUrl(u.loc)}</loc>\n    <priority>${u.priority.toFixed(1)}</priority>\n  </url>`)
   .join("\n")}
 </urlset>
 `;

@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { SITE_URL, formatTitle } from "@/lib/seo";
+import { pageUrl, formatTitle } from "@/lib/seo";
 
 interface SeoOptions {
   title: string;
@@ -36,7 +36,7 @@ export function useSeo({ title, description, path, jsonLd }: SeoOptions) {
     setMetaTag("name", "description", description);
     setMetaTag("property", "og:title", title);
     setMetaTag("property", "og:description", description);
-    setMetaTag("property", "og:url", `${SITE_URL}${path}`);
+    setMetaTag("property", "og:url", pageUrl(path));
     setMetaTag("name", "twitter:title", title);
     setMetaTag("name", "twitter:description", description);
 
@@ -46,7 +46,7 @@ export function useSeo({ title, description, path, jsonLd }: SeoOptions) {
       canonical.rel = "canonical";
       document.head.appendChild(canonical);
     }
-    canonical.href = `${SITE_URL}${path}`;
+    canonical.href = pageUrl(path);
 
     let script = document.getElementById(JSON_LD_ID) as HTMLScriptElement | null;
     if (jsonLdString) {

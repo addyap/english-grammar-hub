@@ -6,7 +6,16 @@ import type { ExplanationParagraph } from "../data/types";
  * running under plain tsx, which doesn't resolve tsconfig path aliases.
  */
 
-export const SITE_URL = "https://grammatica.antonyaddy.com";
+// Served at www.antonyaddy.com/grammatica (the main site forwards here).
+// BASE_PATH must match `base` in vite.config.ts.
+export const BASE_PATH = "/grammatica";
+export const SITE_URL = `https://www.antonyaddy.com${BASE_PATH}`;
+
+/** Absolute URL for a route path. No trailing slash on the home page:
+ *  www.antonyaddy.com strips it. */
+export function pageUrl(path: string): string {
+  return path === "/" ? SITE_URL : `${SITE_URL}${path}`;
+}
 export const SITE_NAME = "Grammatica";
 
 /** The <title> for a page: "Page | Grammatica", or just the site name. */
@@ -42,7 +51,7 @@ export function buildBreadcrumbJsonLd(items: BreadcrumbItem[]) {
       "@type": "ListItem",
       position: index + 1,
       name: item.name,
-      item: `${SITE_URL}${item.path}`,
+      item: pageUrl(item.path),
     })),
   };
 }
