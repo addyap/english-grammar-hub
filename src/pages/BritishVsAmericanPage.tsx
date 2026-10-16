@@ -1,15 +1,12 @@
 import { Link } from "react-router-dom";
 import { GRAMMAR_DIFFERENCES, SPELLING_PATTERNS, VOCAB_PAIRS } from "@/data/britishVsAmerican";
 import { useSeo } from "@/hooks/useSeo";
+import { STATIC_PAGES } from "@/lib/pageMeta";
 import { buildBreadcrumbJsonLd } from "@/lib/seo";
-
-const PAGE_DESCRIPTION =
-  "British vs American English: real grammar differences (collective nouns, present perfect, have got), plus common spelling and vocabulary contrasts.";
 
 const BritishVsAmericanPage = () => {
   useSeo({
-    title: "British vs American English",
-    description: PAGE_DESCRIPTION,
+    ...STATIC_PAGES["/british-vs-american"],
     path: "/british-vs-american",
     jsonLd: buildBreadcrumbJsonLd([
       { name: "Home", path: "/" },

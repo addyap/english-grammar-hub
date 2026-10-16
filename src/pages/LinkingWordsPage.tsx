@@ -1,15 +1,12 @@
 import { Link } from "react-router-dom";
 import { LINKING_WORD_CATEGORIES } from "@/data/linkingWords";
 import { useSeo } from "@/hooks/useSeo";
+import { STATIC_PAGES } from "@/lib/pageMeta";
 import { buildBreadcrumbJsonLd } from "@/lib/seo";
-
-const PAGE_DESCRIPTION =
-  "A quick reference for English linking words — contrast, cause, result, addition, and discourse markers — grouped by function with one-line usage notes.";
 
 const LinkingWordsPage = () => {
   useSeo({
-    title: "Linking Words Reference",
-    description: PAGE_DESCRIPTION,
+    ...STATIC_PAGES["/linking-words"],
     path: "/linking-words",
     jsonLd: buildBreadcrumbJsonLd([
       { name: "Home", path: "/" },

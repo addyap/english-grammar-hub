@@ -1,15 +1,12 @@
 import { Link } from "react-router-dom";
 import { CONTRAST_PAIRS } from "@/data/contrastExercises";
 import { useSeo } from "@/hooks/useSeo";
+import { STATIC_PAGES } from "@/lib/pageMeta";
 import { buildBreadcrumbJsonLd } from "@/lib/seo";
-
-const PAGE_DESCRIPTION =
-  "Mixed exercises for the classic confusable tense pairs — Present Simple vs Continuous, Past Simple vs Present Perfect, and more — testing which one fits, not just how to conjugate it.";
 
 const ContrastPracticePage = () => {
   useSeo({
-    title: "Contrast Practice",
-    description: PAGE_DESCRIPTION,
+    ...STATIC_PAGES["/contrast-practice"],
     path: "/contrast-practice",
     jsonLd: buildBreadcrumbJsonLd([
       { name: "Home", path: "/" },

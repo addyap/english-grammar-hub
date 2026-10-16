@@ -1,10 +1,8 @@
 import { Link } from "react-router-dom";
 import { MAJORITY_ENGLISH_COUNTRIES, OFFICIAL_ENGLISH_COUNTRIES, type EnglishSpeakingCountry } from "@/data/countries";
 import { useSeo } from "@/hooks/useSeo";
+import { STATIC_PAGES } from "@/lib/pageMeta";
 import { buildBreadcrumbJsonLd } from "@/lib/seo";
-
-const PAGE_DESCRIPTION =
-  "Every country where English is a majority or official language, flag by flag — from the UK and US to Nigeria, India, Jamaica and beyond.";
 
 const CountryGrid = ({ countries }: { countries: EnglishSpeakingCountry[] }) => (
   <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
@@ -22,8 +20,7 @@ const CountryGrid = ({ countries }: { countries: EnglishSpeakingCountry[] }) => 
 
 const CountriesPage = () => {
   useSeo({
-    title: "Where Is English Spoken?",
-    description: PAGE_DESCRIPTION,
+    ...STATIC_PAGES["/countries"],
     path: "/countries",
     jsonLd: buildBreadcrumbJsonLd([
       { name: "Home", path: "/" },

@@ -4,10 +4,8 @@ import { Search } from "lucide-react";
 import { IRREGULAR_VERB_GROUPS, type IrregularVerb } from "@/data/irregularVerbs";
 import { LANGUAGES, type LanguageCode } from "@/data/types";
 import { useSeo } from "@/hooks/useSeo";
+import { STATIC_PAGES } from "@/lib/pageMeta";
 import { buildBreadcrumbJsonLd } from "@/lib/seo";
-
-const PAGE_DESCRIPTION =
-  "Nearly 150 common English irregular verbs — base, past simple, and past participle — grouped by pattern, with translations and a self-test mode.";
 
 const VerbCell = ({
   value,
@@ -105,8 +103,7 @@ const VerbTable = ({
 
 const IrregularVerbsPage = () => {
   useSeo({
-    title: "Irregular Verbs List",
-    description: PAGE_DESCRIPTION,
+    ...STATIC_PAGES["/irregular-verbs"],
     path: "/irregular-verbs",
     jsonLd: buildBreadcrumbJsonLd([
       { name: "Home", path: "/" },

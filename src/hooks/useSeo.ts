@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { SITE_URL, SITE_NAME } from "@/lib/seo";
+import { SITE_URL, formatTitle } from "@/lib/seo";
 
 interface SeoOptions {
   title: string;
@@ -22,15 +22,16 @@ const JSON_LD_ID = "route-json-ld";
 
 /**
  * Syncs document title, meta description, OG/Twitter tags, canonical link,
- * and one JSON-LD script per route. The app is a client-only SPA with a
- * single static index.html, so every page has to set these itself on
- * mount — there's no server render to bake per-route tags into the HTML.
+ * and one JSON-LD script per route. scripts/prerender-heads.ts bakes the
+ * same title, description and canonical into each indexable route's HTML at
+ * build time; this keeps them right on client-side navigation, and covers
+ * routes that aren't prerendered (exercises, 404).
  */
 export function useSeo({ title, description, path, jsonLd }: SeoOptions) {
   const jsonLdString = jsonLd ? JSON.stringify(jsonLd) : undefined;
 
   useEffect(() => {
-    document.title = title === SITE_NAME ? title : `${title} | ${SITE_NAME}`;
+    document.title = formatTitle(title);
 
     setMetaTag("name", "description", description);
     setMetaTag("property", "og:title", title);

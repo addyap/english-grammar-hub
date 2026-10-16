@@ -1,8 +1,7 @@
 import { Link } from "react-router-dom";
 import { useSeo } from "@/hooks/useSeo";
+import { STATIC_PAGES } from "@/lib/pageMeta";
 import { buildBreadcrumbJsonLd } from "@/lib/seo";
-
-const PAGE_DESCRIPTION = "Legal notice, publisher identity, hosting, and data protection information for Grammatica.";
 
 /**
  * French-language legal notice — required for any site published by a
@@ -15,8 +14,7 @@ const PAGE_DESCRIPTION = "Legal notice, publisher identity, hosting, and data pr
  */
 const MentionsLegalesPage = () => {
   useSeo({
-    title: "Mentions légales",
-    description: PAGE_DESCRIPTION,
+    ...STATIC_PAGES["/mentions-legales"],
     path: "/mentions-legales",
     jsonLd: buildBreadcrumbJsonLd([
       { name: "Home", path: "/" },

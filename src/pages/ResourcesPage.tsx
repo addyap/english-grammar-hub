@@ -1,9 +1,7 @@
 import { Link } from "react-router-dom";
 import { useSeo } from "@/hooks/useSeo";
+import { STATIC_PAGES } from "@/lib/pageMeta";
 import { buildBreadcrumbJsonLd } from "@/lib/seo";
-
-const PAGE_DESCRIPTION =
-  "Reference pages and mixed practice that don't fit the topic-by-topic curriculum: contrast exercises, where English is spoken, irregular verbs, British vs American English, confused words, false friends, and punctuation.";
 
 const RESOURCES = [
   {
@@ -50,8 +48,7 @@ const RESOURCES = [
 
 const ResourcesPage = () => {
   useSeo({
-    title: "Resources",
-    description: PAGE_DESCRIPTION,
+    ...STATIC_PAGES["/resources"],
     path: "/resources",
     jsonLd: buildBreadcrumbJsonLd([
       { name: "Home", path: "/" },

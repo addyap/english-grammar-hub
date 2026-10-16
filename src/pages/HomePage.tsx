@@ -7,11 +7,10 @@ import { LANGUAGES } from "@/data/types";
 import { Badge } from "@/components/ui/badge";
 import HomeHero from "@/components/HomeHero";
 import { useSeo } from "@/hooks/useSeo";
+import { STATIC_PAGES } from "@/lib/pageMeta";
 import { buildWebsiteJsonLd } from "@/lib/seo";
 
 const EXERCISES_PER_TOPIC = 2;
-const HOME_DESCRIPTION =
-  "Clear rules explained in French, Spanish, Portuguese, Italian, German, Russian, Arabic and Mandarin Chinese, with self-correcting exercises.";
 
 const HomePage = () => {
   const languageCount = LANGUAGES.length;
@@ -21,8 +20,7 @@ const HomePage = () => {
   const [query, setQuery] = useState("");
 
   useSeo({
-    title: "English grammar, in your language",
-    description: HOME_DESCRIPTION,
+    ...STATIC_PAGES["/"],
     path: "/",
     jsonLd: buildWebsiteJsonLd(),
   });

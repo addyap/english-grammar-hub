@@ -3,15 +3,12 @@ import { Link } from "react-router-dom";
 import { FALSE_FRIENDS_LISTS } from "@/data/falseFriends";
 import type { LanguageCode } from "@/data/types";
 import { useSeo } from "@/hooks/useSeo";
+import { STATIC_PAGES } from "@/lib/pageMeta";
 import { buildBreadcrumbJsonLd } from "@/lib/seo";
-
-const PAGE_DESCRIPTION =
-  "False friends by language — words in French, Spanish, Portuguese, Italian, and German that look like English words but mean something else entirely.";
 
 const FalseFriendsPage = () => {
   useSeo({
-    title: "False Friends",
-    description: PAGE_DESCRIPTION,
+    ...STATIC_PAGES["/false-friends"],
     path: "/false-friends",
     jsonLd: buildBreadcrumbJsonLd([
       { name: "Home", path: "/" },
