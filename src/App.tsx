@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { BASE_PATH } from "@/lib/seo";
+import AntonyAddyBar from "@/components/AntonyAddyBar";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import { ThemeProvider } from "@/components/ThemeProvider";
@@ -25,6 +26,7 @@ function App() {
   return (
     <ThemeProvider>
       <BrowserRouter basename={BASE_PATH}>
+        <AntonyAddyBar />
         <SiteHeader />
         <Routes>
           <Route path="/" element={<HomePage />} />
