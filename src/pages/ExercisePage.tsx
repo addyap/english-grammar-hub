@@ -7,6 +7,7 @@ import { hasTopicAccess } from "@/lib/entitlements";
 import PremiumGate from "@/components/PremiumGate";
 import { useSeo } from "@/hooks/useSeo";
 import { toMetaDescription } from "@/lib/seo";
+import { exerciseMeta } from "@/lib/pageMeta";
 
 const ExercisePage = () => {
   const { topicSlug, exerciseIndex } = useParams<{ topicSlug: string; exerciseIndex: string }>();
@@ -20,12 +21,12 @@ const ExercisePage = () => {
 
   const exercise = topic?.exercises[idx];
 
+  const meta = topic && exercise ? exerciseMeta(topic.title, exercise.title) : undefined;
   useSeo({
-    title: topic && exercise ? `${exercise.title} — ${topic.title} Exercise` : "Grammar exercise",
-    description:
-      topic && exercise
-        ? toMetaDescription(`Practice ${topic.title}: ${exercise.title}. Interactive English grammar exercise with instant feedback and explanations.`)
-        : "Practice English grammar with interactive exercises and instant feedback.",
+    title: meta ? meta.title : "Grammar exercise",
+    description: meta
+      ? toMetaDescription(meta.description)
+      : "Practice English grammar with interactive exercises and instant feedback.",
     path: `/grammar/${topicSlug ?? ""}/exercise/${exerciseIndex ?? ""}`,
   });
 

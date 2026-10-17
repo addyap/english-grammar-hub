@@ -1,11 +1,11 @@
 import { useEffect } from "react";
 import { Link } from "react-router-dom";
 import { useSeo } from "@/hooks/useSeo";
+import { STATIC_PAGES } from "@/lib/pageMeta";
 
 const NotFoundPage = () => {
   useSeo({
-    title: "Page Not Found",
-    description: "The page you're looking for doesn't exist.",
+    ...STATIC_PAGES["/404"],
     path: "/404",
   });
 
