@@ -18,6 +18,22 @@ export function pageUrl(path: string): string {
 }
 export const SITE_NAME = "Grammatica";
 
+/** The one Antony Addy identity, defined in full by the main site's JSON-LD.
+ *  Reference it by @id; name/url stay for parsers that don't follow @id. */
+const SITE_ORIGIN = "https://www.antonyaddy.com";
+export const PERSON_REF = {
+  "@type": "Person",
+  "@id": `${SITE_ORIGIN}/#antony-addy`,
+  name: "Antony Addy",
+  url: SITE_ORIGIN,
+};
+export const BUSINESS_REF = {
+  "@type": "ProfessionalService",
+  "@id": `${SITE_ORIGIN}/#business`,
+  name: "Antony Addy",
+  url: SITE_ORIGIN,
+};
+
 /** The <title> for a page: "Page | Grammatica", or just the site name. */
 export function formatTitle(title: string): string {
   return title === SITE_NAME ? title : `${title} | ${SITE_NAME}`;
@@ -62,5 +78,8 @@ export function buildWebsiteJsonLd() {
     "@type": "WebSite",
     name: SITE_NAME,
     url: SITE_URL,
+    isPartOf: { "@id": `${SITE_ORIGIN}/#website` },
+    author: PERSON_REF,
+    publisher: BUSINESS_REF,
   };
 }
