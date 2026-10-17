@@ -6,11 +6,7 @@
 const AntonyAddyBar = () => (
   <nav className="aa-bar" aria-label="Antony Addy">
     <a className="aa-bar-home" href="https://www.antonyaddy.com/">
-      <span className="aa-bar-mark" aria-hidden="true">
-        <i />
-        <i />
-        <i />
-      </span>
+      <img className="aa-bar-mark" src="https://www.antonyaddy.com/brand/antony-addy-arrow.svg" alt="" width={18} height={14} />
       <strong>Antony Addy</strong>
       <span className="aa-bar-sub">Formations d'anglais · antonyaddy.com</span>
     </a>
