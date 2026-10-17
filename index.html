@@ -6,16 +6,9 @@
     <link rel="alternate icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/manifest.webmanifest" />
-    <script>
-      // Runs before the React bundle loads so there's no flash of the wrong
-      // theme. Storage key must match STORAGE_KEY in ThemeProvider.tsx.
-      (function () {
-        var stored = localStorage.getItem("grammatica-theme");
-        var isDark =
-          stored === "dark" || (stored !== "light" && window.matchMedia("(prefers-color-scheme: dark)").matches);
-        if (isDark) document.documentElement.classList.add("dark");
-      })();
-    </script>
+    <!-- Sets the dark class before the bundle loads (no flash of the wrong theme).
+         A file, not an inline script, so the CSP needs no hash for it. -->
+    <script src="/theme-init.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
@@ -26,6 +19,7 @@
 
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Grammatica" />
+    <meta property="og:url" content="https://www.antonyaddy.com/grammatica" />
     <meta property="og:title" content="English grammar, in your language" />
     <meta
       property="og:description"
@@ -42,6 +36,24 @@
       content="Clear rules explained in French, Spanish, Portuguese, Italian, German, Russian, Arabic and Mandarin Chinese, with self-correcting exercises."
     />
     <meta name="twitter:image" content="https://www.antonyaddy.com/grammatica/og-image.png" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Grammatica",
+        "url": "https://www.antonyaddy.com/grammatica",
+        "description": "English grammar explained in French, Spanish, Portuguese, Italian, German, Russian, Arabic and Mandarin Chinese, with self-correcting exercises.",
+        "inLanguage": "en",
+        "publisher": { "@type": "Person", "name": "Antony Addy", "url": "https://www.antonyaddy.com/" }
+      }
+    </script>
+    <style>
+      /* Page text written by scripts/prerender-heads.ts, shown until React mounts. */
+      .prerender { max-width: 44rem; margin: 0 auto; padding: 4.5rem 1.25rem 3rem; font-family: Georgia, "Times New Roman", serif; line-height: 1.65; }
+      .prerender h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 1rem; }
+      .prerender h2 { font-size: 1.25rem; margin: 2rem 0 0.5rem; }
+      .prerender li { margin: 0.35rem 0; }
+    </style>
   </head>
   <body>
     <div id="root"></div>

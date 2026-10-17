@@ -2,7 +2,7 @@ import { createContext, useContext, useEffect, useState, type ReactNode } from "
 
 type Theme = "light" | "dark";
 
-/** Must match the inline no-flash script in index.html <head>. */
+/** Must match the no-flash script in public/theme-init.js. */
 const STORAGE_KEY = "grammatica-theme";
 
 function getInitialTheme(): Theme {
