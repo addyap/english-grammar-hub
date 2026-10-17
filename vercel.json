@@ -7,15 +7,9 @@
       "permanent": true
     },
     {
-      "source": "/:path((?!grammatica(?:/|$)|_vercel/).+)",
+      "source": "/:path((?!grammatica(?:/|$)|_vercel/|404).+)",
       "destination": "https://www.antonyaddy.com/grammatica/:path",
       "permanent": true
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/grammatica/(.*)",
-      "destination": "/grammatica/"
     }
   ],
   "headers": [
