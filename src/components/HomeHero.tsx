@@ -147,8 +147,10 @@ const HomeHero = ({ languageCount, topicCount, exerciseCount, firstSection }: Ho
       <div className="hero-glow pointer-events-none absolute inset-0" style={{ opacity: `calc(1 - var(--exit) * 0.85)` }} />
       <div className="hero-vignette pointer-events-none absolute inset-0" />
 
-      {/* Layer 2a (mid): grammar tokens adrift in the lamplight. */}
-      <div className="pointer-events-none absolute inset-0" aria-hidden="true">
+      {/* Layer 2a (mid): grammar tokens adrift in the lamplight. Hidden on
+          phones, where the column is too narrow to keep them off the headline
+          and the example card. */}
+      <div className="pointer-events-none absolute inset-0 hidden sm:block" aria-hidden="true">
         {TOKENS.map((tok, i) => (
           <span
             key={tok.t}

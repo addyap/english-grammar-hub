@@ -6,6 +6,9 @@
  * the home page as its canonical and stopped indexing them. Vercel serves
  * these files ahead of the SPA rewrite (cleanUrls maps /grammatica/grammar/foo
  * to grammatica/grammar/foo.html); useSeo still keeps the tags right on client navigation.
+ * Each file also gets the page's text inside #root (the English explanation
+ * for a topic, the topic list for a section), so crawlers and link previews
+ * that don't run JavaScript see real content. createRoot replaces it on mount.
  * Relative imports only — runs under plain tsx, like generate-sitemap.ts.
  */
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
@@ -42,6 +45,46 @@ function metaForPath(urlPath: string): PageMeta | undefined {
 const escapeHtml = (s: string) =>
   s.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
+const link = (urlPath: string, text: string) => `<a href="${escapeHtml(pageUrl(urlPath))}">${escapeHtml(text)}</a>`;
+const list = (items: string[]) => `<ul>${items.map((i) => `<li>${i}</li>`).join("")}</ul>`;
+const topicLinks = (sectionSlug: string) =>
+  list(topics.filter((t) => t.sectionSlug === sectionSlug).map((t) => `${link(`/grammar/${t.slug}`, t.title)} (${t.level})`));
+
+/** The page's readable text, placed inside #root until React mounts. */
+function bodyForPath(urlPath: string, meta: PageMeta): string {
+  const intro = `<h1>${escapeHtml(meta.title)}</h1><p>${escapeHtml(meta.description)}</p>`;
+  if (urlPath === "/") {
+    return (
+      intro +
+      sections
+        .filter((section) => topics.some((t) => t.sectionSlug === section.slug))
+        .map((section) => `<h2>${link(`/section/${section.slug}`, section.title)}</h2>${topicLinks(section.slug)}`)
+        .join("")
+    );
+  }
+  const [, kind, slug] = urlPath.split("/");
+  if (kind === "grammar") {
+    const topic = topics.find((t) => t.slug === slug)!;
+    const section = sections.find((s) => s.slug === topic.sectionSlug);
+    const paragraphs = topic.explanations.en
+      .map((p) => (typeof p === "string" ? `<p>${escapeHtml(p)}</p>` : `<p>${escapeHtml(p.intro)}</p>${list(p.items.map(escapeHtml))}`))
+      .join("");
+    const exercises = topic.exercises.map((ex, i) => link(`/grammar/${topic.slug}/exercise/${i + 1}`, ex.title)).join(" · ");
+    return (
+      `<h1>${escapeHtml(topic.title)}</h1><p>Level ${topic.level}${section ? ` · ${link(`/section/${section.slug}`, section.title)}` : ""}</p>` +
+      paragraphs +
+      `<h2>Practice</h2><p>${exercises}</p>`
+    );
+  }
+  if (kind === "section") return intro + topicLinks(slug);
+  return intro;
+}
+
+function withBody(html: string, body: string): string {
+  if (!html.includes('<div id="root"></div>')) throw new Error("prerender-heads: #root not found in dist/index.html");
+  return html.replace('<div id="root"></div>', `<div id="root"><main class="prerender">${body}</main></div>`);
+}
+
 /** Replaces one tag's value in the template, failing loudly if the tag is gone. */
 function setTag(html: string, pattern: RegExp, value: string): string {
   if (!pattern.test(html)) throw new Error(`prerender-heads: ${pattern} not found in dist/index.html`);
@@ -54,7 +97,11 @@ const paths = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1].slic
 
 let written = 0;
 for (const urlPath of paths) {
-  if (urlPath === "/") continue; // index.html already carries the home page's tags
+  if (urlPath === "/") {
+    // index.html already carries the home page's tags; it only needs the text.
+    writeFileSync(path.join(dist, "index.html"), withBody(template, bodyForPath("/", STATIC_PAGES["/"])), "utf-8");
+    continue;
+  }
   const meta = metaForPath(urlPath);
   if (!meta) throw new Error(`prerender-heads: no title/description for sitemap URL ${urlPath}`);
 
@@ -67,10 +114,9 @@ for (const urlPath of paths) {
   html = setTag(html, /(<meta\s+property="og:description"\s+content=")[^"]*(")/, meta.description);
   html = setTag(html, /(<meta name="twitter:title" content=")[^"]*(")/, meta.title);
   html = setTag(html, /(<meta\s+name="twitter:description"\s+content=")[^"]*(")/, meta.description);
-  html = html.replace(
-    /(<meta property="og:site_name"[^>]*>)/,
-    `$1\n    <meta property="og:url" content="${escapeHtml(url)}" />`,
-  );
+  html = setTag(html, /(<meta property="og:url" content=")[^"]*(")/, url);
+
+  html = withBody(html, bodyForPath(urlPath, meta));
 
   const outPath = path.join(dist, `${urlPath.slice(1)}.html`);
   mkdirSync(path.dirname(outPath), { recursive: true });
