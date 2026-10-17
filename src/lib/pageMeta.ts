@@ -66,4 +66,22 @@ export const STATIC_PAGES = {
     title: "Mentions légales",
     description: "Legal notice, publisher identity, hosting, and data protection information for Grammatica.",
   },
+  // Not in the sitemap, but still prerendered so a direct hit returns 200.
+  "/progress": {
+    title: "Your Progress",
+    description: "Your saved exercise scores, stored locally in this browser — no account needed.",
+  },
+  // Baked into dist/404.html, which Vercel serves with a 404 status.
+  "/404": {
+    title: "Page Not Found",
+    description: "The page you're looking for doesn't exist.",
+  },
 } satisfies Record<string, PageMeta>;
+
+/** Title and description for /grammar/:topic/exercise/:n, shared by ExercisePage and prerender-heads.ts. */
+export function exerciseMeta(topicTitle: string, exerciseTitle: string): PageMeta {
+  return {
+    title: `${exerciseTitle} — ${topicTitle} Exercise`,
+    description: `Practice ${topicTitle}: ${exerciseTitle}. Interactive English grammar exercise with instant feedback and explanations.`,
+  };
+}

@@ -4,8 +4,7 @@ import { sections } from "@/data/sections";
 import { topicsRegistry } from "@/data/topics/registry";
 import { readProgress, type TopicProgress } from "@/lib/progress";
 import { useSeo } from "@/hooks/useSeo";
-
-const PAGE_DESCRIPTION = "Your saved exercise scores, stored locally in this browser — no account needed.";
+import { STATIC_PAGES } from "@/lib/pageMeta";
 
 const ScoreChip = ({ score }: { score: number | null }) => {
   if (score === null) {
@@ -25,8 +24,7 @@ const ScoreChip = ({ score }: { score: number | null }) => {
 
 const ProgressPage = () => {
   useSeo({
-    title: "Your Progress",
-    description: PAGE_DESCRIPTION,
+    ...STATIC_PAGES["/progress"],
     path: "/progress",
   });
 
