@@ -19,7 +19,7 @@ import { topics } from "../src/data/topics";
 import { sections } from "../src/data/sections";
 import { CONTRAST_PAIRS } from "../src/data/contrastExercises";
 import { STATIC_PAGES, exerciseMeta, type PageMeta } from "../src/lib/pageMeta";
-import { SITE_URL, pageUrl, formatTitle, toMetaDescription, paragraphToPlainText } from "../src/lib/seo";
+import { SITE_URL, pageUrl, formatTitle, sectionPageTitle, toMetaDescription, paragraphToPlainText } from "../src/lib/seo";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dist = path.resolve(__dirname, "../dist/grammatica");
@@ -34,7 +34,7 @@ function metaForPath(urlPath: string): PageMeta | undefined {
   }
   if (kind === "section") {
     const section = sections.find((s) => s.slug === slug);
-    return section && { title: section.title, description: section.description };
+    return section && { title: sectionPageTitle(section.title), description: section.description };
   }
   if (kind === "contrast-practice") {
     const pair = CONTRAST_PAIRS.find((p) => p.slug === slug);
