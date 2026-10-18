@@ -35,7 +35,8 @@ const SectionPage = () => {
     <div className="max-w-3xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
       <Link to="/" className="text-sm text-muted-foreground hover:text-primary">← All sections</Link>
       <h1 className="font-display text-2xl font-bold mt-2 mb-1 underline-mark">{section.title}</h1>
-      <p className="text-muted-foreground mb-8">{section.description}</p>
+      <p className={`text-muted-foreground ${section.intro ? "mb-4" : "mb-8"}`}>{section.description}</p>
+      {section.intro && <p className="text-foreground/90 leading-relaxed mb-8">{section.intro}</p>}
 
       {topics.length === 0 ? (
         <p className="text-muted-foreground">Topics for this section are coming soon.</p>
