@@ -39,6 +39,13 @@ export function formatTitle(title: string): string {
   return title === SITE_NAME ? title : `${title} | ${SITE_NAME}`;
 }
 
+/** The <title> text for a section page. Several sections share their name
+ *  with one of their topics (Modals, Conditionals, …), so the section page
+ *  says it lists the topics instead of repeating the topic's title. */
+export function sectionPageTitle(sectionTitle: string): string {
+  return `${sectionTitle}: all topics`;
+}
+
 /** Collapses whitespace and truncates at a word boundary — keeps meta descriptions from cutting off mid-word or carrying newlines from source prose. */
 export function toMetaDescription(text: string, maxLength = 155): string {
   const clean = text.replace(/\s+/g, " ").trim();

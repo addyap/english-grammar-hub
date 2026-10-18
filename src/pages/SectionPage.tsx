@@ -3,7 +3,7 @@ import { sections } from "@/data/sections";
 import { topicsRegistry } from "@/data/topics/registry";
 import { Badge } from "@/components/ui/badge";
 import { useSeo } from "@/hooks/useSeo";
-import { buildBreadcrumbJsonLd } from "@/lib/seo";
+import { buildBreadcrumbJsonLd, sectionPageTitle } from "@/lib/seo";
 
 const SectionPage = () => {
   const { sectionSlug } = useParams<{ sectionSlug: string }>();
@@ -11,7 +11,7 @@ const SectionPage = () => {
   const topics = topicsRegistry.filter((t) => t.sectionSlug === sectionSlug);
 
   useSeo({
-    title: section?.title ?? "Section",
+    title: section ? sectionPageTitle(section.title) : "Section",
     description: section?.description ?? "English grammar explained in your language.",
     path: `/section/${sectionSlug ?? ""}`,
     jsonLd: section
