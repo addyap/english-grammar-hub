@@ -9,10 +9,10 @@ const AntonyAddyBar = () => (
     <a className="aa-bar-home" href="https://www.antonyaddy.com/">
       <img className="aa-bar-mark" src="https://www.antonyaddy.com/brand/antony-addy-logo-white.svg" alt="Antony Addy" width={47} height={24} />
     </a>
-    <ul className="aa-bar-services" lang="fr">
-      <li><a href="https://www.antonyaddy.com/offres-de-formation" aria-current="true">Anglais</a></li>
-      <li><a href="https://www.antonyaddy.com/ia">IA</a></li>
-      <li><a href="https://www.antonyaddy.com/sites-web">Sites web</a></li>
+    <ul className="aa-bar-services" lang="en">
+      <li><a href="https://www.antonyaddy.com/offres-de-formation" aria-current="true">English</a></li>
+      <li><a href="https://www.antonyaddy.com/ia/en">AI</a></li>
+      <li><a href="https://www.antonyaddy.com/sites-web/en">Websites</a></li>
     </ul>
     <a className="aa-bar-back" href="https://www.antonyaddy.com/">
       <span className="aa-bar-arrow" aria-hidden="true">←</span> antonyaddy.com
