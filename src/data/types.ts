@@ -24,6 +24,8 @@ export interface GrammarSection {
   slug: string;
   title: string;
   description: string;
+  /** A short paragraph shown on the section page and pre-rendered for crawlers. */
+  intro?: string;
 }
 
 export interface ExerciseQuestion {

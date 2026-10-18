@@ -8,7 +8,8 @@
  * the tags right on client navigation. Also writes the app-only routes and
  * dist/404.html, since vercel.json has no SPA catch-all rewrite.
  * Each file also gets the page's text inside #root (the English explanation
- * for a topic, the topic list for a section), so crawlers and link previews
+ * for a topic, the intro and topic list for a section, a contrast pair's
+ * practice sentences, a reference page's data), so crawlers and link previews
  * that don't run JavaScript see real content. createRoot replaces it on mount.
  * Relative imports only — runs under plain tsx, like generate-sitemap.ts.
  */
@@ -18,6 +19,13 @@ import path from "node:path";
 import { topics } from "../src/data/topics";
 import { sections } from "../src/data/sections";
 import { CONTRAST_PAIRS } from "../src/data/contrastExercises";
+import { GRAMMAR_DIFFERENCES, SPELLING_PATTERNS, VOCAB_PAIRS } from "../src/data/britishVsAmerican";
+import { CONFUSED_WORD_GROUPS } from "../src/data/confusedWords";
+import { MAJORITY_ENGLISH_COUNTRIES, OFFICIAL_ENGLISH_COUNTRIES } from "../src/data/countries";
+import { FALSE_FRIENDS_LISTS } from "../src/data/falseFriends";
+import { IRREGULAR_VERB_GROUPS } from "../src/data/irregularVerbs";
+import { LINKING_WORD_CATEGORIES } from "../src/data/linkingWords";
+import { PUNCTUATION_RULES } from "../src/data/punctuation";
 import { STATIC_PAGES, exerciseMeta, type PageMeta } from "../src/lib/pageMeta";
 import { SITE_URL, pageUrl, formatTitle, sectionPageTitle, toMetaDescription, paragraphToPlainText } from "../src/lib/seo";
 
@@ -83,7 +91,52 @@ function bodyForPath(urlPath: string, meta: PageMeta): string {
       `<h2>Practice</h2><p>${exercises}</p>`
     );
   }
-  if (kind === "section") return intro + topicLinks(slug);
+  if (kind === "section") {
+    const section = sections.find((s) => s.slug === slug);
+    return intro + (section?.intro ? `<p>${escapeHtml(section.intro)}</p>` : "") + topicLinks(slug);
+  }
+  if (kind === "contrast-practice" && slug) {
+    const pair = CONTRAST_PAIRS.find((p) => p.slug === slug)!;
+    const topicLink = (topicSlug: string) => {
+      const topic = topics.find((t) => t.slug === topicSlug);
+      return topic ? link(`/grammar/${topic.slug}`, topic.title) : "";
+    };
+    return (
+      intro +
+      `<p>Review: ${[topicLink(pair.topicASlug), topicLink(pair.topicBSlug)].filter(Boolean).join(" · ")}</p>` +
+      `<h2>Practice sentences</h2>` +
+      `<ol>${pair.questions.map((q) => `<li><p>${escapeHtml(q.sentence)} (${q.options.map(escapeHtml).join(" / ")})</p><p>${escapeHtml(q.explanation)}</p></li>`).join("")}</ol>`
+    );
+  }
+  // The reference pages: their data, as plain lists, until React mounts.
+  const rows = (items: string[]) => list(items.map(escapeHtml));
+  switch (urlPath) {
+    case "/contrast-practice":
+      return intro + list(CONTRAST_PAIRS.map((p) => `${link(`/contrast-practice/${p.slug}`, p.title)}: ${escapeHtml(p.description)}`));
+    case "/irregular-verbs":
+      return intro + IRREGULAR_VERB_GROUPS.map((g) => `<h2>${escapeHtml(g.title)}</h2><p>${escapeHtml(g.description)}</p>${rows(g.verbs.map((v) => `${v.base} – ${v.past} – ${v.participle}`))}`).join("");
+    case "/false-friends":
+      return intro + FALSE_FRIENDS_LISTS.map((l) => `<h2>${escapeHtml(l.languageLabel)}</h2>${rows(l.entries.map((e) => `${e.word}: ${e.explanation}`))}`).join("");
+    case "/confused-words":
+      return intro + rows(CONFUSED_WORD_GROUPS.map((g) => `${g.words.join(" / ")}: ${g.explanation}`));
+    case "/linking-words":
+      return intro + LINKING_WORD_CATEGORIES.map((c) => `<h2>${escapeHtml(c.category)}</h2><p>${escapeHtml(c.summary)}</p>${rows(c.words.map((w) => `${w.word}: ${w.note}`))}`).join("");
+    case "/punctuation":
+      return intro + PUNCTUATION_RULES.map((r) => `<h2>${escapeHtml(r.mark)}</h2><p>${escapeHtml(r.summary)}</p>${rows(r.points)}`).join("");
+    case "/british-vs-american":
+      return (
+        intro +
+        `<h2>Grammar</h2>${rows(GRAMMAR_DIFFERENCES.map((d) => `${d.topic}: British "${d.british}", American "${d.american}"`))}` +
+        `<h2>Spelling</h2>${rows(SPELLING_PATTERNS.map((p) => `${p.pattern}: ${p.examples.map((e) => `${e.british} / ${e.american}`).join(", ")}`))}` +
+        `<h2>Vocabulary</h2>${rows(VOCAB_PAIRS.map((v) => `${v.british} / ${v.american}`))}`
+      );
+    case "/countries":
+      return (
+        intro +
+        `<h2>English is the main language</h2>${rows(MAJORITY_ENGLISH_COUNTRIES.map((c) => c.name))}` +
+        `<h2>English is an official language</h2>${rows(OFFICIAL_ENGLISH_COUNTRIES.map((c) => c.name))}`
+      );
+  }
   return intro;
 }
 
